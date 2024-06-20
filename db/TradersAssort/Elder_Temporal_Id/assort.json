@@ -1,0 +1,4438 @@
+{
+  "items": [
+    
+{
+      "_id": "Elder_Temporal_Id_560d5e524bdc2d25448b4571_Barter",
+      "_tpl": "560d5e524bdc2d25448b4571",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6772a4b936088465b17c_Barter",
+      "_tpl": "5d6e6772a4b936088465b17c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_58820d1224597753c90aeb13_Barter",
+      "_tpl": "58820d1224597753c90aeb13",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6891a4b9361bd473feea_Barter",
+      "_tpl": "5d6e6891a4b9361bd473feea",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5882163824597757561aa922_Trade",
+      "_tpl": "5882163824597757561aa922",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6869a4b9361c140bcfde_Barter",
+      "_tpl": "5d6e6869a4b9361c140bcfde",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e689ca4b9361bc8618956_Barter",
+      "_tpl": "5d6e689ca4b9361bc8618956",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68d1a4b93622fe60e845_Barter",
+      "_tpl": "5d6e68d1a4b93622fe60e845",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a78830bc5856700137e4c90_Trade",
+      "_tpl": "5a78830bc5856700137e4c90",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e67fba4b9361bc73bc779_Barter",
+      "_tpl": "5d6e67fba4b9361bc73bc779",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5882163224597757561aa920_Trade",
+      "_tpl": "5882163224597757561aa920",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6911a4b9361bd5780d52_Barter",
+      "_tpl": "5d6e6911a4b9361bd5780d52",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a966f51a2750c00156aacf6_Trade",
+      "_tpl": "5a966f51a2750c00156aacf6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68dea4b9361bcc29e659_Barter",
+      "_tpl": "5d6e68dea4b9361bcc29e659",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68e6a4b9361c140bcfe0_Barter",
+      "_tpl": "5d6e68e6a4b9361c140bcfe0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68b3a4b9361bca7e50b5_Barter",
+      "_tpl": "5d6e68b3a4b9361bca7e50b5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_55d485804bdc2d8c2f8b456b_Trade",
+      "_tpl": "55d485804bdc2d8c2f8b456b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_56deeefcd2720bc8328b4568_Trade",
+      "_tpl": "56deeefcd2720bc8328b4568",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6806a4b936088465b17e_Barter",
+      "_tpl": "5d6e6806a4b936088465b17e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0d591486f7744c505b416f_Barter",
+      "_tpl": "5c0d591486f7744c505b416f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c1127d0d174af29be75cf68_Barter",
+      "_tpl": "5c1127d0d174af29be75cf68",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5c1127d0d174af29be75cf68_Barter_cartridges",
+      "_tpl": "5c0d591486f7744c505b416f",
+      "parentId": "Elder_Temporal_Id_5c1127d0d174af29be75cf68_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a78832ec5856700155a6ca3_Trade",
+      "_tpl": "5a78832ec5856700155a6ca3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68c4a4b9361b93413f79_Barter",
+      "_tpl": "5d6e68c4a4b9361b93413f79",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68a8a4b9360b6c0d54e2_Barter",
+      "_tpl": "5d6e68a8a4b9360b6c0d54e2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5cf8f3b0d7f00c00217872ef_Trade",
+      "_tpl": "5cf8f3b0d7f00c00217872ef",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_560d5e524bdc2d25448b4571_Purchase",
+      "_tpl": "560d5e524bdc2d25448b4571",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6772a4b936088465b17c_Purchase",
+      "_tpl": "5d6e6772a4b936088465b17c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_58820d1224597753c90aeb13_Purchase",
+      "_tpl": "58820d1224597753c90aeb13",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6891a4b9361bd473feea_Purchase",
+      "_tpl": "5d6e6891a4b9361bd473feea",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6869a4b9361c140bcfde_Purchase",
+      "_tpl": "5d6e6869a4b9361c140bcfde",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e689ca4b9361bc8618956_Purchase",
+      "_tpl": "5d6e689ca4b9361bc8618956",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68d1a4b93622fe60e845_Purchase",
+      "_tpl": "5d6e68d1a4b93622fe60e845",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e67fba4b9361bc73bc779_Purchase",
+      "_tpl": "5d6e67fba4b9361bc73bc779",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6911a4b9361bd5780d52_Purchase",
+      "_tpl": "5d6e6911a4b9361bd5780d52",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68dea4b9361bcc29e659_Purchase",
+      "_tpl": "5d6e68dea4b9361bcc29e659",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68e6a4b9361c140bcfe0_Purchase",
+      "_tpl": "5d6e68e6a4b9361c140bcfe0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68b3a4b9361bca7e50b5_Purchase",
+      "_tpl": "5d6e68b3a4b9361bca7e50b5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6806a4b936088465b17e_Purchase",
+      "_tpl": "5d6e6806a4b936088465b17e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0d591486f7744c505b416f_Purchase",
+      "_tpl": "5c0d591486f7744c505b416f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68c4a4b9361b93413f79_Purchase",
+      "_tpl": "5d6e68c4a4b9361b93413f79",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e68a8a4b9360b6c0d54e2_Purchase",
+      "_tpl": "5d6e68a8a4b9360b6c0d54e2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e695fa4b936359b35d852_Barter",
+      "_tpl": "5d6e695fa4b936359b35d852",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a38ebd9c4a282000d722a5b_Barter",
+      "_tpl": "5a38ebd9c4a282000d722a5b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a53a4b9361bd473feec_Barter",
+      "_tpl": "5d6e6a53a4b9361bd473feec",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a38ed75c4a28232996e40c6_Trade",
+      "_tpl": "5a38ed75c4a28232996e40c6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e69b9a4b9361bc8618958_Barter",
+      "_tpl": "5d6e69b9a4b9361bc8618958",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a42a4b9364f07165f52_Barter",
+      "_tpl": "5d6e6a42a4b9364f07165f52",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a05a4b93618084f58d0_Barter",
+      "_tpl": "5d6e6a05a4b93618084f58d0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c6161fb2e221600113fbde5_Trade",
+      "_tpl": "5c6161fb2e221600113fbde5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e69c7a4b9360b6c0d54e4_Barter",
+      "_tpl": "5d6e69c7a4b9360b6c0d54e4",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a5fa4b93614ec501745_Barter",
+      "_tpl": "5d6e6a5fa4b93614ec501745",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e695fa4b936359b35d852_Purchase",
+      "_tpl": "5d6e695fa4b936359b35d852",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a38ebd9c4a282000d722a5b_Purchase",
+      "_tpl": "5a38ebd9c4a282000d722a5b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a53a4b9361bd473feec_Purchase",
+      "_tpl": "5d6e6a53a4b9361bd473feec",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e69b9a4b9361bc8618958_Purchase",
+      "_tpl": "5d6e69b9a4b9361bc8618958",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a42a4b9364f07165f52_Purchase",
+      "_tpl": "5d6e6a42a4b9364f07165f52",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a05a4b93618084f58d0_Purchase",
+      "_tpl": "5d6e6a05a4b93618084f58d0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e69c7a4b9360b6c0d54e4_Purchase",
+      "_tpl": "5d6e69c7a4b9360b6c0d54e4",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d6e6a5fa4b93614ec501745_Purchase",
+      "_tpl": "5d6e6a5fa4b93614ec501745",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e85a9f4add9fe03027d9bf1_Barter",
+      "_tpl": "5e85a9f4add9fe03027d9bf1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5f647f31b6238e5dd066e196_Barter",
+      "_tpl": "5f647f31b6238e5dd066e196",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e85a9a6eacf8c039e4e2ac1_Barter",
+      "_tpl": "5e85a9a6eacf8c039e4e2ac1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e85aa1a988a8701445df1f5_Barter",
+      "_tpl": "5e85aa1a988a8701445df1f5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e85a9f4add9fe03027d9bf1_Purchase",
+      "_tpl": "5e85a9f4add9fe03027d9bf1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5f647f31b6238e5dd066e196_Purchase",
+      "_tpl": "5f647f31b6238e5dd066e196",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e85a9a6eacf8c039e4e2ac1_Purchase",
+      "_tpl": "5e85a9a6eacf8c039e4e2ac1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e85aa1a988a8701445df1f5_Purchase",
+      "_tpl": "5e85aa1a988a8701445df1f5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5fd4c5477a8d854fa0105061_Barter",
+      "_tpl": "5fd4c5477a8d854fa0105061",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e4abc1f86f774069619fbaa_Barter",
+      "_tpl": "5e4abc1f86f774069619fbaa",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d8ca986f7742798716522_Barter",
+      "_tpl": "5d5d8ca986f7742798716522",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_6034d0230ca681766b6a0fb5_Barter",
+      "_tpl": "6034d0230ca681766b6a0fb5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_59e7643b86f7742cbf2c109a_Barter",
+      "_tpl": "59e7643b86f7742cbf2c109a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e3eb886f7742015526062_Barter",
+      "_tpl": "5c0e3eb886f7742015526062",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5929a2a086f7744f4b234d43_Barter",
+      "_tpl": "5929a2a086f7744f4b234d43",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e4abfed86f77406a2713cf7_Barter",
+      "_tpl": "5e4abfed86f77406a2713cf7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_6034cf5fffd42c541047f72e_Barter",
+      "_tpl": "6034cf5fffd42c541047f72e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e9f2c86f77432297fe0a3_Barter",
+      "_tpl": "5c0e9f2c86f77432297fe0a3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5ca20abf86f77418567a43f2_Barter",
+      "_tpl": "5ca20abf86f77418567a43f2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e6a1586f77404597b4965_Barter",
+      "_tpl": "5c0e6a1586f77404597b4965",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e446786f7742013381639_Barter",
+      "_tpl": "5c0e446786f7742013381639",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5fd4c60f875c30179f5d04c2_Barter",
+      "_tpl": "5fd4c60f875c30179f5d04c2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d85c586f774279a21cbdb_Barter",
+      "_tpl": "5d5d85c586f774279a21cbdb",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5f5f41f56760b4138443b352_Barter",
+      "_tpl": "5f5f41f56760b4138443b352",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60a6220e953894617404b00a_Barter",
+      "_tpl": "60a6220e953894617404b00a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d646386f7742797261fd9_Barter",
+      "_tpl": "5d5d646386f7742797261fd9",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_61bc85697113f767765c7fe7_Barter",
+      "_tpl": "61bc85697113f767765c7fe7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5ab8dab586f77441cd04f2a2_Barter",
+      "_tpl": "5ab8dab586f77441cd04f2a2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_603648ff5a45383c122086ac_Barter",
+      "_tpl": "603648ff5a45383c122086ac",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5648a69d4bdc2ded0b8b457b_Barter",
+      "_tpl": "5648a69d4bdc2ded0b8b457b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_61bcc89aef0f505f0c6cd0fc_Barter",
+      "_tpl": "61bcc89aef0f505f0c6cd0fc",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5ab8dced86f774646209ec87_Barter",
+      "_tpl": "5ab8dced86f774646209ec87",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_592c2d1a86f7746dbe2af32a_Barter",
+      "_tpl": "592c2d1a86f7746dbe2af32a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5df8a42886f77412640e2e75_Barter",
+      "_tpl": "5df8a42886f77412640e2e75",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e9db13186f7742f845ee9d3_Barter",
+      "_tpl": "5e9db13186f7742f845ee9d3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_544a5caa4bdc2d1a388b4568_Barter",
+      "_tpl": "544a5caa4bdc2d1a388b4568",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e722886f7740458316a57_Barter",
+      "_tpl": "5c0e722886f7740458316a57",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60a3c70cde5f453f634816a3_Barter",
+      "_tpl": "60a3c70cde5f453f634816a3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e746986f7741453628fe5_Barter",
+      "_tpl": "5c0e746986f7741453628fe5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d87f786f77427997cfaef_Barter",
+      "_tpl": "5d5d87f786f77427997cfaef",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5b44cad286f77402a54ae7e5_Barter",
+      "_tpl": "5b44cad286f77402a54ae7e5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60a3c68c37ea821725773ef5_Barter",
+      "_tpl": "60a3c68c37ea821725773ef5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e4ac41886f77406a511c9a8_Barter",
+      "_tpl": "5e4ac41886f77406a511c9a8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5fd4c5477a8d854fa0105061_Trade",
+      "_tpl": "5fd4c5477a8d854fa0105061",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e4abc1f86f774069619fbaa_Trade",
+      "_tpl": "5e4abc1f86f774069619fbaa",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d8ca986f7742798716522_Trade",
+      "_tpl": "5d5d8ca986f7742798716522",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_6034d0230ca681766b6a0fb5_Trade",
+      "_tpl": "6034d0230ca681766b6a0fb5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_59e7643b86f7742cbf2c109a_Trade",
+      "_tpl": "59e7643b86f7742cbf2c109a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e3eb886f7742015526062_Trade",
+      "_tpl": "5c0e3eb886f7742015526062",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5929a2a086f7744f4b234d43_Trade",
+      "_tpl": "5929a2a086f7744f4b234d43",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e4abfed86f77406a2713cf7_Trade",
+      "_tpl": "5e4abfed86f77406a2713cf7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_6034cf5fffd42c541047f72e_Trade",
+      "_tpl": "6034cf5fffd42c541047f72e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e9f2c86f77432297fe0a3_Trade",
+      "_tpl": "5c0e9f2c86f77432297fe0a3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5ca20abf86f77418567a43f2_Trade",
+      "_tpl": "5ca20abf86f77418567a43f2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e6a1586f77404597b4965_Trade",
+      "_tpl": "5c0e6a1586f77404597b4965",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e446786f7742013381639_Trade",
+      "_tpl": "5c0e446786f7742013381639",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5fd4c60f875c30179f5d04c2_Trade",
+      "_tpl": "5fd4c60f875c30179f5d04c2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d85c586f774279a21cbdb_Trade",
+      "_tpl": "5d5d85c586f774279a21cbdb",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5f5f41f56760b4138443b352_Trade",
+      "_tpl": "5f5f41f56760b4138443b352",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60a6220e953894617404b00a_Trade",
+      "_tpl": "60a6220e953894617404b00a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d646386f7742797261fd9_Trade",
+      "_tpl": "5d5d646386f7742797261fd9",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_61bc85697113f767765c7fe7_Trade",
+      "_tpl": "61bc85697113f767765c7fe7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5ab8dab586f77441cd04f2a2_Trade",
+      "_tpl": "5ab8dab586f77441cd04f2a2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_603648ff5a45383c122086ac_Trade",
+      "_tpl": "603648ff5a45383c122086ac",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5648a69d4bdc2ded0b8b457b_Trade",
+      "_tpl": "5648a69d4bdc2ded0b8b457b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_61bcc89aef0f505f0c6cd0fc_Trade",
+      "_tpl": "61bcc89aef0f505f0c6cd0fc",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5ab8dced86f774646209ec87_Trade",
+      "_tpl": "5ab8dced86f774646209ec87",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_592c2d1a86f7746dbe2af32a_Trade",
+      "_tpl": "592c2d1a86f7746dbe2af32a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5df8a42886f77412640e2e75_Trade",
+      "_tpl": "5df8a42886f77412640e2e75",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e9db13186f7742f845ee9d3_Trade",
+      "_tpl": "5e9db13186f7742f845ee9d3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_544a5caa4bdc2d1a388b4568_Trade",
+      "_tpl": "544a5caa4bdc2d1a388b4568",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e722886f7740458316a57_Trade",
+      "_tpl": "5c0e722886f7740458316a57",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60a3c70cde5f453f634816a3_Trade",
+      "_tpl": "60a3c70cde5f453f634816a3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5c0e746986f7741453628fe5_Trade",
+      "_tpl": "5c0e746986f7741453628fe5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5d5d87f786f77427997cfaef_Trade",
+      "_tpl": "5d5d87f786f77427997cfaef",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5b44cad286f77402a54ae7e5_Trade",
+      "_tpl": "5b44cad286f77402a54ae7e5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60a3c68c37ea821725773ef5_Trade",
+      "_tpl": "60a3c68c37ea821725773ef5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e4ac41886f77406a511c9a8_Trade",
+      "_tpl": "5e4ac41886f77406a511c9a8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+      "_tpl": "5580223e4bdc2d1c128b457f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter_mod_barrel",
+      "_tpl": "55d447bb4bdc2d892f8b456f",
+      "parentId": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter_mod_stock",
+      "_tpl": "611a31ce5b7ffe001b4649d1",
+      "parentId": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+      "slotId": "mod_stock"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+      "_tpl": "60db29ce99594040e04c4a27",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_magazine",
+      "_tpl": "60dc519adf4c47305f6d410d",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_barrel",
+      "_tpl": "612368f58b401f4f51239b33",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_barrel_mod_muzzle",
+      "_tpl": "619d36da53b4d42ee724fae4",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_stock",
+      "_tpl": "612781056f3d944a17348d60",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_handguard",
+      "_tpl": "6123649463849f3d843da7c4",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+      "slotId": "mod_handguard"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+      "_tpl": "5a38e6bac4a2826c6e06d79b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_magazine",
+      "_tpl": "5a38ee51c4a282000c5a955c",
+      "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_stock",
+      "_tpl": "5a38ef1fc4a282000b1521f6",
+      "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_stock_mod_pistol_grip",
+      "_tpl": "5a38eecdc4a282329a73b512",
+      "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_stock",
+      "slotId": "mod_pistol_grip"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a38ee51c4a282000c5a955c_Barter",
+      "_tpl": "5a38ee51c4a282000c5a955c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+      "_tpl": "54491c4f4bdc2db1078b4568",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_barrel",
+      "_tpl": "55d4491a4bdc2d882f8b456e",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_barrel_mod_muzzle",
+      "_tpl": "560838c94bdc2d77798b4569",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard",
+      "_tpl": "55d45f484bdc2d972f8b456d",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_foregrip",
+      "_tpl": "588226d124597767ad33f787",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard",
+      "slotId": "mod_foregrip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_tactical_000",
+      "_tpl": "57d17e212459775a1179a0f5",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard",
+      "slotId": "mod_tactical_000"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_tactical_000_mod_flashlight",
+      "_tpl": "59d790f486f77403cb06aec6",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_tactical_000",
+      "slotId": "mod_flashlight"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_magazine",
+      "_tpl": "55d484b44bdc2d1d4e8b456d",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_stock",
+      "_tpl": "56083be64bdc2d20478b456f",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001",
+      "_tpl": "55d48a634bdc2d8b2f8b456a",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+      "slotId": "mod_mount_001"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001_mod_scope",
+      "_tpl": "5a33b2c9c4a282000c5a9511",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001_mod_scope_mod_scope",
+      "_tpl": "5a32aa8bc4a2826c6e06d737",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001_mod_scope",
+      "slotId": "mod_scope"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+      "_tpl": "5e870397991fd70db46995c8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_barrel",
+      "_tpl": "5e87071478f43e51ca2de5e1",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_barrel_mod_sight_front",
+      "_tpl": "5e8708d4ae379e67d22e0102",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_barrel",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_handguard",
+      "_tpl": "5e87076ce2db31558c75a11d",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_magazine",
+      "_tpl": "5e87080c81c4ed43e83cefda",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_stock",
+      "_tpl": "5e87116b81c4ed43e83cefdd",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_mount",
+      "_tpl": "5e87114fe2db31558c75a120",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+      "slotId": "mod_mount"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e87080c81c4ed43e83cefda_Barter",
+      "_tpl": "5e87080c81c4ed43e83cefda",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_56deee15d2720bee328b4567_Barter",
+      "_tpl": "56deee15d2720bee328b4567",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+      "_tpl": "5a7828548dc32e5a9c28b516",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_barrel",
+      "_tpl": "5a787fdfc5856700142fdd9a",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_handguard",
+      "_tpl": "5a788031c585673f2b5c1c79",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_handguard_mod_foregrip",
+      "_tpl": "59fc48e086f77463b1118392",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_handguard",
+      "slotId": "mod_foregrip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_magazine",
+      "_tpl": "5a7882dcc5856700177af662",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock",
+      "_tpl": "5ae35b315acfc4001714e8b0",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_stock",
+      "_tpl": "56eabf3bd2720b75698b4569",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_stock_mod_stock",
+      "_tpl": "58d2912286f7744e27117493",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_pistol_grip",
+      "_tpl": "55d4b9964bdc2d1d4e8b456e",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_mount",
+      "_tpl": "5a78948ec5856700177b1124",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+      "slotId": "mod_mount"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_mount_mod_scope",
+      "_tpl": "584924ec24597768f12ae244",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_mount",
+      "slotId": "mod_scope"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+      "_tpl": "606dae0ab0e443224b421bb7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_barrel",
+      "_tpl": "6076c1b9f2cb2e02a42acedc",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_handguard",
+      "_tpl": "606ee5c81246154cad35d65e",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_magazine",
+      "_tpl": "6076c87f232e5a31c233d50e",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock",
+      "_tpl": "606eef46232e5a31c233d500",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock",
+      "_tpl": "606eef756d0bd7580617baf8",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock_mod_stock",
+      "_tpl": "606ef0812535c57a13424d20",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock_mod_tactical",
+      "_tpl": "606f2696f2cb2e02a42aceb1",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock",
+      "slotId": "mod_tactical"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_mount",
+      "_tpl": "60785ce5132d4d12c81fd918",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+      "slotId": "mod_mount"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a7882dcc5856700177af662_Barter",
+      "_tpl": "5a7882dcc5856700177af662",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5882163e24597758206fee8c_Barter",
+      "_tpl": "5882163e24597758206fee8c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "_tpl": "576165642459773c7a400233",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_mount_000",
+      "_tpl": "5c90c3622e221601da359851",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_mount_000"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_mount_000_mod_scope",
+      "_tpl": "5d1b5e94d7ad1a2b865a96b0",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_mount_000",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+      "_tpl": "58272b392459774b4c7b3ccd",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_foregrip",
+      "_tpl": "5c1cd46f2e22164bef5cfedb",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+      "slotId": "mod_foregrip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_tactical_000",
+      "_tpl": "5c5952732e2216398b5abda2",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+      "slotId": "mod_tactical_000"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_tactical_001",
+      "_tpl": "5b3a337e5acfc4704b4a19a0",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+      "slotId": "mod_tactical_001"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_tactical_002",
+      "_tpl": "5b3a337e5acfc4704b4a19a0",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+      "slotId": "mod_tactical_002"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_muzzle",
+      "_tpl": "59c0ec5b86f77435b128bfca",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_pistol_grip",
+      "_tpl": "5947f92f86f77427344a76b1",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_reciever",
+      "_tpl": "57616c112459773cce774d66",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_sight_rear",
+      "_tpl": "57a9b9ce2459770ee926038d",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock",
+      "_tpl": "5cf50fc5d7f00c056c53f83c",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock_mod_stock",
+      "_tpl": "58d2946c86f7744e271174b5",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock_mod_stock_mod_stock",
+      "_tpl": "58d2912286f7744e27117493",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_magazine",
+      "_tpl": "5cf8f3b0d7f00c00217872ef",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+      "_tpl": "5e848cc2988a8701445df1e8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_barrel",
+      "_tpl": "5e848d1c264f7c180b5e35a9",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_handguard",
+      "_tpl": "5e848d51e4dbc5266a4ec63b",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_magazine",
+      "_tpl": "5f647d9f8499b57dc40ddb93",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_stock",
+      "_tpl": "5e848d99865c0f329958c83b",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_stock_mod_stock",
+      "_tpl": "5e848dc4e4dbc5266a4ec63d",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_stock",
+      "slotId": "mod_stock"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_57616a9e2459773c7a400234_Barter",
+      "_tpl": "57616a9e2459773c7a400234",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5f647d9f8499b57dc40ddb93_Barter",
+      "_tpl": "5f647d9f8499b57dc40ddb93",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade",
+      "_tpl": "5580223e4bdc2d1c128b457f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade_mod_barrel",
+      "_tpl": "55d447bb4bdc2d892f8b456f",
+      "parentId": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade_mod_stock",
+      "_tpl": "611a31ce5b7ffe001b4649d1",
+      "parentId": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade",
+      "slotId": "mod_stock"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade",
+      "_tpl": "60db29ce99594040e04c4a27",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade_mod_magazine",
+      "_tpl": "60dc519adf4c47305f6d410d",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade_mod_barrel",
+      "_tpl": "612368f58b401f4f51239b33",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade_mod_barrel_mod_muzzle",
+      "_tpl": "619d36da53b4d42ee724fae4",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade_mod_stock",
+      "_tpl": "612781056f3d944a17348d60",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade_mod_handguard",
+      "_tpl": "6123649463849f3d843da7c4",
+      "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade",
+      "slotId": "mod_handguard"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade",
+      "_tpl": "5a38e6bac4a2826c6e06d79b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade_mod_magazine",
+      "_tpl": "5a38ee51c4a282000c5a955c",
+      "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade_mod_stock",
+      "_tpl": "5a38ef1fc4a282000b1521f6",
+      "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade_mod_stock_mod_pistol_grip",
+      "_tpl": "5a38eecdc4a282329a73b512",
+      "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade_mod_stock",
+      "slotId": "mod_pistol_grip"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade",
+      "_tpl": "54491c4f4bdc2db1078b4568",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_barrel",
+      "_tpl": "55d4491a4bdc2d882f8b456e",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_barrel_mod_muzzle",
+      "_tpl": "560838c94bdc2d77798b4569",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard",
+      "_tpl": "55d45f484bdc2d972f8b456d",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard_mod_foregrip",
+      "_tpl": "588226d124597767ad33f787",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard",
+      "slotId": "mod_foregrip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard_mod_tactical_000",
+      "_tpl": "57d17e212459775a1179a0f5",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard",
+      "slotId": "mod_tactical_000"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard_mod_tactical_000_mod_flashlight",
+      "_tpl": "59d790f486f77403cb06aec6",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_handguard_mod_tactical_000",
+      "slotId": "mod_flashlight"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_magazine",
+      "_tpl": "55d484b44bdc2d1d4e8b456d",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_stock",
+      "_tpl": "56083be64bdc2d20478b456f",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_mount_001",
+      "_tpl": "55d48a634bdc2d8b2f8b456a",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade",
+      "slotId": "mod_mount_001"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_mount_001_mod_scope",
+      "_tpl": "5a33b2c9c4a282000c5a9511",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_mount_001",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_mount_001_mod_scope_mod_scope",
+      "_tpl": "5a32aa8bc4a2826c6e06d737",
+      "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade_mod_mount_001_mod_scope",
+      "slotId": "mod_scope"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade",
+      "_tpl": "5e870397991fd70db46995c8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_barrel",
+      "_tpl": "5e87071478f43e51ca2de5e1",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_barrel_mod_sight_front",
+      "_tpl": "5e8708d4ae379e67d22e0102",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_barrel",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_handguard",
+      "_tpl": "5e87076ce2db31558c75a11d",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_magazine",
+      "_tpl": "5e87080c81c4ed43e83cefda",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_stock",
+      "_tpl": "5e87116b81c4ed43e83cefdd",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade_mod_mount",
+      "_tpl": "5e87114fe2db31558c75a120",
+      "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Trade",
+      "slotId": "mod_mount"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade",
+      "_tpl": "5a7828548dc32e5a9c28b516",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_barrel",
+      "_tpl": "5a787fdfc5856700142fdd9a",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_handguard",
+      "_tpl": "5a788031c585673f2b5c1c79",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_handguard_mod_foregrip",
+      "_tpl": "59fc48e086f77463b1118392",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_handguard",
+      "slotId": "mod_foregrip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_magazine",
+      "_tpl": "5a7882dcc5856700177af662",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock",
+      "_tpl": "5ae35b315acfc4001714e8b0",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock_mod_stock",
+      "_tpl": "56eabf3bd2720b75698b4569",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock_mod_stock_mod_stock",
+      "_tpl": "58d2912286f7744e27117493",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock_mod_pistol_grip",
+      "_tpl": "55d4b9964bdc2d1d4e8b456e",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_stock",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_mount",
+      "_tpl": "5a78948ec5856700177b1124",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade",
+      "slotId": "mod_mount"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_mount_mod_scope",
+      "_tpl": "584924ec24597768f12ae244",
+      "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade_mod_mount",
+      "slotId": "mod_scope"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade",
+      "_tpl": "606dae0ab0e443224b421bb7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_barrel",
+      "_tpl": "6076c1b9f2cb2e02a42acedc",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_handguard",
+      "_tpl": "606ee5c81246154cad35d65e",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_magazine",
+      "_tpl": "6076c87f232e5a31c233d50e",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock",
+      "_tpl": "606eef46232e5a31c233d500",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock_mod_stock",
+      "_tpl": "606eef756d0bd7580617baf8",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock_mod_stock_mod_stock",
+      "_tpl": "606ef0812535c57a13424d20",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock_mod_stock_mod_tactical",
+      "_tpl": "606f2696f2cb2e02a42aceb1",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_stock_mod_stock",
+      "slotId": "mod_tactical"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade_mod_mount",
+      "_tpl": "60785ce5132d4d12c81fd918",
+      "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade",
+      "slotId": "mod_mount"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade",
+      "_tpl": "56dee2bdd2720bc8328b4567",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade_mod_barrel",
+      "_tpl": "56deec93d2720bec348b4568",
+      "parentId": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade_mod_handguard",
+      "_tpl": "56deed6ed2720b4c698b4583",
+      "parentId": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade_mod_magazine",
+      "_tpl": "56deee15d2720bee328b4567",
+      "parentId": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade_mod_stock",
+      "_tpl": "56083be64bdc2d20478b456f",
+      "parentId": "Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade",
+      "slotId": "mod_stock"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "_tpl": "576165642459773c7a400233",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_mount_000",
+      "_tpl": "5c90c3622e221601da359851",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_mount_000"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_mount_000_mod_scope",
+      "_tpl": "5d1b5e94d7ad1a2b865a96b0",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_mount_000",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard",
+      "_tpl": "58272b392459774b4c7b3ccd",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard_mod_foregrip",
+      "_tpl": "5c1cd46f2e22164bef5cfedb",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard",
+      "slotId": "mod_foregrip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard_mod_tactical_000",
+      "_tpl": "5c5952732e2216398b5abda2",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard",
+      "slotId": "mod_tactical_000"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard_mod_tactical_001",
+      "_tpl": "5b3a337e5acfc4704b4a19a0",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard",
+      "slotId": "mod_tactical_001"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard_mod_tactical_002",
+      "_tpl": "5b3a337e5acfc4704b4a19a0",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_handguard",
+      "slotId": "mod_tactical_002"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_muzzle",
+      "_tpl": "59c0ec5b86f77435b128bfca",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_pistol_grip",
+      "_tpl": "5947f92f86f77427344a76b1",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_reciever",
+      "_tpl": "57616c112459773cce774d66",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_sight_rear",
+      "_tpl": "57a9b9ce2459770ee926038d",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_stock",
+      "_tpl": "5cf50fc5d7f00c056c53f83c",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_stock_mod_stock",
+      "_tpl": "58d2946c86f7744e271174b5",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_stock_mod_stock_mod_stock",
+      "_tpl": "58d2912286f7744e27117493",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_stock_mod_stock",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_576165642459773c7a400233_Trade_mod_magazine",
+      "_tpl": "5cf8f3b0d7f00c00217872ef",
+      "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade",
+      "_tpl": "5e848cc2988a8701445df1e8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade_mod_barrel",
+      "_tpl": "5e848d1c264f7c180b5e35a9",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade_mod_handguard",
+      "_tpl": "5e848d51e4dbc5266a4ec63b",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade",
+      "slotId": "mod_handguard"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade_mod_magazine",
+      "_tpl": "5f647d9f8499b57dc40ddb93",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade_mod_stock",
+      "_tpl": "5e848d99865c0f329958c83b",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade_mod_stock_mod_stock",
+      "_tpl": "5e848dc4e4dbc5266a4ec63d",
+      "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade_mod_stock",
+      "slotId": "mod_stock"
+      
+}
+
+  ],
+  "barter_scheme": {
+   
+"Elder_Temporal_Id_560d5e524bdc2d25448b4571_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "56dff421d2720b5f5a8b4567"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6772a4b936088465b17c_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "560d5e524bdc2d25448b4571"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_58820d1224597753c90aeb13_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6772a4b936088465b17c"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6891a4b9361bd473feea_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "58820d1224597753c90aeb13"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5882163824597757561aa922_Trade": [
+      [
+        
+        {
+          "count": 1221,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6869a4b9361c140bcfde_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6891a4b9361bd473feea"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e689ca4b9361bc8618956_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6869a4b9361c140bcfde"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68d1a4b93622fe60e845_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d6e689ca4b9361bc8618956"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a78830bc5856700137e4c90_Trade": [
+      [
+        
+        {
+          "count": 55575,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e67fba4b9361bc73bc779_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5d6e68d1a4b93622fe60e845"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5882163224597757561aa920_Trade": [
+      [
+        
+        {
+          "count": 1663,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6911a4b9361bd5780d52_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e67fba4b9361bc73bc779"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a966f51a2750c00156aacf6_Trade": [
+      [
+        
+        {
+          "count": 9820,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68dea4b9361bcc29e659_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6911a4b9361bd5780d52"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68e6a4b9361c140bcfe0_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d6e68dea4b9361bcc29e659"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68b3a4b9361bca7e50b5_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e68e6a4b9361c140bcfe0"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_55d485804bdc2d8c2f8b456b_Trade": [
+      [
+        
+        {
+          "count": 24682,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_56deeefcd2720bc8328b4568_Trade": [
+      [
+        
+        {
+          "count": 11111,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6806a4b936088465b17e_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e68b3a4b9361bca7e50b5"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0d591486f7744c505b416f_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "5d6e6806a4b936088465b17e"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c1127d0d174af29be75cf68_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b3f2d86f774253763b735"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a78832ec5856700155a6ca3_Trade": [
+      [
+        
+        {
+          "count": 30722,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68c4a4b9361b93413f79_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5c0d591486f7744c505b416f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68a8a4b9360b6c0d54e2_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d6e68c4a4b9361b93413f79"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5cf8f3b0d7f00c00217872ef_Trade": [
+      [
+        
+        {
+          "count": 28815,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_560d5e524bdc2d25448b4571_Purchase": [
+      [
+        
+        {
+          "count": 30,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6772a4b936088465b17c_Purchase": [
+      [
+        
+        {
+          "count": 40,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_58820d1224597753c90aeb13_Purchase": [
+      [
+        
+        {
+          "count": 50,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6891a4b9361bd473feea_Purchase": [
+      [
+        
+        {
+          "count": 50,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6869a4b9361c140bcfde_Purchase": [
+      [
+        
+        {
+          "count": 70,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e689ca4b9361bc8618956_Purchase": [
+      [
+        
+        {
+          "count": 100,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68d1a4b93622fe60e845_Purchase": [
+      [
+        
+        {
+          "count": 100,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e67fba4b9361bc73bc779_Purchase": [
+      [
+        
+        {
+          "count": 150,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6911a4b9361bd5780d52_Purchase": [
+      [
+        
+        {
+          "count": 175,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68dea4b9361bcc29e659_Purchase": [
+      [
+        
+        {
+          "count": 200,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68e6a4b9361c140bcfe0_Purchase": [
+      [
+        
+        {
+          "count": 200,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68b3a4b9361bca7e50b5_Purchase": [
+      [
+        
+        {
+          "count": 250,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6806a4b936088465b17e_Purchase": [
+      [
+        
+        {
+          "count": 350,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0d591486f7744c505b416f_Purchase": [
+      [
+        
+        {
+          "count": 1000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68c4a4b9361b93413f79_Purchase": [
+      [
+        
+        {
+          "count": 1000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e68a8a4b9360b6c0d54e2_Purchase": [
+      [
+        
+        {
+          "count": 1100,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e695fa4b936359b35d852_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "560d5e524bdc2d25448b4571"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a38ebd9c4a282000d722a5b_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e695fa4b936359b35d852"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a53a4b9361bd473feec_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5a38ebd9c4a282000d722a5b"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a38ed75c4a28232996e40c6_Trade": [
+      [
+        
+        {
+          "count": 5200,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e69b9a4b9361bc8618958_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6a53a4b9361bd473feec"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a42a4b9364f07165f52_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e69b9a4b9361bc8618958"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a05a4b93618084f58d0_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6a42a4b9364f07165f52"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c6161fb2e221600113fbde5_Trade": [
+      [
+        
+        {
+          "count": 9011,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e69c7a4b9360b6c0d54e4_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5d6e6a05a4b93618084f58d0"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a5fa4b93614ec501745_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e69c7a4b9360b6c0d54e4"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e695fa4b936359b35d852_Purchase": [
+      [
+        
+        {
+          "count": 30,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a38ebd9c4a282000d722a5b_Purchase": [
+      [
+        
+        {
+          "count": 40,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a53a4b9361bd473feec_Purchase": [
+      [
+        
+        {
+          "count": 60,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e69b9a4b9361bc8618958_Purchase": [
+      [
+        
+        {
+          "count": 90,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a42a4b9364f07165f52_Purchase": [
+      [
+        
+        {
+          "count": 110,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a05a4b93618084f58d0_Purchase": [
+      [
+        
+        {
+          "count": 130,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e69c7a4b9360b6c0d54e4_Purchase": [
+      [
+        
+        {
+          "count": 200,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d6e6a5fa4b93614ec501745_Purchase": [
+      [
+        
+        {
+          "count": 360,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e85a9f4add9fe03027d9bf1_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "590a373286f774287540368b"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "5e2af37686f774755a234b65"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5f647f31b6238e5dd066e196_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d6e6a5fa4b93614ec501745"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e85a9a6eacf8c039e4e2ac1_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5f647f31b6238e5dd066e196"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e85aa1a988a8701445df1f5_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5e85a9a6eacf8c039e4e2ac1"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e85a9f4add9fe03027d9bf1_Purchase": [
+      [
+        
+        {
+          "count": 30000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5f647f31b6238e5dd066e196_Purchase": [
+      [
+        
+        {
+          "count": 770,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e85a9a6eacf8c039e4e2ac1_Purchase": [
+      [
+        
+        {
+          "count": 1200,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e85aa1a988a8701445df1f5_Purchase": [
+      [
+        
+        {
+          "count": 2700,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5fd4c5477a8d854fa0105061_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57347c5b245977448d35f6e1"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e4abc1f86f774069619fbaa_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "57347cd0245977445a2d6ff1"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d8ca986f7742798716522_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b309586f77425227d1676"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_6034d0230ca681766b6a0fb5_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "590c2b4386f77425357b6123"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_59e7643b86f7742cbf2c109a_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "590a3cd386f77436f20848cb"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e3eb886f7742015526062_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "5d1b2ffd86f77425243e8d17"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5929a2a086f7744f4b234d43_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57347baf24597738002c6178"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e4abfed86f77406a2713cf7_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5d1b3a5d86f774252167ba22"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_6034cf5fffd42c541047f72e_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5751496424597720a27126da"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e9f2c86f77432297fe0a3_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d1c774f86f7746d6620f8db"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5ca20abf86f77418567a43f2_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d1b39a386f774252339976f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e6a1586f77404597b4965_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "590a3c0a86f774385a33c450"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e446786f7742013381639_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d1b304286f774253763a528"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5fd4c60f875c30179f5d04c2_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "59e35cbb86f7741778269d83"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d85c586f774279a21cbdb_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "59e35de086f7741778269d84"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5f5f41f56760b4138443b352_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "590a386e86f77429692b27ab"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60a6220e953894617404b00a_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "56742c2e4bdc2d95058b456d"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d646386f7742797261fd9_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d40419286f774318526545f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_61bc85697113f767765c7fe7_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "61bf83814088ec1a363d7097"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5ab8dab586f77441cd04f2a2_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5e8f3423fd7471236e6e3b64"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_603648ff5a45383c122086ac_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5734773724597737fd047c14"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5648a69d4bdc2ded0b8b457b_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "59e3577886f774176a362503"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_61bcc89aef0f505f0c6cd0fc_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "619cbfccbedcde2f5b3f7bdd"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "5d1b3a5d86f774252167ba22"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5ab8dced86f774646209ec87_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5d1b317c86f7742523398392"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_592c2d1a86f7746dbe2af32a_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5d6d2ef3a4b93618084f58bd"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5df8a42886f77412640e2e75_Barter": [
+      [
+        
+        {
+          "count": 6,
+          
+          "_tpl": "5bc9c29cd4351e003562b8a3"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e9db13186f7742f845ee9d3_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "573474f924597738002c6174"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_544a5caa4bdc2d1a388b4568_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5af0534a86f7743b6f354284"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e722886f7740458316a57_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5d403f9186f7743cac3f229b"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60a3c70cde5f453f634816a3_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "60391afc25aff57af81f7085"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e746986f7741453628fe5_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "590c645c86f77412b01304d9"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d87f786f77427997cfaef_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "590de71386f774347051a052"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5b44cad286f77402a54ae7e5_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5e2aee0a86f774755a234b62"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60a3c68c37ea821725773ef5_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "5e2aee0a86f774755a234b62"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e4ac41886f77406a511c9a8_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "59faff1d86f7746c51718c9c"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5fd4c5477a8d854fa0105061_Trade": [
+      [
+        
+        {
+          "count": 10000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e4abc1f86f774069619fbaa_Trade": [
+      [
+        
+        {
+          "count": 10000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d8ca986f7742798716522_Trade": [
+      [
+        
+        {
+          "count": 11500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_6034d0230ca681766b6a0fb5_Trade": [
+      [
+        
+        {
+          "count": 14000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_59e7643b86f7742cbf2c109a_Trade": [
+      [
+        
+        {
+          "count": 19000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e3eb886f7742015526062_Trade": [
+      [
+        
+        {
+          "count": 50000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5929a2a086f7744f4b234d43_Trade": [
+      [
+        
+        {
+          "count": 13500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e4abfed86f77406a2713cf7_Trade": [
+      [
+        
+        {
+          "count": 14500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_6034cf5fffd42c541047f72e_Trade": [
+      [
+        
+        {
+          "count": 16000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e9f2c86f77432297fe0a3_Trade": [
+      [
+        
+        {
+          "count": 23000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5ca20abf86f77418567a43f2_Trade": [
+      [
+        
+        {
+          "count": 19000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e6a1586f77404597b4965_Trade": [
+      [
+        
+        {
+          "count": 34000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e446786f7742013381639_Trade": [
+      [
+        
+        {
+          "count": 42000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5fd4c60f875c30179f5d04c2_Trade": [
+      [
+        
+        {
+          "count": 10000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+ , 
+        {
+          "count": 100,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d85c586f774279a21cbdb_Trade": [
+      [
+        
+        {
+          "count": 200,
+          
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5f5f41f56760b4138443b352_Trade": [
+      [
+        
+        {
+          "count": 18500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60a6220e953894617404b00a_Trade": [
+      [
+        
+        {
+          "count": 29000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d646386f7742797261fd9_Trade": [
+      [
+        
+        {
+          "count": 50000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_61bc85697113f767765c7fe7_Trade": [
+      [
+        
+        {
+          "count": 57000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5ab8dab586f77441cd04f2a2_Trade": [
+      [
+        
+        {
+          "count": 100,
+          
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+ , 
+        {
+          "count": 100,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_603648ff5a45383c122086ac_Trade": [
+      [
+        
+        {
+          "count": 21500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5648a69d4bdc2ded0b8b457b_Trade": [
+      [
+        
+        {
+          "count": 32500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_61bcc89aef0f505f0c6cd0fc_Trade": [
+      [
+        
+        {
+          "count": 62000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5ab8dced86f774646209ec87_Trade": [
+      [
+        
+        {
+          "count": 68000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_592c2d1a86f7746dbe2af32a_Trade": [
+      [
+        
+        {
+          "count": 14000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+ , 
+        {
+          "count": 200,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5df8a42886f77412640e2e75_Trade": [
+      [
+        
+        {
+          "count": 49000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e9db13186f7742f845ee9d3_Trade": [
+      [
+        
+        {
+          "count": 200,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_544a5caa4bdc2d1a388b4568_Trade": [
+      [
+        
+        {
+          "count": 55000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+ , 
+        {
+          "count": 200,
+          
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+ , 
+        {
+          "count": 200,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e722886f7740458316a57_Trade": [
+      [
+        
+        {
+          "count": 102500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60a3c70cde5f453f634816a3_Trade": [
+      [
+        
+        {
+          "count": 142000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5c0e746986f7741453628fe5_Trade": [
+      [
+        
+        {
+          "count": 123000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5d5d87f786f77427997cfaef_Trade": [
+      [
+        
+        {
+          "count": 750,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5b44cad286f77402a54ae7e5_Trade": [
+      [
+        
+        {
+          "count": 750,
+          
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+ , 
+        {
+          "count": 750,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60a3c68c37ea821725773ef5_Trade": [
+      [
+        
+        {
+          "count": 175000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e4ac41886f77406a511c9a8_Trade": [
+      [
+        
+        {
+          "count": 70000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+ , 
+        {
+          "count": 500,
+          
+          "_tpl": "5696686a4bdc2da3298b456a"
+        }
+ , 
+        {
+          "count": 800,
+          
+          "_tpl": "569668774bdc2da2298b4568"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "619cbfeb6b8a1b37a54eebfa"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "61bf83814088ec1a363d7097"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "56742c284bdc2d98058b456d"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a38ee51c4a282000c5a955c_Barter": [
+      [
+        
+        {
+          "count": 863,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "59e366c186f7741778269d85"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e870397991fd70db46995c8_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "590c35a486f774273531c822"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e87080c81c4ed43e83cefda_Barter": [
+      [
+        
+        {
+          "count": 24380,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_56deee15d2720bee328b4567_Barter": [
+      [
+        
+        {
+          "count": 5450,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5e2af22086f7746d3f3c33fa"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "590a373286f774287540368b"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a7882dcc5856700177af662_Barter": [
+      [
+        
+        {
+          "count": 12381,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5882163e24597758206fee8c_Barter": [
+      [
+        
+        {
+          "count": 902,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_576165642459773c7a400233_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "5d1b2ffd86f77425243e8d17"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter": [
+      [
+        
+        {
+          "count": 6,
+          
+          "_tpl": "5d1c774f86f7746d6620f8db"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_57616a9e2459773c7a400234_Barter": [
+      [
+        
+        {
+          "count": 4404,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5f647d9f8499b57dc40ddb93_Barter": [
+      [
+        
+        {
+          "count": 11344,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade": [
+      [
+        
+        {
+          "count": 12000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade": [
+      [
+        
+        {
+          "count": 12000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade": [
+      [
+        
+        {
+          "count": 9000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade": [
+      [
+        
+        {
+          "count": 75000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e870397991fd70db46995c8_Trade": [
+      [
+        
+        {
+          "count": 20000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade": [
+      [
+        
+        {
+          "count": 60000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade": [
+      [
+        
+        {
+          "count": 80000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade": [
+      [
+        
+        {
+          "count": 97257,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_576165642459773c7a400233_Trade": [
+      [
+        
+        {
+          "count": 200000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade": [
+      [
+        
+        {
+          "count": 63000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+
+  },
+  "loyal_level_items": {
+    "Elder_Temporal_Id_560d5e524bdc2d25448b4571_Barter" : 1,
+"Elder_Temporal_Id_5d6e6772a4b936088465b17c_Barter" : 1,
+"Elder_Temporal_Id_58820d1224597753c90aeb13_Barter" : 1,
+"Elder_Temporal_Id_5d6e6891a4b9361bd473feea_Barter" : 1,
+"Elder_Temporal_Id_5882163824597757561aa922_Trade" : 1,
+"Elder_Temporal_Id_5d6e6869a4b9361c140bcfde_Barter" : 1,
+"Elder_Temporal_Id_5d6e689ca4b9361bc8618956_Barter" : 1,
+"Elder_Temporal_Id_5d6e68d1a4b93622fe60e845_Barter" : 1,
+"Elder_Temporal_Id_5a78830bc5856700137e4c90_Trade" : 1,
+"Elder_Temporal_Id_5d6e67fba4b9361bc73bc779_Barter" : 1,
+"Elder_Temporal_Id_5882163224597757561aa920_Trade" : 1,
+"Elder_Temporal_Id_5d6e6911a4b9361bd5780d52_Barter" : 1,
+"Elder_Temporal_Id_5a966f51a2750c00156aacf6_Trade" : 1,
+"Elder_Temporal_Id_5d6e68dea4b9361bcc29e659_Barter" : 1,
+"Elder_Temporal_Id_5d6e68e6a4b9361c140bcfe0_Barter" : 1,
+"Elder_Temporal_Id_5d6e68b3a4b9361bca7e50b5_Barter" : 1,
+"Elder_Temporal_Id_55d485804bdc2d8c2f8b456b_Trade" : 1,
+"Elder_Temporal_Id_56deeefcd2720bc8328b4568_Trade" : 1,
+"Elder_Temporal_Id_5d6e6806a4b936088465b17e_Barter" : 1,
+"Elder_Temporal_Id_5c0d591486f7744c505b416f_Barter" : 1,
+"Elder_Temporal_Id_5c1127d0d174af29be75cf68_Barter" : 1,
+"Elder_Temporal_Id_5a78832ec5856700155a6ca3_Trade" : 1,
+"Elder_Temporal_Id_5d6e68c4a4b9361b93413f79_Barter" : 1,
+"Elder_Temporal_Id_5d6e68a8a4b9360b6c0d54e2_Barter" : 1,
+"Elder_Temporal_Id_5cf8f3b0d7f00c00217872ef_Trade" : 1,
+"Elder_Temporal_Id_560d5e524bdc2d25448b4571_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6772a4b936088465b17c_Purchase" : 1,
+"Elder_Temporal_Id_58820d1224597753c90aeb13_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6891a4b9361bd473feea_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6869a4b9361c140bcfde_Purchase" : 1,
+"Elder_Temporal_Id_5d6e689ca4b9361bc8618956_Purchase" : 1,
+"Elder_Temporal_Id_5d6e68d1a4b93622fe60e845_Purchase" : 1,
+"Elder_Temporal_Id_5d6e67fba4b9361bc73bc779_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6911a4b9361bd5780d52_Purchase" : 1,
+"Elder_Temporal_Id_5d6e68dea4b9361bcc29e659_Purchase" : 1,
+"Elder_Temporal_Id_5d6e68e6a4b9361c140bcfe0_Purchase" : 1,
+"Elder_Temporal_Id_5d6e68b3a4b9361bca7e50b5_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6806a4b936088465b17e_Purchase" : 1,
+"Elder_Temporal_Id_5c0d591486f7744c505b416f_Purchase" : 1,
+"Elder_Temporal_Id_5d6e68c4a4b9361b93413f79_Purchase" : 1,
+"Elder_Temporal_Id_5d6e68a8a4b9360b6c0d54e2_Purchase" : 1,
+"Elder_Temporal_Id_5d6e695fa4b936359b35d852_Barter" : 1,
+"Elder_Temporal_Id_5a38ebd9c4a282000d722a5b_Barter" : 1,
+"Elder_Temporal_Id_5d6e6a53a4b9361bd473feec_Barter" : 1,
+"Elder_Temporal_Id_5a38ed75c4a28232996e40c6_Trade" : 1,
+"Elder_Temporal_Id_5d6e69b9a4b9361bc8618958_Barter" : 1,
+"Elder_Temporal_Id_5d6e6a42a4b9364f07165f52_Barter" : 1,
+"Elder_Temporal_Id_5d6e6a05a4b93618084f58d0_Barter" : 1,
+"Elder_Temporal_Id_5c6161fb2e221600113fbde5_Trade" : 1,
+"Elder_Temporal_Id_5d6e69c7a4b9360b6c0d54e4_Barter" : 1,
+"Elder_Temporal_Id_5d6e6a5fa4b93614ec501745_Barter" : 1,
+"Elder_Temporal_Id_5d6e695fa4b936359b35d852_Purchase" : 1,
+"Elder_Temporal_Id_5a38ebd9c4a282000d722a5b_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6a53a4b9361bd473feec_Purchase" : 1,
+"Elder_Temporal_Id_5d6e69b9a4b9361bc8618958_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6a42a4b9364f07165f52_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6a05a4b93618084f58d0_Purchase" : 1,
+"Elder_Temporal_Id_5d6e69c7a4b9360b6c0d54e4_Purchase" : 1,
+"Elder_Temporal_Id_5d6e6a5fa4b93614ec501745_Purchase" : 1,
+"Elder_Temporal_Id_5e85a9f4add9fe03027d9bf1_Barter" : 1,
+"Elder_Temporal_Id_5f647f31b6238e5dd066e196_Barter" : 1,
+"Elder_Temporal_Id_5e85a9a6eacf8c039e4e2ac1_Barter" : 1,
+"Elder_Temporal_Id_5e85aa1a988a8701445df1f5_Barter" : 1,
+"Elder_Temporal_Id_5e85a9f4add9fe03027d9bf1_Purchase" : 1,
+"Elder_Temporal_Id_5f647f31b6238e5dd066e196_Purchase" : 1,
+"Elder_Temporal_Id_5e85a9a6eacf8c039e4e2ac1_Purchase" : 1,
+"Elder_Temporal_Id_5e85aa1a988a8701445df1f5_Purchase" : 1,
+"Elder_Temporal_Id_5fd4c5477a8d854fa0105061_Barter" : 1,
+"Elder_Temporal_Id_5e4abc1f86f774069619fbaa_Barter" : 1,
+"Elder_Temporal_Id_5d5d8ca986f7742798716522_Barter" : 1,
+"Elder_Temporal_Id_6034d0230ca681766b6a0fb5_Barter" : 1,
+"Elder_Temporal_Id_59e7643b86f7742cbf2c109a_Barter" : 1,
+"Elder_Temporal_Id_5c0e3eb886f7742015526062_Barter" : 1,
+"Elder_Temporal_Id_5929a2a086f7744f4b234d43_Barter" : 1,
+"Elder_Temporal_Id_5e4abfed86f77406a2713cf7_Barter" : 1,
+"Elder_Temporal_Id_6034cf5fffd42c541047f72e_Barter" : 1,
+"Elder_Temporal_Id_5c0e9f2c86f77432297fe0a3_Barter" : 1,
+"Elder_Temporal_Id_5ca20abf86f77418567a43f2_Barter" : 1,
+"Elder_Temporal_Id_5c0e6a1586f77404597b4965_Barter" : 1,
+"Elder_Temporal_Id_5c0e446786f7742013381639_Barter" : 1,
+"Elder_Temporal_Id_5fd4c60f875c30179f5d04c2_Barter" : 1,
+"Elder_Temporal_Id_5d5d85c586f774279a21cbdb_Barter" : 1,
+"Elder_Temporal_Id_5f5f41f56760b4138443b352_Barter" : 1,
+"Elder_Temporal_Id_60a6220e953894617404b00a_Barter" : 1,
+"Elder_Temporal_Id_5d5d646386f7742797261fd9_Barter" : 1,
+"Elder_Temporal_Id_61bc85697113f767765c7fe7_Barter" : 1,
+"Elder_Temporal_Id_5ab8dab586f77441cd04f2a2_Barter" : 1,
+"Elder_Temporal_Id_603648ff5a45383c122086ac_Barter" : 1,
+"Elder_Temporal_Id_5648a69d4bdc2ded0b8b457b_Barter" : 1,
+"Elder_Temporal_Id_61bcc89aef0f505f0c6cd0fc_Barter" : 1,
+"Elder_Temporal_Id_5ab8dced86f774646209ec87_Barter" : 1,
+"Elder_Temporal_Id_592c2d1a86f7746dbe2af32a_Barter" : 1,
+"Elder_Temporal_Id_5df8a42886f77412640e2e75_Barter" : 1,
+"Elder_Temporal_Id_5e9db13186f7742f845ee9d3_Barter" : 1,
+"Elder_Temporal_Id_544a5caa4bdc2d1a388b4568_Barter" : 1,
+"Elder_Temporal_Id_5c0e722886f7740458316a57_Barter" : 1,
+"Elder_Temporal_Id_60a3c70cde5f453f634816a3_Barter" : 1,
+"Elder_Temporal_Id_5c0e746986f7741453628fe5_Barter" : 1,
+"Elder_Temporal_Id_5d5d87f786f77427997cfaef_Barter" : 1,
+"Elder_Temporal_Id_5b44cad286f77402a54ae7e5_Barter" : 1,
+"Elder_Temporal_Id_60a3c68c37ea821725773ef5_Barter" : 1,
+"Elder_Temporal_Id_5e4ac41886f77406a511c9a8_Barter" : 1,
+"Elder_Temporal_Id_5fd4c5477a8d854fa0105061_Trade" : 1,
+"Elder_Temporal_Id_5e4abc1f86f774069619fbaa_Trade" : 1,
+"Elder_Temporal_Id_5d5d8ca986f7742798716522_Trade" : 1,
+"Elder_Temporal_Id_6034d0230ca681766b6a0fb5_Trade" : 1,
+"Elder_Temporal_Id_59e7643b86f7742cbf2c109a_Trade" : 1,
+"Elder_Temporal_Id_5c0e3eb886f7742015526062_Trade" : 1,
+"Elder_Temporal_Id_5929a2a086f7744f4b234d43_Trade" : 1,
+"Elder_Temporal_Id_5e4abfed86f77406a2713cf7_Trade" : 1,
+"Elder_Temporal_Id_6034cf5fffd42c541047f72e_Trade" : 1,
+"Elder_Temporal_Id_5c0e9f2c86f77432297fe0a3_Trade" : 1,
+"Elder_Temporal_Id_5ca20abf86f77418567a43f2_Trade" : 1,
+"Elder_Temporal_Id_5c0e6a1586f77404597b4965_Trade" : 1,
+"Elder_Temporal_Id_5c0e446786f7742013381639_Trade" : 1,
+"Elder_Temporal_Id_5fd4c60f875c30179f5d04c2_Trade" : 1,
+"Elder_Temporal_Id_5d5d85c586f774279a21cbdb_Trade" : 1,
+"Elder_Temporal_Id_5f5f41f56760b4138443b352_Trade" : 1,
+"Elder_Temporal_Id_60a6220e953894617404b00a_Trade" : 1,
+"Elder_Temporal_Id_5d5d646386f7742797261fd9_Trade" : 1,
+"Elder_Temporal_Id_61bc85697113f767765c7fe7_Trade" : 1,
+"Elder_Temporal_Id_5ab8dab586f77441cd04f2a2_Trade" : 1,
+"Elder_Temporal_Id_603648ff5a45383c122086ac_Trade" : 1,
+"Elder_Temporal_Id_5648a69d4bdc2ded0b8b457b_Trade" : 1,
+"Elder_Temporal_Id_61bcc89aef0f505f0c6cd0fc_Trade" : 1,
+"Elder_Temporal_Id_5ab8dced86f774646209ec87_Trade" : 1,
+"Elder_Temporal_Id_592c2d1a86f7746dbe2af32a_Trade" : 1,
+"Elder_Temporal_Id_5df8a42886f77412640e2e75_Trade" : 1,
+"Elder_Temporal_Id_5e9db13186f7742f845ee9d3_Trade" : 1,
+"Elder_Temporal_Id_544a5caa4bdc2d1a388b4568_Trade" : 1,
+"Elder_Temporal_Id_5c0e722886f7740458316a57_Trade" : 1,
+"Elder_Temporal_Id_60a3c70cde5f453f634816a3_Trade" : 1,
+"Elder_Temporal_Id_5c0e746986f7741453628fe5_Trade" : 1,
+"Elder_Temporal_Id_5d5d87f786f77427997cfaef_Trade" : 1,
+"Elder_Temporal_Id_5b44cad286f77402a54ae7e5_Trade" : 1,
+"Elder_Temporal_Id_60a3c68c37ea821725773ef5_Trade" : 1,
+"Elder_Temporal_Id_5e4ac41886f77406a511c9a8_Trade" : 1,
+"Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter" : 1,
+"Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter" : 1,
+"Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter" : 1,
+"Elder_Temporal_Id_5a38ee51c4a282000c5a955c_Barter" : 1,
+"Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter" : 1,
+"Elder_Temporal_Id_5e870397991fd70db46995c8_Barter" : 1,
+"Elder_Temporal_Id_5e87080c81c4ed43e83cefda_Barter" : 1,
+"Elder_Temporal_Id_56deee15d2720bee328b4567_Barter" : 1,
+"Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter" : 1,
+"Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter" : 1,
+"Elder_Temporal_Id_5a7882dcc5856700177af662_Barter" : 1,
+"Elder_Temporal_Id_5882163e24597758206fee8c_Barter" : 1,
+"Elder_Temporal_Id_576165642459773c7a400233_Barter" : 1,
+"Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter" : 1,
+"Elder_Temporal_Id_57616a9e2459773c7a400234_Barter" : 1,
+"Elder_Temporal_Id_5f647d9f8499b57dc40ddb93_Barter" : 1,
+"Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Trade" : 1,
+"Elder_Temporal_Id_60db29ce99594040e04c4a27_Trade" : 1,
+"Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Trade" : 1,
+"Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Trade" : 1,
+"Elder_Temporal_Id_5e870397991fd70db46995c8_Trade" : 1,
+"Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Trade" : 1,
+"Elder_Temporal_Id_606dae0ab0e443224b421bb7_Trade" : 1,
+"Elder_Temporal_Id_56dee2bdd2720bc8328b4567_Trade" : 1,
+"Elder_Temporal_Id_576165642459773c7a400233_Trade" : 1,
+"Elder_Temporal_Id_5e848cc2988a8701445df1e8_Trade" : 1
+  }
+}

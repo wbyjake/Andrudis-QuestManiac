@@ -1,0 +1,3977 @@
+{
+    "HonorSkills_Perception_5": {
+        "_id": "HonorSkills_Perception_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_5 description",
+        "failMessageText": "HonorSkills_Perception_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_5 name",
+        "note": "HonorSkills_Perception_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Perception_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_5 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_5 successMessageText",
+        "templateId": "HonorSkills_Perception_5",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 5",
+        "acceptPlayerMessage": "HonorSkills_Perception_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_10": {
+        "_id": "HonorSkills_Perception_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_10 description",
+        "failMessageText": "HonorSkills_Perception_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_10 name",
+        "note": "HonorSkills_Perception_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Perception_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_10 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_10 successMessageText",
+        "templateId": "HonorSkills_Perception_10",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 10",
+        "acceptPlayerMessage": "HonorSkills_Perception_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_15": {
+        "_id": "HonorSkills_Perception_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_15 description",
+        "failMessageText": "HonorSkills_Perception_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_15 name",
+        "note": "HonorSkills_Perception_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Perception_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_15 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_15 successMessageText",
+        "templateId": "HonorSkills_Perception_15",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 15",
+        "acceptPlayerMessage": "HonorSkills_Perception_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_20": {
+        "_id": "HonorSkills_Perception_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_20 description",
+        "failMessageText": "HonorSkills_Perception_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_20 name",
+        "note": "HonorSkills_Perception_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Perception_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_20 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_20 successMessageText",
+        "templateId": "HonorSkills_Perception_20",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 20",
+        "acceptPlayerMessage": "HonorSkills_Perception_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_25": {
+        "_id": "HonorSkills_Perception_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_25 description",
+        "failMessageText": "HonorSkills_Perception_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_25 name",
+        "note": "HonorSkills_Perception_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Perception_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_25 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_25 successMessageText",
+        "templateId": "HonorSkills_Perception_25",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 25",
+        "acceptPlayerMessage": "HonorSkills_Perception_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_30": {
+        "_id": "HonorSkills_Perception_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_30 description",
+        "failMessageText": "HonorSkills_Perception_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_30 name",
+        "note": "HonorSkills_Perception_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Perception_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_30 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_30 successMessageText",
+        "templateId": "HonorSkills_Perception_30",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 30",
+        "acceptPlayerMessage": "HonorSkills_Perception_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_35": {
+        "_id": "HonorSkills_Perception_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_35 description",
+        "failMessageText": "HonorSkills_Perception_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_35 name",
+        "note": "HonorSkills_Perception_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Perception_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_35 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_35 successMessageText",
+        "templateId": "HonorSkills_Perception_35",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 35",
+        "acceptPlayerMessage": "HonorSkills_Perception_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_40": {
+        "_id": "HonorSkills_Perception_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_40 description",
+        "failMessageText": "HonorSkills_Perception_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_40 name",
+        "note": "HonorSkills_Perception_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Perception_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_40 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_40 successMessageText",
+        "templateId": "HonorSkills_Perception_40",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 40",
+        "acceptPlayerMessage": "HonorSkills_Perception_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_45": {
+        "_id": "HonorSkills_Perception_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_45 description",
+        "failMessageText": "HonorSkills_Perception_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_45 name",
+        "note": "HonorSkills_Perception_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Perception_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_45 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_45 successMessageText",
+        "templateId": "HonorSkills_Perception_45",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 45",
+        "acceptPlayerMessage": "HonorSkills_Perception_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Perception_50": {
+        "_id": "HonorSkills_Perception_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Perception_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Perception_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Perception_50 description",
+        "failMessageText": "HonorSkills_Perception_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Perception_50 name",
+        "note": "HonorSkills_Perception_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Perception_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Perception_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Perception_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Perception_50 startedMessageText",
+        "successMessageText": "HonorSkills_Perception_50 successMessageText",
+        "templateId": "HonorSkills_Perception_50",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Perception 50",
+        "acceptPlayerMessage": "HonorSkills_Perception_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Perception_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Perception_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_5": {
+        "_id": "HonorSkills_Intellect_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_5 description",
+        "failMessageText": "HonorSkills_Intellect_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_5 name",
+        "note": "HonorSkills_Intellect_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Intellect_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_5 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_5 successMessageText",
+        "templateId": "HonorSkills_Intellect_5",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 5",
+        "acceptPlayerMessage": "HonorSkills_Intellect_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_10": {
+        "_id": "HonorSkills_Intellect_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_10 description",
+        "failMessageText": "HonorSkills_Intellect_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_10 name",
+        "note": "HonorSkills_Intellect_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Intellect_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_10 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_10 successMessageText",
+        "templateId": "HonorSkills_Intellect_10",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 10",
+        "acceptPlayerMessage": "HonorSkills_Intellect_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_15": {
+        "_id": "HonorSkills_Intellect_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_15 description",
+        "failMessageText": "HonorSkills_Intellect_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_15 name",
+        "note": "HonorSkills_Intellect_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Intellect_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_15 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_15 successMessageText",
+        "templateId": "HonorSkills_Intellect_15",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 15",
+        "acceptPlayerMessage": "HonorSkills_Intellect_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_20": {
+        "_id": "HonorSkills_Intellect_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_20 description",
+        "failMessageText": "HonorSkills_Intellect_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_20 name",
+        "note": "HonorSkills_Intellect_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Intellect_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_20 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_20 successMessageText",
+        "templateId": "HonorSkills_Intellect_20",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 20",
+        "acceptPlayerMessage": "HonorSkills_Intellect_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_25": {
+        "_id": "HonorSkills_Intellect_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_25 description",
+        "failMessageText": "HonorSkills_Intellect_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_25 name",
+        "note": "HonorSkills_Intellect_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Intellect_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_25 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_25 successMessageText",
+        "templateId": "HonorSkills_Intellect_25",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 25",
+        "acceptPlayerMessage": "HonorSkills_Intellect_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_30": {
+        "_id": "HonorSkills_Intellect_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_30 description",
+        "failMessageText": "HonorSkills_Intellect_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_30 name",
+        "note": "HonorSkills_Intellect_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Intellect_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_30 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_30 successMessageText",
+        "templateId": "HonorSkills_Intellect_30",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 30",
+        "acceptPlayerMessage": "HonorSkills_Intellect_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_35": {
+        "_id": "HonorSkills_Intellect_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_35 description",
+        "failMessageText": "HonorSkills_Intellect_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_35 name",
+        "note": "HonorSkills_Intellect_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Intellect_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_35 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_35 successMessageText",
+        "templateId": "HonorSkills_Intellect_35",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 35",
+        "acceptPlayerMessage": "HonorSkills_Intellect_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_40": {
+        "_id": "HonorSkills_Intellect_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_40 description",
+        "failMessageText": "HonorSkills_Intellect_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_40 name",
+        "note": "HonorSkills_Intellect_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Intellect_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_40 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_40 successMessageText",
+        "templateId": "HonorSkills_Intellect_40",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 40",
+        "acceptPlayerMessage": "HonorSkills_Intellect_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_45": {
+        "_id": "HonorSkills_Intellect_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_45 description",
+        "failMessageText": "HonorSkills_Intellect_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_45 name",
+        "note": "HonorSkills_Intellect_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Intellect_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_45 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_45 successMessageText",
+        "templateId": "HonorSkills_Intellect_45",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 45",
+        "acceptPlayerMessage": "HonorSkills_Intellect_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Intellect_50": {
+        "_id": "HonorSkills_Intellect_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Intellect_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Intellect_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Intellect",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Intellect_50 description",
+        "failMessageText": "HonorSkills_Intellect_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Intellect_50 name",
+        "note": "HonorSkills_Intellect_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Intellect_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Intellect_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Intellect_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Intellect_50 startedMessageText",
+        "successMessageText": "HonorSkills_Intellect_50 successMessageText",
+        "templateId": "HonorSkills_Intellect_50",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Intellect 50",
+        "acceptPlayerMessage": "HonorSkills_Intellect_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Intellect_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Intellect_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_5": {
+        "_id": "HonorSkills_Attention_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_5 description",
+        "failMessageText": "HonorSkills_Attention_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_5 name",
+        "note": "HonorSkills_Attention_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Attention_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_5 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_5 successMessageText",
+        "templateId": "HonorSkills_Attention_5",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 5",
+        "acceptPlayerMessage": "HonorSkills_Attention_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_10": {
+        "_id": "HonorSkills_Attention_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_10 description",
+        "failMessageText": "HonorSkills_Attention_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_10 name",
+        "note": "HonorSkills_Attention_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Attention_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_10 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_10 successMessageText",
+        "templateId": "HonorSkills_Attention_10",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 10",
+        "acceptPlayerMessage": "HonorSkills_Attention_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_15": {
+        "_id": "HonorSkills_Attention_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_15 description",
+        "failMessageText": "HonorSkills_Attention_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_15 name",
+        "note": "HonorSkills_Attention_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Attention_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_15 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_15 successMessageText",
+        "templateId": "HonorSkills_Attention_15",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 15",
+        "acceptPlayerMessage": "HonorSkills_Attention_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_20": {
+        "_id": "HonorSkills_Attention_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_20 description",
+        "failMessageText": "HonorSkills_Attention_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_20 name",
+        "note": "HonorSkills_Attention_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Attention_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_20 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_20 successMessageText",
+        "templateId": "HonorSkills_Attention_20",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 20",
+        "acceptPlayerMessage": "HonorSkills_Attention_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_25": {
+        "_id": "HonorSkills_Attention_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_25 description",
+        "failMessageText": "HonorSkills_Attention_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_25 name",
+        "note": "HonorSkills_Attention_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Attention_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_25 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_25 successMessageText",
+        "templateId": "HonorSkills_Attention_25",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 25",
+        "acceptPlayerMessage": "HonorSkills_Attention_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_30": {
+        "_id": "HonorSkills_Attention_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_30 description",
+        "failMessageText": "HonorSkills_Attention_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_30 name",
+        "note": "HonorSkills_Attention_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Attention_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_30 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_30 successMessageText",
+        "templateId": "HonorSkills_Attention_30",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 30",
+        "acceptPlayerMessage": "HonorSkills_Attention_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_35": {
+        "_id": "HonorSkills_Attention_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_35 description",
+        "failMessageText": "HonorSkills_Attention_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_35 name",
+        "note": "HonorSkills_Attention_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Attention_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_35 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_35 successMessageText",
+        "templateId": "HonorSkills_Attention_35",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 35",
+        "acceptPlayerMessage": "HonorSkills_Attention_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_40": {
+        "_id": "HonorSkills_Attention_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_40 description",
+        "failMessageText": "HonorSkills_Attention_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_40 name",
+        "note": "HonorSkills_Attention_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Attention_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_40 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_40 successMessageText",
+        "templateId": "HonorSkills_Attention_40",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 40",
+        "acceptPlayerMessage": "HonorSkills_Attention_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_45": {
+        "_id": "HonorSkills_Attention_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_45 description",
+        "failMessageText": "HonorSkills_Attention_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_45 name",
+        "note": "HonorSkills_Attention_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Attention_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_45 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_45 successMessageText",
+        "templateId": "HonorSkills_Attention_45",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 45",
+        "acceptPlayerMessage": "HonorSkills_Attention_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Attention_50": {
+        "_id": "HonorSkills_Attention_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Attention_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Attention_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Attention_50 description",
+        "failMessageText": "HonorSkills_Attention_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Attention_50 name",
+        "note": "HonorSkills_Attention_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Attention_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Attention_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Attention_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Attention_50 startedMessageText",
+        "successMessageText": "HonorSkills_Attention_50 successMessageText",
+        "templateId": "HonorSkills_Attention_50",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Attention 50",
+        "acceptPlayerMessage": "HonorSkills_Attention_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Attention_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Attention_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_5": {
+        "_id": "HonorSkills_Charisma_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_5 description",
+        "failMessageText": "HonorSkills_Charisma_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_5 name",
+        "note": "HonorSkills_Charisma_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Charisma_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_5 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_5 successMessageText",
+        "templateId": "HonorSkills_Charisma_5",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 5",
+        "acceptPlayerMessage": "HonorSkills_Charisma_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_10": {
+        "_id": "HonorSkills_Charisma_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_10 description",
+        "failMessageText": "HonorSkills_Charisma_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_10 name",
+        "note": "HonorSkills_Charisma_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Charisma_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_10 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_10 successMessageText",
+        "templateId": "HonorSkills_Charisma_10",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 10",
+        "acceptPlayerMessage": "HonorSkills_Charisma_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_15": {
+        "_id": "HonorSkills_Charisma_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_15 description",
+        "failMessageText": "HonorSkills_Charisma_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_15 name",
+        "note": "HonorSkills_Charisma_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Charisma_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_15 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_15 successMessageText",
+        "templateId": "HonorSkills_Charisma_15",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 15",
+        "acceptPlayerMessage": "HonorSkills_Charisma_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_20": {
+        "_id": "HonorSkills_Charisma_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_20 description",
+        "failMessageText": "HonorSkills_Charisma_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_20 name",
+        "note": "HonorSkills_Charisma_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Charisma_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_20 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_20 successMessageText",
+        "templateId": "HonorSkills_Charisma_20",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 20",
+        "acceptPlayerMessage": "HonorSkills_Charisma_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_25": {
+        "_id": "HonorSkills_Charisma_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_25 description",
+        "failMessageText": "HonorSkills_Charisma_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_25 name",
+        "note": "HonorSkills_Charisma_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Charisma_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_25 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_25 successMessageText",
+        "templateId": "HonorSkills_Charisma_25",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 25",
+        "acceptPlayerMessage": "HonorSkills_Charisma_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_30": {
+        "_id": "HonorSkills_Charisma_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_30 description",
+        "failMessageText": "HonorSkills_Charisma_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_30 name",
+        "note": "HonorSkills_Charisma_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Charisma_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_30 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_30 successMessageText",
+        "templateId": "HonorSkills_Charisma_30",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 30",
+        "acceptPlayerMessage": "HonorSkills_Charisma_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_35": {
+        "_id": "HonorSkills_Charisma_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_35 description",
+        "failMessageText": "HonorSkills_Charisma_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_35 name",
+        "note": "HonorSkills_Charisma_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Charisma_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_35 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_35 successMessageText",
+        "templateId": "HonorSkills_Charisma_35",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 35",
+        "acceptPlayerMessage": "HonorSkills_Charisma_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_40": {
+        "_id": "HonorSkills_Charisma_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_40 description",
+        "failMessageText": "HonorSkills_Charisma_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_40 name",
+        "note": "HonorSkills_Charisma_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Charisma_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_40 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_40 successMessageText",
+        "templateId": "HonorSkills_Charisma_40",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 40",
+        "acceptPlayerMessage": "HonorSkills_Charisma_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_45": {
+        "_id": "HonorSkills_Charisma_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_45 description",
+        "failMessageText": "HonorSkills_Charisma_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_45 name",
+        "note": "HonorSkills_Charisma_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Charisma_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_45 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_45 successMessageText",
+        "templateId": "HonorSkills_Charisma_45",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 45",
+        "acceptPlayerMessage": "HonorSkills_Charisma_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Charisma_50": {
+        "_id": "HonorSkills_Charisma_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Charisma_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Charisma_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Charisma_50 description",
+        "failMessageText": "HonorSkills_Charisma_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Charisma_50 name",
+        "note": "HonorSkills_Charisma_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Charisma_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Charisma_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Charisma_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Charisma_50 startedMessageText",
+        "successMessageText": "HonorSkills_Charisma_50 successMessageText",
+        "templateId": "HonorSkills_Charisma_50",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Charisma 50",
+        "acceptPlayerMessage": "HonorSkills_Charisma_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Charisma_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Charisma_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_5": {
+        "_id": "HonorSkills_Memory_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_5 description",
+        "failMessageText": "HonorSkills_Memory_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_5 name",
+        "note": "HonorSkills_Memory_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Memory_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_5 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_5 successMessageText",
+        "templateId": "HonorSkills_Memory_5",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 5",
+        "acceptPlayerMessage": "HonorSkills_Memory_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_10": {
+        "_id": "HonorSkills_Memory_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_10 description",
+        "failMessageText": "HonorSkills_Memory_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_10 name",
+        "note": "HonorSkills_Memory_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Memory_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_10 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_10 successMessageText",
+        "templateId": "HonorSkills_Memory_10",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 10",
+        "acceptPlayerMessage": "HonorSkills_Memory_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_15": {
+        "_id": "HonorSkills_Memory_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_15 description",
+        "failMessageText": "HonorSkills_Memory_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_15 name",
+        "note": "HonorSkills_Memory_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Memory_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_15 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_15 successMessageText",
+        "templateId": "HonorSkills_Memory_15",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 15",
+        "acceptPlayerMessage": "HonorSkills_Memory_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_20": {
+        "_id": "HonorSkills_Memory_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_20 description",
+        "failMessageText": "HonorSkills_Memory_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_20 name",
+        "note": "HonorSkills_Memory_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Memory_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_20 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_20 successMessageText",
+        "templateId": "HonorSkills_Memory_20",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 20",
+        "acceptPlayerMessage": "HonorSkills_Memory_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_25": {
+        "_id": "HonorSkills_Memory_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_25 description",
+        "failMessageText": "HonorSkills_Memory_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_25 name",
+        "note": "HonorSkills_Memory_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Memory_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_25 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_25 successMessageText",
+        "templateId": "HonorSkills_Memory_25",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 25",
+        "acceptPlayerMessage": "HonorSkills_Memory_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_30": {
+        "_id": "HonorSkills_Memory_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_30 description",
+        "failMessageText": "HonorSkills_Memory_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_30 name",
+        "note": "HonorSkills_Memory_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Memory_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_30 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_30 successMessageText",
+        "templateId": "HonorSkills_Memory_30",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 30",
+        "acceptPlayerMessage": "HonorSkills_Memory_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_35": {
+        "_id": "HonorSkills_Memory_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_35 description",
+        "failMessageText": "HonorSkills_Memory_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_35 name",
+        "note": "HonorSkills_Memory_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Memory_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_35 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_35 successMessageText",
+        "templateId": "HonorSkills_Memory_35",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 35",
+        "acceptPlayerMessage": "HonorSkills_Memory_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_40": {
+        "_id": "HonorSkills_Memory_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_40 description",
+        "failMessageText": "HonorSkills_Memory_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_40 name",
+        "note": "HonorSkills_Memory_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Memory_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_40 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_40 successMessageText",
+        "templateId": "HonorSkills_Memory_40",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 40",
+        "acceptPlayerMessage": "HonorSkills_Memory_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_45": {
+        "_id": "HonorSkills_Memory_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_45 description",
+        "failMessageText": "HonorSkills_Memory_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_45 name",
+        "note": "HonorSkills_Memory_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Memory_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_45 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_45 successMessageText",
+        "templateId": "HonorSkills_Memory_45",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 45",
+        "acceptPlayerMessage": "HonorSkills_Memory_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Memory_50": {
+        "_id": "HonorSkills_Memory_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Memory_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Memory_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Memory_50 description",
+        "failMessageText": "HonorSkills_Memory_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Memory_50 name",
+        "note": "HonorSkills_Memory_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Memory_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Memory_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Memory_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Memory_50 startedMessageText",
+        "successMessageText": "HonorSkills_Memory_50 successMessageText",
+        "templateId": "HonorSkills_Memory_50",
+        "traderId": "Elder_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Eld] Honor skills: Memory 50",
+        "acceptPlayerMessage": "HonorSkills_Memory_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Memory_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Memory_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

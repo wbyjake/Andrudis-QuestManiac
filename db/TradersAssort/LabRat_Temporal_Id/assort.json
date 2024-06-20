@@ -1,0 +1,5278 @@
+{
+  "items": [
+    
+{
+      "_id": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter",
+      "_tpl": "5c10c8fd86f7743d7d706df3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter",
+      "_tpl": "5c0e533786f7747fa23f4d47",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter",
+      "_tpl": "5ed515ece452db0eb56fc028",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter",
+      "_tpl": "5ed515c8d380ab312177c0fa",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter",
+      "_tpl": "5ed515f6915ec335206e4152",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter",
+      "_tpl": "5c0e530286f7747fa1419862",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter",
+      "_tpl": "5ed515e03a40a50460332579",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter",
+      "_tpl": "5ed5166ad380ab312177c100",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter",
+      "_tpl": "5fca138c2a7b221b2852a5c6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter",
+      "_tpl": "5ed5160a87bb8443d10680b5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter",
+      "_tpl": "5c0e531286f7747fa54205c2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter",
+      "_tpl": "5c0e531d86f7747fa23f4d42",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter",
+      "_tpl": "5fca13ca637ee0341a484f46",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter",
+      "_tpl": "5ed51652f6c34d2cc26336a1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter",
+      "_tpl": "5c0e534186f7747fa1419867",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Trade",
+      "_tpl": "5c10c8fd86f7743d7d706df3",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Trade",
+      "_tpl": "5c0e533786f7747fa23f4d47",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Trade",
+      "_tpl": "5ed515ece452db0eb56fc028",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Trade",
+      "_tpl": "5ed515c8d380ab312177c0fa",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Trade",
+      "_tpl": "5ed515f6915ec335206e4152",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Trade",
+      "_tpl": "5c0e530286f7747fa1419862",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Trade",
+      "_tpl": "5ed515e03a40a50460332579",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Trade",
+      "_tpl": "5ed5166ad380ab312177c100",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Trade",
+      "_tpl": "5fca138c2a7b221b2852a5c6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Trade",
+      "_tpl": "5ed5160a87bb8443d10680b5",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Trade",
+      "_tpl": "5c0e531286f7747fa54205c2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Trade",
+      "_tpl": "5c0e531d86f7747fa23f4d42",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Trade",
+      "_tpl": "5fca13ca637ee0341a484f46",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Trade",
+      "_tpl": "5ed51652f6c34d2cc26336a1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Trade",
+      "_tpl": "5c0e534186f7747fa1419867",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Contractor",
+      "_tpl": "5c94bbff86f7747ee735c08f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Supervisor",
+      "_tpl": "5c94bbff86f7747ee735c08f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5efde6b4f5448336730dbd61_Supervisor",
+      "_tpl": "5efde6b4f5448336730dbd61",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c1d0f4986f7744bb01837fa_Supervisor",
+      "_tpl": "5c1d0f4986f7744bb01837fa",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c1d0c5f86f7744bb2683cf0_Supervisor",
+      "_tpl": "5c1d0c5f86f7744bb2683cf0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c1d0dc586f7744baf2e7b79_Supervisor",
+      "_tpl": "5c1d0dc586f7744baf2e7b79",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c1d0efb86f7744baf2e7b7b_Supervisor",
+      "_tpl": "5c1d0efb86f7744baf2e7b7b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c1e495a86f7743109743dfb_Supervisor",
+      "_tpl": "5c1e495a86f7743109743dfb",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c1d0d6d86f7744bb2683e1f_Supervisor",
+      "_tpl": "5c1d0d6d86f7744bb2683e1f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc86840d7f00c002412c56c_Barter",
+      "_tpl": "5cc86840d7f00c002412c56c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc86832d7f00c000d3a6e6c_Barter",
+      "_tpl": "5cc86832d7f00c000d3a6e6c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f79e4a949033c7343b2_Barter",
+      "_tpl": "5cc80f79e4a949033c7343b2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f8fe4a949033b0224a2_Barter",
+      "_tpl": "5cc80f8fe4a949033b0224a2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f53e4a949000e1ea4f8_Barter",
+      "_tpl": "5cc80f53e4a949000e1ea4f8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f67e4a949035e43bbba_Barter",
+      "_tpl": "5cc80f67e4a949035e43bbba",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f38e4a949001152b560_Barter",
+      "_tpl": "5cc80f38e4a949001152b560",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc86840d7f00c002412c56c_Purchase",
+      "_tpl": "5cc86840d7f00c002412c56c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc86832d7f00c000d3a6e6c_Purchase",
+      "_tpl": "5cc86832d7f00c000d3a6e6c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f79e4a949033c7343b2_Purchase",
+      "_tpl": "5cc80f79e4a949033c7343b2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f8fe4a949033b0224a2_Purchase",
+      "_tpl": "5cc80f8fe4a949033b0224a2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f53e4a949000e1ea4f8_Purchase",
+      "_tpl": "5cc80f53e4a949000e1ea4f8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f67e4a949035e43bbba_Purchase",
+      "_tpl": "5cc80f67e4a949035e43bbba",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cc80f38e4a949001152b560_Purchase",
+      "_tpl": "5cc80f38e4a949001152b560",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5735fdcd2459776445391d61_Barter",
+      "_tpl": "5735fdcd2459776445391d61",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5735ff5c245977640e39ba7e_Barter",
+      "_tpl": "5735ff5c245977640e39ba7e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5736026a245977644601dc61_Barter",
+      "_tpl": "5736026a245977644601dc61",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573603c924597764442bd9cb_Barter",
+      "_tpl": "573603c924597764442bd9cb",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5ea034f65aad6446a939737e_Trade",
+      "_tpl": "5ea034f65aad6446a939737e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573602322459776445391df1_Barter",
+      "_tpl": "573602322459776445391df1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573601b42459776410737435_Barter",
+      "_tpl": "573601b42459776410737435",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573603562459776430731618_Barter",
+      "_tpl": "573603562459776430731618",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5735fdcd2459776445391d61_Purchase",
+      "_tpl": "5735fdcd2459776445391d61",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5735ff5c245977640e39ba7e_Purchase",
+      "_tpl": "5735ff5c245977640e39ba7e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5736026a245977644601dc61_Purchase",
+      "_tpl": "5736026a245977644601dc61",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573603c924597764442bd9cb_Purchase",
+      "_tpl": "573603c924597764442bd9cb",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573602322459776445391df1_Purchase",
+      "_tpl": "573602322459776445391df1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573601b42459776410737435_Purchase",
+      "_tpl": "573601b42459776410737435",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573603562459776430731618_Purchase",
+      "_tpl": "573603562459776430731618",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573719762459775a626ccbc1_Barter",
+      "_tpl": "573719762459775a626ccbc1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573724b42459776125652ac2_Barter",
+      "_tpl": "573724b42459776125652ac2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573724b42459776125652ac2_Barter_cartridges",
+      "_tpl": "573719762459775a626ccbc1",
+      "parentId": "LabRat_Temporal_Id_573724b42459776125652ac2_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371f8d24597761006c6a81_Barter",
+      "_tpl": "57371f8d24597761006c6a81",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737273924597765dd374461_Barter",
+      "_tpl": "5737273924597765dd374461",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737273924597765dd374461_Barter_cartridges",
+      "_tpl": "57371f8d24597761006c6a81",
+      "parentId": "LabRat_Temporal_Id_5737273924597765dd374461_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371f2b24597761224311f1_Barter",
+      "_tpl": "57371f2b24597761224311f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573726d824597765d96be361_Barter",
+      "_tpl": "573726d824597765d96be361",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573726d824597765d96be361_Barter_cartridges",
+      "_tpl": "57371f2b24597761224311f1",
+      "parentId": "LabRat_Temporal_Id_573726d824597765d96be361_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371eb62459776125652ac1_Barter",
+      "_tpl": "57371eb62459776125652ac1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737266524597761006c6a8c_Barter",
+      "_tpl": "5737266524597761006c6a8c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737266524597761006c6a8c_Barter_cartridges",
+      "_tpl": "57371eb62459776125652ac1",
+      "parentId": "LabRat_Temporal_Id_5737266524597761006c6a8c_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371e4124597760ff7b25f1_Barter",
+      "_tpl": "57371e4124597760ff7b25f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737260b24597761224311f2_Barter",
+      "_tpl": "5737260b24597761224311f2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737260b24597761224311f2_Barter_cartridges",
+      "_tpl": "57371e4124597760ff7b25f1",
+      "parentId": "LabRat_Temporal_Id_5737260b24597761224311f2_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371b192459775a9f58a5e0_Barter",
+      "_tpl": "57371b192459775a9f58a5e0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573725b0245977612125bae2_Barter",
+      "_tpl": "573725b0245977612125bae2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573725b0245977612125bae2_Barter_cartridges",
+      "_tpl": "57371b192459775a9f58a5e0",
+      "parentId": "LabRat_Temporal_Id_573725b0245977612125bae2_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737201124597760fc4431f1_Barter",
+      "_tpl": "5737201124597760fc4431f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573727c624597765cc785b5b_Barter",
+      "_tpl": "573727c624597765cc785b5b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573727c624597765cc785b5b_Barter_cartridges",
+      "_tpl": "5737201124597760fc4431f1",
+      "parentId": "LabRat_Temporal_Id_573727c624597765cc785b5b_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737218f245977612125ba51_Barter",
+      "_tpl": "5737218f245977612125ba51",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573728f324597765e5728561_Barter",
+      "_tpl": "573728f324597765e5728561",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573728f324597765e5728561_Barter_cartridges",
+      "_tpl": "5737218f245977612125ba51",
+      "parentId": "LabRat_Temporal_Id_573728f324597765e5728561_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57d1519e24597714373db79d_Trade",
+      "_tpl": "57d1519e24597714373db79d",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737207f24597760ff7b25f2_Barter",
+      "_tpl": "5737207f24597760ff7b25f2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737280e24597765cc785b5c_Barter",
+      "_tpl": "5737280e24597765cc785b5c",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737280e24597765cc785b5c_Barter_cartridges",
+      "_tpl": "5737207f24597760ff7b25f2",
+      "parentId": "LabRat_Temporal_Id_5737280e24597765cc785b5c_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573720e02459776143012541_Barter",
+      "_tpl": "573720e02459776143012541",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737287724597765e1625ae2_Barter",
+      "_tpl": "5737287724597765e1625ae2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737287724597765e1625ae2_Barter_cartridges",
+      "_tpl": "573720e02459776143012541",
+      "parentId": "LabRat_Temporal_Id_5737287724597765e1625ae2_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57372140245977611f70ee91_Barter",
+      "_tpl": "57372140245977611f70ee91",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573728cc24597765cc785b5d_Barter",
+      "_tpl": "573728cc24597765cc785b5d",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573728cc24597765cc785b5d_Barter_cartridges",
+      "_tpl": "57372140245977611f70ee91",
+      "parentId": "LabRat_Temporal_Id_573728cc24597765cc785b5d_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573718ba2459775a75491131_Barter",
+      "_tpl": "573718ba2459775a75491131",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573722e82459776104581c21_Barter",
+      "_tpl": "573722e82459776104581c21",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_573722e82459776104581c21_Barter_cartridges",
+      "_tpl": "573718ba2459775a75491131",
+      "parentId": "LabRat_Temporal_Id_573722e82459776104581c21_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_55d485be4bdc2d962f8b456f_Trade",
+      "_tpl": "55d485be4bdc2d962f8b456f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371aab2459775a77142f22_Barter",
+      "_tpl": "57371aab2459775a77142f22",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737256c2459776125652acd_Barter",
+      "_tpl": "5737256c2459776125652acd",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737256c2459776125652acd_Barter_cartridges",
+      "_tpl": "57371aab2459775a77142f22",
+      "parentId": "LabRat_Temporal_Id_5737256c2459776125652acd_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573719df2459775a626ccbc2_Barter",
+      "_tpl": "573719df2459775a626ccbc2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737250c2459776125652acc_Barter",
+      "_tpl": "5737250c2459776125652acc",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5737250c2459776125652acc_Barter_cartridges",
+      "_tpl": "573719df2459775a626ccbc2",
+      "parentId": "LabRat_Temporal_Id_5737250c2459776125652acc_Barter",
+      "slotId": "cartridges"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573719762459775a626ccbc1_Purchase",
+      "_tpl": "573719762459775a626ccbc1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371f8d24597761006c6a81_Purchase",
+      "_tpl": "57371f8d24597761006c6a81",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371f2b24597761224311f1_Purchase",
+      "_tpl": "57371f2b24597761224311f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371eb62459776125652ac1_Purchase",
+      "_tpl": "57371eb62459776125652ac1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371e4124597760ff7b25f1_Purchase",
+      "_tpl": "57371e4124597760ff7b25f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371b192459775a9f58a5e0_Purchase",
+      "_tpl": "57371b192459775a9f58a5e0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737201124597760fc4431f1_Purchase",
+      "_tpl": "5737201124597760fc4431f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737218f245977612125ba51_Purchase",
+      "_tpl": "5737218f245977612125ba51",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5737207f24597760ff7b25f2_Purchase",
+      "_tpl": "5737207f24597760ff7b25f2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573720e02459776143012541_Purchase",
+      "_tpl": "573720e02459776143012541",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57372140245977611f70ee91_Purchase",
+      "_tpl": "57372140245977611f70ee91",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573718ba2459775a75491131_Purchase",
+      "_tpl": "573718ba2459775a75491131",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_57371aab2459775a77142f22_Purchase",
+      "_tpl": "57371aab2459775a77142f22",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_573719df2459775a626ccbc2_Purchase",
+      "_tpl": "573719df2459775a626ccbc2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a26abfac4a28232980eabff_Barter",
+      "_tpl": "5a26abfac4a28232980eabff",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a26ac06c4a282000c5a90a8_Barter",
+      "_tpl": "5a26ac06c4a282000c5a90a8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a269f97c4a282000b151807_Barter",
+      "_tpl": "5a269f97c4a282000b151807",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a26ac0ec4a28200741e1e18_Barter",
+      "_tpl": "5a26ac0ec4a28200741e1e18",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a26abfac4a28232980eabff_Purchase",
+      "_tpl": "5a26abfac4a28232980eabff",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a26ac06c4a282000c5a90a8_Purchase",
+      "_tpl": "5a26ac06c4a282000c5a90a8",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a269f97c4a282000b151807_Purchase",
+      "_tpl": "5a269f97c4a282000b151807",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a26ac0ec4a28200741e1e18_Purchase",
+      "_tpl": "5a26ac0ec4a28200741e1e18",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5b432b965acfc47a8774094e_Barter",
+      "_tpl": "5b432b965acfc47a8774094e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_6033fa48ffd42c541047f728_Barter",
+      "_tpl": "6033fa48ffd42c541047f728",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Barter",
+      "_tpl": "5c165d832e2216398b5a7e36",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Barter",
+      "_tpl": "5645bcc04bdc2d363b8b4572",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Barter",
+      "_tpl": "5aa2ba71e5b5b000137b758f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Barter",
+      "_tpl": "5a16b9fffcdbcb0176308b34",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5e4d34ca86f774264f758330_Barter",
+      "_tpl": "5e4d34ca86f774264f758330",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Barter",
+      "_tpl": "5f60cd6cf2bcbb675b00dac6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5b432b965acfc47a8774094e_Trade",
+      "_tpl": "5b432b965acfc47a8774094e",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_6033fa48ffd42c541047f728_Trade",
+      "_tpl": "6033fa48ffd42c541047f728",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Trade",
+      "_tpl": "5c165d832e2216398b5a7e36",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Trade",
+      "_tpl": "5645bcc04bdc2d363b8b4572",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Trade",
+      "_tpl": "5aa2ba71e5b5b000137b758f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Trade",
+      "_tpl": "5a16b9fffcdbcb0176308b34",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5e4d34ca86f774264f758330_Trade",
+      "_tpl": "5e4d34ca86f774264f758330",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Trade",
+      "_tpl": "5f60cd6cf2bcbb675b00dac6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter",
+      "_tpl": "5cadc190ae921500103bb3b6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_barrel",
+      "_tpl": "5cadc1c6ae9215000f2775a4",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_barrel_mod_muzzle",
+      "_tpl": "5cadc390ae921500126a77f1",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_pistol_grip",
+      "_tpl": "5cadc431ae921500113bb8d5",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_reciever",
+      "_tpl": "5cadc55cae921500103bb3be",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "5cadd940ae9215051e1c2316",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "5cadd919ae921500126a77f3",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter_mod_magazine",
+      "_tpl": "5cadc2e0ae9215051e1c21e7",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_579204f224597773d619e051_Barter",
+      "_tpl": "579204f224597773d619e051",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_579204f224597773d619e051_Barter_mod_magazine",
+      "_tpl": "5448c12b4bdc2d02308b456f",
+      "parentId": "LabRat_Temporal_Id_579204f224597773d619e051_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter",
+      "_tpl": "571a12c42459771f627b58a0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter_mod_barrel",
+      "_tpl": "571a26d524597720680fbe8a",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter_mod_pistol_grip",
+      "_tpl": "5c079ec50db834001966a706",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter_mod_magazine",
+      "_tpl": "571a29dc2459771fb2755a6a",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter_mod_muzzle",
+      "_tpl": "5bffd7ed0db834001d23ebf9",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter_mod_tactical",
+      "_tpl": "5c079ed60db834001a66b372",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter",
+      "slotId": "mod_tactical"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_571a29dc2459771fb2755a6a_Barter",
+      "_tpl": "571a29dc2459771fb2755a6a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5448c12b4bdc2d02308b456f_Barter",
+      "_tpl": "5448c12b4bdc2d02308b456f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cadc2e0ae9215051e1c21e7_Barter",
+      "_tpl": "5cadc2e0ae9215051e1c21e7",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter",
+      "_tpl": "576a581d2459771e7b1bc4f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter_mod_magazine",
+      "_tpl": "576a5ed62459771e9c2096cb",
+      "parentId": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter_mod_pistol_grip",
+      "_tpl": "576a63cd2459771e796e0e11",
+      "parentId": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter",
+      "slotId": "mod_pistol_grip"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter",
+      "_tpl": "5a7ae0c351dfba0017554310",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_barrel",
+      "_tpl": "5a6b5f868dc32e000a311389",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_pistol_grip",
+      "_tpl": "5a7b4960e899ef197b331a2d",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_reciever",
+      "_tpl": "5a6f5e048dc32e00094b97da",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "5a7d9122159bd4001438dbf4",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "5a7d90eb159bd400165484f1",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_magazine",
+      "_tpl": "5a718b548dc32e000d46d262",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_tactical",
+      "_tpl": "5a7ad74e51dfba0015068f45",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter",
+      "slotId": "mod_tactical"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_tactical_mod_tactical",
+      "_tpl": "5a7b483fe899ef0016170d15",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter_mod_tactical",
+      "slotId": "mod_tactical"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter",
+      "_tpl": "56d59856d2720bd8418b456a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel",
+      "_tpl": "587de4282459771bca0ec90b",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel_mod_muzzle",
+      "_tpl": "5a33a8ebc4a282000c5a950d",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel_mod_muzzle_mod_scope",
+      "_tpl": "5a33b2c9c4a282000c5a9511",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel_mod_muzzle",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel_mod_muzzle_mod_scope_mod_scope",
+      "_tpl": "5a32aa8bc4a2826c6e06d737",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_barrel_mod_muzzle_mod_scope",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_pistol_grip",
+      "_tpl": "56d5a2bbd2720bb8418b456a",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_reciever",
+      "_tpl": "56d5a407d2720bb3418b456b",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "56d5a77ed2720b90418b4568",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "56d5a661d2720bd8418b456b",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter_mod_magazine",
+      "_tpl": "56d59948d2720bb7418b4582",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_576a5ed62459771e9c2096cb_Barter",
+      "_tpl": "576a5ed62459771e9c2096cb",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_56d59948d2720bb7418b4582_Barter",
+      "_tpl": "56d59948d2720bb7418b4582",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a718b548dc32e000d46d262_Barter",
+      "_tpl": "5a718b548dc32e000d46d262",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "_tpl": "5f36a0e5fbf956000b716b65",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_barrel",
+      "_tpl": "5f3e7801153b8571434a924c",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_pistol_grip",
+      "_tpl": "5f3e778efcd9b651187d7201",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_reciever",
+      "_tpl": "5f3e7823ddc4f03b010e2045",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "5f3e7897ddc4f03b010e204a",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "5f3e78a7fbf956000b716b8e",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_magazine",
+      "_tpl": "5f3e77b26cda304dcc634057",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_trigger",
+      "_tpl": "5f3e772a670e2a7b01739a52",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_trigger"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_hammer",
+      "_tpl": "5f3e76d86cda304dcc634054",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_hammer"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter_mod_catch",
+      "_tpl": "5f3e777688ca2d00ad199d25",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter",
+      "slotId": "mod_catch"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "_tpl": "6193a720f8ee7e52e42109ed",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_barrel",
+      "_tpl": "6194efe07c6c7b169525f11b",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_barrel_mod_muzzle",
+      "_tpl": "6194f1f918a3974e5e7421e4",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_reciever",
+      "_tpl": "6194f41f9fb0c665d5490e75",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "6194f2df645b5d229654ad77",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "6194f3286db0f2477964e67d",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_magazine",
+      "_tpl": "6193d3149fb0c665d5490e32",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_trigger",
+      "_tpl": "6193d3cded0429009f543e6a",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_trigger"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_hammer",
+      "_tpl": "6193d3be7c6c7b169525f0da",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_hammer"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_catch",
+      "_tpl": "6193d5d4f8ee7e52e4210a1b",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_catch"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter_mod_mount_000",
+      "_tpl": "6196255558ef8c428c287d1c",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter",
+      "slotId": "mod_mount_000"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter",
+      "_tpl": "5a17f98cfcdbcb0980087290",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter_mod_magazine",
+      "_tpl": "5a17fb03fcdbcbcae668728f",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter_mod_pistol_grip",
+      "_tpl": "5a17fc70fcdbcb0176308b3d",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter_mod_sight_front",
+      "_tpl": "5aba62f8d8ce87001943946b",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter_mod_sight_rear",
+      "_tpl": "5aba637ad8ce87001773e17f",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter",
+      "slotId": "mod_sight_rear"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter",
+      "_tpl": "602a9740da11d6478d5a06dc",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_barrel",
+      "_tpl": "602a95edda11d6478d5a06da",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_reciever",
+      "_tpl": "60228924961b8d75ee233c32",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "60229948cacb6b0506369e27",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "60228a76d62c9b14ed777a66",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter_mod_magazine",
+      "_tpl": "602286df23506e50807090c6",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5e81c4ca763d9f754677befa_Barter",
+      "_tpl": "5e81c4ca763d9f754677befa",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5f3e77b26cda304dcc634057_Barter",
+      "_tpl": "5f3e77b26cda304dcc634057",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a17fb03fcdbcbcae668728f_Barter",
+      "_tpl": "5a17fb03fcdbcbcae668728f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_602286df23506e50807090c6_Barter",
+      "_tpl": "602286df23506e50807090c6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_6193d338de3cdf1d2614a6fc_Barter",
+      "_tpl": "6193d338de3cdf1d2614a6fc",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter",
+      "_tpl": "5d3eb3b0a4b93615055e84d2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_barrel",
+      "_tpl": "5d3eb5b6a4b9361eab311902",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_reciever",
+      "_tpl": "5d3eb44aa4b93650d64e4979",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "5d3eb4aba4b93650d64e497d",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "5d3eb536a4b9363b1f22f8e2",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter_mod_magazine",
+      "_tpl": "5d3eb5eca4b9363b1f22f8e4",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter",
+      "_tpl": "5b1fa9b25acfc40018633c01",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_barrel",
+      "_tpl": "5b1fa9ea5acfc40018633c0a",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_reciever",
+      "_tpl": "5b1faa0f5acfc40dc528aeb5",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_reciever_mod_sight_rear",
+      "_tpl": "5a6f5d528dc32e00094b97d9",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_reciever_mod_sight_front",
+      "_tpl": "5a6f58f68dc32e000a311390",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter_mod_magazine",
+      "_tpl": "5a718b548dc32e000d46d262",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter",
+      "_tpl": "59f98b4986f7746f546d2cef",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter_mod_mount",
+      "_tpl": "5a27b281c4a28200741e1e52",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter",
+      "slotId": "mod_mount"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter_mod_mount_mod_mount",
+      "_tpl": "5a27b3d0c4a282000d721ec1",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter_mod_mount",
+      "slotId": "mod_mount"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter_mod_mount_mod_mount_mod_muzzle",
+      "_tpl": "5a27b6bec4a282000e496f78",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter_mod_mount_mod_mount",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter_mod_magazine",
+      "_tpl": "59f99a7d86f7745b134aa97b",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5d3eb5eca4b9363b1f22f8e4_Barter",
+      "_tpl": "5d3eb5eca4b9363b1f22f8e4",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_59f99a7d86f7745b134aa97b_Barter",
+      "_tpl": "59f99a7d86f7745b134aa97b",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade",
+      "_tpl": "5cadc190ae921500103bb3b6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_barrel",
+      "_tpl": "5cadc1c6ae9215000f2775a4",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_barrel_mod_muzzle",
+      "_tpl": "5cadc390ae921500126a77f1",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_pistol_grip",
+      "_tpl": "5cadc431ae921500113bb8d5",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_reciever",
+      "_tpl": "5cadc55cae921500103bb3be",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5cadd940ae9215051e1c2316",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5cadd919ae921500126a77f3",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade_mod_magazine",
+      "_tpl": "5cadc2e0ae9215051e1c21e7",
+      "parentId": "LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_579204f224597773d619e051_Trade",
+      "_tpl": "579204f224597773d619e051",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_579204f224597773d619e051_Trade_mod_magazine",
+      "_tpl": "5448c12b4bdc2d02308b456f",
+      "parentId": "LabRat_Temporal_Id_579204f224597773d619e051_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5448bd6b4bdc2dfc2f8b4569_Trade",
+      "_tpl": "5448bd6b4bdc2dfc2f8b4569",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5448bd6b4bdc2dfc2f8b4569_Trade_mod_magazine",
+      "_tpl": "5448c12b4bdc2d02308b456f",
+      "parentId": "LabRat_Temporal_Id_5448bd6b4bdc2dfc2f8b4569_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade",
+      "_tpl": "56e0598dd2720bb5668b45a6",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade_mod_magazine",
+      "_tpl": "5448c12b4bdc2d02308b456f",
+      "parentId": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade_mod_muzzle",
+      "_tpl": "56e05b06d2720bb2668b4586",
+      "parentId": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade_mod_pistol_grip",
+      "_tpl": "56e05a6ed2720bd0748b4567",
+      "parentId": "LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade",
+      "slotId": "mod_pistol_grip"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade",
+      "_tpl": "571a12c42459771f627b58a0",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade_mod_barrel",
+      "_tpl": "571a26d524597720680fbe8a",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade_mod_pistol_grip",
+      "_tpl": "5c079ec50db834001966a706",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade_mod_magazine",
+      "_tpl": "571a29dc2459771fb2755a6a",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade_mod_muzzle",
+      "_tpl": "5bffd7ed0db834001d23ebf9",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade_mod_tactical",
+      "_tpl": "5c079ed60db834001a66b372",
+      "parentId": "LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade",
+      "slotId": "mod_tactical"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade",
+      "_tpl": "5b3b713c5acfc4330140bd8d",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade_mod_barrel",
+      "_tpl": "5b3baf8f5acfc40dc5296692",
+      "parentId": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade_mod_pistol_grip",
+      "_tpl": "5b3cadf35acfc400194776a0",
+      "parentId": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade_mod_magazine",
+      "_tpl": "571a29dc2459771fb2755a6a",
+      "parentId": "LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade",
+      "_tpl": "576a581d2459771e7b1bc4f1",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade_mod_magazine",
+      "_tpl": "576a5ed62459771e9c2096cb",
+      "parentId": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade_mod_pistol_grip",
+      "_tpl": "576a63cd2459771e796e0e11",
+      "parentId": "LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade",
+      "slotId": "mod_pistol_grip"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade",
+      "_tpl": "5a7ae0c351dfba0017554310",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_barrel",
+      "_tpl": "5a6b5f868dc32e000a311389",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_pistol_grip",
+      "_tpl": "5a7b4960e899ef197b331a2d",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_reciever",
+      "_tpl": "5a6f5e048dc32e00094b97da",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5a7d9122159bd4001438dbf4",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5a7d90eb159bd400165484f1",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_magazine",
+      "_tpl": "5a718b548dc32e000d46d262",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_tactical",
+      "_tpl": "5a7ad74e51dfba0015068f45",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade",
+      "slotId": "mod_tactical"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_tactical_mod_tactical",
+      "_tpl": "5a7b483fe899ef0016170d15",
+      "parentId": "LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade_mod_tactical",
+      "slotId": "mod_tactical"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade",
+      "_tpl": "56d59856d2720bd8418b456a",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel",
+      "_tpl": "587de4282459771bca0ec90b",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel_mod_muzzle",
+      "_tpl": "5a33a8ebc4a282000c5a950d",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel_mod_muzzle_mod_scope",
+      "_tpl": "5a33b2c9c4a282000c5a9511",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel_mod_muzzle",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel_mod_muzzle_mod_scope_mod_scope",
+      "_tpl": "5a32aa8bc4a2826c6e06d737",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_barrel_mod_muzzle_mod_scope",
+      "slotId": "mod_scope"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_pistol_grip",
+      "_tpl": "56d5a2bbd2720bb8418b456a",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_reciever",
+      "_tpl": "56d5a407d2720bb3418b456b",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "56d5a77ed2720b90418b4568",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "56d5a661d2720bd8418b456b",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade_mod_magazine",
+      "_tpl": "56d59948d2720bb7418b4582",
+      "parentId": "LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "_tpl": "5f36a0e5fbf956000b716b65",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_barrel",
+      "_tpl": "5f3e7801153b8571434a924c",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_pistol_grip",
+      "_tpl": "5f3e778efcd9b651187d7201",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_reciever",
+      "_tpl": "5f3e7823ddc4f03b010e2045",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5f3e7897ddc4f03b010e204a",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5f3e78a7fbf956000b716b8e",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_magazine",
+      "_tpl": "5f3e77b26cda304dcc634057",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_trigger",
+      "_tpl": "5f3e772a670e2a7b01739a52",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_trigger"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_hammer",
+      "_tpl": "5f3e76d86cda304dcc634054",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_hammer"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade_mod_catch",
+      "_tpl": "5f3e777688ca2d00ad199d25",
+      "parentId": "LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade",
+      "slotId": "mod_catch"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "_tpl": "5e81c3cbac2bb513793cdc75",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_barrel",
+      "_tpl": "5e81c519cb2b95385c177551",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_pistol_grip",
+      "_tpl": "5e81c6bf763d9f754677beff",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_reciever",
+      "_tpl": "5e81edc13397a21db957f6a1",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5e81ee4dcb2b95385c177582",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5e81ee213397a21db957f6a6",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_magazine",
+      "_tpl": "5e81c4ca763d9f754677befa",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_trigger",
+      "_tpl": "5e81c6a2ac2bb513793cdc7f",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_trigger"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_hammer",
+      "_tpl": "5e81c550763d9f754677befd",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_hammer"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade_mod_catch",
+      "_tpl": "5e81c539cb2b95385c177553",
+      "parentId": "LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade",
+      "slotId": "mod_catch"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "_tpl": "6193a720f8ee7e52e42109ed",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_barrel",
+      "_tpl": "6194efe07c6c7b169525f11b",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_barrel_mod_muzzle",
+      "_tpl": "6194f1f918a3974e5e7421e4",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_barrel",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_reciever",
+      "_tpl": "6194f41f9fb0c665d5490e75",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "6194f2df645b5d229654ad77",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "6194f3286db0f2477964e67d",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_magazine",
+      "_tpl": "6193d3149fb0c665d5490e32",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_trigger",
+      "_tpl": "6193d3cded0429009f543e6a",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_trigger"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_hammer",
+      "_tpl": "6193d3be7c6c7b169525f0da",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_hammer"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_catch",
+      "_tpl": "6193d5d4f8ee7e52e4210a1b",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_catch"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade_mod_mount_000",
+      "_tpl": "6196255558ef8c428c287d1c",
+      "parentId": "LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade",
+      "slotId": "mod_mount_000"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade",
+      "_tpl": "5a17f98cfcdbcb0980087290",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade_mod_magazine",
+      "_tpl": "5a17fb03fcdbcbcae668728f",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade_mod_pistol_grip",
+      "_tpl": "5a17fc70fcdbcb0176308b3d",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade_mod_sight_front",
+      "_tpl": "5aba62f8d8ce87001943946b",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade_mod_sight_rear",
+      "_tpl": "5aba637ad8ce87001773e17f",
+      "parentId": "LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade",
+      "slotId": "mod_sight_rear"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "_tpl": "5abccb7dd8ce87001773e277",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade_mod_magazine",
+      "_tpl": "5a17fb03fcdbcbcae668728f",
+      "parentId": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "slotId": "mod_magazine"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade_mod_stock",
+      "_tpl": "5a17fb9dfcdbcbcae6687291",
+      "parentId": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "slotId": "mod_stock"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade_mod_pistol_grip",
+      "_tpl": "5a17fc70fcdbcb0176308b3d",
+      "parentId": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "slotId": "mod_pistol_grip"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade_mod_sight_front",
+      "_tpl": "5aba62f8d8ce87001943946b",
+      "parentId": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade_mod_sight_rear",
+      "_tpl": "5aba639ed8ce8700182ece67",
+      "parentId": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade_mod_muzzle",
+      "_tpl": "5abcc328d8ce8700194394f3",
+      "parentId": "LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade",
+      "slotId": "mod_muzzle"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade",
+      "_tpl": "602a9740da11d6478d5a06dc",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_barrel",
+      "_tpl": "602a95edda11d6478d5a06da",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_reciever",
+      "_tpl": "60228924961b8d75ee233c32",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "60229948cacb6b0506369e27",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "60228a76d62c9b14ed777a66",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade_mod_magazine",
+      "_tpl": "602286df23506e50807090c6",
+      "parentId": "LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade",
+      "_tpl": "5d3eb3b0a4b93615055e84d2",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_barrel",
+      "_tpl": "5d3eb5b6a4b9361eab311902",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_reciever",
+      "_tpl": "5d3eb44aa4b93650d64e4979",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5d3eb4aba4b93650d64e497d",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5d3eb536a4b9363b1f22f8e2",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade_mod_magazine",
+      "_tpl": "5d3eb5eca4b9363b1f22f8e4",
+      "parentId": "LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade",
+      "_tpl": "5d67abc1a4b93614ec50137f",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_barrel",
+      "_tpl": "5d3eb5b6a4b9361eab311902",
+      "parentId": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_reciever",
+      "_tpl": "5d3eb44aa4b93650d64e4979",
+      "parentId": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5d3eb4aba4b93650d64e497d",
+      "parentId": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5d3eb536a4b9363b1f22f8e2",
+      "parentId": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade_mod_magazine",
+      "_tpl": "5d3eb5eca4b9363b1f22f8e4",
+      "parentId": "LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade",
+      "_tpl": "5b1fa9b25acfc40018633c01",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_barrel",
+      "_tpl": "5b1fa9ea5acfc40018633c0a",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade",
+      "slotId": "mod_barrel"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_reciever",
+      "_tpl": "5b1faa0f5acfc40dc528aeb5",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade",
+      "slotId": "mod_reciever"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_reciever_mod_sight_rear",
+      "_tpl": "5a6f5d528dc32e00094b97d9",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_reciever",
+      "slotId": "mod_sight_rear"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_reciever_mod_sight_front",
+      "_tpl": "5a6f58f68dc32e000a311390",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_reciever",
+      "slotId": "mod_sight_front"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade_mod_magazine",
+      "_tpl": "5a718b548dc32e000d46d262",
+      "parentId": "LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade",
+      "slotId": "mod_magazine"
+      
+}
+ , 
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade",
+      "_tpl": "59f98b4986f7746f546d2cef",
+      "parentId": "hideout",
+      "slotId": "hideout"
+      ,"upd": { "UnlimitedCount": true, "StackObjectsCount": 999999999 }
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade_mod_mount",
+      "_tpl": "5a27b281c4a28200741e1e52",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade",
+      "slotId": "mod_mount"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade_mod_mount_mod_mount",
+      "_tpl": "5a27b3d0c4a282000d721ec1",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade_mod_mount",
+      "slotId": "mod_mount"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade_mod_mount_mod_mount_mod_muzzle",
+      "_tpl": "5a27b6bec4a282000e496f78",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade_mod_mount_mod_mount",
+      "slotId": "mod_muzzle"
+      
+},
+{
+      "_id": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade_mod_magazine",
+      "_tpl": "59f99a7d86f7745b134aa97b",
+      "parentId": "LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade",
+      "slotId": "mod_magazine"
+      
+}
+
+  ],
+  "barter_scheme": {
+   
+"LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "544fb3f34bdc2d03748b456a"
+        }
+ , 
+        {
+          "count": 4,
+          
+          "_tpl": "5d1b3a5d86f774252167ba22"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5e8488fa988a8701445df1e4"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b3f2d86f774253763b735"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5755356824597772cb798962"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b3f2d86f774253763b735"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5b4335ba86f7744d2837a264"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "59e3606886f77417674759a5"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5ed515ece452db0eb56fc028"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "590c695186f7741e566b64a2"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5c0e533786f7747fa23f4d47"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "59e361e886f774176c10a2a5"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b3f2d86f774253763b735"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5b4335ba86f7744d2837a264"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "590c695186f7741e566b64a2"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b3f2d86f774253763b735"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5b4335ba86f7744d2837a264"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "59e361e886f774176c10a2a5"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5c10c8fd86f7743d7d706df3"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "59e3606886f77417674759a5"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "544fb45d4bdc2dee738b4568"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "544fb3f34bdc2d03748b456a"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5d1b3f2d86f774253763b735"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5ed515c8d380ab312177c0fa"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "590c661e86f7741e566b646a"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "544fb3f34bdc2d03748b456a"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5ed5160a87bb8443d10680b5"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "544fb37f4bdc2dee738b4567"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5c0e531286f7747fa54205c2"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "5ed515c8d380ab312177c0fa"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5c0e531286f7747fa54205c2"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "5ed515e03a40a50460332579"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5ed5166ad380ab312177c100"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "5d403f9186f7743cac3f229b"
+        }
+ , 
+        {
+          "count": 5,
+          
+          "_tpl": "5751435d24597720a27126d1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5c0e530286f7747fa1419862"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "5d403f9186f7743cac3f229b"
+        }
+ , 
+        {
+          "count": 2,
+          
+          "_tpl": "544fb3f34bdc2d03748b456a"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Trade": [
+      [
+        
+        {
+          "count": 15000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Trade": [
+      [
+        
+        {
+          "count": 17000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Trade": [
+      [
+        
+        {
+          "count": 18000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Trade": [
+      [
+        
+        {
+          "count": 35000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515f6915ec335206e4152_Trade": [
+      [
+        
+        {
+          "count": 21000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e530286f7747fa1419862_Trade": [
+      [
+        
+        {
+          "count": 13000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed515e03a40a50460332579_Trade": [
+      [
+        
+        {
+          "count": 20000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed5166ad380ab312177c100_Trade": [
+      [
+        
+        {
+          "count": 38000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Trade": [
+      [
+        
+        {
+          "count": 38500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Trade": [
+      [
+        
+        {
+          "count": 41000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Trade": [
+      [
+        
+        {
+          "count": 30000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Trade": [
+      [
+        
+        {
+          "count": 44000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Trade": [
+      [
+        
+        {
+          "count": 80000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Trade": [
+      [
+        
+        {
+          "count": 68000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c0e534186f7747fa1419867_Trade": [
+      [
+        
+        {
+          "count": 40000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Contractor": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "59faff1d86f7746c51718c9c"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Supervisor": [
+      [
+        
+        {
+          "count": 375000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5efde6b4f5448336730dbd61_Supervisor": [
+      [
+        
+        {
+          "count": 250000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c1d0f4986f7744bb01837fa_Supervisor": [
+      [
+        
+        {
+          "count": 5000000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c1d0c5f86f7744bb2683cf0_Supervisor": [
+      [
+        
+        {
+          "count": 26000000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c1d0dc586f7744baf2e7b79_Supervisor": [
+      [
+        
+        {
+          "count": 150000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c1d0efb86f7744baf2e7b7b_Supervisor": [
+      [
+        
+        {
+          "count": 80000000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c1e495a86f7743109743dfb_Supervisor": [
+      [
+        
+        {
+          "count": 8000000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c1d0d6d86f7744bb2683e1f_Supervisor": [
+      [
+        
+        {
+          "count": 50000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc86840d7f00c002412c56c_Barter": [
+      [
+        
+        {
+          "count": 8,
+          
+          "_tpl": "59e4cf5286f7741778269d8a"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc86832d7f00c000d3a6e6c_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5cc86840d7f00c002412c56c"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f79e4a949033c7343b2_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5cc86832d7f00c000d3a6e6c"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f8fe4a949033b0224a2_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5cc80f79e4a949033c7343b2"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f53e4a949000e1ea4f8_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5cc80f8fe4a949033b0224a2"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f67e4a949035e43bbba_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5cc80f53e4a949000e1ea4f8"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f38e4a949001152b560_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5cc80f67e4a949035e43bbba"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc86840d7f00c002412c56c_Purchase": [
+      [
+        
+        {
+          "count": 300,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc86832d7f00c000d3a6e6c_Purchase": [
+      [
+        
+        {
+          "count": 400,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f79e4a949033c7343b2_Purchase": [
+      [
+        
+        {
+          "count": 480,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f8fe4a949033b0224a2_Purchase": [
+      [
+        
+        {
+          "count": 730,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f53e4a949000e1ea4f8_Purchase": [
+      [
+        
+        {
+          "count": 1500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f67e4a949035e43bbba_Purchase": [
+      [
+        
+        {
+          "count": 1700,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cc80f38e4a949001152b560_Purchase": [
+      [
+        
+        {
+          "count": 1900,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5735fdcd2459776445391d61_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "57371f2b24597761224311f1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5735ff5c245977640e39ba7e_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5735fdcd2459776445391d61"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5736026a245977644601dc61_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5735ff5c245977640e39ba7e"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573603c924597764442bd9cb_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5736026a245977644601dc61"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5ea034f65aad6446a939737e_Trade": [
+      [
+        
+        {
+          "count": 28442,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573602322459776445391df1_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "573603c924597764442bd9cb"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573601b42459776410737435_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "573602322459776445391df1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573603562459776430731618_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "573601b42459776410737435"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5735fdcd2459776445391d61_Purchase": [
+      [
+        
+        {
+          "count": 49,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5735ff5c245977640e39ba7e_Purchase": [
+      [
+        
+        {
+          "count": 57,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5736026a245977644601dc61_Purchase": [
+      [
+        
+        {
+          "count": 57,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573603c924597764442bd9cb_Purchase": [
+      [
+        
+        {
+          "count": 60,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573602322459776445391df1_Purchase": [
+      [
+        
+        {
+          "count": 68,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573601b42459776410737435_Purchase": [
+      [
+        
+        {
+          "count": 120,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573603562459776430731618_Purchase": [
+      [
+        
+        {
+          "count": 200,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573719762459775a626ccbc1_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "560d5e524bdc2d25448b4571"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573724b42459776125652ac2_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5751487e245977207e26a315"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371f8d24597761006c6a81_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "573719762459775a626ccbc1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737273924597765dd374461_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "57347d3d245977448f7b7f61"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371f2b24597761224311f1_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57371f8d24597761006c6a81"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573726d824597765d96be361_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5672cb124bdc2d1a0f8b4568"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371eb62459776125652ac1_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "57371f2b24597761224311f1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737266524597761006c6a8c_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "56742c284bdc2d98058b456d"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371e4124597760ff7b25f1_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57371eb62459776125652ac1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737260b24597761224311f2_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5909e99886f7740c983b9984"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371b192459775a9f58a5e0_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "57371e4124597760ff7b25f1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573725b0245977612125bae2_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "57347c93245977448d35f6e3"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737201124597760fc4431f1_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57371b192459775a9f58a5e0"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573727c624597765cc785b5b_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5734795124597738002c6176"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737218f245977612125ba51_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5737201124597760fc4431f1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573728f324597765e5728561_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "57347b8b24597737dd42e192"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57d1519e24597714373db79d_Trade": [
+      [
+        
+        {
+          "count": 5029,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737207f24597760ff7b25f2_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5737218f245977612125ba51"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737280e24597765cc785b5c_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "577e1c9d2459773cd707c525"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573720e02459776143012541_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5737207f24597760ff7b25f2"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737287724597765e1625ae2_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "57347cd0245977445a2d6ff1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57372140245977611f70ee91_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "573720e02459776143012541"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573728cc24597765cc785b5d_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57347d9c245977448b40fa85"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573718ba2459775a75491131_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57372140245977611f70ee91"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573722e82459776104581c21_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "59e35ef086f7741777737012"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_55d485be4bdc2d962f8b456f_Trade": [
+      [
+        
+        {
+          "count": 40978,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371aab2459775a77142f22_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "573718ba2459775a75491131"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737256c2459776125652acd_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5c06782b86f77426df5407d2"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573719df2459775a626ccbc2_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "57371aab2459775a77142f22"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737250c2459776125652acc_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5673de654bdc2d180f8b456d"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573719762459775a626ccbc1_Purchase": [
+      [
+        
+        {
+          "count": 15,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371f8d24597761006c6a81_Purchase": [
+      [
+        
+        {
+          "count": 22,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371f2b24597761224311f1_Purchase": [
+      [
+        
+        {
+          "count": 29,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371eb62459776125652ac1_Purchase": [
+      [
+        
+        {
+          "count": 39,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371e4124597760ff7b25f1_Purchase": [
+      [
+        
+        {
+          "count": 47,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371b192459775a9f58a5e0_Purchase": [
+      [
+        
+        {
+          "count": 85,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737201124597760fc4431f1_Purchase": [
+      [
+        
+        {
+          "count": 90,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737218f245977612125ba51_Purchase": [
+      [
+        
+        {
+          "count": 100,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5737207f24597760ff7b25f2_Purchase": [
+      [
+        
+        {
+          "count": 115,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573720e02459776143012541_Purchase": [
+      [
+        
+        {
+          "count": 150,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57372140245977611f70ee91_Purchase": [
+      [
+        
+        {
+          "count": 300,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573718ba2459775a75491131_Purchase": [
+      [
+        
+        {
+          "count": 370,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_57371aab2459775a77142f22_Purchase": [
+      [
+        
+        {
+          "count": 400,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_573719df2459775a626ccbc2_Purchase": [
+      [
+        
+        {
+          "count": 430,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a26abfac4a28232980eabff_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "56dff3afd2720bba668b4567"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a26ac06c4a282000c5a90a8_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5a26abfac4a28232980eabff"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a269f97c4a282000b151807_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5a26ac06c4a282000c5a90a8"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a26ac0ec4a28200741e1e18_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "5a269f97c4a282000b151807"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a26abfac4a28232980eabff_Purchase": [
+      [
+        
+        {
+          "count": 160,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a26ac06c4a282000c5a90a8_Purchase": [
+      [
+        
+        {
+          "count": 260,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a269f97c4a282000b151807_Purchase": [
+      [
+        
+        {
+          "count": 520,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a26ac0ec4a28200741e1e18_Purchase": [
+      [
+        
+        {
+          "count": 1600,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5b432b965acfc47a8774094e_Barter": [
+      [
+        
+        {
+          "count": 6,
+          
+          "_tpl": "5b43271c5acfc432ff4dce65"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_6033fa48ffd42c541047f728_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5d1b392c86f77425243e98fe"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "544fb45d4bdc2dee738b4568"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Barter": [
+      [
+        
+        {
+          "count": 12,
+          
+          "_tpl": "5448ff904bdc2d6f028b456e"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "590c651286f7741e566b6461"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5e2af29386f7746d4159f077"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5e4d34ca86f774264f758330_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "57347c5b245977448d35f6e1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Barter": [
+      [
+        
+        {
+          "count": 5,
+          
+          "_tpl": "573477e124597737dd42e191"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5b432b965acfc47a8774094e_Trade": [
+      [
+        
+        {
+          "count": 12500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_6033fa48ffd42c541047f728_Trade": [
+      [
+        
+        {
+          "count": 19000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Trade": [
+      [
+        
+        {
+          "count": 23000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Trade": [
+      [
+        
+        {
+          "count": 29000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Trade": [
+      [
+        
+        {
+          "count": 29000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Trade": [
+      [
+        
+        {
+          "count": 29000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5e4d34ca86f774264f758330_Trade": [
+      [
+        
+        {
+          "count": 30500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Trade": [
+      [
+        
+        {
+          "count": 36000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5734779624597737e04bf329"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_579204f224597773d619e051_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "5909e99886f7740c983b9984"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "59e35ef086f7741777737012"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_571a29dc2459771fb2755a6a_Barter": [
+      [
+        
+        {
+          "count": 11975,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5448c12b4bdc2d02308b456f_Barter": [
+      [
+        
+        {
+          "count": 3500,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cadc2e0ae9215051e1c21e7_Barter": [
+      [
+        
+        {
+          "count": 16350,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d4042a986f7743185265463"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter": [
+      [
+        
+        {
+          "count": 7,
+          
+          "_tpl": "5734781f24597737e04bf32a"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "619cbfeb6b8a1b37a54eebfa"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_576a5ed62459771e9c2096cb_Barter": [
+      [
+        
+        {
+          "count": 4328,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_56d59948d2720bb7418b4582_Barter": [
+      [
+        
+        {
+          "count": 11652,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a718b548dc32e000d46d262_Barter": [
+      [
+        
+        {
+          "count": 2362,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "57347cd0245977445a2d6ff1"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter": [
+      [
+        
+        {
+          "count": 3,
+          
+          "_tpl": "619cc01e0a7c3a1a2731940c"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "59e36c6f86f774176c10a2a7"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter": [
+      [
+        
+        {
+          "count": 1,
+          
+          "_tpl": "5d235b4d86f7742e017bc88a"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5e81c4ca763d9f754677befa_Barter": [
+      [
+        
+        {
+          "count": 11527,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5f3e77b26cda304dcc634057_Barter": [
+      [
+        
+        {
+          "count": 9314,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a17fb03fcdbcbcae668728f_Barter": [
+      [
+        
+        {
+          "count": 4375,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_602286df23506e50807090c6_Barter": [
+      [
+        
+        {
+          "count": 7939,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_6193d338de3cdf1d2614a6fc_Barter": [
+      [
+        
+        {
+          "count": 19518,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "5d40419286f774318526545f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter": [
+      [
+        
+        {
+          "count": 4,
+          
+          "_tpl": "5734773724597737fd047c14"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter": [
+      [
+        
+        {
+          "count": 2,
+          
+          "_tpl": "573474f924597738002c6174"
+        }
+ , 
+        {
+          "count": 1,
+          
+          "_tpl": "619cbfeb6b8a1b37a54eebfa"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5d3eb5eca4b9363b1f22f8e4_Barter": [
+      [
+        
+        {
+          "count": 13931,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_59f99a7d86f7745b134aa97b_Barter": [
+      [
+        
+        {
+          "count": 6942,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade": [
+      [
+        
+        {
+          "count": 25000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_579204f224597773d619e051_Trade": [
+      [
+        
+        {
+          "count": 15000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5448bd6b4bdc2dfc2f8b4569_Trade": [
+      [
+        
+        {
+          "count": 10014,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade": [
+      [
+        
+        {
+          "count": 30321,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade": [
+      [
+        
+        {
+          "count": 12000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade": [
+      [
+        
+        {
+          "count": 174471,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade": [
+      [
+        
+        {
+          "count": 13000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade": [
+      [
+        
+        {
+          "count": 75000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade": [
+      [
+        
+        {
+          "count": 72000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade": [
+      [
+        
+        {
+          "count": 17000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade": [
+      [
+        
+        {
+          "count": 68773,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade": [
+      [
+        
+        {
+          "count": 30000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade": [
+      [
+        
+        {
+          "count": 17000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade": [
+      [
+        
+        {
+          "count": 88530,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade": [
+      [
+        
+        {
+          "count": 18000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade": [
+      [
+        
+        {
+          "count": 35000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade": [
+      [
+        
+        {
+          "count": 120798,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade": [
+      [
+        
+        {
+          "count": 40000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+ , 
+"LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade": [
+      [
+        
+        {
+          "count": 52000,
+          
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+
+      ]
+    ]
+
+  },
+  "loyal_level_items": {
+    "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter" : 1,
+"LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter" : 1,
+"LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter" : 1,
+"LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter" : 1,
+"LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter" : 1,
+"LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter" : 1,
+"LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter" : 1,
+"LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter" : 1,
+"LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter" : 1,
+"LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter" : 1,
+"LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter" : 1,
+"LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter" : 1,
+"LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter" : 1,
+"LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter" : 1,
+"LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter" : 1,
+"LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Trade" : 1,
+"LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Trade" : 1,
+"LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Trade" : 1,
+"LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Trade" : 1,
+"LabRat_Temporal_Id_5ed515f6915ec335206e4152_Trade" : 1,
+"LabRat_Temporal_Id_5c0e530286f7747fa1419862_Trade" : 1,
+"LabRat_Temporal_Id_5ed515e03a40a50460332579_Trade" : 1,
+"LabRat_Temporal_Id_5ed5166ad380ab312177c100_Trade" : 1,
+"LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Trade" : 1,
+"LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Trade" : 1,
+"LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Trade" : 1,
+"LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Trade" : 1,
+"LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Trade" : 1,
+"LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Trade" : 1,
+"LabRat_Temporal_Id_5c0e534186f7747fa1419867_Trade" : 1,
+"LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Contractor" : 1,
+"LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Supervisor" : 1,
+"LabRat_Temporal_Id_5efde6b4f5448336730dbd61_Supervisor" : 1,
+"LabRat_Temporal_Id_5c1d0f4986f7744bb01837fa_Supervisor" : 1,
+"LabRat_Temporal_Id_5c1d0c5f86f7744bb2683cf0_Supervisor" : 1,
+"LabRat_Temporal_Id_5c1d0dc586f7744baf2e7b79_Supervisor" : 1,
+"LabRat_Temporal_Id_5c1d0efb86f7744baf2e7b7b_Supervisor" : 1,
+"LabRat_Temporal_Id_5c1e495a86f7743109743dfb_Supervisor" : 1,
+"LabRat_Temporal_Id_5c1d0d6d86f7744bb2683e1f_Supervisor" : 1,
+"LabRat_Temporal_Id_5cc86840d7f00c002412c56c_Barter" : 1,
+"LabRat_Temporal_Id_5cc86832d7f00c000d3a6e6c_Barter" : 1,
+"LabRat_Temporal_Id_5cc80f79e4a949033c7343b2_Barter" : 1,
+"LabRat_Temporal_Id_5cc80f8fe4a949033b0224a2_Barter" : 1,
+"LabRat_Temporal_Id_5cc80f53e4a949000e1ea4f8_Barter" : 1,
+"LabRat_Temporal_Id_5cc80f67e4a949035e43bbba_Barter" : 1,
+"LabRat_Temporal_Id_5cc80f38e4a949001152b560_Barter" : 1,
+"LabRat_Temporal_Id_5cc86840d7f00c002412c56c_Purchase" : 1,
+"LabRat_Temporal_Id_5cc86832d7f00c000d3a6e6c_Purchase" : 1,
+"LabRat_Temporal_Id_5cc80f79e4a949033c7343b2_Purchase" : 1,
+"LabRat_Temporal_Id_5cc80f8fe4a949033b0224a2_Purchase" : 1,
+"LabRat_Temporal_Id_5cc80f53e4a949000e1ea4f8_Purchase" : 1,
+"LabRat_Temporal_Id_5cc80f67e4a949035e43bbba_Purchase" : 1,
+"LabRat_Temporal_Id_5cc80f38e4a949001152b560_Purchase" : 1,
+"LabRat_Temporal_Id_5735fdcd2459776445391d61_Barter" : 1,
+"LabRat_Temporal_Id_5735ff5c245977640e39ba7e_Barter" : 1,
+"LabRat_Temporal_Id_5736026a245977644601dc61_Barter" : 1,
+"LabRat_Temporal_Id_573603c924597764442bd9cb_Barter" : 1,
+"LabRat_Temporal_Id_5ea034f65aad6446a939737e_Trade" : 1,
+"LabRat_Temporal_Id_573602322459776445391df1_Barter" : 1,
+"LabRat_Temporal_Id_573601b42459776410737435_Barter" : 1,
+"LabRat_Temporal_Id_573603562459776430731618_Barter" : 1,
+"LabRat_Temporal_Id_5735fdcd2459776445391d61_Purchase" : 1,
+"LabRat_Temporal_Id_5735ff5c245977640e39ba7e_Purchase" : 1,
+"LabRat_Temporal_Id_5736026a245977644601dc61_Purchase" : 1,
+"LabRat_Temporal_Id_573603c924597764442bd9cb_Purchase" : 1,
+"LabRat_Temporal_Id_573602322459776445391df1_Purchase" : 1,
+"LabRat_Temporal_Id_573601b42459776410737435_Purchase" : 1,
+"LabRat_Temporal_Id_573603562459776430731618_Purchase" : 1,
+"LabRat_Temporal_Id_573719762459775a626ccbc1_Barter" : 1,
+"LabRat_Temporal_Id_573724b42459776125652ac2_Barter" : 1,
+"LabRat_Temporal_Id_57371f8d24597761006c6a81_Barter" : 1,
+"LabRat_Temporal_Id_5737273924597765dd374461_Barter" : 1,
+"LabRat_Temporal_Id_57371f2b24597761224311f1_Barter" : 1,
+"LabRat_Temporal_Id_573726d824597765d96be361_Barter" : 1,
+"LabRat_Temporal_Id_57371eb62459776125652ac1_Barter" : 1,
+"LabRat_Temporal_Id_5737266524597761006c6a8c_Barter" : 1,
+"LabRat_Temporal_Id_57371e4124597760ff7b25f1_Barter" : 1,
+"LabRat_Temporal_Id_5737260b24597761224311f2_Barter" : 1,
+"LabRat_Temporal_Id_57371b192459775a9f58a5e0_Barter" : 1,
+"LabRat_Temporal_Id_573725b0245977612125bae2_Barter" : 1,
+"LabRat_Temporal_Id_5737201124597760fc4431f1_Barter" : 1,
+"LabRat_Temporal_Id_573727c624597765cc785b5b_Barter" : 1,
+"LabRat_Temporal_Id_5737218f245977612125ba51_Barter" : 1,
+"LabRat_Temporal_Id_573728f324597765e5728561_Barter" : 1,
+"LabRat_Temporal_Id_57d1519e24597714373db79d_Trade" : 1,
+"LabRat_Temporal_Id_5737207f24597760ff7b25f2_Barter" : 1,
+"LabRat_Temporal_Id_5737280e24597765cc785b5c_Barter" : 1,
+"LabRat_Temporal_Id_573720e02459776143012541_Barter" : 1,
+"LabRat_Temporal_Id_5737287724597765e1625ae2_Barter" : 1,
+"LabRat_Temporal_Id_57372140245977611f70ee91_Barter" : 1,
+"LabRat_Temporal_Id_573728cc24597765cc785b5d_Barter" : 1,
+"LabRat_Temporal_Id_573718ba2459775a75491131_Barter" : 1,
+"LabRat_Temporal_Id_573722e82459776104581c21_Barter" : 1,
+"LabRat_Temporal_Id_55d485be4bdc2d962f8b456f_Trade" : 1,
+"LabRat_Temporal_Id_57371aab2459775a77142f22_Barter" : 1,
+"LabRat_Temporal_Id_5737256c2459776125652acd_Barter" : 1,
+"LabRat_Temporal_Id_573719df2459775a626ccbc2_Barter" : 1,
+"LabRat_Temporal_Id_5737250c2459776125652acc_Barter" : 1,
+"LabRat_Temporal_Id_573719762459775a626ccbc1_Purchase" : 1,
+"LabRat_Temporal_Id_57371f8d24597761006c6a81_Purchase" : 1,
+"LabRat_Temporal_Id_57371f2b24597761224311f1_Purchase" : 1,
+"LabRat_Temporal_Id_57371eb62459776125652ac1_Purchase" : 1,
+"LabRat_Temporal_Id_57371e4124597760ff7b25f1_Purchase" : 1,
+"LabRat_Temporal_Id_57371b192459775a9f58a5e0_Purchase" : 1,
+"LabRat_Temporal_Id_5737201124597760fc4431f1_Purchase" : 1,
+"LabRat_Temporal_Id_5737218f245977612125ba51_Purchase" : 1,
+"LabRat_Temporal_Id_5737207f24597760ff7b25f2_Purchase" : 1,
+"LabRat_Temporal_Id_573720e02459776143012541_Purchase" : 1,
+"LabRat_Temporal_Id_57372140245977611f70ee91_Purchase" : 1,
+"LabRat_Temporal_Id_573718ba2459775a75491131_Purchase" : 1,
+"LabRat_Temporal_Id_57371aab2459775a77142f22_Purchase" : 1,
+"LabRat_Temporal_Id_573719df2459775a626ccbc2_Purchase" : 1,
+"LabRat_Temporal_Id_5a26abfac4a28232980eabff_Barter" : 1,
+"LabRat_Temporal_Id_5a26ac06c4a282000c5a90a8_Barter" : 1,
+"LabRat_Temporal_Id_5a269f97c4a282000b151807_Barter" : 1,
+"LabRat_Temporal_Id_5a26ac0ec4a28200741e1e18_Barter" : 1,
+"LabRat_Temporal_Id_5a26abfac4a28232980eabff_Purchase" : 1,
+"LabRat_Temporal_Id_5a26ac06c4a282000c5a90a8_Purchase" : 1,
+"LabRat_Temporal_Id_5a269f97c4a282000b151807_Purchase" : 1,
+"LabRat_Temporal_Id_5a26ac0ec4a28200741e1e18_Purchase" : 1,
+"LabRat_Temporal_Id_5b432b965acfc47a8774094e_Barter" : 1,
+"LabRat_Temporal_Id_6033fa48ffd42c541047f728_Barter" : 1,
+"LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Barter" : 1,
+"LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Barter" : 1,
+"LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Barter" : 1,
+"LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Barter" : 1,
+"LabRat_Temporal_Id_5e4d34ca86f774264f758330_Barter" : 1,
+"LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Barter" : 1,
+"LabRat_Temporal_Id_5b432b965acfc47a8774094e_Trade" : 1,
+"LabRat_Temporal_Id_6033fa48ffd42c541047f728_Trade" : 1,
+"LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Trade" : 1,
+"LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Trade" : 1,
+"LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Trade" : 1,
+"LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Trade" : 1,
+"LabRat_Temporal_Id_5e4d34ca86f774264f758330_Trade" : 1,
+"LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Trade" : 1,
+"LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Barter" : 1,
+"LabRat_Temporal_Id_579204f224597773d619e051_Barter" : 1,
+"LabRat_Temporal_Id_571a12c42459771f627b58a0_Barter" : 1,
+"LabRat_Temporal_Id_571a29dc2459771fb2755a6a_Barter" : 1,
+"LabRat_Temporal_Id_5448c12b4bdc2d02308b456f_Barter" : 1,
+"LabRat_Temporal_Id_5cadc2e0ae9215051e1c21e7_Barter" : 1,
+"LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Barter" : 1,
+"LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Barter" : 1,
+"LabRat_Temporal_Id_56d59856d2720bd8418b456a_Barter" : 1,
+"LabRat_Temporal_Id_576a5ed62459771e9c2096cb_Barter" : 1,
+"LabRat_Temporal_Id_56d59948d2720bb7418b4582_Barter" : 1,
+"LabRat_Temporal_Id_5a718b548dc32e000d46d262_Barter" : 1,
+"LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Barter" : 1,
+"LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Barter" : 1,
+"LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Barter" : 1,
+"LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Barter" : 1,
+"LabRat_Temporal_Id_5e81c4ca763d9f754677befa_Barter" : 1,
+"LabRat_Temporal_Id_5f3e77b26cda304dcc634057_Barter" : 1,
+"LabRat_Temporal_Id_5a17fb03fcdbcbcae668728f_Barter" : 1,
+"LabRat_Temporal_Id_602286df23506e50807090c6_Barter" : 1,
+"LabRat_Temporal_Id_6193d338de3cdf1d2614a6fc_Barter" : 1,
+"LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Barter" : 1,
+"LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Barter" : 1,
+"LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Barter" : 1,
+"LabRat_Temporal_Id_5d3eb5eca4b9363b1f22f8e4_Barter" : 1,
+"LabRat_Temporal_Id_59f99a7d86f7745b134aa97b_Barter" : 1,
+"LabRat_Temporal_Id_5cadc190ae921500103bb3b6_Trade" : 1,
+"LabRat_Temporal_Id_579204f224597773d619e051_Trade" : 1,
+"LabRat_Temporal_Id_5448bd6b4bdc2dfc2f8b4569_Trade" : 1,
+"LabRat_Temporal_Id_56e0598dd2720bb5668b45a6_Trade" : 1,
+"LabRat_Temporal_Id_571a12c42459771f627b58a0_Trade" : 1,
+"LabRat_Temporal_Id_5b3b713c5acfc4330140bd8d_Trade" : 1,
+"LabRat_Temporal_Id_576a581d2459771e7b1bc4f1_Trade" : 1,
+"LabRat_Temporal_Id_5a7ae0c351dfba0017554310_Trade" : 1,
+"LabRat_Temporal_Id_56d59856d2720bd8418b456a_Trade" : 1,
+"LabRat_Temporal_Id_5f36a0e5fbf956000b716b65_Trade" : 1,
+"LabRat_Temporal_Id_5e81c3cbac2bb513793cdc75_Trade" : 1,
+"LabRat_Temporal_Id_6193a720f8ee7e52e42109ed_Trade" : 1,
+"LabRat_Temporal_Id_5a17f98cfcdbcb0980087290_Trade" : 1,
+"LabRat_Temporal_Id_5abccb7dd8ce87001773e277_Trade" : 1,
+"LabRat_Temporal_Id_602a9740da11d6478d5a06dc_Trade" : 1,
+"LabRat_Temporal_Id_5d3eb3b0a4b93615055e84d2_Trade" : 1,
+"LabRat_Temporal_Id_5d67abc1a4b93614ec50137f_Trade" : 1,
+"LabRat_Temporal_Id_5b1fa9b25acfc40018633c01_Trade" : 1,
+"LabRat_Temporal_Id_59f98b4986f7746f546d2cef_Trade" : 1
+  }
+}

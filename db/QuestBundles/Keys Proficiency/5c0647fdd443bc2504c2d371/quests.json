@@ -1,0 +1,143 @@
+{
+  "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods": {
+    "QuestName": "[Jgr] Key Proficiency: Woods Locksmith",
+    "_id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods",
+    "acceptPlayerMessage": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "591afe0186f77431bd616a11"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5d08d21286f774736e7c94c3"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "591ae8f986f77406f854be45"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_15_Tarkov"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods declinePlayerMessage",
+    "description": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods description",
+    "failMessageText": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods name",
+    "note": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_Experience_5",
+          "index": 5,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_5783c43d2459774bbe137486_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_5783c43d2459774bbe137486_6_id",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_5783c43d2459774bbe137486_6_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_5449016a4bdc2d6f028b456f_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_5449016a4bdc2d6f028b456f_7_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_5449016a4bdc2d6f028b456f_7_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods startedMessageText",
+    "successMessageText": "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods successMessageText",
+    "traderId": "5c0647fdd443bc2504c2d371",
+    "type": "PickUp"
+  }
+}

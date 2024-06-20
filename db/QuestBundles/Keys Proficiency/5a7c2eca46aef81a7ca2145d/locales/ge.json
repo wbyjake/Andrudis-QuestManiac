@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory name": "[Mec] Schlüsselbeherrschung: Fabrik Schlosser",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory note": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory description": "Du willst Behälter für Schlüssel? Für was brauchst du sie, wenn du noch überhaupt keine Schlüssel hast? Finde sie alle!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory startedMessageText": "[Mec] Quest angenommen: '[Mec] Schlüsselbeherrschung: Fabrik Schlosser'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory failMessageText": "[Mec] Quest fehlgeschlagen: '[Mec] Schlüsselbeherrschung: Fabrik Schlosser'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory successMessageText": "[Mec] Quest beendet: '[Mec] Schlüsselbeherrschung: Fabrik Schlosser'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory acceptPlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory declinePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory completePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_0": "Finde Türschlüssel",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_1": "Finde Türschlüssel",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_2": "Finde Fabrik Ausgangsschlüssel"
+}

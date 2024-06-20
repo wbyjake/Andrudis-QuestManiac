@@ -1,0 +1,12 @@
+{
+    "Stims_Proficiency_Stims_Barter name": "[Lab] Stims Proficiency: Stims Barter",
+    "Stims_Proficiency_Stims_Barter note": "",
+    "Stims_Proficiency_Stims_Barter description": "Stims are not something you just consume like beer during Oktoberfest. Prove you can find your own. Also, I need to know you do actually need them in the field and know how to use them.",
+    "Stims_Proficiency_Stims_Barter startedMessageText": "[Lab] Quest Accepted: '[Lab] Stims Proficiency: Stims Barter'!",
+    "Stims_Proficiency_Stims_Barter failMessageText": "[Lab] Quest Failed: '[Lab] Stims Proficiency: Stims Barter'!",
+    "Stims_Proficiency_Stims_Barter successMessageText": "[Lab] Quest Completed: '[Lab] Stims Proficiency: Stims Barter'!",
+    "Stims_Proficiency_Stims_Barter acceptPlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter declinePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter completePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter_Handover_0": "Handover any Stims"
+}

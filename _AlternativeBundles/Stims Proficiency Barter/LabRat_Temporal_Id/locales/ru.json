@@ -1,0 +1,12 @@
+{
+    "Stims_Proficiency_Stims_Barter name": "[Лаб] Знание стимуляторов: Бартер",
+    "Stims_Proficiency_Stims_Barter note": "",
+    "Stims_Proficiency_Stims_Barter description": "Стимуляторы - это тебе не пиво на Октоберфест бухать. Докаж сначала, что свои раздобыть можешь. Также я хочу знать, что ты в натуре их используешь и знаешь, как это делается.",
+    "Stims_Proficiency_Stims_Barter startedMessageText": "[Лаб] Задание принято: '[Лаб] Знание стимуляторов: Бартер'!",
+    "Stims_Proficiency_Stims_Barter failMessageText": "[Лаб] Задание провалено: '[Лаб] Знание стимуляторов: Бартер'!",
+    "Stims_Proficiency_Stims_Barter successMessageText": "[Лаб] Задание завершено: '[Лаб] Знание стимуляторов: Бартер'!",
+    "Stims_Proficiency_Stims_Barter acceptPlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter declinePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter completePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter_Handover_0": "Сдай любые стимуляторы"
+}

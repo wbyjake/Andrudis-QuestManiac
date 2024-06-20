@@ -1,0 +1,1625 @@
+{
+  "Headless_PMC_5704e554d2720bac5b8b456e_1": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 1 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_1",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_1 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_1_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_1_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_1_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_1_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_1 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_1 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_1 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_1 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_1_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_1_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_1_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_1_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_1 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_1 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_2": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 2 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_2",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_2 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_2 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_2 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_2 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_2 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "400"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_2_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_2_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 6000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_2_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "6000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_2 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_2 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_5": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 5 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_5",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_5 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_5 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_5 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_5 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_5 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_5_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_5_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_5_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_5 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_5 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_10": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 10 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_10",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_10 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_10 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_10 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_10 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_10 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_10 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_10 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_10 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_10_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_10_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_10_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_10 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_10 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_15": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 15 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_15",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_15 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_15 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_15 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_15 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_15 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_15 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_15 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_15 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_15_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_15_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 45000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_15_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "45000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_15 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_15 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_20": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 20 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_20",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_20 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_20 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_20 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_10"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_20 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_20 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_20 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_20 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_20 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_20_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_20_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_20_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_20 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_20 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_33": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 33 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_33",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_33 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_33 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_33 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "33",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_15"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_15"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_15"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_15"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_15"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_15"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_15"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_33 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_33 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_33 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_33 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_33 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "6600"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_33_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_33_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 99000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_33_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "99000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_33 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_33 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_50": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 50 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_50",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_50 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_50 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_50 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_20"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_50 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_50 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_50 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_50 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_50 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_50_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_50_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_50_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_50 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_50 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_100": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 100 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_100",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_100 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_100 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_100 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_33"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_33"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_33"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_33"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_33"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_33"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_33"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_100 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_100 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_100 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_100 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_100 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_100_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_100_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_100_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_100 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_100 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_PMC_5704e554d2720bac5b8b456e_200": {
+    "QuestName": "[Bsh] Headless PMC: Headshot 200 PMC(s) at Shoreline",
+    "_id": "Headless_PMC_5704e554d2720bac5b8b456e_200",
+    "acceptPlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_200 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_200 changeQuestMessageText",
+    "completePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_200 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Elim_0_subcondition_1",
+                "target": [
+                  "Shoreline"
+                ]
+              }
+            ],
+            "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_56f40101d2720b2a4d8b45d6_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5714dbc024597771384a510d_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e5fad2720bc05b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e3c2d2720bac5b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_55f2d3fd4bdc2d5f408b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_PMC_5704e4dad2720bb55b8b4567_50"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_PMC_5704e554d2720bac5b8b456e_200 declinePlayerMessage",
+    "description": "Headless_PMC_5704e554d2720bac5b8b456e_200 description",
+    "failMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_200 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e554d2720bac5b8b456e",
+    "name": "Headless_PMC_5704e554d2720bac5b8b456e_200 name",
+    "note": "Headless_PMC_5704e554d2720bac5b8b456e_200 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "40000"
+        },
+        {
+          "id": "Headless_PMC_5704e554d2720bac5b8b456e_200_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_PMC_5704e554d2720bac5b8b456e_200_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 600000
+              }
+            }
+          ],
+          "target": "Headless_PMC_5704e554d2720bac5b8b456e_200_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "600000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_200 startedMessageText",
+    "successMessageText": "Headless_PMC_5704e554d2720bac5b8b456e_200 successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "Elimination"
+  }
+}

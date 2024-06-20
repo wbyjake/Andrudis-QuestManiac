@@ -1,0 +1,633 @@
+{
+  "Keys_FindAny_3_Interchange": {
+    "QuestName": "[Rag] Key Proficiency: Interchange Burglar",
+    "_id": "Keys_FindAny_3_Interchange",
+    "acceptPlayerMessage": "Keys_FindAny_3_Interchange acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_3_Interchange changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_3_Interchange completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Interchange_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c",
+            "5ad5db3786f7743568421cce",
+            "5ad7247386f7747487619dc3",
+            "5ad7242b86f7740a6a3abd43",
+            "5addaffe86f77470b455f900",
+            "5ad5d7d286f77450166e0a89",
+            "5ad5ccd186f774446d5706e9",
+            "5ad7217186f7746744498875",
+            "5ad5cfbd86f7742c825d6104",
+            "5ad5d64486f774079b080af8",
+            "5ad5d20586f77449be26d877",
+            "5ad5d49886f77455f9731921",
+            "5e42c81886f7742a01529f57",
+            "5e42c83786f7742a021fdf3c",
+            "5e42c71586f7747f245e1343"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Interchange_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "20000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Interchange_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_15_Tarkov"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_3_Interchange declinePlayerMessage",
+    "description": "Keys_FindAny_3_Interchange description",
+    "failMessageText": "Keys_FindAny_3_Interchange failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_3_Interchange name",
+    "note": "Keys_FindAny_3_Interchange note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_3_Interchange_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_3_Interchange_5783c43d2459774bbe137486_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_3_Interchange_5783c43d2459774bbe137486_5_id",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_3_Interchange_5783c43d2459774bbe137486_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_3_Interchange_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_3_Interchange_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_3_Interchange_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_3_Interchange startedMessageText",
+    "successMessageText": "Keys_FindAny_3_Interchange successMessageText",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_8_Interchange": {
+    "QuestName": "[Rag] Key Proficiency: Interchange Key Master",
+    "_id": "Keys_FindAny_8_Interchange",
+    "acceptPlayerMessage": "Keys_FindAny_8_Interchange acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_8_Interchange changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_8_Interchange completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_8_Interchange_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c",
+            "5ad5db3786f7743568421cce",
+            "5ad7247386f7747487619dc3",
+            "5ad7242b86f7740a6a3abd43",
+            "5addaffe86f77470b455f900",
+            "5ad5d7d286f77450166e0a89",
+            "5ad5ccd186f774446d5706e9",
+            "5ad7217186f7746744498875",
+            "5ad5cfbd86f7742c825d6104",
+            "5ad5d64486f774079b080af8",
+            "5ad5d20586f77449be26d877",
+            "5ad5d49886f77455f9731921",
+            "5e42c81886f7742a01529f57",
+            "5e42c83786f7742a021fdf3c",
+            "5e42c71586f7747f245e1343"
+          ],
+          "value": "8",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_8_Interchange_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "500000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_8_Interchange_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_3_Interchange"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_8_Interchange declinePlayerMessage",
+    "description": "Keys_FindAny_8_Interchange description",
+    "failMessageText": "Keys_FindAny_8_Interchange failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_8_Interchange name",
+    "note": "Keys_FindAny_8_Interchange note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_8_Interchange_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_8_Interchange_590c60fc86f77412b13fddcf_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_8_Interchange_590c60fc86f77412b13fddcf_5_id",
+              "_tpl": "590c60fc86f77412b13fddcf",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_8_Interchange_590c60fc86f77412b13fddcf_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_8_Interchange_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_8_Interchange_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_8_Interchange_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_8_Interchange startedMessageText",
+    "successMessageText": "Keys_FindAny_8_Interchange successMessageText",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange": {
+    "QuestName": "[Rag] Key Proficiency: Interchange Locksmith",
+    "_id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange",
+    "acceptPlayerMessage": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5db3786f7743568421cce"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad7247386f7747487619dc3"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_3",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad7242b86f7740a6a3abd43"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_4",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5addaffe86f77470b455f900"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_5",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5d7d286f77450166e0a89"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_6",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5ccd186f774446d5706e9"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_7",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad7217186f7746744498875"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_8",
+          "index": 8,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5cfbd86f7742c825d6104"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_9",
+          "index": 9,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5d64486f774079b080af8"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_10",
+          "index": 10,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5d20586f77449be26d877"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_11",
+          "index": 11,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ad5d49886f77455f9731921"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_12",
+          "index": 12,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5e42c81886f7742a01529f57"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_13",
+          "index": 13,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5e42c83786f7742a021fdf3c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_FindItem_14",
+          "index": 14,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5e42c71586f7747f245e1343"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_Parent_Quest_21",
+          "index": 21,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_8_Interchange"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange declinePlayerMessage",
+    "description": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange description",
+    "failMessageText": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange name",
+    "note": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_Experience_17",
+          "index": 17,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_5d235bb686f77443f4331278_18",
+          "index": 18,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_5d235bb686f77443f4331278_18_id",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_5d235bb686f77443f4331278_18_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_5449016a4bdc2d6f028b456f_19",
+          "index": 19,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_5449016a4bdc2d6f028b456f_19_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange_5449016a4bdc2d6f028b456f_19_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange startedMessageText",
+    "successMessageText": "Keys_FindAny_5ac3b934156ae10c4430e83c_Interchange successMessageText",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "type": "PickUp"
+  }
+}

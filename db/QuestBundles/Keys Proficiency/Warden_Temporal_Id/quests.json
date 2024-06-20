@@ -1,0 +1,363 @@
+{
+  "Keys_FindAny_3_Lighthouse": {
+    "QuestName": "[War] Key Proficiency: Lighthouse Burglar",
+    "_id": "Keys_FindAny_3_Lighthouse",
+    "acceptPlayerMessage": "Keys_FindAny_3_Lighthouse acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_3_Lighthouse changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_3_Lighthouse completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Lighthouse_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61a6444b8c141d68246e2d2f",
+            "61aa81fcb225ac1ead7957c3",
+            "61a64428a8c6aa1b795f0ba1",
+            "61a64492ba05ef10d62adcc1",
+            "61aa5b518f5e7a39b41416e2",
+            "61aa5ba8018e9821b7368da9",
+            "61aa5aed32a4743c3453d319",
+            "61aa5b7db225ac1ead7957c1"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Lighthouse_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "20000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Lighthouse_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_15_Tarkov"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_3_Lighthouse declinePlayerMessage",
+    "description": "Keys_FindAny_3_Lighthouse description",
+    "failMessageText": "Keys_FindAny_3_Lighthouse failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_3_Lighthouse name",
+    "note": "Keys_FindAny_3_Lighthouse note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_3_Lighthouse_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_3_Lighthouse_619cbf9e0a7c3a1a2731940a_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_3_Lighthouse_619cbf9e0a7c3a1a2731940a_5_id",
+              "_tpl": "619cbf9e0a7c3a1a2731940a",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_3_Lighthouse_619cbf9e0a7c3a1a2731940a_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_3_Lighthouse_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_3_Lighthouse_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_3_Lighthouse_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_3_Lighthouse startedMessageText",
+    "successMessageText": "Keys_FindAny_3_Lighthouse successMessageText",
+    "traderId": "Warden_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_Warden_Temporal_Id_Lighthouse": {
+    "QuestName": "[War] Key Proficiency: Lighthouse Locksmith",
+    "_id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse",
+    "acceptPlayerMessage": "Keys_FindAny_Warden_Temporal_Id_Lighthouse acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_Warden_Temporal_Id_Lighthouse changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_Warden_Temporal_Id_Lighthouse completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61a6444b8c141d68246e2d2f"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61aa81fcb225ac1ead7957c3"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61a64428a8c6aa1b795f0ba1"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_3",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61a64492ba05ef10d62adcc1"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_4",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61aa5b518f5e7a39b41416e2"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_5",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61aa5ba8018e9821b7368da9"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_6",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61aa5aed32a4743c3453d319"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_FindItem_7",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "61aa5b7db225ac1ead7957c1"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_Parent_Quest_14",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_3_Lighthouse"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_Warden_Temporal_Id_Lighthouse declinePlayerMessage",
+    "description": "Keys_FindAny_Warden_Temporal_Id_Lighthouse description",
+    "failMessageText": "Keys_FindAny_Warden_Temporal_Id_Lighthouse failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_Warden_Temporal_Id_Lighthouse name",
+    "note": "Keys_FindAny_Warden_Temporal_Id_Lighthouse note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_Experience_10",
+          "index": 10,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_5d235bb686f77443f4331278_11",
+          "index": 11,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_5d235bb686f77443f4331278_11_id",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_5d235bb686f77443f4331278_11_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_5449016a4bdc2d6f028b456f_12",
+          "index": 12,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_5449016a4bdc2d6f028b456f_12_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Warden_Temporal_Id_Lighthouse_5449016a4bdc2d6f028b456f_12_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_Warden_Temporal_Id_Lighthouse startedMessageText",
+    "successMessageText": "Keys_FindAny_Warden_Temporal_Id_Lighthouse successMessageText",
+    "traderId": "Warden_Temporal_Id",
+    "type": "PickUp"
+  }
+}

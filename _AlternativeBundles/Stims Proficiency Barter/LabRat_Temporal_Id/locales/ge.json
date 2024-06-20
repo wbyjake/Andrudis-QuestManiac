@@ -1,0 +1,12 @@
+{
+    "Stims_Proficiency_Stims_Barter name": "[Lab] Stimulanzienbeherrschung: Stimulanzien-Tauschgeschäft",
+    "Stims_Proficiency_Stims_Barter note": "",
+    "Stims_Proficiency_Stims_Barter description": "Stimulanzien konsumiert man nicht einfach wie Bier auf dem Oktoberfest. Zeig mir, dass du in der Lage bist, selbst welche zu finden. Außerdem muss ich wissen, ob du im Einsatz tatsächlich welche brauchst und ob du weißt, wie man sie verwendet.",
+    "Stims_Proficiency_Stims_Barter startedMessageText": "[Lab] Quest angenommen: '[Lab] Stimulanzienbeherrschung: Stimulanzien-Tauschgeschäft'!",
+    "Stims_Proficiency_Stims_Barter failMessageText": "[Lab] Quest fehlgeschlagen: '[Lab] Stimulanzienbeherrschung: Stimulanzien-Tauschgeschäft'!",
+    "Stims_Proficiency_Stims_Barter successMessageText": "[Lab] Quest beendet: '[Lab] Stimulanzienbeherrschung: Stimulanzien-Tauschgeschäft'!",
+    "Stims_Proficiency_Stims_Barter acceptPlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter declinePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter completePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter_Handover_0": "Übergebe 75 beliebige(s) Stimulans(zien)."
+}

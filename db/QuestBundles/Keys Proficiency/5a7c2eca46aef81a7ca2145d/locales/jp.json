@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory name": "[Mec] キーの習熟度:Factory 鍵屋",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory note": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory description": "キーのコンテナが必要ですか？まだキーがない場合は何が必要ですか？ 'Em All!を検索する必要があります!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory startedMessageText": "[Mec] クエストが承認されました: '[Mec] キーの習熟度:Factory 鍵屋'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory failMessageText": "[Mec] クエストに失敗しました: '[Mec] キーの習熟度:Factory 鍵屋'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory successMessageText": "[Mec] クエストが完了しました: '[Mec] キーの習熟度:Factory 鍵屋'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory acceptPlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory declinePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory completePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_0": "ドアの鍵を検索",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_1": "ドアの鍵を検索",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_2": "Factory出口の鍵を検索"
+}

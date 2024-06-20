@@ -1,0 +1,4772 @@
+{
+    "HonorSkills_Surgery_5": {
+        "_id": "HonorSkills_Surgery_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_5 description",
+        "failMessageText": "HonorSkills_Surgery_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_5 name",
+        "note": "HonorSkills_Surgery_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Surgery_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_5 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_5 successMessageText",
+        "templateId": "HonorSkills_Surgery_5",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 5",
+        "acceptPlayerMessage": "HonorSkills_Surgery_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_10": {
+        "_id": "HonorSkills_Surgery_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_10 description",
+        "failMessageText": "HonorSkills_Surgery_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_10 name",
+        "note": "HonorSkills_Surgery_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Surgery_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_10 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_10 successMessageText",
+        "templateId": "HonorSkills_Surgery_10",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 10",
+        "acceptPlayerMessage": "HonorSkills_Surgery_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_15": {
+        "_id": "HonorSkills_Surgery_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_15 description",
+        "failMessageText": "HonorSkills_Surgery_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_15 name",
+        "note": "HonorSkills_Surgery_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Surgery_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_15 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_15 successMessageText",
+        "templateId": "HonorSkills_Surgery_15",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 15",
+        "acceptPlayerMessage": "HonorSkills_Surgery_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_20": {
+        "_id": "HonorSkills_Surgery_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_20 description",
+        "failMessageText": "HonorSkills_Surgery_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_20 name",
+        "note": "HonorSkills_Surgery_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Surgery_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_20 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_20 successMessageText",
+        "templateId": "HonorSkills_Surgery_20",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 20",
+        "acceptPlayerMessage": "HonorSkills_Surgery_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_25": {
+        "_id": "HonorSkills_Surgery_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_25 description",
+        "failMessageText": "HonorSkills_Surgery_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_25 name",
+        "note": "HonorSkills_Surgery_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Surgery_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_25 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_25 successMessageText",
+        "templateId": "HonorSkills_Surgery_25",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 25",
+        "acceptPlayerMessage": "HonorSkills_Surgery_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_30": {
+        "_id": "HonorSkills_Surgery_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_30 description",
+        "failMessageText": "HonorSkills_Surgery_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_30 name",
+        "note": "HonorSkills_Surgery_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Surgery_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_30 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_30 successMessageText",
+        "templateId": "HonorSkills_Surgery_30",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 30",
+        "acceptPlayerMessage": "HonorSkills_Surgery_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_35": {
+        "_id": "HonorSkills_Surgery_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_35 description",
+        "failMessageText": "HonorSkills_Surgery_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_35 name",
+        "note": "HonorSkills_Surgery_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Surgery_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_35 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_35 successMessageText",
+        "templateId": "HonorSkills_Surgery_35",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 35",
+        "acceptPlayerMessage": "HonorSkills_Surgery_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_40": {
+        "_id": "HonorSkills_Surgery_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_40 description",
+        "failMessageText": "HonorSkills_Surgery_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_40 name",
+        "note": "HonorSkills_Surgery_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Surgery_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_40 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_40 successMessageText",
+        "templateId": "HonorSkills_Surgery_40",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 40",
+        "acceptPlayerMessage": "HonorSkills_Surgery_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_45": {
+        "_id": "HonorSkills_Surgery_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_45 description",
+        "failMessageText": "HonorSkills_Surgery_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_45 name",
+        "note": "HonorSkills_Surgery_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Surgery_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_45 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_45 successMessageText",
+        "templateId": "HonorSkills_Surgery_45",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 45",
+        "acceptPlayerMessage": "HonorSkills_Surgery_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Surgery_50": {
+        "_id": "HonorSkills_Surgery_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Surgery_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Surgery_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Surgery_50 description",
+        "failMessageText": "HonorSkills_Surgery_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Surgery_50 name",
+        "note": "HonorSkills_Surgery_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Surgery_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Surgery_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Surgery_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Surgery_50 startedMessageText",
+        "successMessageText": "HonorSkills_Surgery_50 successMessageText",
+        "templateId": "HonorSkills_Surgery_50",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Surgery 50",
+        "acceptPlayerMessage": "HonorSkills_Surgery_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Surgery_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Surgery_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_5": {
+        "_id": "HonorSkills_CovertMovement_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_5 description",
+        "failMessageText": "HonorSkills_CovertMovement_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_5 name",
+        "note": "HonorSkills_CovertMovement_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_CovertMovement_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_5 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_5 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_5",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 5",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_10": {
+        "_id": "HonorSkills_CovertMovement_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_10 description",
+        "failMessageText": "HonorSkills_CovertMovement_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_10 name",
+        "note": "HonorSkills_CovertMovement_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_CovertMovement_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_10 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_10 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_10",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 10",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_15": {
+        "_id": "HonorSkills_CovertMovement_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_15 description",
+        "failMessageText": "HonorSkills_CovertMovement_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_15 name",
+        "note": "HonorSkills_CovertMovement_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_CovertMovement_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_15 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_15 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_15",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 15",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_20": {
+        "_id": "HonorSkills_CovertMovement_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_20 description",
+        "failMessageText": "HonorSkills_CovertMovement_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_20 name",
+        "note": "HonorSkills_CovertMovement_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_CovertMovement_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_20 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_20 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_20",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 20",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_25": {
+        "_id": "HonorSkills_CovertMovement_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_25 description",
+        "failMessageText": "HonorSkills_CovertMovement_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_25 name",
+        "note": "HonorSkills_CovertMovement_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_CovertMovement_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_25 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_25 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_25",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 25",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_30": {
+        "_id": "HonorSkills_CovertMovement_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_30 description",
+        "failMessageText": "HonorSkills_CovertMovement_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_30 name",
+        "note": "HonorSkills_CovertMovement_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_CovertMovement_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_30 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_30 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_30",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 30",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_35": {
+        "_id": "HonorSkills_CovertMovement_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_35 description",
+        "failMessageText": "HonorSkills_CovertMovement_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_35 name",
+        "note": "HonorSkills_CovertMovement_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_CovertMovement_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_35 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_35 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_35",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 35",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_40": {
+        "_id": "HonorSkills_CovertMovement_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_40 description",
+        "failMessageText": "HonorSkills_CovertMovement_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_40 name",
+        "note": "HonorSkills_CovertMovement_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_CovertMovement_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_40 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_40 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_40",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 40",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_45": {
+        "_id": "HonorSkills_CovertMovement_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_45 description",
+        "failMessageText": "HonorSkills_CovertMovement_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_45 name",
+        "note": "HonorSkills_CovertMovement_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_CovertMovement_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_45 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_45 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_45",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 45",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_CovertMovement_50": {
+        "_id": "HonorSkills_CovertMovement_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_CovertMovement_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_CovertMovement_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "CovertMovement",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_CovertMovement_50 description",
+        "failMessageText": "HonorSkills_CovertMovement_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_CovertMovement_50 name",
+        "note": "HonorSkills_CovertMovement_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_CovertMovement_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_CovertMovement_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_CovertMovement_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_CovertMovement_50 startedMessageText",
+        "successMessageText": "HonorSkills_CovertMovement_50 successMessageText",
+        "templateId": "HonorSkills_CovertMovement_50",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Covert Movement 50",
+        "acceptPlayerMessage": "HonorSkills_CovertMovement_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_CovertMovement_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_CovertMovement_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_5": {
+        "_id": "HonorSkills_Search_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_5 description",
+        "failMessageText": "HonorSkills_Search_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_5 name",
+        "note": "HonorSkills_Search_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Search_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_5 startedMessageText",
+        "successMessageText": "HonorSkills_Search_5 successMessageText",
+        "templateId": "HonorSkills_Search_5",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 5",
+        "acceptPlayerMessage": "HonorSkills_Search_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_10": {
+        "_id": "HonorSkills_Search_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_10 description",
+        "failMessageText": "HonorSkills_Search_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_10 name",
+        "note": "HonorSkills_Search_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Search_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_10 startedMessageText",
+        "successMessageText": "HonorSkills_Search_10 successMessageText",
+        "templateId": "HonorSkills_Search_10",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 10",
+        "acceptPlayerMessage": "HonorSkills_Search_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_15": {
+        "_id": "HonorSkills_Search_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_15 description",
+        "failMessageText": "HonorSkills_Search_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_15 name",
+        "note": "HonorSkills_Search_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Search_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_15 startedMessageText",
+        "successMessageText": "HonorSkills_Search_15 successMessageText",
+        "templateId": "HonorSkills_Search_15",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 15",
+        "acceptPlayerMessage": "HonorSkills_Search_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_20": {
+        "_id": "HonorSkills_Search_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_20 description",
+        "failMessageText": "HonorSkills_Search_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_20 name",
+        "note": "HonorSkills_Search_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Search_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_20 startedMessageText",
+        "successMessageText": "HonorSkills_Search_20 successMessageText",
+        "templateId": "HonorSkills_Search_20",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 20",
+        "acceptPlayerMessage": "HonorSkills_Search_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_25": {
+        "_id": "HonorSkills_Search_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_25 description",
+        "failMessageText": "HonorSkills_Search_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_25 name",
+        "note": "HonorSkills_Search_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Search_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_25 startedMessageText",
+        "successMessageText": "HonorSkills_Search_25 successMessageText",
+        "templateId": "HonorSkills_Search_25",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 25",
+        "acceptPlayerMessage": "HonorSkills_Search_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_30": {
+        "_id": "HonorSkills_Search_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_30 description",
+        "failMessageText": "HonorSkills_Search_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_30 name",
+        "note": "HonorSkills_Search_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Search_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_30 startedMessageText",
+        "successMessageText": "HonorSkills_Search_30 successMessageText",
+        "templateId": "HonorSkills_Search_30",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 30",
+        "acceptPlayerMessage": "HonorSkills_Search_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_35": {
+        "_id": "HonorSkills_Search_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_35 description",
+        "failMessageText": "HonorSkills_Search_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_35 name",
+        "note": "HonorSkills_Search_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Search_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_35 startedMessageText",
+        "successMessageText": "HonorSkills_Search_35 successMessageText",
+        "templateId": "HonorSkills_Search_35",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 35",
+        "acceptPlayerMessage": "HonorSkills_Search_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_40": {
+        "_id": "HonorSkills_Search_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_40 description",
+        "failMessageText": "HonorSkills_Search_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_40 name",
+        "note": "HonorSkills_Search_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Search_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_40 startedMessageText",
+        "successMessageText": "HonorSkills_Search_40 successMessageText",
+        "templateId": "HonorSkills_Search_40",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 40",
+        "acceptPlayerMessage": "HonorSkills_Search_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_45": {
+        "_id": "HonorSkills_Search_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_45 description",
+        "failMessageText": "HonorSkills_Search_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_45 name",
+        "note": "HonorSkills_Search_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Search_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_45 startedMessageText",
+        "successMessageText": "HonorSkills_Search_45 successMessageText",
+        "templateId": "HonorSkills_Search_45",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 45",
+        "acceptPlayerMessage": "HonorSkills_Search_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Search_50": {
+        "_id": "HonorSkills_Search_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Search_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Search_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Search_50 description",
+        "failMessageText": "HonorSkills_Search_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Search_50 name",
+        "note": "HonorSkills_Search_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Search_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Search_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Search_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Search_50 startedMessageText",
+        "successMessageText": "HonorSkills_Search_50 successMessageText",
+        "templateId": "HonorSkills_Search_50",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Search 50",
+        "acceptPlayerMessage": "HonorSkills_Search_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Search_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Search_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_5": {
+        "_id": "HonorSkills_MagDrills_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_5 description",
+        "failMessageText": "HonorSkills_MagDrills_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_5 name",
+        "note": "HonorSkills_MagDrills_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_MagDrills_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_5 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_5 successMessageText",
+        "templateId": "HonorSkills_MagDrills_5",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 5",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_10": {
+        "_id": "HonorSkills_MagDrills_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_10 description",
+        "failMessageText": "HonorSkills_MagDrills_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_10 name",
+        "note": "HonorSkills_MagDrills_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_MagDrills_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_10 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_10 successMessageText",
+        "templateId": "HonorSkills_MagDrills_10",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 10",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_15": {
+        "_id": "HonorSkills_MagDrills_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_15 description",
+        "failMessageText": "HonorSkills_MagDrills_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_15 name",
+        "note": "HonorSkills_MagDrills_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_MagDrills_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_15 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_15 successMessageText",
+        "templateId": "HonorSkills_MagDrills_15",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 15",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_20": {
+        "_id": "HonorSkills_MagDrills_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_20 description",
+        "failMessageText": "HonorSkills_MagDrills_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_20 name",
+        "note": "HonorSkills_MagDrills_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_MagDrills_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_20 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_20 successMessageText",
+        "templateId": "HonorSkills_MagDrills_20",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 20",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_25": {
+        "_id": "HonorSkills_MagDrills_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_25 description",
+        "failMessageText": "HonorSkills_MagDrills_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_25 name",
+        "note": "HonorSkills_MagDrills_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_MagDrills_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_25 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_25 successMessageText",
+        "templateId": "HonorSkills_MagDrills_25",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 25",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_30": {
+        "_id": "HonorSkills_MagDrills_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_30 description",
+        "failMessageText": "HonorSkills_MagDrills_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_30 name",
+        "note": "HonorSkills_MagDrills_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_MagDrills_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_30 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_30 successMessageText",
+        "templateId": "HonorSkills_MagDrills_30",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 30",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_35": {
+        "_id": "HonorSkills_MagDrills_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_35 description",
+        "failMessageText": "HonorSkills_MagDrills_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_35 name",
+        "note": "HonorSkills_MagDrills_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_MagDrills_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_35 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_35 successMessageText",
+        "templateId": "HonorSkills_MagDrills_35",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 35",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_40": {
+        "_id": "HonorSkills_MagDrills_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_40 description",
+        "failMessageText": "HonorSkills_MagDrills_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_40 name",
+        "note": "HonorSkills_MagDrills_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_MagDrills_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_40 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_40 successMessageText",
+        "templateId": "HonorSkills_MagDrills_40",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 40",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_45": {
+        "_id": "HonorSkills_MagDrills_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_45 description",
+        "failMessageText": "HonorSkills_MagDrills_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_45 name",
+        "note": "HonorSkills_MagDrills_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_MagDrills_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_45 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_45 successMessageText",
+        "templateId": "HonorSkills_MagDrills_45",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 45",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_MagDrills_50": {
+        "_id": "HonorSkills_MagDrills_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_MagDrills_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_MagDrills_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_MagDrills_50 description",
+        "failMessageText": "HonorSkills_MagDrills_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_MagDrills_50 name",
+        "note": "HonorSkills_MagDrills_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_MagDrills_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_MagDrills_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_MagDrills_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_MagDrills_50 startedMessageText",
+        "successMessageText": "HonorSkills_MagDrills_50 successMessageText",
+        "templateId": "HonorSkills_MagDrills_50",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Mag Drills 50",
+        "acceptPlayerMessage": "HonorSkills_MagDrills_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_MagDrills_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_MagDrills_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_5": {
+        "_id": "HonorSkills_Crafting_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_5 description",
+        "failMessageText": "HonorSkills_Crafting_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_5 name",
+        "note": "HonorSkills_Crafting_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_Crafting_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_5 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_5 successMessageText",
+        "templateId": "HonorSkills_Crafting_5",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 5",
+        "acceptPlayerMessage": "HonorSkills_Crafting_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_10": {
+        "_id": "HonorSkills_Crafting_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_10 description",
+        "failMessageText": "HonorSkills_Crafting_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_10 name",
+        "note": "HonorSkills_Crafting_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_Crafting_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_10 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_10 successMessageText",
+        "templateId": "HonorSkills_Crafting_10",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 10",
+        "acceptPlayerMessage": "HonorSkills_Crafting_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_15": {
+        "_id": "HonorSkills_Crafting_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_15 description",
+        "failMessageText": "HonorSkills_Crafting_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_15 name",
+        "note": "HonorSkills_Crafting_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_Crafting_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_15 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_15 successMessageText",
+        "templateId": "HonorSkills_Crafting_15",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 15",
+        "acceptPlayerMessage": "HonorSkills_Crafting_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_20": {
+        "_id": "HonorSkills_Crafting_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_20 description",
+        "failMessageText": "HonorSkills_Crafting_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_20 name",
+        "note": "HonorSkills_Crafting_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_Crafting_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_20 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_20 successMessageText",
+        "templateId": "HonorSkills_Crafting_20",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 20",
+        "acceptPlayerMessage": "HonorSkills_Crafting_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_25": {
+        "_id": "HonorSkills_Crafting_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_25 description",
+        "failMessageText": "HonorSkills_Crafting_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_25 name",
+        "note": "HonorSkills_Crafting_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_Crafting_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_25 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_25 successMessageText",
+        "templateId": "HonorSkills_Crafting_25",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 25",
+        "acceptPlayerMessage": "HonorSkills_Crafting_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_30": {
+        "_id": "HonorSkills_Crafting_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_30 description",
+        "failMessageText": "HonorSkills_Crafting_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_30 name",
+        "note": "HonorSkills_Crafting_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_Crafting_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_30 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_30 successMessageText",
+        "templateId": "HonorSkills_Crafting_30",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 30",
+        "acceptPlayerMessage": "HonorSkills_Crafting_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_35": {
+        "_id": "HonorSkills_Crafting_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_35 description",
+        "failMessageText": "HonorSkills_Crafting_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_35 name",
+        "note": "HonorSkills_Crafting_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_Crafting_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_35 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_35 successMessageText",
+        "templateId": "HonorSkills_Crafting_35",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 35",
+        "acceptPlayerMessage": "HonorSkills_Crafting_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_40": {
+        "_id": "HonorSkills_Crafting_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_40 description",
+        "failMessageText": "HonorSkills_Crafting_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_40 name",
+        "note": "HonorSkills_Crafting_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_Crafting_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_40 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_40 successMessageText",
+        "templateId": "HonorSkills_Crafting_40",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 40",
+        "acceptPlayerMessage": "HonorSkills_Crafting_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_45": {
+        "_id": "HonorSkills_Crafting_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_45 description",
+        "failMessageText": "HonorSkills_Crafting_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_45 name",
+        "note": "HonorSkills_Crafting_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_Crafting_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_45 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_45 successMessageText",
+        "templateId": "HonorSkills_Crafting_45",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 45",
+        "acceptPlayerMessage": "HonorSkills_Crafting_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_Crafting_50": {
+        "_id": "HonorSkills_Crafting_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_Crafting_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_Crafting_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_Crafting_50 description",
+        "failMessageText": "HonorSkills_Crafting_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_Crafting_50 name",
+        "note": "HonorSkills_Crafting_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_Crafting_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_Crafting_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_Crafting_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_Crafting_50 startedMessageText",
+        "successMessageText": "HonorSkills_Crafting_50 successMessageText",
+        "templateId": "HonorSkills_Crafting_50",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Crafting 50",
+        "acceptPlayerMessage": "HonorSkills_Crafting_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_Crafting_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_Crafting_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_5": {
+        "_id": "HonorSkills_HideoutManagement_5",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_5_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_5 description",
+        "failMessageText": "HonorSkills_HideoutManagement_5 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_5 name",
+        "note": "HonorSkills_HideoutManagement_5 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_5_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "5000",
+                    "id": "HonorSkills_HideoutManagement_5_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_5_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 5000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_5 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_5 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_5",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 5",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_5 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_5 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_5 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_10": {
+        "_id": "HonorSkills_HideoutManagement_10",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_10_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_10_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_10 description",
+        "failMessageText": "HonorSkills_HideoutManagement_10 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_10 name",
+        "note": "HonorSkills_HideoutManagement_10 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_10_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "10000",
+                    "id": "HonorSkills_HideoutManagement_10_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_10_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 10000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_10 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_10 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_10",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 10",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_10 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_10 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_10 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_15": {
+        "_id": "HonorSkills_HideoutManagement_15",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_15_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_10"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_15_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_15 description",
+        "failMessageText": "HonorSkills_HideoutManagement_15 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_15 name",
+        "note": "HonorSkills_HideoutManagement_15 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_15_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "15000",
+                    "id": "HonorSkills_HideoutManagement_15_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_15_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_15 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_15 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_15",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 15",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_15 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_15 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_15 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_20": {
+        "_id": "HonorSkills_HideoutManagement_20",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_20_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_20_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_20 description",
+        "failMessageText": "HonorSkills_HideoutManagement_20 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_20 name",
+        "note": "HonorSkills_HideoutManagement_20 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_20_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "20000",
+                    "id": "HonorSkills_HideoutManagement_20_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_20_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 20000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_20 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_20 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_20",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 20",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_20 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_20 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_20 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_25": {
+        "_id": "HonorSkills_HideoutManagement_25",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_25_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_20"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_25_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_25 description",
+        "failMessageText": "HonorSkills_HideoutManagement_25 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_25 name",
+        "note": "HonorSkills_HideoutManagement_25 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_25_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "25000",
+                    "id": "HonorSkills_HideoutManagement_25_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_25_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 25000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_25 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_25 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_25",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 25",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_25 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_25 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_25 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_30": {
+        "_id": "HonorSkills_HideoutManagement_30",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_30_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_25"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_30_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_30 description",
+        "failMessageText": "HonorSkills_HideoutManagement_30 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_30 name",
+        "note": "HonorSkills_HideoutManagement_30 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_30_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "30000",
+                    "id": "HonorSkills_HideoutManagement_30_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_30_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_30 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_30 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_30",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 30",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_30 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_30 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_30 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_35": {
+        "_id": "HonorSkills_HideoutManagement_35",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_35_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_35_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_35 description",
+        "failMessageText": "HonorSkills_HideoutManagement_35 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_35 name",
+        "note": "HonorSkills_HideoutManagement_35 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_35_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "35000",
+                    "id": "HonorSkills_HideoutManagement_35_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_35_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 35000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_35 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_35 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_35",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 35",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_35 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_35 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_35 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_40": {
+        "_id": "HonorSkills_HideoutManagement_40",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_40_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_35"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_40_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_40 description",
+        "failMessageText": "HonorSkills_HideoutManagement_40 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_40 name",
+        "note": "HonorSkills_HideoutManagement_40 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_40_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "HonorSkills_HideoutManagement_40_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_40_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_40 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_40 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_40",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 40",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_40 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_40 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_40 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_45": {
+        "_id": "HonorSkills_HideoutManagement_45",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_45_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_40"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_45_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_45 description",
+        "failMessageText": "HonorSkills_HideoutManagement_45 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_45 name",
+        "note": "HonorSkills_HideoutManagement_45 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_45_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "45000",
+                    "id": "HonorSkills_HideoutManagement_45_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_45_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 45000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_45 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_45 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_45",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 45",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_45 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_45 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_45 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "HonorSkills_HideoutManagement_50": {
+        "_id": "HonorSkills_HideoutManagement_50",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_50_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "HonorSkills_HideoutManagement_45"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "HonorSkills_HideoutManagement_50_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "50"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "HonorSkills_HideoutManagement_50 description",
+        "failMessageText": "HonorSkills_HideoutManagement_50 failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "HonorSkills_HideoutManagement_50 name",
+        "note": "HonorSkills_HideoutManagement_50 note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "HonorSkills_HideoutManagement_50_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "HonorSkills_HideoutManagement_50_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "HonorSkills_HideoutManagement_50_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "HonorSkills_HideoutManagement_50 startedMessageText",
+        "successMessageText": "HonorSkills_HideoutManagement_50 successMessageText",
+        "templateId": "HonorSkills_HideoutManagement_50",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Skill",
+        "QuestName": "[Bsh] Honor skills: Hideout Management 50",
+        "acceptPlayerMessage": "HonorSkills_HideoutManagement_50 acceptPlayerMessage",
+        "changeQuestMessageText": "HonorSkills_HideoutManagement_50 changeQuestMessageText",
+        "completePlayerMessage": "HonorSkills_HideoutManagement_50 completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

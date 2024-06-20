@@ -1,0 +1,4106 @@
+{
+    "barter_scheme": {
+        "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Barter": [
+            [
+                {
+                    "_tpl": "57347c93245977448d35f6e3",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 1900
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Barter": [
+            [
+                {
+                    "_tpl": "5c13cd2486f774072c757944",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 2500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Barter": [
+            [
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 2
+                },
+                {
+                    "_tpl": "5755356824597772cb798962",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 10000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Barter": [
+            [
+                {
+                    "_tpl": "590c661e86f7741e566b646a",
+                    "count": 2
+                },
+                {
+                    "_tpl": "544fb3f34bdc2d03748b456a",
+                    "count": 1
+                },
+                {
+                    "_tpl": "5e831507ea0a7c419c2f9bd9",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 19000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter": [
+            [
+                {
+                    "_tpl": "5c052f6886f7746b1e3db148",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 350000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter": [
+            [
+                {
+                    "_tpl": "590c5c9f86f77477c91c36e7",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 30000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5751a25924597722c463c472_Barter": [
+            [
+                {
+                    "_tpl": "544fb25a4bdc2dfb738b4567",
+                    "count": 1
+                },
+                {
+                    "_tpl": "5c13cd2486f774072c757944",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5751a25924597722c463c472_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 2500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Barter": [
+            [
+                {
+                    "_tpl": "5af0548586f7743a532b7e99",
+                    "count": 2
+                },
+                {
+                    "_tpl": "5755383e24597772cb798966",
+                    "count": 2
+                },
+                {
+                    "_tpl": "590c695186f7741e566b64a2",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 67000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5755356824597772cb798962_Barter": [
+            [
+                {
+                    "_tpl": "5d1b3f2d86f774253763b735",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5755356824597772cb798962_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 4000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5755383e24597772cb798966_Barter": [
+            [
+                {
+                    "_tpl": "590c695186f7741e566b64a2",
+                    "count": 2
+                },
+                {
+                    "_tpl": "544fb3f34bdc2d03748b456a",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5755383e24597772cb798966_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 21000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c657e86f77412b013051d_Barter": [
+            [
+                {
+                    "_tpl": "5d02778e86f774203e7dedbe",
+                    "count": 1
+                },
+                {
+                    "_tpl": "590c678286f77426c9660122",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c657e86f77412b013051d_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 24000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c661e86f7741e566b646a_Barter": [
+            [
+                {
+                    "_tpl": "544fb25a4bdc2dfb738b4567",
+                    "count": 1
+                },
+                {
+                    "_tpl": "5755356824597772cb798962",
+                    "count": 2
+                },
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c661e86f7741e566b646a_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 6500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c678286f77426c9660122_Barter": [
+            [
+                {
+                    "_tpl": "590c661e86f7741e566b646a",
+                    "count": 2
+                },
+                {
+                    "_tpl": "544fb3f34bdc2d03748b456a",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c678286f77426c9660122_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 14000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c695186f7741e566b64a2_Barter": [
+            [
+                {
+                    "_tpl": "544fb3f34bdc2d03748b456a",
+                    "count": 1
+                },
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 4
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_590c695186f7741e566b64a2_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 15000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter": [
+            [
+                {
+                    "_tpl": "57e26fc7245977162a14b800",
+                    "count": 4
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 20000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter": [
+            [
+                {
+                    "_tpl": "5d1b392c86f77425243e98fe",
+                    "count": 5
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 46000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter": [
+            [
+                {
+                    "_tpl": "590c621186f774138d11ea29",
+                    "count": 4
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 90000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Barter": [
+            [
+                {
+                    "_tpl": "544fb3364bdc2d34748b456a",
+                    "count": 2
+                },
+                {
+                    "_tpl": "5751a25924597722c463c472",
+                    "count": 2
+                },
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 12000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5af0548586f7743a532b7e99_Barter": [
+            [
+                {
+                    "_tpl": "5755383e24597772cb798966",
+                    "count": 3
+                },
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5af0548586f7743a532b7e99_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 33500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter": [
+            [
+                {
+                    "_tpl": "5d0377ce86f774186372f689",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 125000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter": [
+            [
+                {
+                    "_tpl": "5d0375ff86f774186372f685",
+                    "count": 5
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 113000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter": [
+            [
+                {
+                    "_tpl": "590c392f86f77444754deb29",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 40000
+                },
+                {
+                    "_tpl": "569668774bdc2da2298b4568",
+                    "count": 500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter": [
+            [
+                {
+                    "_tpl": "5d1b309586f77425227d1676",
+                    "count": 4
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 50000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter": [
+            [
+                {
+                    "_tpl": "590a3d9c86f774385926e510",
+                    "count": 5
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 67000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter": [
+            [
+                {
+                    "_tpl": "5c052e6986f7746b207bc3c9",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 195000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter": [
+            [
+                {
+                    "_tpl": "590a373286f774287540368b",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade": [
+            [
+                {
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 550
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter": [
+            [
+                {
+                    "_tpl": "590a3c0a86f774385a33c450",
+                    "count": 5
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 50000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter": [
+            [
+                {
+                    "_tpl": "5d1b2ffd86f77425243e8d17",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 41000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter": [
+            [
+                {
+                    "_tpl": "5c05300686f7746dce784e5d",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 188000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter": [
+            [
+                {
+                    "_tpl": "5c12613b86f7743bbe2c3f76",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade": [
+            [
+                {
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 850
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter": [
+            [
+                {
+                    "_tpl": "5d403f9186f7743cac3f229b",
+                    "count": 4
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 105000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter": [
+            [
+                {
+                    "_tpl": "59faff1d86f7746c51718c9c",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 190000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Barter": [
+            [
+                {
+                    "_tpl": "5751a25924597722c463c472",
+                    "count": 1
+                },
+                {
+                    "_tpl": "590c661e86f7741e566b646a",
+                    "count": 2
+                },
+                {
+                    "_tpl": "5e831507ea0a7c419c2f9bd9",
+                    "count": 1
+                },
+                {
+                    "_tpl": "5b4335ba86f7744d2837a264",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 20000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5d02797c86f774203f38e30a_Barter": [
+            [
+                {
+                    "_tpl": "5d02778e86f774203e7dedbe",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5d02797c86f774203f38e30a_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 28500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter": [
+            [
+                {
+                    "_tpl": "56742c2e4bdc2d95058b456d",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 27000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter": [
+            [
+                {
+                    "_tpl": "57347ca924597744596b4e71",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade": [
+            [
+                {
+                    "_tpl": "569668774bdc2da2298b4568",
+                    "count": 2000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Barter": [
+            [
+                {
+                    "_tpl": "577e1c9d2459773cd707c525",
+                    "count": 1
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 1350
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Barter": [
+            [
+                {
+                    "_tpl": "5e831507ea0a7c419c2f9bd9",
+                    "count": 1
+                },
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 1
+                },
+                {
+                    "_tpl": "5755356824597772cb798962",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 9000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter": [
+            [
+                {
+                    "_tpl": "5d0376a486f7747d8050965c",
+                    "count": 5
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade": [
+            [
+                {
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 1500
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter": [
+            [
+                {
+                    "_tpl": "5f745ee30acaeb0d490d8c5b",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade": [
+            [
+                {
+                    "_tpl": "5696686a4bdc2da3298b456a",
+                    "count": 600
+                },
+                {
+                    "_tpl": "569668774bdc2da2298b4568",
+                    "count": 600
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter": [
+            [
+                {
+                    "_tpl": "59e3639286f7741777737013",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_5fd4c474dd870108a754b241_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 207000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Barter": [
+            [
+                {
+                    "_tpl": "590c661e86f7741e566b646a",
+                    "count": 2
+                },
+                {
+                    "_tpl": "544fb37f4bdc2dee738b4567",
+                    "count": 2
+                },
+                {
+                    "_tpl": "5755356824597772cb798962",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 25000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_60098af40accd37ef2175f27_Barter": [
+            [
+                {
+                    "_tpl": "5e831507ea0a7c419c2f9bd9",
+                    "count": 2
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_60098af40accd37ef2175f27_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 2000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter": [
+            [
+                {
+                    "_tpl": "60391a8b3364dc22b04d0ce5",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 70000
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter": [
+            [
+                {
+                    "_tpl": "59faff1d86f7746c51718c9c",
+                    "count": 3
+                }
+            ]
+        ],
+        "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade": [
+            [
+                {
+                    "_tpl": "5449016a4bdc2d6f028b456f",
+                    "count": 245000
+                }
+            ]
+        ]
+    },
+    "items": [
+        {
+            "_id": "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Barter",
+            "_tpl": "5e831507ea0a7c419c2f9bd9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Barter",
+            "_tpl": "544fb25a4bdc2dfb738b4567",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Barter",
+            "_tpl": "544fb3364bdc2d34748b456a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5755356824597772cb798962_Barter",
+            "_tpl": "5755356824597772cb798962",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_60098af40accd37ef2175f27_Barter",
+            "_tpl": "60098af40accd37ef2175f27",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c661e86f7741e566b646a_Barter",
+            "_tpl": "590c661e86f7741e566b646a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5751a25924597722c463c472_Barter",
+            "_tpl": "5751a25924597722c463c472",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Barter",
+            "_tpl": "544fb3f34bdc2d03748b456a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Barter",
+            "_tpl": "5e8488fa988a8701445df1e4",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Barter",
+            "_tpl": "5af0454c86f7746bf20992e8",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c695186f7741e566b64a2_Barter",
+            "_tpl": "590c695186f7741e566b64a2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Barter",
+            "_tpl": "544fb45d4bdc2dee738b4568",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Barter",
+            "_tpl": "5d02778e86f774203e7dedbe",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c678286f77426c9660122_Barter",
+            "_tpl": "590c678286f77426c9660122",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5755383e24597772cb798966_Barter",
+            "_tpl": "5755383e24597772cb798966",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Barter",
+            "_tpl": "60098ad7c2240c0fe85c570a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5af0548586f7743a532b7e99_Barter",
+            "_tpl": "5af0548586f7743a532b7e99",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c657e86f77412b013051d_Barter",
+            "_tpl": "590c657e86f77412b013051d",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5d02797c86f774203f38e30a_Barter",
+            "_tpl": "5d02797c86f774203f38e30a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Barter",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Trade",
+            "_tpl": "5e831507ea0a7c419c2f9bd9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Trade",
+            "_tpl": "544fb25a4bdc2dfb738b4567",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Trade",
+            "_tpl": "544fb3364bdc2d34748b456a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5755356824597772cb798962_Trade",
+            "_tpl": "5755356824597772cb798962",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_60098af40accd37ef2175f27_Trade",
+            "_tpl": "60098af40accd37ef2175f27",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c661e86f7741e566b646a_Trade",
+            "_tpl": "590c661e86f7741e566b646a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5751a25924597722c463c472_Trade",
+            "_tpl": "5751a25924597722c463c472",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Trade",
+            "_tpl": "544fb3f34bdc2d03748b456a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Trade",
+            "_tpl": "5e8488fa988a8701445df1e4",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Trade",
+            "_tpl": "5af0454c86f7746bf20992e8",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c695186f7741e566b64a2_Trade",
+            "_tpl": "590c695186f7741e566b64a2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Trade",
+            "_tpl": "544fb45d4bdc2dee738b4568",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Trade",
+            "_tpl": "5d02778e86f774203e7dedbe",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c678286f77426c9660122_Trade",
+            "_tpl": "590c678286f77426c9660122",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5755383e24597772cb798966_Trade",
+            "_tpl": "5755383e24597772cb798966",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Trade",
+            "_tpl": "60098ad7c2240c0fe85c570a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5af0548586f7743a532b7e99_Trade",
+            "_tpl": "5af0548586f7743a532b7e99",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_590c657e86f77412b013051d_Trade",
+            "_tpl": "590c657e86f77412b013051d",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5d02797c86f774203f38e30a_Trade",
+            "_tpl": "5d02797c86f774203f38e30a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Trade",
+            "_tpl": "5751a89d24597722aa0e8db0",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+            "_tpl": "59e7635f86f7742cbf2c1095",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065ef7",
+            "_tpl": "65702f87722744627e05cdb8",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+            "slotId": "Soft_armor_front"
+        },
+          {
+            "_id": "666e47393142970f96065ef8",
+            "_tpl": "65702fe593b7ea9c330f4ce8",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065ef9",
+            "_tpl": "6570305d93b7ea9c330f4ced",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065efa",
+            "_tpl": "65703472c9030b928a0a8a78",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter",
+            "_tpl": "5df8a2ca86f7740bfe6df777",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065efb",
+            "_tpl": "656fd7c32668ef0402028fb9",
+            "parentId": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065efc",
+            "_tpl": "656fd89bf5a9631d4e042575",
+            "parentId": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+            "_tpl": "5648a7494bdc2d9d488b4583",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065efd",
+            "_tpl": "65703d866584602f7d057a8a",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065efe",
+            "_tpl": "65703fa06584602f7d057a8e",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065eff",
+            "_tpl": "65703fe46a912c8b5c03468b",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f00",
+            "_tpl": "657040374e67e8ec7a0d261c",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "_tpl": "5b44d22286f774172b0c9de8",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f01",
+            "_tpl": "65704de13e7bba58ea0285c8",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f02",
+            "_tpl": "65705c3c14f2ed6d7d0b7738",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f03",
+            "_tpl": "65705c777260e1139e091408",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f04",
+            "_tpl": "65705cb314f2ed6d7d0b773c",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f05",
+            "_tpl": "65705cea4916448ae1050897",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f06",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f07",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+            "_tpl": "5ab8e4ed86f7742d8e50c7fa",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f08",
+            "_tpl": "657044e971369562b300ce9b",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f09",
+            "_tpl": "657045741bd9beedc40b7299",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f0a",
+            "_tpl": "657045b97e80617cee095bda",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f0b",
+            "_tpl": "6570460471369562b300ce9f",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "_tpl": "5c0e5edb86f77461f55ed1f7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f0c",
+            "_tpl": "6571dbd388ead79fcf091d71",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f0d",
+            "_tpl": "6571dbda88ead79fcf091d75",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f0e",
+            "_tpl": "6571dbe07c02ae206002502e",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f0f",
+            "_tpl": "6571dbeaee8ec43d520cf89e",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f10",
+            "_tpl": "6571dbef88ead79fcf091d79",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f11",
+            "_tpl": "656f57dc27aed95beb08f628",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f12",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "_tpl": "5c0e5bab86f77461f55ed1f3",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f13",
+            "_tpl": "6571b27a6d84a2b8b6007f92",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f14",
+            "_tpl": "6571baa74cb80d995d0a1490",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f15",
+            "_tpl": "6571baac6d84a2b8b6007fa3",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f16",
+            "_tpl": "6571bab0f41985531a038091",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f17",
+            "_tpl": "6571babb4076795e5e07383f",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f18",
+            "_tpl": "6571bac34076795e5e073843",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e47393142970f96065f19",
+            "_tpl": "6571babf4cb80d995d0a1494",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e47393142970f96065f1a",
+            "_tpl": "654a4dea7c17dec2f50cc86a",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "_tpl": "609e8540d5c319764c2bc2e9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f1b",
+            "_tpl": "6572e5221b5bc1185508c24f",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f1c",
+            "_tpl": "6572e52f73c0eabb700109a0",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f1d",
+            "_tpl": "6572e53c73c0eabb700109a4",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f1e",
+            "_tpl": "6572e54873c0eabb700109a8",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f1f",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f20",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "_tpl": "5c0e53c886f7747fa54205c7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f21",
+            "_tpl": "654a8b0b0337d53f9102c2ae",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f22",
+            "_tpl": "654a8976f414fcea4004d78b",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f23",
+            "_tpl": "654a8b3df414fcea4004d78f",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f24",
+            "_tpl": "654a8b80f414fcea4004d797",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f25",
+            "_tpl": "654a8ae00337d53f9102c2aa",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f26",
+            "_tpl": "654a8bc5f414fcea4004d79b",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e47393142970f96065f27",
+            "_tpl": "656f603f94b480b8a500c0d6",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f28",
+            "_tpl": "656efd66034e8e01c407f35c",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+            "slotId": "back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "_tpl": "5c0e57ba86f7747fa141986d",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f29",
+            "_tpl": "65707fc348c7a887f2010432",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f2a",
+            "_tpl": "6570800612755ae0d907acf8",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f2b",
+            "_tpl": "65708070f65e2491bf00972c",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f2c",
+            "_tpl": "657080a212755ae0d907ad04",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f2d",
+            "_tpl": "657080ca12755ae0d907ad5e",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f2e",
+            "_tpl": "65708122f65e2491bf009755",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e47393142970f96065f2f",
+            "_tpl": "65708165696fe382cf073255",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e47393142970f96065f30",
+            "_tpl": "656f603f94b480b8a500c0d6",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f31",
+            "_tpl": "657b22485f444d6dff0c6c2f",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+            "_tpl": "5c0e655586f774045612eeb2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f32",
+            "_tpl": "6570e025615f54368b04fcb0",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f33",
+            "_tpl": "6570e0610b57c03ec90b96ef",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f34",
+            "_tpl": "656fad8c498d1b7e3e071da0",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f35",
+            "_tpl": "656fad8c498d1b7e3e071da0",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "_tpl": "5ab8e79e86f7742d8b372e78",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f36",
+            "_tpl": "65732688d9d89ff7ac0d9c4c",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f37",
+            "_tpl": "657326978c1cc6dcd9098b56",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f38",
+            "_tpl": "657326a28c1cc6dcd9098b5a",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f39",
+            "_tpl": "657326b08c1cc6dcd9098b5e",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f3a",
+            "_tpl": "657326bc5d3a3129fb05f36b",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f3b",
+            "_tpl": "656f611f94b480b8a500c0db",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f3c",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "_tpl": "5b44d0de86f774503d30cba8",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f3f",
+            "_tpl": "6575c342efc786cd9101a5e5",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f3d",
+            "_tpl": "6575c34bc6700bd6b40e8a84",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f3e",
+            "_tpl": "6575c35bc6700bd6b40e8a88",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f40",
+            "_tpl": "6575c366c6700bd6b40e8a8c",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f41",
+            "_tpl": "6575c373dc9932aed601c5ec",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f42",
+            "_tpl": "6575c385dc9932aed601c5f0",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e47393142970f96065f43",
+            "_tpl": "6575c390efc786cd9101a5e9",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e47393142970f96065f44",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f45",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "_tpl": "5ca2151486f774244a3b8d30",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f46",
+            "_tpl": "6575dd3e9e27f4a85e081142",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f47",
+            "_tpl": "6575dd519e27f4a85e081146",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f48",
+            "_tpl": "6575dd64945bf78edd04c438",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f49",
+            "_tpl": "6575dd6e9d3a0ddf660b9047",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f4a",
+            "_tpl": "6575dd769d3a0ddf660b904b",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f4b",
+            "_tpl": "6575dd800546f8b1de093df6",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e47393142970f96065f4c",
+            "_tpl": "6575dd94945bf78edd04c43c",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e47393142970f96065f4d",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f4e",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "_tpl": "5b44cf1486f77431723e3d05",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e47393142970f96065f4f",
+            "_tpl": "6575c3b3dc9932aed601c5f4",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e47393142970f96065f50",
+            "_tpl": "6575c3beefc786cd9101a5ed",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e47393142970f96065f51",
+            "_tpl": "6575c3cdc6700bd6b40e8a90",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e47393142970f96065f52",
+            "_tpl": "6575c3dfdc9932aed601c5f8",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e47393142970f96065f53",
+            "_tpl": "6575c3ec52b7f8c76a05ee39",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e47393142970f96065f54",
+            "_tpl": "6575c3fd52b7f8c76a05ee3d",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e47393142970f96065f55",
+            "_tpl": "6575c40c52b7f8c76a05ee41",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e47393142970f96065f56",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f57",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f58",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e47393142970f96065f59",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "_tpl": "5b44cd8b86f774503d30cba2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f5b",
+            "_tpl": "6575c2adefc786cd9101a5d9",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f5c",
+            "_tpl": "6575c2be52b7f8c76a05ee25",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f5d",
+            "_tpl": "6575c2cd52b7f8c76a05ee29",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f5e",
+            "_tpl": "6575c2d852b7f8c76a05ee2d",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f60",
+            "_tpl": "6575c2e4efc786cd9101a5dd",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f61",
+            "_tpl": "6575c2f7efc786cd9101a5e1",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f62",
+            "_tpl": "6575c30352b7f8c76a05ee31",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f63",
+            "_tpl": "6575c31b52b7f8c76a05ee35",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f64",
+            "_tpl": "6575c326c6700bd6b40e8a80",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f65",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f66",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f67",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f68",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "_tpl": "5f5f41476bdad616ad46d631",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f69",
+            "_tpl": "65731b46cea9255e2102360a",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f6a",
+            "_tpl": "65731b4fcea9255e2102360e",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f6b",
+            "_tpl": "65731b576e709cddd001ec3f",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f6c",
+            "_tpl": "65731b60ff6dc44a7d068c4a",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f6d",
+            "_tpl": "65731b666e709cddd001ec43",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f6e",
+            "_tpl": "65731b716e709cddd001ec47",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f6f",
+            "_tpl": "65731b6b6042b0f210020ef6",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f70",
+            "_tpl": "656f664200d62bcd2e024077",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f71",
+            "_tpl": "654a4f8bc721968a4404ef18",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f72",
+            "_tpl": "654a4f8bc721968a4404ef18",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f73",
+            "_tpl": "657b2797c3dbcb01d60c35ea",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "_tpl": "5e9dacf986f774054d6b89f4",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f74",
+            "_tpl": "65732de75d3a3129fb05f3dd",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f75",
+            "_tpl": "65732df4d0acf75aea06c87b",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f76",
+            "_tpl": "65732e05d0acf75aea06c87f",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f77",
+            "_tpl": "65732e0f6784ca384b0167ad",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f78",
+            "_tpl": "65732e215d3a3129fb05f3e1",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f79",
+            "_tpl": "65732e30dd8739f6440ef383",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f7a",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f7b",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "_tpl": "5c0e541586f7747fa54205c9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f7c",
+            "_tpl": "6575ea3060703324250610da",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f7d",
+            "_tpl": "6575ea4cf6a13a7b7100adc4",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f7e",
+            "_tpl": "6575ea5cf6a13a7b7100adc8",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f7f",
+            "_tpl": "6575ea6760703324250610de",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f80",
+            "_tpl": "6575ea719c7cad336508e418",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f81",
+            "_tpl": "6575ea7c60703324250610e2",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f82",
+            "_tpl": "656f611f94b480b8a500c0db",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f83",
+            "_tpl": "656efaf54772930db4031ff5",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "_tpl": "5ca21c6986f77479963115a7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f84",
+            "_tpl": "6575d9a79e27f4a85e08112d",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f85",
+            "_tpl": "6575d9b8945bf78edd04c427",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f86",
+            "_tpl": "6575d9c40546f8b1de093dee",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f87",
+            "_tpl": "6575d9cf0546f8b1de093df2",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f88",
+            "_tpl": "6575d9d8945bf78edd04c42b",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f89",
+            "_tpl": "6575da07945bf78edd04c433",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f8a",
+            "_tpl": "6575da159e27f4a85e081131",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f8b",
+            "_tpl": "6575d9e7945bf78edd04c42f",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f8c",
+            "_tpl": "6575d9f816c2762fba00588d",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f8d",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f8e",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f8f",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f90",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "_tpl": "5c0e625a86f7742d77340f62",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f91",
+            "_tpl": "65764275d8537eb26a0355e9",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f92",
+            "_tpl": "657642b0e6d5dd75f40688a5",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f93",
+            "_tpl": "6576434820cc24d17102b148",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f94",
+            "_tpl": "657643732bc38ef78e076477",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f95",
+            "_tpl": "657643a220cc24d17102b14c",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f96",
+            "_tpl": "656f63c027aed95beb08f62c",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f97",
+            "_tpl": "656fafe3498d1b7e3e071da4",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f98",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f99",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter",
+            "_tpl": "5fd4c474dd870108a754b241",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f9a",
+            "_tpl": "656faf0ca0dce000a2020f77",
+            "parentId": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter",
+            "slotId": "front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f9b",
+            "_tpl": "656faf0ca0dce000a2020f77",
+            "parentId": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter",
+            "slotId": "back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+            "_tpl": "5e4abb5086f77406975c9342",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065f9c",
+            "_tpl": "6575e71760703324250610c3",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f9d",
+            "_tpl": "6575e72660703324250610c7",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f9e",
+            "_tpl": "656fa76500d62bcd2e024080",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065f9f",
+            "_tpl": "656fa76500d62bcd2e024080",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "_tpl": "60a283193cb70855c43a381d",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa0",
+            "_tpl": "6575d561b15fef3dd4051670",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa1",
+            "_tpl": "6575d56b16c2762fba005818",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa2",
+            "_tpl": "6575d57a16c2762fba00581c",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa3",
+            "_tpl": "6575d589b15fef3dd4051674",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa4",
+            "_tpl": "6575d598b15fef3dd4051678",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa5",
+            "_tpl": "6575d5b316c2762fba005824",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa6",
+            "_tpl": "6575d5bd16c2762fba005828",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa7",
+            "_tpl": "6575d5a616c2762fba005820",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa8",
+            "_tpl": "656fa61e94b480b8a500c0e8",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fa9",
+            "_tpl": "656fa61e94b480b8a500c0e8",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065faa",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fab",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "_tpl": "545cdb794bdc2d3a198b456a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4a6e3142970f96065fac",
+            "_tpl": "6575ce3716c2762fba0057fd",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fad",
+            "_tpl": "6575ce45dc9932aed601c616",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fae",
+            "_tpl": "6575ce5016c2762fba005802",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4a6e3142970f96065faf",
+            "_tpl": "6575ce5befc786cd9101a671",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb0",
+            "_tpl": "6575ce6f16c2762fba005806",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb1",
+            "_tpl": "6575ce9db15fef3dd4051628",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb2",
+            "_tpl": "6575cea8b15fef3dd405162c",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb3",
+            "_tpl": "6575ce8bdc9932aed601c61e",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb4",
+            "_tpl": "64afc71497cf3a403c01ff38",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb5",
+            "_tpl": "64afc71497cf3a403c01ff38",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb6",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4a6e3142970f96065fb7",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade",
+            "_tpl": "59e7635f86f7742cbf2c1095",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fbf",
+            "_tpl": "65702f87722744627e05cdb8",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade",
+            "slotId": "Soft_armor_front"
+        },
+          {
+            "_id": "666e4c253142970f96065fc0",
+            "_tpl": "65702fe593b7ea9c330f4ce8",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fc1",
+            "_tpl": "6570305d93b7ea9c330f4ced",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fc2",
+            "_tpl": "65703472c9030b928a0a8a78",
+            "parentId": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Trade",
+            "_tpl": "5df8a2ca86f7740bfe6df777",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fc3",
+            "_tpl": "656fd7c32668ef0402028fb9",
+            "parentId": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fc4",
+            "_tpl": "656fd89bf5a9631d4e042575",
+            "parentId": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade",
+            "_tpl": "5648a7494bdc2d9d488b4583",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fc5",
+            "_tpl": "65703d866584602f7d057a8a",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fc6",
+            "_tpl": "65703fa06584602f7d057a8e",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fc7",
+            "_tpl": "65703fe46a912c8b5c03468b",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fc8",
+            "_tpl": "657040374e67e8ec7a0d261c",
+            "parentId": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "_tpl": "5b44d22286f774172b0c9de8",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fc9",
+            "_tpl": "65704de13e7bba58ea0285c8",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fca",
+            "_tpl": "65705c3c14f2ed6d7d0b7738",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fcb",
+            "_tpl": "65705c777260e1139e091408",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fcc",
+            "_tpl": "65705cb314f2ed6d7d0b773c",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96065fcd",
+            "_tpl": "65705cea4916448ae1050897",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96065fce",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96065fcf",
+            "_tpl": "656f9d5900d62bcd2e02407c",
+            "parentId": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade",
+            "_tpl": "5ab8e4ed86f7742d8e50c7fa",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fd0",
+            "_tpl": "657044e971369562b300ce9b",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fd1",
+            "_tpl": "657045741bd9beedc40b7299",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fd2",
+            "_tpl": "657045b97e80617cee095bda",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fd3",
+            "_tpl": "6570460471369562b300ce9f",
+            "parentId": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "_tpl": "5c0e5edb86f77461f55ed1f7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fd4",
+            "_tpl": "6571dbd388ead79fcf091d71",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fd5",
+            "_tpl": "6571dbda88ead79fcf091d75",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fd6",
+            "_tpl": "6571dbe07c02ae206002502e",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fd7",
+            "_tpl": "6571dbeaee8ec43d520cf89e",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96065fd8",
+            "_tpl": "6571dbef88ead79fcf091d79",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96065fd9",
+            "_tpl": "656f57dc27aed95beb08f628",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96065fda",
+            "_tpl": "656fac30c6baea13cd07e10c",
+            "parentId": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "_tpl": "5c0e5bab86f77461f55ed1f3",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fdb",
+            "_tpl": "6571b27a6d84a2b8b6007f92",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fdc",
+            "_tpl": "6571baa74cb80d995d0a1490",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fdd",
+            "_tpl": "6571baac6d84a2b8b6007fa3",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fde",
+            "_tpl": "6571bab0f41985531a038091",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96065fdf",
+            "_tpl": "6571babb4076795e5e07383f",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96065fe0",
+            "_tpl": "6571bac34076795e5e073843",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96065fe1",
+            "_tpl": "6571babf4cb80d995d0a1494",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fe2",
+            "_tpl": "654a4dea7c17dec2f50cc86a",
+            "parentId": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "_tpl": "609e8540d5c319764c2bc2e9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fe3",
+            "_tpl": "6572e5221b5bc1185508c24f",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fe4",
+            "_tpl": "6572e52f73c0eabb700109a0",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065fe5",
+            "_tpl": "6572e53c73c0eabb700109a4",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fe6",
+            "_tpl": "6572e54873c0eabb700109a8",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96065fe7",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96065fe8",
+            "_tpl": "656f9fa0498d1b7e3e071d98",
+            "parentId": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "_tpl": "5c0e53c886f7747fa54205c7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065fe9",
+            "_tpl": "654a8b0b0337d53f9102c2ae",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fea",
+            "_tpl": "654a8976f414fcea4004d78b",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065feb",
+            "_tpl": "654a8b3df414fcea4004d78f",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065fec",
+            "_tpl": "654a8b80f414fcea4004d797",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96065fed",
+            "_tpl": "654a8ae00337d53f9102c2aa",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96065fee",
+            "_tpl": "654a8bc5f414fcea4004d79b",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96065fef",
+            "_tpl": "656f603f94b480b8a500c0d6",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96065ff0",
+            "_tpl": "656efd66034e8e01c407f35c",
+            "parentId": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade",
+            "slotId": "back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "_tpl": "5c0e57ba86f7747fa141986d",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065ff1",
+            "_tpl": "65707fc348c7a887f2010432",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065ff2",
+            "_tpl": "6570800612755ae0d907acf8",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065ff3",
+            "_tpl": "65708070f65e2491bf00972c",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96065ff4",
+            "_tpl": "657080a212755ae0d907ad04",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96065ff5",
+            "_tpl": "657080ca12755ae0d907ad5e",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96065ff6",
+            "_tpl": "65708122f65e2491bf009755",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96065ff7",
+            "_tpl": "65708165696fe382cf073255",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f96065ff8",
+            "_tpl": "656f603f94b480b8a500c0d6",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96065ff9",
+            "_tpl": "657b22485f444d6dff0c6c2f",
+            "parentId": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade",
+            "_tpl": "5c0e655586f774045612eeb2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065ffa",
+            "_tpl": "6570e025615f54368b04fcb0",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065ffb",
+            "_tpl": "6570e0610b57c03ec90b96ef",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96065ffc",
+            "_tpl": "656fad8c498d1b7e3e071da0",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96065ffd",
+            "_tpl": "656fad8c498d1b7e3e071da0",
+            "parentId": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "_tpl": "5ab8e79e86f7742d8b372e78",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96065ffe",
+            "_tpl": "65732688d9d89ff7ac0d9c4c",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96065fff",
+            "_tpl": "657326978c1cc6dcd9098b56",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066000",
+            "_tpl": "657326a28c1cc6dcd9098b5a",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066001",
+            "_tpl": "657326b08c1cc6dcd9098b5e",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066002",
+            "_tpl": "657326bc5d3a3129fb05f36b",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066003",
+            "_tpl": "656f611f94b480b8a500c0db",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066004",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "_tpl": "5b44d0de86f774503d30cba8",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066005",
+            "_tpl": "6575c342efc786cd9101a5e5",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066006",
+            "_tpl": "6575c34bc6700bd6b40e8a84",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066007",
+            "_tpl": "6575c35bc6700bd6b40e8a88",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066008",
+            "_tpl": "6575c366c6700bd6b40e8a8c",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066009",
+            "_tpl": "6575c373dc9932aed601c5ec",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f9606600a",
+            "_tpl": "6575c385dc9932aed601c5f0",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f9606600b",
+            "_tpl": "6575c390efc786cd9101a5e9",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f9606600c",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606600d",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "_tpl": "5ca2151486f774244a3b8d30",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f9606600e",
+            "_tpl": "6575dd3e9e27f4a85e081142",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f9606600f",
+            "_tpl": "6575dd519e27f4a85e081146",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066010",
+            "_tpl": "6575dd64945bf78edd04c438",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066011",
+            "_tpl": "6575dd6e9d3a0ddf660b9047",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066012",
+            "_tpl": "6575dd769d3a0ddf660b904b",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066013",
+            "_tpl": "6575dd800546f8b1de093df6",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96066014",
+            "_tpl": "6575dd94945bf78edd04c43c",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f96066015",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066016",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "_tpl": "5b44cf1486f77431723e3d05",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066017",
+            "_tpl": "6575c3b3dc9932aed601c5f4",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066018",
+            "_tpl": "6575c3beefc786cd9101a5ed",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066019",
+            "_tpl": "6575c3cdc6700bd6b40e8a90",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f9606601a",
+            "_tpl": "6575c3dfdc9932aed601c5f8",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f9606601b",
+            "_tpl": "6575c3ec52b7f8c76a05ee39",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f9606601c",
+            "_tpl": "6575c3fd52b7f8c76a05ee3d",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4c253142970f9606601d",
+            "_tpl": "6575c40c52b7f8c76a05ee41",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4c253142970f9606601e",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606601f",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066020",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066021",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "_tpl": "5b44cd8b86f774503d30cba2",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066022",
+            "_tpl": "6575c2adefc786cd9101a5d9",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066023",
+            "_tpl": "6575c2be52b7f8c76a05ee25",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066024",
+            "_tpl": "6575c2cd52b7f8c76a05ee29",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066025",
+            "_tpl": "6575c2d852b7f8c76a05ee2d",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066026",
+            "_tpl": "6575c2e4efc786cd9101a5dd",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066027",
+            "_tpl": "6575c2f7efc786cd9101a5e1",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4c253142970f96066028",
+            "_tpl": "6575c30352b7f8c76a05ee31",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4c253142970f96066029",
+            "_tpl": "6575c31b52b7f8c76a05ee35",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f9606602a",
+            "_tpl": "6575c326c6700bd6b40e8a80",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f9606602b",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606602c",
+            "_tpl": "656fa8d700d62bcd2e024084",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606602d",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606602e",
+            "_tpl": "6557458f83942d705f0c4962",
+            "parentId": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "_tpl": "5f5f41476bdad616ad46d631",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f9606602f",
+            "_tpl": "65731b46cea9255e2102360a",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066030",
+            "_tpl": "65731b4fcea9255e2102360e",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066031",
+            "_tpl": "65731b576e709cddd001ec3f",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066032",
+            "_tpl": "65731b60ff6dc44a7d068c4a",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066033",
+            "_tpl": "65731b666e709cddd001ec43",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066034",
+            "_tpl": "65731b716e709cddd001ec47",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96066035",
+            "_tpl": "65731b6b6042b0f210020ef6",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f96066036",
+            "_tpl": "656f664200d62bcd2e024077",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066037",
+            "_tpl": "654a4f8bc721968a4404ef18",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066038",
+            "_tpl": "654a4f8bc721968a4404ef18",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066039",
+            "_tpl": "657b2797c3dbcb01d60c35ea",
+            "parentId": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "_tpl": "5e9dacf986f774054d6b89f4",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f9606603a",
+            "_tpl": "65732de75d3a3129fb05f3dd",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f9606603b",
+            "_tpl": "65732df4d0acf75aea06c87b",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f9606603c",
+            "_tpl": "65732e05d0acf75aea06c87f",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f9606603d",
+            "_tpl": "65732e0f6784ca384b0167ad",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f9606603e",
+            "_tpl": "65732e215d3a3129fb05f3e1",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f9606603f",
+            "_tpl": "65732e30dd8739f6440ef383",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96066040",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066041",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "_tpl": "5c0e541586f7747fa54205c9",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066042",
+            "_tpl": "6575ea3060703324250610da",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066043",
+            "_tpl": "6575ea4cf6a13a7b7100adc4",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066044",
+            "_tpl": "6575ea5cf6a13a7b7100adc8",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066045",
+            "_tpl": "6575ea6760703324250610de",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066046",
+            "_tpl": "6575ea719c7cad336508e418",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066047",
+            "_tpl": "6575ea7c60703324250610e2",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96066048",
+            "_tpl": "656f611f94b480b8a500c0db",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066049",
+            "_tpl": "656efaf54772930db4031ff5",
+            "parentId": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "_tpl": "5ca21c6986f77479963115a7",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f9606604a",
+            "_tpl": "6575d9a79e27f4a85e08112d",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f9606604b",
+            "_tpl": "6575d9b8945bf78edd04c427",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f9606604c",
+            "_tpl": "6575d9c40546f8b1de093dee",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f9606604d",
+            "_tpl": "6575d9cf0546f8b1de093df2",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f9606604e",
+            "_tpl": "6575d9d8945bf78edd04c42b",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066050",
+            "_tpl": "6575da07945bf78edd04c433",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4c253142970f96066051",
+            "_tpl": "6575da159e27f4a85e081131",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4c253142970f96066052",
+            "_tpl": "6575d9e7945bf78edd04c42f",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f96066053",
+            "_tpl": "6575d9f816c2762fba00588d",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Groin_back"
+        },
+        {
+            "_id": "666e4c253142970f96066054",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066055",
+            "_tpl": "65573fa5655447403702a816",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066056",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066057",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "_tpl": "5c0e625a86f7742d77340f62",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066058",
+            "_tpl": "65764275d8537eb26a0355e9",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066059",
+            "_tpl": "657642b0e6d5dd75f40688a5",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f9606605a",
+            "_tpl": "6576434820cc24d17102b148",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f9606605b",
+            "_tpl": "657643732bc38ef78e076477",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f9606605c",
+            "_tpl": "657643a220cc24d17102b14c",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f9606605d",
+            "_tpl": "656f63c027aed95beb08f62c",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606605e",
+            "_tpl": "656fafe3498d1b7e3e071da4",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606605f",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066060",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Trade",
+            "_tpl": "5fd4c474dd870108a754b241",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066061",
+            "_tpl": "656faf0ca0dce000a2020f77",
+            "parentId": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Trade",
+            "slotId": "front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066062",
+            "_tpl": "656faf0ca0dce000a2020f77",
+            "parentId": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Trade",
+            "slotId": "back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade",
+            "_tpl": "5e4abb5086f77406975c9342",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066063",
+            "_tpl": "6575e71760703324250610c3",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066064",
+            "_tpl": "6575e72660703324250610c7",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066065",
+            "_tpl": "656fa76500d62bcd2e024080",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066066",
+            "_tpl": "656fa76500d62bcd2e024080",
+            "parentId": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "_tpl": "60a283193cb70855c43a381d",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066067",
+            "_tpl": "6575d561b15fef3dd4051670",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066068",
+            "_tpl": "6575d56b16c2762fba005818",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066069",
+            "_tpl": "6575d57a16c2762fba00581c",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f9606606a",
+            "_tpl": "6575d589b15fef3dd4051674",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f9606606b",
+            "_tpl": "6575d598b15fef3dd4051678",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f9606606c",
+            "_tpl": "6575d5b316c2762fba005824",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4c253142970f9606606d",
+            "_tpl": "6575d5bd16c2762fba005828",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4c253142970f9606606e",
+            "_tpl": "6575d5a616c2762fba005820",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f9606606f",
+            "_tpl": "656fa61e94b480b8a500c0e8",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066070",
+            "_tpl": "656fa61e94b480b8a500c0e8",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066071",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f96066072",
+            "_tpl": "64afdb577bb3bfe8fe03fd1d",
+            "parentId": "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade",
+            "slotId": "Right_side_plate"
+        },
+        {
+            "_id": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "_tpl": "545cdb794bdc2d3a198b456a",
+            "parentId": "hideout",
+            "slotId": "hideout",
+            "upd": {
+                "StackObjectsCount": 999999999,
+                "UnlimitedCount": true
+            }
+        },
+        {
+            "_id": "666e4c253142970f96066073",
+            "_tpl": "6575ce3716c2762fba0057fd",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Soft_armor_front"
+        },
+        {
+            "_id": "666e4c253142970f96066074",
+            "_tpl": "6575ce45dc9932aed601c616",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Soft_armor_back"
+        },
+        {
+            "_id": "666e4c253142970f96066075",
+            "_tpl": "6575ce5016c2762fba005802",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Soft_armor_left"
+        },
+        {
+            "_id": "666e4c253142970f96066076",
+            "_tpl": "6575ce5befc786cd9101a671",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "soft_armor_right"
+        },
+        {
+            "_id": "666e4c253142970f96066077",
+            "_tpl": "6575ce6f16c2762fba005806",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Collar"
+        },
+        {
+            "_id": "666e4c253142970f96066078",
+            "_tpl": "6575ce9db15fef3dd4051628",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Shoulder_l"
+        },
+        {
+            "_id": "666e4c253142970f96066079",
+            "_tpl": "6575cea8b15fef3dd405162c",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Shoulder_r"
+        },
+        {
+            "_id": "666e4c253142970f9606607a",
+            "_tpl": "6575ce8bdc9932aed601c61e",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Groin"
+        },
+        {
+            "_id": "666e4c253142970f9606607b",
+            "_tpl": "64afc71497cf3a403c01ff38",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Front_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606607c",
+            "_tpl": "64afc71497cf3a403c01ff38",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Back_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606607d",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Left_side_plate"
+        },
+        {
+            "_id": "666e4c253142970f9606607e",
+            "_tpl": "64afd81707e2cf40e903a316",
+            "parentId": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade",
+            "slotId": "Right_side_plate"
+        }
+    ],
+    "loyal_level_items": {
+        "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Barter": 1,
+        "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Trade": 1,
+        "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Barter": 1,
+        "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Trade": 1,
+        "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Barter": 1,
+        "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Trade": 1,
+        "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Barter": 1,
+        "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Trade": 1,
+        "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter": 1,
+        "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Trade": 1,
+        "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter": 1,
+        "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Trade": 1,
+        "Warden_Temporal_Id_5751a25924597722c463c472_Barter": 1,
+        "Warden_Temporal_Id_5751a25924597722c463c472_Trade": 1,
+        "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Barter": 1,
+        "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Trade": 1,
+        "Warden_Temporal_Id_5755356824597772cb798962_Barter": 1,
+        "Warden_Temporal_Id_5755356824597772cb798962_Trade": 1,
+        "Warden_Temporal_Id_5755383e24597772cb798966_Barter": 1,
+        "Warden_Temporal_Id_5755383e24597772cb798966_Trade": 1,
+        "Warden_Temporal_Id_590c657e86f77412b013051d_Barter": 1,
+        "Warden_Temporal_Id_590c657e86f77412b013051d_Trade": 1,
+        "Warden_Temporal_Id_590c661e86f7741e566b646a_Barter": 1,
+        "Warden_Temporal_Id_590c661e86f7741e566b646a_Trade": 1,
+        "Warden_Temporal_Id_590c678286f77426c9660122_Barter": 1,
+        "Warden_Temporal_Id_590c678286f77426c9660122_Trade": 1,
+        "Warden_Temporal_Id_590c695186f7741e566b64a2_Barter": 1,
+        "Warden_Temporal_Id_590c695186f7741e566b64a2_Trade": 1,
+        "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter": 1,
+        "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Trade": 1,
+        "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter": 1,
+        "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Trade": 1,
+        "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter": 1,
+        "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Trade": 1,
+        "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Barter": 1,
+        "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Trade": 1,
+        "Warden_Temporal_Id_5af0548586f7743a532b7e99_Barter": 1,
+        "Warden_Temporal_Id_5af0548586f7743a532b7e99_Trade": 1,
+        "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter": 1,
+        "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Trade": 1,
+        "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter": 1,
+        "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Trade": 1,
+        "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter": 1,
+        "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Trade": 1,
+        "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter": 1,
+        "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Trade": 1,
+        "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter": 1,
+        "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Trade": 1,
+        "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter": 1,
+        "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Trade": 1,
+        "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter": 1,
+        "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Trade": 1,
+        "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter": 1,
+        "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Trade": 1,
+        "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter": 1,
+        "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Trade": 1,
+        "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter": 1,
+        "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Trade": 1,
+        "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter": 1,
+        "Warden_Temporal_Id_5c0e655586f774045612eeb2_Trade": 1,
+        "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter": 1,
+        "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Trade": 1,
+        "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter": 1,
+        "Warden_Temporal_Id_5ca21c6986f77479963115a7_Trade": 1,
+        "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Barter": 1,
+        "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Trade": 1,
+        "Warden_Temporal_Id_5d02797c86f774203f38e30a_Barter": 1,
+        "Warden_Temporal_Id_5d02797c86f774203f38e30a_Trade": 1,
+        "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter": 1,
+        "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Trade": 1,
+        "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter": 1,
+        "Warden_Temporal_Id_5e4abb5086f77406975c9342_Trade": 1,
+        "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Barter": 1,
+        "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Trade": 1,
+        "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Barter": 1,
+        "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Trade": 1,
+        "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter": 1,
+        "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Trade": 1,
+        "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter": 1,
+        "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Trade": 1,
+        "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter": 1,
+        "Warden_Temporal_Id_5fd4c474dd870108a754b241_Trade": 1,
+        "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Barter": 1,
+        "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Trade": 1,
+        "Warden_Temporal_Id_60098af40accd37ef2175f27_Barter": 1,
+        "Warden_Temporal_Id_60098af40accd37ef2175f27_Trade": 1,
+        "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter": 1,
+        "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Trade": 1,
+        "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter": 1,
+        "Warden_Temporal_Id_60a283193cb70855c43a381d_Trade": 1
+    }
+}

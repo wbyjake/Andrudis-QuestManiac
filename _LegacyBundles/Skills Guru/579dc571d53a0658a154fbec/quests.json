@@ -1,0 +1,2790 @@
+{
+    "SkillsGuru_Physical_Rookie": {
+        "_id": "SkillsGuru_Physical_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Endurance",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Strength",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Vitality",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Health",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "StressResistance",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "Metabolism",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Rookie_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "Immunity",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Physical_Rookie description",
+        "failMessageText": "SkillsGuru_Physical_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Physical_Rookie name",
+        "note": "SkillsGuru_Physical_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Physical_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "70000",
+                    "id": "SkillsGuru_Physical_Rookie_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 70000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Rookie_5696686a4bdc2da3298b456a_3_id",
+                    "value": "3500",
+                    "id": "SkillsGuru_Physical_Rookie_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Rookie_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 3500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Rookie_569668774bdc2da2298b4568_4_id",
+                    "value": "3500",
+                    "id": "SkillsGuru_Physical_Rookie_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Rookie_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 3500
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Physical_Rookie startedMessageText",
+        "successMessageText": "SkillsGuru_Physical_Rookie successMessageText",
+        "templateId": "SkillsGuru_Physical_Rookie",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Physical Rookie",
+        "acceptPlayerMessage": "SkillsGuru_Physical_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Physical_Rookie changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Physical_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Physical_Seasoned": {
+        "_id": "SkillsGuru_Physical_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Physical_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Endurance",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Strength",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Vitality",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Health",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "StressResistance",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "Metabolism",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Seasoned_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "Immunity",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Physical_Seasoned description",
+        "failMessageText": "SkillsGuru_Physical_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Physical_Seasoned name",
+        "note": "SkillsGuru_Physical_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Physical_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "210000",
+                    "id": "SkillsGuru_Physical_Seasoned_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 210000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                    "value": "10500",
+                    "id": "SkillsGuru_Physical_Seasoned_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 10500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Seasoned_569668774bdc2da2298b4568_4_id",
+                    "value": "10500",
+                    "id": "SkillsGuru_Physical_Seasoned_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Seasoned_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 10500
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Physical_Seasoned startedMessageText",
+        "successMessageText": "SkillsGuru_Physical_Seasoned successMessageText",
+        "templateId": "SkillsGuru_Physical_Seasoned",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Physical Seasoned",
+        "acceptPlayerMessage": "SkillsGuru_Physical_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Physical_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Physical_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Physical_Veteran": {
+        "_id": "SkillsGuru_Physical_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Physical_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Endurance",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Strength",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Vitality",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Health",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "StressResistance",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "Metabolism",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Veteran_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "Immunity",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Physical_Veteran description",
+        "failMessageText": "SkillsGuru_Physical_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Physical_Veteran name",
+        "note": "SkillsGuru_Physical_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Physical_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "420000",
+                    "id": "SkillsGuru_Physical_Veteran_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 420000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Veteran_5696686a4bdc2da3298b456a_3_id",
+                    "value": "21000",
+                    "id": "SkillsGuru_Physical_Veteran_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Veteran_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 21000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Veteran_569668774bdc2da2298b4568_4_id",
+                    "value": "21000",
+                    "id": "SkillsGuru_Physical_Veteran_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Veteran_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 21000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Physical_Veteran startedMessageText",
+        "successMessageText": "SkillsGuru_Physical_Veteran successMessageText",
+        "templateId": "SkillsGuru_Physical_Veteran",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Physical Veteran",
+        "acceptPlayerMessage": "SkillsGuru_Physical_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Physical_Veteran changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Physical_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Physical_Elite": {
+        "_id": "SkillsGuru_Physical_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Physical_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Endurance",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Strength",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Vitality",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Health",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "StressResistance",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "Metabolism",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Physical_Elite_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "Immunity",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Physical_Elite description",
+        "failMessageText": "SkillsGuru_Physical_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Physical_Elite name",
+        "note": "SkillsGuru_Physical_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Physical_Elite_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "714000",
+                    "id": "SkillsGuru_Physical_Elite_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Elite_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 714000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Elite_5696686a4bdc2da3298b456a_3_id",
+                    "value": "35700",
+                    "id": "SkillsGuru_Physical_Elite_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Elite_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 35700
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Physical_Elite_569668774bdc2da2298b4568_4_id",
+                    "value": "35700",
+                    "id": "SkillsGuru_Physical_Elite_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Physical_Elite_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 35700
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Physical_Elite startedMessageText",
+        "successMessageText": "SkillsGuru_Physical_Elite successMessageText",
+        "templateId": "SkillsGuru_Physical_Elite",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Physical Elite",
+        "acceptPlayerMessage": "SkillsGuru_Physical_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Physical_Elite changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Physical_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Mental_Rookie": {
+        "_id": "SkillsGuru_Mental_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Rookie_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Rookie_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Rookie_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Rookie_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Mental_Rookie description",
+        "failMessageText": "SkillsGuru_Mental_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Mental_Rookie name",
+        "note": "SkillsGuru_Mental_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Mental_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "40000",
+                    "id": "SkillsGuru_Mental_Rookie_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Rookie_5696686a4bdc2da3298b456a_3_id",
+                    "value": "2000",
+                    "id": "SkillsGuru_Mental_Rookie_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Rookie_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 2000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Rookie_569668774bdc2da2298b4568_4_id",
+                    "value": "2000",
+                    "id": "SkillsGuru_Mental_Rookie_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Rookie_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 2000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Mental_Rookie startedMessageText",
+        "successMessageText": "SkillsGuru_Mental_Rookie successMessageText",
+        "templateId": "SkillsGuru_Mental_Rookie",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Mental Rookie",
+        "acceptPlayerMessage": "SkillsGuru_Mental_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Mental_Rookie changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Mental_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Mental_Seasoned": {
+        "_id": "SkillsGuru_Mental_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Seasoned_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Mental_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Seasoned_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Seasoned_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Seasoned_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Seasoned_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Mental_Seasoned description",
+        "failMessageText": "SkillsGuru_Mental_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Mental_Seasoned name",
+        "note": "SkillsGuru_Mental_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Mental_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "120000",
+                    "id": "SkillsGuru_Mental_Seasoned_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 120000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                    "value": "6000",
+                    "id": "SkillsGuru_Mental_Seasoned_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 6000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Seasoned_569668774bdc2da2298b4568_4_id",
+                    "value": "6000",
+                    "id": "SkillsGuru_Mental_Seasoned_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Seasoned_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 6000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Mental_Seasoned startedMessageText",
+        "successMessageText": "SkillsGuru_Mental_Seasoned successMessageText",
+        "templateId": "SkillsGuru_Mental_Seasoned",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Mental Seasoned",
+        "acceptPlayerMessage": "SkillsGuru_Mental_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Mental_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Mental_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Mental_Veteran": {
+        "_id": "SkillsGuru_Mental_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Veteran_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Mental_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Veteran_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Veteran_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Veteran_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Veteran_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Mental_Veteran description",
+        "failMessageText": "SkillsGuru_Mental_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Mental_Veteran name",
+        "note": "SkillsGuru_Mental_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Mental_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "240000",
+                    "id": "SkillsGuru_Mental_Veteran_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 240000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Veteran_5696686a4bdc2da3298b456a_3_id",
+                    "value": "12000",
+                    "id": "SkillsGuru_Mental_Veteran_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Veteran_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 12000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Veteran_569668774bdc2da2298b4568_4_id",
+                    "value": "12000",
+                    "id": "SkillsGuru_Mental_Veteran_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Veteran_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 12000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Mental_Veteran startedMessageText",
+        "successMessageText": "SkillsGuru_Mental_Veteran successMessageText",
+        "templateId": "SkillsGuru_Mental_Veteran",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Mental Veteran",
+        "acceptPlayerMessage": "SkillsGuru_Mental_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Mental_Veteran changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Mental_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Mental_Elite": {
+        "_id": "SkillsGuru_Mental_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Mental_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Elite_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Perception",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Elite_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Attention",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Elite_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Charisma",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Mental_Elite_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Memory",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Mental_Elite description",
+        "failMessageText": "SkillsGuru_Mental_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Mental_Elite name",
+        "note": "SkillsGuru_Mental_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Mental_Elite_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "408000",
+                    "id": "SkillsGuru_Mental_Elite_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Elite_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 408000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Elite_5696686a4bdc2da3298b456a_3_id",
+                    "value": "20400",
+                    "id": "SkillsGuru_Mental_Elite_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Elite_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 20400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Mental_Elite_569668774bdc2da2298b4568_4_id",
+                    "value": "20400",
+                    "id": "SkillsGuru_Mental_Elite_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Mental_Elite_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 20400
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Mental_Elite startedMessageText",
+        "successMessageText": "SkillsGuru_Mental_Elite successMessageText",
+        "templateId": "SkillsGuru_Mental_Elite",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Mental Elite",
+        "acceptPlayerMessage": "SkillsGuru_Mental_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Mental_Elite changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Mental_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Combat_Rookie": {
+        "_id": "SkillsGuru_Combat_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Pistol",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "SMG",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Assault",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Shotgun",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "Sniper",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "DMR",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "RecoilControl",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Rookie_Skill_Level_7",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "AimDrills",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Combat_Rookie description",
+        "failMessageText": "SkillsGuru_Combat_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Combat_Rookie name",
+        "note": "SkillsGuru_Combat_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Combat_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "80000",
+                    "id": "SkillsGuru_Combat_Rookie_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 80000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Rookie_5696686a4bdc2da3298b456a_3_id",
+                    "value": "4000",
+                    "id": "SkillsGuru_Combat_Rookie_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Rookie_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 4000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Rookie_569668774bdc2da2298b4568_4_id",
+                    "value": "4000",
+                    "id": "SkillsGuru_Combat_Rookie_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Rookie_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 4000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Combat_Rookie startedMessageText",
+        "successMessageText": "SkillsGuru_Combat_Rookie successMessageText",
+        "templateId": "SkillsGuru_Combat_Rookie",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Combat Rookie",
+        "acceptPlayerMessage": "SkillsGuru_Combat_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Combat_Rookie changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Combat_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Combat_Seasoned": {
+        "_id": "SkillsGuru_Combat_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Combat_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Pistol",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "SMG",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Assault",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Shotgun",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "Sniper",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "DMR",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "RecoilControl",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Seasoned_Skill_Level_7",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "AimDrills",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Combat_Seasoned description",
+        "failMessageText": "SkillsGuru_Combat_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Combat_Seasoned name",
+        "note": "SkillsGuru_Combat_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Combat_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "240000",
+                    "id": "SkillsGuru_Combat_Seasoned_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 240000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                    "value": "12000",
+                    "id": "SkillsGuru_Combat_Seasoned_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 12000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Seasoned_569668774bdc2da2298b4568_4_id",
+                    "value": "12000",
+                    "id": "SkillsGuru_Combat_Seasoned_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Seasoned_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 12000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Combat_Seasoned startedMessageText",
+        "successMessageText": "SkillsGuru_Combat_Seasoned successMessageText",
+        "templateId": "SkillsGuru_Combat_Seasoned",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Combat Seasoned",
+        "acceptPlayerMessage": "SkillsGuru_Combat_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Combat_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Combat_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Combat_Veteran": {
+        "_id": "SkillsGuru_Combat_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Combat_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Pistol",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "SMG",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Assault",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Shotgun",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "Sniper",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "DMR",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "RecoilControl",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Veteran_Skill_Level_7",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "AimDrills",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Combat_Veteran description",
+        "failMessageText": "SkillsGuru_Combat_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Combat_Veteran name",
+        "note": "SkillsGuru_Combat_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Combat_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "480000",
+                    "id": "SkillsGuru_Combat_Veteran_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 480000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Veteran_5696686a4bdc2da3298b456a_3_id",
+                    "value": "24000",
+                    "id": "SkillsGuru_Combat_Veteran_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Veteran_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 24000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Veteran_569668774bdc2da2298b4568_4_id",
+                    "value": "24000",
+                    "id": "SkillsGuru_Combat_Veteran_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Veteran_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 24000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Combat_Veteran startedMessageText",
+        "successMessageText": "SkillsGuru_Combat_Veteran successMessageText",
+        "templateId": "SkillsGuru_Combat_Veteran",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Combat Veteran",
+        "acceptPlayerMessage": "SkillsGuru_Combat_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Combat_Veteran changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Combat_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Combat_Elite": {
+        "_id": "SkillsGuru_Combat_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Combat_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Pistol",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "SMG",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "Assault",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Shotgun",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "Sniper",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_5",
+                        "index": 5,
+                        "parentId": "",
+                        "target": "DMR",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_6",
+                        "index": 6,
+                        "parentId": "",
+                        "target": "RecoilControl",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Combat_Elite_Skill_Level_7",
+                        "index": 7,
+                        "parentId": "",
+                        "target": "AimDrills",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Combat_Elite description",
+        "failMessageText": "SkillsGuru_Combat_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Combat_Elite name",
+        "note": "SkillsGuru_Combat_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Combat_Elite_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "816000",
+                    "id": "SkillsGuru_Combat_Elite_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Elite_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 816000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Elite_5696686a4bdc2da3298b456a_3_id",
+                    "value": "40800",
+                    "id": "SkillsGuru_Combat_Elite_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Elite_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 40800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Combat_Elite_569668774bdc2da2298b4568_4_id",
+                    "value": "40800",
+                    "id": "SkillsGuru_Combat_Elite_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Combat_Elite_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 40800
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Combat_Elite startedMessageText",
+        "successMessageText": "SkillsGuru_Combat_Elite successMessageText",
+        "templateId": "SkillsGuru_Combat_Elite",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Combat Elite",
+        "acceptPlayerMessage": "SkillsGuru_Combat_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Combat_Elite changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Combat_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Practical_Rookie": {
+        "_id": "SkillsGuru_Practical_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Rookie_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Rookie_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Rookie_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Rookie_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Rookie_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "5"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Practical_Rookie description",
+        "failMessageText": "SkillsGuru_Practical_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Practical_Rookie name",
+        "note": "SkillsGuru_Practical_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Practical_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "50000",
+                    "id": "SkillsGuru_Practical_Rookie_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Rookie_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 50000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Rookie_5696686a4bdc2da3298b456a_3_id",
+                    "value": "2500",
+                    "id": "SkillsGuru_Practical_Rookie_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Rookie_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 2500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Rookie_569668774bdc2da2298b4568_4_id",
+                    "value": "2500",
+                    "id": "SkillsGuru_Practical_Rookie_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Rookie_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 2500
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Practical_Rookie startedMessageText",
+        "successMessageText": "SkillsGuru_Practical_Rookie successMessageText",
+        "templateId": "SkillsGuru_Practical_Rookie",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Practical Rookie",
+        "acceptPlayerMessage": "SkillsGuru_Practical_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Practical_Rookie changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Practical_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Practical_Seasoned": {
+        "_id": "SkillsGuru_Practical_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Seasoned_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Practical_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Seasoned_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Seasoned_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Seasoned_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Seasoned_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Seasoned_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "15"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Practical_Seasoned description",
+        "failMessageText": "SkillsGuru_Practical_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Practical_Seasoned name",
+        "note": "SkillsGuru_Practical_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Practical_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "150000",
+                    "id": "SkillsGuru_Practical_Seasoned_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Seasoned_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 150000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                    "value": "7500",
+                    "id": "SkillsGuru_Practical_Seasoned_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Seasoned_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 7500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Seasoned_569668774bdc2da2298b4568_4_id",
+                    "value": "7500",
+                    "id": "SkillsGuru_Practical_Seasoned_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Seasoned_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 7500
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Practical_Seasoned startedMessageText",
+        "successMessageText": "SkillsGuru_Practical_Seasoned successMessageText",
+        "templateId": "SkillsGuru_Practical_Seasoned",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Practical Seasoned",
+        "acceptPlayerMessage": "SkillsGuru_Practical_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Practical_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Practical_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Practical_Veteran": {
+        "_id": "SkillsGuru_Practical_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Veteran_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Practical_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Veteran_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Veteran_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Veteran_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Veteran_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Veteran_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "30"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Practical_Veteran description",
+        "failMessageText": "SkillsGuru_Practical_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Practical_Veteran name",
+        "note": "SkillsGuru_Practical_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Practical_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "300000",
+                    "id": "SkillsGuru_Practical_Veteran_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Veteran_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 300000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Veteran_5696686a4bdc2da3298b456a_3_id",
+                    "value": "15000",
+                    "id": "SkillsGuru_Practical_Veteran_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Veteran_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Veteran_569668774bdc2da2298b4568_4_id",
+                    "value": "15000",
+                    "id": "SkillsGuru_Practical_Veteran_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Veteran_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Practical_Veteran startedMessageText",
+        "successMessageText": "SkillsGuru_Practical_Veteran successMessageText",
+        "templateId": "SkillsGuru_Practical_Veteran",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Practical Veteran",
+        "acceptPlayerMessage": "SkillsGuru_Practical_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Practical_Veteran changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Practical_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "SkillsGuru_Practical_Elite": {
+        "_id": "SkillsGuru_Practical_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "SkillsGuru_Practical_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Elite_Skill_Level_0",
+                        "index": 0,
+                        "parentId": "",
+                        "target": "Surgery",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Elite_Skill_Level_1",
+                        "index": 1,
+                        "parentId": "",
+                        "target": "Search",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Elite_Skill_Level_2",
+                        "index": 2,
+                        "parentId": "",
+                        "target": "MagDrills",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Elite_Skill_Level_3",
+                        "index": 3,
+                        "parentId": "",
+                        "target": "Crafting",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Skill",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "dynamicLocale": false,
+                        "id": "SkillsGuru_Practical_Elite_Skill_Level_4",
+                        "index": 4,
+                        "parentId": "",
+                        "target": "HideoutManagement",
+                        "value": "51"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "SkillsGuru_Practical_Elite description",
+        "failMessageText": "SkillsGuru_Practical_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "SkillsGuru_Practical_Elite name",
+        "note": "SkillsGuru_Practical_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SkillsGuru_Practical_Elite_5449016a4bdc2d6f028b456f_2_id",
+                    "value": "510000",
+                    "id": "SkillsGuru_Practical_Elite_5449016a4bdc2d6f028b456f_2",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Elite_5449016a4bdc2d6f028b456f_2_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 510000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Elite_5696686a4bdc2da3298b456a_3_id",
+                    "value": "25500",
+                    "id": "SkillsGuru_Practical_Elite_5696686a4bdc2da3298b456a_3",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Elite_5696686a4bdc2da3298b456a_3_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 25500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SkillsGuru_Practical_Elite_569668774bdc2da2298b4568_4_id",
+                    "value": "25500",
+                    "id": "SkillsGuru_Practical_Elite_569668774bdc2da2298b4568_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "SkillsGuru_Practical_Elite_569668774bdc2da2298b4568_4_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 25500
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "SkillsGuru_Practical_Elite startedMessageText",
+        "successMessageText": "SkillsGuru_Practical_Elite successMessageText",
+        "templateId": "SkillsGuru_Practical_Elite",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Skill",
+        "QuestName": "[Fen] Skills Guru: Practical Elite",
+        "acceptPlayerMessage": "SkillsGuru_Practical_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "SkillsGuru_Practical_Elite changeQuestMessageText",
+        "completePlayerMessage": "SkillsGuru_Practical_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

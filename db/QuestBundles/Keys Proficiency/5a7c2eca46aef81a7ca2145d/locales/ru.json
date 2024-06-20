@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory name": "[Мех] Знание ключей: Завод Слесарь",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory note": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory description": "Нужны контейнеры для ключей? На кой хрен они тебе сдались если у тебя и ключей-то толком нет? Должен найти их все!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory startedMessageText": "[Мех] Задание принято: '[Мех] Знание ключей: Завод Слесарь'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory failMessageText": "[Мех] Задание провалено: '[Мех] Знание ключей: Завод Слесарь'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory successMessageText": "[Мех] Задание завершено: '[Мех] Знание ключей: Завод Слесарь'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory acceptPlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory declinePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory completePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_0": "Найди Ключ от передней двери насосной станции",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_1": "Найди Ключ от задней двери насосной станции",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_2": "Найди Ключ от выхода с Завода"
+}

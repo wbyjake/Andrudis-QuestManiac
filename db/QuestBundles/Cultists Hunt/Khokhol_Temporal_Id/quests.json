@@ -1,0 +1,1259 @@
+{
+  "Cultists_Hunt_1": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 1 Cultists",
+    "_id": "Cultists_Hunt_1",
+    "acceptPlayerMessage": "Cultists_Hunt_1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_1 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_1_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_1_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_1_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_1_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_1_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_1_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_1 declinePlayerMessage",
+    "description": "Cultists_Hunt_1 description",
+    "failMessageText": "Cultists_Hunt_1 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_1 name",
+    "note": "Cultists_Hunt_1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_1_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "250"
+        },
+        {
+          "id": "Cultists_Hunt_1_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_1_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_1_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_1 startedMessageText",
+    "successMessageText": "Cultists_Hunt_1 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_2": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 2 Cultists",
+    "_id": "Cultists_Hunt_2",
+    "acceptPlayerMessage": "Cultists_Hunt_2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_2 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_2_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_2_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_2_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_2_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_2_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_2_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_2_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_2 declinePlayerMessage",
+    "description": "Cultists_Hunt_2 description",
+    "failMessageText": "Cultists_Hunt_2 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_2 name",
+    "note": "Cultists_Hunt_2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_2_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "Cultists_Hunt_2_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_2_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 20000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_2_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "20000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_2 startedMessageText",
+    "successMessageText": "Cultists_Hunt_2 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_5": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 5 Cultists",
+    "_id": "Cultists_Hunt_5",
+    "acceptPlayerMessage": "Cultists_Hunt_5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_5 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_5_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_5_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_5_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_5_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_5_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_5_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_5_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_5 declinePlayerMessage",
+    "description": "Cultists_Hunt_5 description",
+    "failMessageText": "Cultists_Hunt_5 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_5 name",
+    "note": "Cultists_Hunt_5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_5_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "Cultists_Hunt_5_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_5_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 50000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_5_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "50000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_5 startedMessageText",
+    "successMessageText": "Cultists_Hunt_5 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_10": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 10 Cultists",
+    "_id": "Cultists_Hunt_10",
+    "acceptPlayerMessage": "Cultists_Hunt_10 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_10 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_10 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_10_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_10_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_10_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_10_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_10_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_10_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_10_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_10 declinePlayerMessage",
+    "description": "Cultists_Hunt_10 description",
+    "failMessageText": "Cultists_Hunt_10 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_10 name",
+    "note": "Cultists_Hunt_10 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_10_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "Cultists_Hunt_10_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_10_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_10_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "100000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_10 startedMessageText",
+    "successMessageText": "Cultists_Hunt_10 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_15": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 15 Cultists",
+    "_id": "Cultists_Hunt_15",
+    "acceptPlayerMessage": "Cultists_Hunt_15 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_15 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_15 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_15_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_15_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_15_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_15_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_15_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_15_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "15",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_15_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_10"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_15 declinePlayerMessage",
+    "description": "Cultists_Hunt_15 description",
+    "failMessageText": "Cultists_Hunt_15 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_15 name",
+    "note": "Cultists_Hunt_15 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_15_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3750"
+        },
+        {
+          "id": "Cultists_Hunt_15_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_15_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_15_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_15 startedMessageText",
+    "successMessageText": "Cultists_Hunt_15 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_20": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 20 Cultists",
+    "_id": "Cultists_Hunt_20",
+    "acceptPlayerMessage": "Cultists_Hunt_20 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_20 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_20 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_20_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_20_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_20_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_20_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_20_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_20_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_20_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_15"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_20 declinePlayerMessage",
+    "description": "Cultists_Hunt_20 description",
+    "failMessageText": "Cultists_Hunt_20 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_20 name",
+    "note": "Cultists_Hunt_20 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_20_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "Cultists_Hunt_20_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_20_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 200000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_20_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "200000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_20 startedMessageText",
+    "successMessageText": "Cultists_Hunt_20 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_27": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 27 Cultists",
+    "_id": "Cultists_Hunt_27",
+    "acceptPlayerMessage": "Cultists_Hunt_27 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_27 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_27 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_27_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_27_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_27_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "27",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_27_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_27_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_27_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "27",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_27_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_20"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_27 declinePlayerMessage",
+    "description": "Cultists_Hunt_27 description",
+    "failMessageText": "Cultists_Hunt_27 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_27 name",
+    "note": "Cultists_Hunt_27 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_27_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "6750"
+        },
+        {
+          "id": "Cultists_Hunt_27_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_27_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 270000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_27_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "270000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_27 startedMessageText",
+    "successMessageText": "Cultists_Hunt_27 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_35": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 35 Cultists",
+    "_id": "Cultists_Hunt_35",
+    "acceptPlayerMessage": "Cultists_Hunt_35 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_35 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_35 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_35_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_35_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_35_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_35_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_35_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_35_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_35_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_27"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_35 declinePlayerMessage",
+    "description": "Cultists_Hunt_35 description",
+    "failMessageText": "Cultists_Hunt_35 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_35 name",
+    "note": "Cultists_Hunt_35 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_35_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "8750"
+        },
+        {
+          "id": "Cultists_Hunt_35_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_35_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 350000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_35_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "350000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_35 startedMessageText",
+    "successMessageText": "Cultists_Hunt_35 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_50": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 50 Cultists",
+    "_id": "Cultists_Hunt_50",
+    "acceptPlayerMessage": "Cultists_Hunt_50 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_50 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_50 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_50_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_50_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_50_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_50_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_50_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_50_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_50_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_35"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_50 declinePlayerMessage",
+    "description": "Cultists_Hunt_50 description",
+    "failMessageText": "Cultists_Hunt_50 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_50 name",
+    "note": "Cultists_Hunt_50 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_50_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "12500"
+        },
+        {
+          "id": "Cultists_Hunt_50_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_50_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 500000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_50_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_50 startedMessageText",
+    "successMessageText": "Cultists_Hunt_50 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Cultists_Hunt_75": {
+    "QuestName": "[Kho] Cultists Hunt: Dominate 75 Cultists",
+    "_id": "Cultists_Hunt_75",
+    "acceptPlayerMessage": "Cultists_Hunt_75 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Cultists_Hunt_75 changeQuestMessageText",
+    "completePlayerMessage": "Cultists_Hunt_75 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_75_Elim_0_subcondition_0",
+                "savageRole": [
+                  "sectantPriest"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_75_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_75_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Cultists_Hunt_75_Elim_1_subcondition_0",
+                "savageRole": [
+                  "sectantWarrior"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "Cultists_Hunt_75_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_75_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Cultists_Hunt_75_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Cultists_Hunt_50"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Cultists_Hunt_75 declinePlayerMessage",
+    "description": "Cultists_Hunt_75 description",
+    "failMessageText": "Cultists_Hunt_75 failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Cultists_Hunt_75 name",
+    "note": "Cultists_Hunt_75 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Cultists_Hunt_75_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "18750"
+        },
+        {
+          "id": "Cultists_Hunt_75_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Cultists_Hunt_75_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "Cultists_Hunt_75_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Cultists_Hunt_75 startedMessageText",
+    "successMessageText": "Cultists_Hunt_75 successMessageText",
+    "traderId": "Khokhol_Temporal_Id",
+    "type": "Elimination"
+  }
+}

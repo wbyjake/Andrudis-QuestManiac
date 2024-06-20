@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods name": "[Jgr] Compétence clé: Bois Serrurier",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods note": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods description": "Vous voulez des conteneurs pour les clés ? Pourquoi en avez-vous besoin si vous n'avez pas encore de clés ? Je dois les trouver tout !",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods startedMessageText": "[Jgr] Quête acceptée: '[Jgr] Compétence clé: Bois Serrurier'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods failMessageText": "[Jgr] Échec de la quête: '[Jgr] Compétence clé: Bois Serrurier'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods successMessageText": "[Jgr] Quête terminée: '[Jgr] Compétence clé: Bois Serrurier'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods acceptPlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods declinePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods completePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_0": "Trouve Clé ZB-014",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_1": "Trouve Clé Shturman",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_2": "Trouve Clé de voiture Yotota"
+}

@@ -1,0 +1,980 @@
+{
+  "Survivalist_2_5704e5fad2720bc05b8b4567_False": {
+    "QuestName": "[Col] Survivalist: Reserve base x2",
+    "_id": "Survivalist_2_5704e5fad2720bc05b8b4567_False",
+    "acceptPlayerMessage": "Survivalist_2_5704e5fad2720bc05b8b4567_False acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Survivalist_2_5704e5fad2720bc05b8b4567_False changeQuestMessageText",
+    "completePlayerMessage": "Survivalist_2_5704e5fad2720bc05b8b4567_False completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_completion_0_subcondition_0",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_completion_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_completion_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_completion_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_Min_Level_6",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Survivalist_2_5704e5fad2720bc05b8b4567_False declinePlayerMessage",
+    "description": "Survivalist_2_5704e5fad2720bc05b8b4567_False description",
+    "failMessageText": "Survivalist_2_5704e5fad2720bc05b8b4567_False failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Survivalist_2_5704e5fad2720bc05b8b4567_False name",
+    "note": "Survivalist_2_5704e5fad2720bc05b8b4567_False note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Survivalist_2_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 5000
+              }
+            }
+          ],
+          "target": "Survivalist_2_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "5000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Survivalist_2_5704e5fad2720bc05b8b4567_False startedMessageText",
+    "successMessageText": "Survivalist_2_5704e5fad2720bc05b8b4567_False successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Survivalist_5_5704e5fad2720bc05b8b4567_False": {
+    "QuestName": "[Col] Survivalist: Reserve base x5",
+    "_id": "Survivalist_5_5704e5fad2720bc05b8b4567_False",
+    "acceptPlayerMessage": "Survivalist_5_5704e5fad2720bc05b8b4567_False acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_False changeQuestMessageText",
+    "completePlayerMessage": "Survivalist_5_5704e5fad2720bc05b8b4567_False completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_completion_0_subcondition_0",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_completion_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_completion_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_completion_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Min_Level_6",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_56f40101d2720b2a4d8b45d6_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_5714dbc024597771384a510d_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_5704e5fad2720bc05b8b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_5704e554d2720bac5b8b456e_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_5704e3c2d2720bac5b8b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_55f2d3fd4bdc2d5f408b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Parent_Quest_13",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_2_any_true"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Survivalist_5_5704e5fad2720bc05b8b4567_False declinePlayerMessage",
+    "description": "Survivalist_5_5704e5fad2720bc05b8b4567_False description",
+    "failMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_False failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Survivalist_5_5704e5fad2720bc05b8b4567_False name",
+    "note": "Survivalist_5_5704e5fad2720bc05b8b4567_False note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "1250"
+        },
+        {
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Survivalist_5_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "Survivalist_5_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "12500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_False startedMessageText",
+    "successMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_False successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Survivalist_10_5704e5fad2720bc05b8b4567_False": {
+    "QuestName": "[Col] Survivalist: Reserve base x10",
+    "_id": "Survivalist_10_5704e5fad2720bc05b8b4567_False",
+    "acceptPlayerMessage": "Survivalist_10_5704e5fad2720bc05b8b4567_False acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_False changeQuestMessageText",
+    "completePlayerMessage": "Survivalist_10_5704e5fad2720bc05b8b4567_False completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_completion_0_subcondition_0",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_completion_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_completion_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_completion_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Min_Level_6",
+          "index": 6,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_56f40101d2720b2a4d8b45d6_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5714dbc024597771384a510d_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5704e5fad2720bc05b8b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5704e554d2720bac5b8b456e_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5704e3c2d2720bac5b8b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_55f2d3fd4bdc2d5f408b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Parent_Quest_13",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_4_any_true"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Survivalist_10_5704e5fad2720bc05b8b4567_False declinePlayerMessage",
+    "description": "Survivalist_10_5704e5fad2720bc05b8b4567_False description",
+    "failMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_False failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Survivalist_10_5704e5fad2720bc05b8b4567_False name",
+    "note": "Survivalist_10_5704e5fad2720bc05b8b4567_False note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Survivalist_10_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "Survivalist_10_5704e5fad2720bc05b8b4567_False_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "25000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_False startedMessageText",
+    "successMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_False successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Survivalist_5_5704e5fad2720bc05b8b4567_True": {
+    "QuestName": "[Col] Survivalist: Reserve base x5",
+    "_id": "Survivalist_5_5704e5fad2720bc05b8b4567_True",
+    "acceptPlayerMessage": "Survivalist_5_5704e5fad2720bc05b8b4567_True acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_True changeQuestMessageText",
+    "completePlayerMessage": "Survivalist_5_5704e5fad2720bc05b8b4567_True completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_0_subcondition_0",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Min_Level_9",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_10_56f40101d2720b2a4d8b45d6_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_10_5714dbc024597771384a510d_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_10_5704e5fad2720bc05b8b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_13",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_10_5704e554d2720bac5b8b456e_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_14",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_10_5704e3c2d2720bac5b8b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_15",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_10_55f2d3fd4bdc2d5f408b4567_False"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Parent_Quest_16",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_6_any_true"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_2_subcondition_0",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_2_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_2_counter_2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_completion_2",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "Survivalist_5_5704e5fad2720bc05b8b4567_True declinePlayerMessage",
+    "description": "Survivalist_5_5704e5fad2720bc05b8b4567_True description",
+    "failMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_True failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Survivalist_5_5704e5fad2720bc05b8b4567_True name",
+    "note": "Survivalist_5_5704e5fad2720bc05b8b4567_True note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "4250"
+        },
+        {
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 12500
+              }
+            }
+          ],
+          "target": "Survivalist_5_5704e5fad2720bc05b8b4567_True_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "12500"
+        },
+        {
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_5696686a4bdc2da3298b456a_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_5696686a4bdc2da3298b456a_6_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "Survivalist_5_5704e5fad2720bc05b8b4567_True_5696686a4bdc2da3298b456a_6_id",
+          "type": "Item",
+          "value": "500"
+        },
+        {
+          "id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_569668774bdc2da2298b4568_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Survivalist_5_5704e5fad2720bc05b8b4567_True_569668774bdc2da2298b4568_7_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 500
+              }
+            }
+          ],
+          "target": "Survivalist_5_5704e5fad2720bc05b8b4567_True_569668774bdc2da2298b4568_7_id",
+          "type": "Item",
+          "value": "500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_True startedMessageText",
+    "successMessageText": "Survivalist_5_5704e5fad2720bc05b8b4567_True successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Survivalist_10_5704e5fad2720bc05b8b4567_True": {
+    "QuestName": "[Col] Survivalist: Reserve base x10",
+    "_id": "Survivalist_10_5704e5fad2720bc05b8b4567_True",
+    "acceptPlayerMessage": "Survivalist_10_5704e5fad2720bc05b8b4567_True acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_True changeQuestMessageText",
+    "completePlayerMessage": "Survivalist_10_5704e5fad2720bc05b8b4567_True completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_0_subcondition_0",
+                "status": [
+                  "Survived"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "compareMethod": ">=",
+          "conditionType": "Level",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Min_Level_9",
+          "index": 9,
+          "parentId": "",
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_56f40101d2720b2a4d8b45d6_True"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5714dbc024597771384a510d_True"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5704e5fad2720bc05b8b4567_True"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_13",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5704e554d2720bac5b8b456e_True"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_14",
+          "index": 14,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_5704e3c2d2720bac5b8b4567_True"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_15",
+          "index": 15,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_5_55f2d3fd4bdc2d5f408b4567_True"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Parent_Quest_16",
+          "index": 16,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Survivalist_8_any_true"
+        }
+      ],
+      "Fail": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "conditionType": "ExitStatus",
+                "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_2_subcondition_0",
+                "status": [
+                  "Killed",
+                  "Left",
+                  "MissingInAction"
+                ]
+              },
+              {
+                "conditionType": "Location",
+                "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_2_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_2_counter_2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_completion_2",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Completion",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ]
+    },
+    "declinePlayerMessage": "Survivalist_10_5704e5fad2720bc05b8b4567_True declinePlayerMessage",
+    "description": "Survivalist_10_5704e5fad2720bc05b8b4567_True description",
+    "failMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_True failMessageText",
+    "image": "/files/quest/icon/5d6946c486f77452a8292cb2.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Survivalist_10_5704e5fad2720bc05b8b4567_True name",
+    "note": "Survivalist_10_5704e5fad2720bc05b8b4567_True note",
+    "restartable": true,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "5500"
+        },
+        {
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_5449016a4bdc2d6f028b456f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_5449016a4bdc2d6f028b456f_5_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 25000
+              }
+            }
+          ],
+          "target": "Survivalist_10_5704e5fad2720bc05b8b4567_True_5449016a4bdc2d6f028b456f_5_id",
+          "type": "Item",
+          "value": "25000"
+        },
+        {
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_5696686a4bdc2da3298b456a_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_5696686a4bdc2da3298b456a_6_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "Survivalist_10_5704e5fad2720bc05b8b4567_True_5696686a4bdc2da3298b456a_6_id",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_569668774bdc2da2298b4568_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Survivalist_10_5704e5fad2720bc05b8b4567_True_569668774bdc2da2298b4568_7_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "Survivalist_10_5704e5fad2720bc05b8b4567_True_569668774bdc2da2298b4568_7_id",
+          "type": "Item",
+          "value": "1000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_True startedMessageText",
+    "successMessageText": "Survivalist_10_5704e5fad2720bc05b8b4567_True successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "PickUp"
+  }
+}

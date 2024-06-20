@@ -1,0 +1,607 @@
+{
+    "Stims_Proficiency_Stims_Barter": {
+        "_id": "Stims_Proficiency_Stims_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Stims_Proficiency_Stims_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5ed515f6915ec335206e4152",
+                            "5c10c8fd86f7743d7d706df3",
+                            "5ed51652f6c34d2cc26336a1",
+                            "5c0e530286f7747fa1419862",
+                            "5ed515e03a40a50460332579",
+                            "5ed515ece452db0eb56fc028",
+                            "5ed5160a87bb8443d10680b5",
+                            "5ed515c8d380ab312177c0fa",
+                            "5ed5166ad380ab312177c100",
+                            "5fca13ca637ee0341a484f46",
+                            "5c0e534186f7747fa1419867",
+                            "5c0e533786f7747fa23f4d47",
+                            "5c0e531d86f7747fa23f4d42",
+                            "5fca138c2a7b221b2852a5c6",
+                            "5c0e531286f7747fa54205c2"
+                        ],
+                        "value": "75",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Stims_Proficiency_Stims_Barter description",
+        "failMessageText": "Stims_Proficiency_Stims_Barter failMessageText",
+        "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Stims_Proficiency_Stims_Barter name",
+        "note": "Stims_Proficiency_Stims_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "15000",
+                    "id": "Stims_Proficiency_Stims_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5c10c8fd86f7743d7d706df3_4_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5c10c8fd86f7743d7d706df3_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5c10c8fd86f7743d7d706df3_4_id",
+                            "_tpl": "5c10c8fd86f7743d7d706df3",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5c0e533786f7747fa23f4d47_5_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5c0e533786f7747fa23f4d47_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5c0e533786f7747fa23f4d47_5_id",
+                            "_tpl": "5c0e533786f7747fa23f4d47",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed515ece452db0eb56fc028_6_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed515ece452db0eb56fc028_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed515ece452db0eb56fc028_6_id",
+                            "_tpl": "5ed515ece452db0eb56fc028",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed515c8d380ab312177c0fa_7_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed515c8d380ab312177c0fa_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed515c8d380ab312177c0fa_7_id",
+                            "_tpl": "5ed515c8d380ab312177c0fa",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed515f6915ec335206e4152_8_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed515f6915ec335206e4152_8",
+                    "type": "Item",
+                    "index": 8,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed515f6915ec335206e4152_8_id",
+                            "_tpl": "5ed515f6915ec335206e4152",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5c0e530286f7747fa1419862_9_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5c0e530286f7747fa1419862_9",
+                    "type": "Item",
+                    "index": 9,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5c0e530286f7747fa1419862_9_id",
+                            "_tpl": "5c0e530286f7747fa1419862",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed515e03a40a50460332579_10_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed515e03a40a50460332579_10",
+                    "type": "Item",
+                    "index": 10,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed515e03a40a50460332579_10_id",
+                            "_tpl": "5ed515e03a40a50460332579",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed5166ad380ab312177c100_11_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed5166ad380ab312177c100_11",
+                    "type": "Item",
+                    "index": 11,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed5166ad380ab312177c100_11_id",
+                            "_tpl": "5ed5166ad380ab312177c100",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5fca138c2a7b221b2852a5c6_12_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5fca138c2a7b221b2852a5c6_12",
+                    "type": "Item",
+                    "index": 12,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5fca138c2a7b221b2852a5c6_12_id",
+                            "_tpl": "5fca138c2a7b221b2852a5c6",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed5160a87bb8443d10680b5_13_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed5160a87bb8443d10680b5_13",
+                    "type": "Item",
+                    "index": 13,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed5160a87bb8443d10680b5_13_id",
+                            "_tpl": "5ed5160a87bb8443d10680b5",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5c0e531286f7747fa54205c2_14_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5c0e531286f7747fa54205c2_14",
+                    "type": "Item",
+                    "index": 14,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5c0e531286f7747fa54205c2_14_id",
+                            "_tpl": "5c0e531286f7747fa54205c2",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5c0e531d86f7747fa23f4d42_15_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5c0e531d86f7747fa23f4d42_15",
+                    "type": "Item",
+                    "index": 15,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5c0e531d86f7747fa23f4d42_15_id",
+                            "_tpl": "5c0e531d86f7747fa23f4d42",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5fca13ca637ee0341a484f46_16_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5fca13ca637ee0341a484f46_16",
+                    "type": "Item",
+                    "index": 16,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5fca13ca637ee0341a484f46_16_id",
+                            "_tpl": "5fca13ca637ee0341a484f46",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5ed51652f6c34d2cc26336a1_17_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5ed51652f6c34d2cc26336a1_17",
+                    "type": "Item",
+                    "index": 17,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5ed51652f6c34d2cc26336a1_17_id",
+                            "_tpl": "5ed51652f6c34d2cc26336a1",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5c0e534186f7747fa1419867_18_id",
+                    "value": "1",
+                    "id": "Stims_Proficiency_Stims_Barter_5c0e534186f7747fa1419867_18",
+                    "type": "Item",
+                    "index": 18,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5c0e534186f7747fa1419867_18_id",
+                            "_tpl": "5c0e534186f7747fa1419867",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5449016a4bdc2d6f028b456f_19_id",
+                    "value": "250000",
+                    "id": "Stims_Proficiency_Stims_Barter_5449016a4bdc2d6f028b456f_19",
+                    "type": "Item",
+                    "index": 19,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5449016a4bdc2d6f028b456f_19_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 250000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_5696686a4bdc2da3298b456a_20_id",
+                    "value": "1000",
+                    "id": "Stims_Proficiency_Stims_Barter_5696686a4bdc2da3298b456a_20",
+                    "type": "Item",
+                    "index": 20,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_5696686a4bdc2da3298b456a_20_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Stims_Proficiency_Stims_Barter_569668774bdc2da2298b4568_21_id",
+                    "value": "1000",
+                    "id": "Stims_Proficiency_Stims_Barter_569668774bdc2da2298b4568_21",
+                    "type": "Item",
+                    "index": 21,
+                    "items": [
+                        {
+                            "_id": "Stims_Proficiency_Stims_Barter_569668774bdc2da2298b4568_21_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter_22",
+                    "type": "AssortmentUnlock",
+                    "index": 22,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter",
+                            "_tpl": "5c10c8fd86f7743d7d706df3",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter_23",
+                    "type": "AssortmentUnlock",
+                    "index": 23,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter",
+                            "_tpl": "5c0e533786f7747fa23f4d47",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter_24",
+                    "type": "AssortmentUnlock",
+                    "index": 24,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter",
+                            "_tpl": "5ed515ece452db0eb56fc028",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter_25",
+                    "type": "AssortmentUnlock",
+                    "index": 25,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter",
+                            "_tpl": "5ed515c8d380ab312177c0fa",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter_26",
+                    "type": "AssortmentUnlock",
+                    "index": 26,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter",
+                            "_tpl": "5ed515f6915ec335206e4152",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter_27",
+                    "type": "AssortmentUnlock",
+                    "index": 27,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter",
+                            "_tpl": "5c0e530286f7747fa1419862",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter_28",
+                    "type": "AssortmentUnlock",
+                    "index": 28,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter",
+                            "_tpl": "5ed515e03a40a50460332579",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter_29",
+                    "type": "AssortmentUnlock",
+                    "index": 29,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter",
+                            "_tpl": "5ed5166ad380ab312177c100",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter_30",
+                    "type": "AssortmentUnlock",
+                    "index": 30,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter",
+                            "_tpl": "5fca138c2a7b221b2852a5c6",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter_31",
+                    "type": "AssortmentUnlock",
+                    "index": 31,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter",
+                            "_tpl": "5ed5160a87bb8443d10680b5",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter_32",
+                    "type": "AssortmentUnlock",
+                    "index": 32,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter",
+                            "_tpl": "5c0e531286f7747fa54205c2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter_33",
+                    "type": "AssortmentUnlock",
+                    "index": 33,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter",
+                            "_tpl": "5c0e531d86f7747fa23f4d42",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter_34",
+                    "type": "AssortmentUnlock",
+                    "index": 34,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter",
+                            "_tpl": "5fca13ca637ee0341a484f46",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter_35",
+                    "type": "AssortmentUnlock",
+                    "index": 35,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter",
+                            "_tpl": "5ed51652f6c34d2cc26336a1",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter",
+                    "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter_36",
+                    "type": "AssortmentUnlock",
+                    "index": 36,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter",
+                            "_tpl": "5c0e534186f7747fa1419867",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Stims_Proficiency_Stims_Barter startedMessageText",
+        "successMessageText": "Stims_Proficiency_Stims_Barter successMessageText",
+        "templateId": "Stims_Proficiency_Stims_Barter",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Lab] Stims Proficiency: Stims Barter",
+        "acceptPlayerMessage": "Stims_Proficiency_Stims_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Stims_Proficiency_Stims_Barter changeQuestMessageText",
+        "completePlayerMessage": "Stims_Proficiency_Stims_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods name": "[Jgr] Schlüsselbeherrschung: Wälder Schlosser",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods note": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods description": "Du willst Behälter für Schlüssel? Für was brauchst du sie, wenn du noch überhaupt keine Schlüssel hast? Finde sie alle!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods startedMessageText": "[Jgr] Quest angenommen: '[Jgr] Schlüsselbeherrschung: Wälder Schlosser'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods failMessageText": "[Jgr] Quest fehlgeschlagen: '[Jgr] Schlüsselbeherrschung: Wälder Schlosser'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods successMessageText": "[Jgr] Quest beendet: '[Jgr] Schlüsselbeherrschung: Wälder Schlosser'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods acceptPlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods declinePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods completePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_0": "Finde Schlüssel ZB-014",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_1": "Finde Shturman Schlüssel",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_2": "Finde Yotota Autoschlüssel"
+}

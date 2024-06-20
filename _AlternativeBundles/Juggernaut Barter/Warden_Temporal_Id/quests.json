@@ -1,0 +1,3975 @@
+{
+    "Juggernaut_59e7635f86f7742cbf2c1095_Barter": {
+        "_id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "59e7635f86f7742cbf2c1095",
+                            "5df8a2ca86f7740bfe6df777",
+                            "5648a7494bdc2d9d488b4583",
+                            "5b44d22286f774172b0c9de8",
+                            "5ab8e4ed86f7742d8e50c7fa",
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "607f20859ee58b18e41ecd90",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_59e7635f86f7742cbf2c1095_Barter description",
+        "failMessageText": "Juggernaut_59e7635f86f7742cbf2c1095_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_59e7635f86f7742cbf2c1095_Barter name",
+        "note": "Juggernaut_59e7635f86f7742cbf2c1095_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "53672",
+                    "id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 53672
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "50",
+                    "id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 50
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "40",
+                    "id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 40
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+                    "id": "Juggernaut_59e7635f86f7742cbf2c1095_Barter_Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_59e7635f86f7742cbf2c1095_Barter",
+                            "_tpl": "59e7635f86f7742cbf2c1095",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_59e7635f86f7742cbf2c1095_Barter startedMessageText",
+        "successMessageText": "Juggernaut_59e7635f86f7742cbf2c1095_Barter successMessageText",
+        "templateId": "Juggernaut_59e7635f86f7742cbf2c1095_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: BNTI Module-3M body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_59e7635f86f7742cbf2c1095_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_59e7635f86f7742cbf2c1095_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_59e7635f86f7742cbf2c1095_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5df8a2ca86f7740bfe6df777_Barter": {
+        "_id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_59e7635f86f7742cbf2c1095_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5df8a2ca86f7740bfe6df777",
+                            "5648a7494bdc2d9d488b4583",
+                            "5b44d22286f774172b0c9de8",
+                            "5ab8e4ed86f7742d8e50c7fa",
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "607f20859ee58b18e41ecd90",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter description",
+        "failMessageText": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter name",
+        "note": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "67190",
+                    "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 67190
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "80",
+                    "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 80
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter",
+                    "id": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter_Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5df8a2ca86f7740bfe6df777_Barter",
+                            "_tpl": "5df8a2ca86f7740bfe6df777",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter successMessageText",
+        "templateId": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 6B2 armor (Flora) Barter",
+        "acceptPlayerMessage": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5648a7494bdc2d9d488b4583_Barter": {
+        "_id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5df8a2ca86f7740bfe6df777_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5648a7494bdc2d9d488b4583",
+                            "5b44d22286f774172b0c9de8",
+                            "5ab8e4ed86f7742d8e50c7fa",
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "607f20859ee58b18e41ecd90",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5648a7494bdc2d9d488b4583_Barter description",
+        "failMessageText": "Juggernaut_5648a7494bdc2d9d488b4583_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5648a7494bdc2d9d488b4583_Barter name",
+        "note": "Juggernaut_5648a7494bdc2d9d488b4583_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "3000",
+                    "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "97842",
+                    "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 97842
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "150",
+                    "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 150
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "120",
+                    "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 120
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+                    "id": "Juggernaut_5648a7494bdc2d9d488b4583_Barter_Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5648a7494bdc2d9d488b4583_Barter",
+                            "_tpl": "5648a7494bdc2d9d488b4583",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5648a7494bdc2d9d488b4583_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5648a7494bdc2d9d488b4583_Barter successMessageText",
+        "templateId": "Juggernaut_5648a7494bdc2d9d488b4583_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: PACA Soft Armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5648a7494bdc2d9d488b4583_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5648a7494bdc2d9d488b4583_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5648a7494bdc2d9d488b4583_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5b44d22286f774172b0c9de8_Barter": {
+        "_id": "Juggernaut_5b44d22286f774172b0c9de8_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5648a7494bdc2d9d488b4583_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5b44d22286f774172b0c9de8",
+                            "5ab8e4ed86f7742d8e50c7fa",
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5b44d22286f774172b0c9de8_Barter description",
+        "failMessageText": "Juggernaut_5b44d22286f774172b0c9de8_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5b44d22286f774172b0c9de8_Barter name",
+        "note": "Juggernaut_5b44d22286f774172b0c9de8_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "4000",
+                    "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5b44d22286f774172b0c9de8_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "133106",
+                    "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 133106
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44d22286f774172b0c9de8_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "200",
+                    "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44d22286f774172b0c9de8_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "160",
+                    "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 160
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+                    "id": "Juggernaut_5b44d22286f774172b0c9de8_Barter_Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5b44d22286f774172b0c9de8_Barter",
+                            "_tpl": "5b44d22286f774172b0c9de8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5b44d22286f774172b0c9de8_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5b44d22286f774172b0c9de8_Barter successMessageText",
+        "templateId": "Juggernaut_5b44d22286f774172b0c9de8_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: BNTI Kirasa-N armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5b44d22286f774172b0c9de8_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5b44d22286f774172b0c9de8_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5b44d22286f774172b0c9de8_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter": {
+        "_id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5b44d22286f774172b0c9de8_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8e4ed86f7742d8e50c7fa",
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter description",
+        "failMessageText": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter name",
+        "note": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5000",
+                    "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "133346",
+                    "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 133346
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "250",
+                    "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "200",
+                    "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+                    "id": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter_Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5ab8e4ed86f7742d8e50c7fa_Barter",
+                            "_tpl": "5ab8e4ed86f7742d8e50c7fa",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter successMessageText",
+        "templateId": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: MF-UNTAR body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter": {
+        "_id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5ab8e4ed86f7742d8e50c7fa_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "59e7635f86f7742cbf2c1095",
+                            "5df8a2ca86f7740bfe6df777",
+                            "5648a7494bdc2d9d488b4583",
+                            "5b44d22286f774172b0c9de8",
+                            "5ab8e4ed86f7742d8e50c7fa",
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "607f20859ee58b18e41ecd90",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e5edb86f77461f55ed1f7",
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter description",
+        "failMessageText": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter name",
+        "note": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "6000",
+                    "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "131252",
+                    "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 131252
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "300",
+                    "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 300
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "240",
+                    "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 240
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+                    "id": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter_Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e5edb86f77461f55ed1f7_Barter",
+                            "_tpl": "5c0e5edb86f77461f55ed1f7",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: BNTI Zhuk-3 body armor (Press) Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter": {
+        "_id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e5edb86f77461f55ed1f7_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e5bab86f77461f55ed1f3",
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter description",
+        "failMessageText": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter name",
+        "note": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "7000",
+                    "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "169102",
+                    "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 169102
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "350",
+                    "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 350
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "280",
+                    "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 280
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+                    "id": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter_Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e5bab86f77461f55ed1f3_Barter",
+                            "_tpl": "5c0e5bab86f77461f55ed1f3",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 6B23-1 body armor (Digital Flora) Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_609e8540d5c319764c2bc2e9_Barter": {
+        "_id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e5bab86f77461f55ed1f3_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "609e8540d5c319764c2bc2e9",
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_609e8540d5c319764c2bc2e9_Barter description",
+        "failMessageText": "Juggernaut_609e8540d5c319764c2bc2e9_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_609e8540d5c319764c2bc2e9_Barter name",
+        "note": "Juggernaut_609e8540d5c319764c2bc2e9_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "8000",
+                    "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "205250",
+                    "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 205250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "400",
+                    "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "320",
+                    "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 320
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+                    "id": "Juggernaut_609e8540d5c319764c2bc2e9_Barter_Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_609e8540d5c319764c2bc2e9_Barter",
+                            "_tpl": "609e8540d5c319764c2bc2e9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_609e8540d5c319764c2bc2e9_Barter startedMessageText",
+        "successMessageText": "Juggernaut_609e8540d5c319764c2bc2e9_Barter successMessageText",
+        "templateId": "Juggernaut_609e8540d5c319764c2bc2e9_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: NFM THOR Concealable Reinforced Vest body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_609e8540d5c319764c2bc2e9_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_609e8540d5c319764c2bc2e9_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_609e8540d5c319764c2bc2e9_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e53c886f7747fa54205c7_Barter": {
+        "_id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_609e8540d5c319764c2bc2e9_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e53c886f7747fa54205c7",
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "5c0e51be86f774598e797894",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e53c886f7747fa54205c7_Barter description",
+        "failMessageText": "Juggernaut_5c0e53c886f7747fa54205c7_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e53c886f7747fa54205c7_Barter name",
+        "note": "Juggernaut_5c0e53c886f7747fa54205c7_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "9000",
+                    "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "187770",
+                    "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 187770
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "450",
+                    "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 450
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "360",
+                    "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 360
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+                    "id": "Juggernaut_5c0e53c886f7747fa54205c7_Barter_Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e53c886f7747fa54205c7_Barter",
+                            "_tpl": "5c0e53c886f7747fa54205c7",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e53c886f7747fa54205c7_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e53c886f7747fa54205c7_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e53c886f7747fa54205c7_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 6B13 assault armor (Digital Flora) Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e53c886f7747fa54205c7_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e53c886f7747fa54205c7_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e53c886f7747fa54205c7_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e57ba86f7747fa141986d_Barter": {
+        "_id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e53c886f7747fa54205c7_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e57ba86f7747fa141986d",
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e57ba86f7747fa141986d_Barter description",
+        "failMessageText": "Juggernaut_5c0e57ba86f7747fa141986d_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e57ba86f7747fa141986d_Barter name",
+        "note": "Juggernaut_5c0e57ba86f7747fa141986d_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "10000",
+                    "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "227886",
+                    "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 227886
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "500",
+                    "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "400",
+                    "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+                    "id": "Juggernaut_5c0e57ba86f7747fa141986d_Barter_Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e57ba86f7747fa141986d_Barter",
+                            "_tpl": "5c0e57ba86f7747fa141986d",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e57ba86f7747fa141986d_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e57ba86f7747fa141986d_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e57ba86f7747fa141986d_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 6B23-2 body armor (Mountain Flora) Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e57ba86f7747fa141986d_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e57ba86f7747fa141986d_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e57ba86f7747fa141986d_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e655586f774045612eeb2_Barter": {
+        "_id": "Juggernaut_5c0e655586f774045612eeb2_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e57ba86f7747fa141986d_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e655586f774045612eeb2",
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e655586f774045612eeb2_Barter description",
+        "failMessageText": "Juggernaut_5c0e655586f774045612eeb2_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e655586f774045612eeb2_Barter name",
+        "note": "Juggernaut_5c0e655586f774045612eeb2_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "11000",
+                    "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5c0e655586f774045612eeb2_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "315286",
+                    "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e655586f774045612eeb2_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 315286
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e655586f774045612eeb2_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "550",
+                    "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e655586f774045612eeb2_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 550
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e655586f774045612eeb2_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "440",
+                    "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e655586f774045612eeb2_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 440
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+                    "id": "Juggernaut_5c0e655586f774045612eeb2_Barter_Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e655586f774045612eeb2_Barter",
+                            "_tpl": "5c0e655586f774045612eeb2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e655586f774045612eeb2_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e655586f774045612eeb2_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e655586f774045612eeb2_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: HighCom Trooper TFO armor (Multicam) Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e655586f774045612eeb2_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e655586f774045612eeb2_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e655586f774045612eeb2_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5ab8e79e86f7742d8b372e78_Barter": {
+        "_id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e655586f774045612eeb2_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8e79e86f7742d8b372e78",
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter description",
+        "failMessageText": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter name",
+        "note": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "12000",
+                    "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_59fb042886f7746c5005a7b2_4_id",
+                    "value": "1",
+                    "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_59fb042886f7746c5005a7b2_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_59fb042886f7746c5005a7b2_4_id",
+                            "_tpl": "59fb042886f7746c5005a7b2",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "424948",
+                    "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 424948
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "600",
+                    "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 600
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "480",
+                    "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 480
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+                    "id": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter_Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5ab8e79e86f7742d8b372e78_Barter",
+                            "_tpl": "5ab8e79e86f7742d8b372e78",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter successMessageText",
+        "templateId": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: BNTI Gzhel-K armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5b44d0de86f774503d30cba8_Barter": {
+        "_id": "Juggernaut_5b44d0de86f774503d30cba8_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5ab8e79e86f7742d8b372e78_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5b44d0de86f774503d30cba8",
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5b44d0de86f774503d30cba8_Barter description",
+        "failMessageText": "Juggernaut_5b44d0de86f774503d30cba8_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5b44d0de86f774503d30cba8_Barter name",
+        "note": "Juggernaut_5b44d0de86f774503d30cba8_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "13000",
+                    "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5b44d0de86f774503d30cba8_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "367548",
+                    "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 367548
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44d0de86f774503d30cba8_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "650",
+                    "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 650
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44d0de86f774503d30cba8_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "520",
+                    "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 520
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+                    "id": "Juggernaut_5b44d0de86f774503d30cba8_Barter_Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5b44d0de86f774503d30cba8_Barter",
+                            "_tpl": "5b44d0de86f774503d30cba8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5b44d0de86f774503d30cba8_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5b44d0de86f774503d30cba8_Barter successMessageText",
+        "templateId": "Juggernaut_5b44d0de86f774503d30cba8_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: IOTV Gen4 body armor (high mobility kit) Barter",
+        "acceptPlayerMessage": "Juggernaut_5b44d0de86f774503d30cba8_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5b44d0de86f774503d30cba8_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5b44d0de86f774503d30cba8_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5ca2151486f774244a3b8d30_Barter": {
+        "_id": "Juggernaut_5ca2151486f774244a3b8d30_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5b44d0de86f774503d30cba8_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ca2151486f774244a3b8d30",
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5ca2151486f774244a3b8d30_Barter description",
+        "failMessageText": "Juggernaut_5ca2151486f774244a3b8d30_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5ca2151486f774244a3b8d30_Barter name",
+        "note": "Juggernaut_5ca2151486f774244a3b8d30_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "14000",
+                    "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5ca2151486f774244a3b8d30_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "345748",
+                    "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 345748
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ca2151486f774244a3b8d30_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "700",
+                    "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 700
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ca2151486f774244a3b8d30_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "560",
+                    "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 560
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+                    "id": "Juggernaut_5ca2151486f774244a3b8d30_Barter_Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5ca2151486f774244a3b8d30_Barter",
+                            "_tpl": "5ca2151486f774244a3b8d30",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5ca2151486f774244a3b8d30_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5ca2151486f774244a3b8d30_Barter successMessageText",
+        "templateId": "Juggernaut_5ca2151486f774244a3b8d30_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: FORT Redut-M body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5ca2151486f774244a3b8d30_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5ca2151486f774244a3b8d30_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5ca2151486f774244a3b8d30_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5b44cf1486f77431723e3d05_Barter": {
+        "_id": "Juggernaut_5b44cf1486f77431723e3d05_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5ca2151486f774244a3b8d30_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5b44cf1486f77431723e3d05",
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5b44cf1486f77431723e3d05_Barter description",
+        "failMessageText": "Juggernaut_5b44cf1486f77431723e3d05_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5b44cf1486f77431723e3d05_Barter name",
+        "note": "Juggernaut_5b44cf1486f77431723e3d05_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "15000",
+                    "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5b44cf1486f77431723e3d05_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "424004",
+                    "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 424004
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44cf1486f77431723e3d05_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "750",
+                    "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 750
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44cf1486f77431723e3d05_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "600",
+                    "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 600
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+                    "id": "Juggernaut_5b44cf1486f77431723e3d05_Barter_Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5b44cf1486f77431723e3d05_Barter",
+                            "_tpl": "5b44cf1486f77431723e3d05",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5b44cf1486f77431723e3d05_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5b44cf1486f77431723e3d05_Barter successMessageText",
+        "templateId": "Juggernaut_5b44cf1486f77431723e3d05_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: IOTV Gen4 body armor (assault kit) Barter",
+        "acceptPlayerMessage": "Juggernaut_5b44cf1486f77431723e3d05_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5b44cf1486f77431723e3d05_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5b44cf1486f77431723e3d05_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5b44cd8b86f774503d30cba2_Barter": {
+        "_id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5b44cf1486f77431723e3d05_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5b44cd8b86f774503d30cba2",
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5b44cd8b86f774503d30cba2_Barter description",
+        "failMessageText": "Juggernaut_5b44cd8b86f774503d30cba2_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5b44cd8b86f774503d30cba2_Barter name",
+        "note": "Juggernaut_5b44cd8b86f774503d30cba2_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "16000",
+                    "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "557592",
+                    "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 557592
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "800",
+                    "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "640",
+                    "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 640
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+                    "id": "Juggernaut_5b44cd8b86f774503d30cba2_Barter_Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5b44cd8b86f774503d30cba2_Barter",
+                            "_tpl": "5b44cd8b86f774503d30cba2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5b44cd8b86f774503d30cba2_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5b44cd8b86f774503d30cba2_Barter successMessageText",
+        "templateId": "Juggernaut_5b44cd8b86f774503d30cba2_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: IOTV Gen4 body armor (full protection) Barter",
+        "acceptPlayerMessage": "Juggernaut_5b44cd8b86f774503d30cba2_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5b44cd8b86f774503d30cba2_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5b44cd8b86f774503d30cba2_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5f5f41476bdad616ad46d631_Barter": {
+        "_id": "Juggernaut_5f5f41476bdad616ad46d631_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5b44cd8b86f774503d30cba2_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5f5f41476bdad616ad46d631",
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5f5f41476bdad616ad46d631_Barter description",
+        "failMessageText": "Juggernaut_5f5f41476bdad616ad46d631_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5f5f41476bdad616ad46d631_Barter name",
+        "note": "Juggernaut_5f5f41476bdad616ad46d631_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "17000",
+                    "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5f5f41476bdad616ad46d631_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "334000",
+                    "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 334000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5f5f41476bdad616ad46d631_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "850",
+                    "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 850
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5f5f41476bdad616ad46d631_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "680",
+                    "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 680
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+                    "id": "Juggernaut_5f5f41476bdad616ad46d631_Barter_Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5f5f41476bdad616ad46d631_Barter",
+                            "_tpl": "5f5f41476bdad616ad46d631",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5f5f41476bdad616ad46d631_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5f5f41476bdad616ad46d631_Barter successMessageText",
+        "templateId": "Juggernaut_5f5f41476bdad616ad46d631_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: NPP KlASS Korund-VM body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5f5f41476bdad616ad46d631_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5f5f41476bdad616ad46d631_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5f5f41476bdad616ad46d631_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5e9dacf986f774054d6b89f4_Barter": {
+        "_id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5f5f41476bdad616ad46d631_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5e9dacf986f774054d6b89f4",
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5e9dacf986f774054d6b89f4_Barter description",
+        "failMessageText": "Juggernaut_5e9dacf986f774054d6b89f4_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5e9dacf986f774054d6b89f4_Barter name",
+        "note": "Juggernaut_5e9dacf986f774054d6b89f4_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "18000",
+                    "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "761748",
+                    "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 761748
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "900",
+                    "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 900
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "720",
+                    "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 720
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+                    "id": "Juggernaut_5e9dacf986f774054d6b89f4_Barter_Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5e9dacf986f774054d6b89f4_Barter",
+                            "_tpl": "5e9dacf986f774054d6b89f4",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5e9dacf986f774054d6b89f4_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5e9dacf986f774054d6b89f4_Barter successMessageText",
+        "templateId": "Juggernaut_5e9dacf986f774054d6b89f4_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: FORT Defender-2 body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5e9dacf986f774054d6b89f4_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5e9dacf986f774054d6b89f4_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5e9dacf986f774054d6b89f4_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e541586f7747fa54205c9_Barter": {
+        "_id": "Juggernaut_5c0e541586f7747fa54205c9_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5e9dacf986f774054d6b89f4_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e541586f7747fa54205c9",
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e541586f7747fa54205c9_Barter description",
+        "failMessageText": "Juggernaut_5c0e541586f7747fa54205c9_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e541586f7747fa54205c9_Barter name",
+        "note": "Juggernaut_5c0e541586f7747fa54205c9_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "19000",
+                    "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5c0e541586f7747fa54205c9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "692200",
+                    "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 692200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e541586f7747fa54205c9_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "950",
+                    "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 950
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e541586f7747fa54205c9_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "760",
+                    "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 760
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+                    "id": "Juggernaut_5c0e541586f7747fa54205c9_Barter_Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e541586f7747fa54205c9_Barter",
+                            "_tpl": "5c0e541586f7747fa54205c9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e541586f7747fa54205c9_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e541586f7747fa54205c9_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e541586f7747fa54205c9_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 6B13 M modified assault armor (Tan) Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e541586f7747fa54205c9_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e541586f7747fa54205c9_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e541586f7747fa54205c9_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5ca21c6986f77479963115a7_Barter": {
+        "_id": "Juggernaut_5ca21c6986f77479963115a7_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e541586f7747fa54205c9_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ca21c6986f77479963115a7",
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5ca21c6986f77479963115a7_Barter description",
+        "failMessageText": "Juggernaut_5ca21c6986f77479963115a7_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5ca21c6986f77479963115a7_Barter name",
+        "note": "Juggernaut_5ca21c6986f77479963115a7_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "20000",
+                    "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5ca21c6986f77479963115a7_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "576592",
+                    "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ca21c6986f77479963115a7_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 576592
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ca21c6986f77479963115a7_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "1000",
+                    "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ca21c6986f77479963115a7_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5ca21c6986f77479963115a7_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "800",
+                    "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5ca21c6986f77479963115a7_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+                    "id": "Juggernaut_5ca21c6986f77479963115a7_Barter_Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5ca21c6986f77479963115a7_Barter",
+                            "_tpl": "5ca21c6986f77479963115a7",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5ca21c6986f77479963115a7_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5ca21c6986f77479963115a7_Barter successMessageText",
+        "templateId": "Juggernaut_5ca21c6986f77479963115a7_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: FORT Redut-T5 body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5ca21c6986f77479963115a7_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5ca21c6986f77479963115a7_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5ca21c6986f77479963115a7_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5c0e625a86f7742d77340f62_Barter": {
+        "_id": "Juggernaut_5c0e625a86f7742d77340f62_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5ca21c6986f77479963115a7_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e625a86f7742d77340f62",
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5c0e625a86f7742d77340f62_Barter description",
+        "failMessageText": "Juggernaut_5c0e625a86f7742d77340f62_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5c0e625a86f7742d77340f62_Barter name",
+        "note": "Juggernaut_5c0e625a86f7742d77340f62_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "21000",
+                    "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5c0e625a86f7742d77340f62_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "780000",
+                    "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 780000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e625a86f7742d77340f62_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "1050",
+                    "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1050
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5c0e625a86f7742d77340f62_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "840",
+                    "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 840
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+                    "id": "Juggernaut_5c0e625a86f7742d77340f62_Barter_Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5c0e625a86f7742d77340f62_Barter",
+                            "_tpl": "5c0e625a86f7742d77340f62",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5c0e625a86f7742d77340f62_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5c0e625a86f7742d77340f62_Barter successMessageText",
+        "templateId": "Juggernaut_5c0e625a86f7742d77340f62_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: BNTI Zhuk-6a body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_5c0e625a86f7742d77340f62_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5c0e625a86f7742d77340f62_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5c0e625a86f7742d77340f62_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5fd4c474dd870108a754b241_Barter": {
+        "_id": "Juggernaut_5fd4c474dd870108a754b241_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5c0e625a86f7742d77340f62_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fd4c474dd870108a754b241",
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5fd4c474dd870108a754b241_Barter description",
+        "failMessageText": "Juggernaut_5fd4c474dd870108a754b241_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5fd4c474dd870108a754b241_Barter name",
+        "note": "Juggernaut_5fd4c474dd870108a754b241_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "22000",
+                    "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5fd4c474dd870108a754b241_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "640000",
+                    "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5fd4c474dd870108a754b241_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 640000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5fd4c474dd870108a754b241_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "1100",
+                    "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5fd4c474dd870108a754b241_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5fd4c474dd870108a754b241_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "880",
+                    "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5fd4c474dd870108a754b241_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 880
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter",
+                    "id": "Juggernaut_5fd4c474dd870108a754b241_Barter_Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5fd4c474dd870108a754b241_Barter",
+                            "_tpl": "5fd4c474dd870108a754b241",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5fd4c474dd870108a754b241_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5fd4c474dd870108a754b241_Barter successMessageText",
+        "templateId": "Juggernaut_5fd4c474dd870108a754b241_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 5.11 Tactical Hexgrid plate carrier Barter",
+        "acceptPlayerMessage": "Juggernaut_5fd4c474dd870108a754b241_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5fd4c474dd870108a754b241_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5fd4c474dd870108a754b241_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_5e4abb5086f77406975c9342_Barter": {
+        "_id": "Juggernaut_5e4abb5086f77406975c9342_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5fd4c474dd870108a754b241_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5e4abb5086f77406975c9342",
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a",
+                            "6038b4b292ec1c3103795a0b",
+                            "6038b4ca92ec1c3103795a0d"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_5e4abb5086f77406975c9342_Barter description",
+        "failMessageText": "Juggernaut_5e4abb5086f77406975c9342_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_5e4abb5086f77406975c9342_Barter name",
+        "note": "Juggernaut_5e4abb5086f77406975c9342_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "23000",
+                    "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_5e4abb5086f77406975c9342_Barter_59fb042886f7746c5005a7b2_4_id",
+                    "value": "1",
+                    "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_59fb042886f7746c5005a7b2_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e4abb5086f77406975c9342_Barter_59fb042886f7746c5005a7b2_4_id",
+                            "_tpl": "59fb042886f7746c5005a7b2",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5e4abb5086f77406975c9342_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "979000",
+                    "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e4abb5086f77406975c9342_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 979000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5e4abb5086f77406975c9342_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "1150",
+                    "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e4abb5086f77406975c9342_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1150
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_5e4abb5086f77406975c9342_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "920",
+                    "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_5e4abb5086f77406975c9342_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 920
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+                    "id": "Juggernaut_5e4abb5086f77406975c9342_Barter_Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5e4abb5086f77406975c9342_Barter",
+                            "_tpl": "5e4abb5086f77406975c9342",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_5e4abb5086f77406975c9342_Barter startedMessageText",
+        "successMessageText": "Juggernaut_5e4abb5086f77406975c9342_Barter successMessageText",
+        "templateId": "Juggernaut_5e4abb5086f77406975c9342_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: LBT-6094A Slick Plate Carrier Barter",
+        "acceptPlayerMessage": "Juggernaut_5e4abb5086f77406975c9342_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_5e4abb5086f77406975c9342_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_5e4abb5086f77406975c9342_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_60a283193cb70855c43a381d_Barter": {
+        "_id": "Juggernaut_60a283193cb70855c43a381d_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_60a283193cb70855c43a381d_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_5e4abb5086f77406975c9342_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_60a283193cb70855c43a381d_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "60a283193cb70855c43a381d",
+                            "545cdb794bdc2d3a198b456a"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_60a283193cb70855c43a381d_Barter description",
+        "failMessageText": "Juggernaut_60a283193cb70855c43a381d_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_60a283193cb70855c43a381d_Barter name",
+        "note": "Juggernaut_60a283193cb70855c43a381d_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "24000",
+                    "id": "Juggernaut_60a283193cb70855c43a381d_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_60a283193cb70855c43a381d_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "929000",
+                    "id": "Juggernaut_60a283193cb70855c43a381d_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_60a283193cb70855c43a381d_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 929000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_60a283193cb70855c43a381d_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "1200",
+                    "id": "Juggernaut_60a283193cb70855c43a381d_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_60a283193cb70855c43a381d_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_60a283193cb70855c43a381d_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "960",
+                    "id": "Juggernaut_60a283193cb70855c43a381d_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_60a283193cb70855c43a381d_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 960
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+                    "id": "Juggernaut_60a283193cb70855c43a381d_Barter_Warden_Temporal_Id_60a283193cb70855c43a381d_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_60a283193cb70855c43a381d_Barter",
+                            "_tpl": "60a283193cb70855c43a381d",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_60a283193cb70855c43a381d_Barter startedMessageText",
+        "successMessageText": "Juggernaut_60a283193cb70855c43a381d_Barter successMessageText",
+        "templateId": "Juggernaut_60a283193cb70855c43a381d_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: NFM THOR Integrated Carrier body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_60a283193cb70855c43a381d_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_60a283193cb70855c43a381d_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_60a283193cb70855c43a381d_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Juggernaut_545cdb794bdc2d3a198b456a_Barter": {
+        "_id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Juggernaut_60a283193cb70855c43a381d_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "545cdb794bdc2d3a198b456a"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Juggernaut_545cdb794bdc2d3a198b456a_Barter description",
+        "failMessageText": "Juggernaut_545cdb794bdc2d3a198b456a_Barter failMessageText",
+        "image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Juggernaut_545cdb794bdc2d3a198b456a_Barter name",
+        "note": "Juggernaut_545cdb794bdc2d3a198b456a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "25000",
+                    "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "1019936",
+                    "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 1019936
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "1250",
+                    "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "1000",
+                    "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+                    "id": "Juggernaut_545cdb794bdc2d3a198b456a_Barter_Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_545cdb794bdc2d3a198b456a_Barter",
+                            "_tpl": "545cdb794bdc2d3a198b456a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Juggernaut_545cdb794bdc2d3a198b456a_Barter startedMessageText",
+        "successMessageText": "Juggernaut_545cdb794bdc2d3a198b456a_Barter successMessageText",
+        "templateId": "Juggernaut_545cdb794bdc2d3a198b456a_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[War] Juggernaut: 6B43 6A Zabralo-Sh body armor Barter",
+        "acceptPlayerMessage": "Juggernaut_545cdb794bdc2d3a198b456a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Juggernaut_545cdb794bdc2d3a198b456a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Juggernaut_545cdb794bdc2d3a198b456a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

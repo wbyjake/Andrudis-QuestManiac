@@ -1,0 +1,3419 @@
+{
+    "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter": {
+        "_id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5e831507ea0a7c419c2f9bd9"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter description",
+        "failMessageText": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter name",
+        "note": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Barter",
+                    "id": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter_Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5e831507ea0a7c419c2f9bd9_Barter",
+                            "_tpl": "5e831507ea0a7c419c2f9bd9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Esmarch tourniquet Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter": {
+        "_id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5e831507ea0a7c419c2f9bd9_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "544fb25a4bdc2dfb738b4567"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter description",
+        "failMessageText": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter name",
+        "note": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Barter",
+                    "id": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter_Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_544fb25a4bdc2dfb738b4567_Barter",
+                            "_tpl": "544fb25a4bdc2dfb738b4567",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter successMessageText",
+        "templateId": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Aseptic bandage Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter": {
+        "_id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_544fb25a4bdc2dfb738b4567_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "544fb3364bdc2d34748b456a"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter description",
+        "failMessageText": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter name",
+        "note": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Barter",
+                    "id": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter_Warden_Temporal_Id_544fb3364bdc2d34748b456a_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_544fb3364bdc2d34748b456a_Barter",
+                            "_tpl": "544fb3364bdc2d34748b456a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter successMessageText",
+        "templateId": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Immobilizing splint Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5755356824597772cb798962_Barter": {
+        "_id": "Meds_Proficiency_5755356824597772cb798962_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5755356824597772cb798962_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_544fb3364bdc2d34748b456a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5755356824597772cb798962_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5755356824597772cb798962_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5755356824597772cb798962"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5755356824597772cb798962_Barter description",
+        "failMessageText": "Meds_Proficiency_5755356824597772cb798962_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5755356824597772cb798962_Barter name",
+        "note": "Meds_Proficiency_5755356824597772cb798962_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5755356824597772cb798962_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5755356824597772cb798962_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5755356824597772cb798962_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5755356824597772cb798962_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5755356824597772cb798962_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5755356824597772cb798962_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5755356824597772cb798962_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5755356824597772cb798962_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5755356824597772cb798962_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5755356824597772cb798962_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5755356824597772cb798962_Barter",
+                    "id": "Meds_Proficiency_5755356824597772cb798962_Barter_Warden_Temporal_Id_5755356824597772cb798962_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5755356824597772cb798962_Barter",
+                            "_tpl": "5755356824597772cb798962",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5755356824597772cb798962_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5755356824597772cb798962_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5755356824597772cb798962_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: AI-2 medkit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5755356824597772cb798962_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5755356824597772cb798962_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5755356824597772cb798962_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_60098af40accd37ef2175f27_Barter": {
+        "_id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5755356824597772cb798962_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "60098af40accd37ef2175f27"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_60098af40accd37ef2175f27_Barter description",
+        "failMessageText": "Meds_Proficiency_60098af40accd37ef2175f27_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_60098af40accd37ef2175f27_Barter name",
+        "note": "Meds_Proficiency_60098af40accd37ef2175f27_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_60098af40accd37ef2175f27_Barter",
+                    "id": "Meds_Proficiency_60098af40accd37ef2175f27_Barter_Warden_Temporal_Id_60098af40accd37ef2175f27_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_60098af40accd37ef2175f27_Barter",
+                            "_tpl": "60098af40accd37ef2175f27",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_60098af40accd37ef2175f27_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_60098af40accd37ef2175f27_Barter successMessageText",
+        "templateId": "Meds_Proficiency_60098af40accd37ef2175f27_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: CAT hemostatic tourniquet Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_60098af40accd37ef2175f27_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_60098af40accd37ef2175f27_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_60098af40accd37ef2175f27_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_590c661e86f7741e566b646a_Barter": {
+        "_id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_60098af40accd37ef2175f27_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "590c661e86f7741e566b646a"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_590c661e86f7741e566b646a_Barter description",
+        "failMessageText": "Meds_Proficiency_590c661e86f7741e566b646a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_590c661e86f7741e566b646a_Barter name",
+        "note": "Meds_Proficiency_590c661e86f7741e566b646a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_590c661e86f7741e566b646a_Barter",
+                    "id": "Meds_Proficiency_590c661e86f7741e566b646a_Barter_Warden_Temporal_Id_590c661e86f7741e566b646a_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_590c661e86f7741e566b646a_Barter",
+                            "_tpl": "590c661e86f7741e566b646a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_590c661e86f7741e566b646a_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_590c661e86f7741e566b646a_Barter successMessageText",
+        "templateId": "Meds_Proficiency_590c661e86f7741e566b646a_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Car first aid kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_590c661e86f7741e566b646a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_590c661e86f7741e566b646a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_590c661e86f7741e566b646a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5751a25924597722c463c472_Barter": {
+        "_id": "Meds_Proficiency_5751a25924597722c463c472_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_590c661e86f7741e566b646a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5751a25924597722c463c472"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5751a25924597722c463c472_Barter description",
+        "failMessageText": "Meds_Proficiency_5751a25924597722c463c472_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5751a25924597722c463c472_Barter name",
+        "note": "Meds_Proficiency_5751a25924597722c463c472_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5751a25924597722c463c472_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a25924597722c463c472_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5751a25924597722c463c472_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a25924597722c463c472_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5751a25924597722c463c472_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a25924597722c463c472_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5751a25924597722c463c472_Barter",
+                    "id": "Meds_Proficiency_5751a25924597722c463c472_Barter_Warden_Temporal_Id_5751a25924597722c463c472_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5751a25924597722c463c472_Barter",
+                            "_tpl": "5751a25924597722c463c472",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5751a25924597722c463c472_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5751a25924597722c463c472_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5751a25924597722c463c472_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Army bandage Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5751a25924597722c463c472_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5751a25924597722c463c472_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5751a25924597722c463c472_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter": {
+        "_id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5751a25924597722c463c472_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "544fb3f34bdc2d03748b456a"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter description",
+        "failMessageText": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter name",
+        "note": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Barter",
+                    "id": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter_Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_544fb3f34bdc2d03748b456a_Barter",
+                            "_tpl": "544fb3f34bdc2d03748b456a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter successMessageText",
+        "templateId": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Morphine injector Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter": {
+        "_id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_544fb3f34bdc2d03748b456a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5e8488fa988a8701445df1e4"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter description",
+        "failMessageText": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter name",
+        "note": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Barter",
+                    "id": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter_Warden_Temporal_Id_5e8488fa988a8701445df1e4_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5e8488fa988a8701445df1e4_Barter",
+                            "_tpl": "5e8488fa988a8701445df1e4",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: CALOK-B hemostatic applicator Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter": {
+        "_id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5e8488fa988a8701445df1e4_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5af0454c86f7746bf20992e8"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter description",
+        "failMessageText": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter name",
+        "note": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_619cbf7d23893217ec30b689_5_id",
+                    "value": "1",
+                    "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_619cbf7d23893217ec30b689_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_619cbf7d23893217ec30b689_5_id",
+                            "_tpl": "619cbf7d23893217ec30b689",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_5449016a4bdc2d6f028b456f_6_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_5449016a4bdc2d6f028b456f_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_5449016a4bdc2d6f028b456f_6_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_5696686a4bdc2da3298b456a_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_5696686a4bdc2da3298b456a_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_5696686a4bdc2da3298b456a_7_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_569668774bdc2da2298b4568_8_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_569668774bdc2da2298b4568_8",
+                    "type": "Item",
+                    "index": 8,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_569668774bdc2da2298b4568_8_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Barter",
+                    "id": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter_Warden_Temporal_Id_5af0454c86f7746bf20992e8_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5af0454c86f7746bf20992e8_Barter",
+                            "_tpl": "5af0454c86f7746bf20992e8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Aluminum splint Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_590c695186f7741e566b64a2_Barter": {
+        "_id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5af0454c86f7746bf20992e8_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "590c695186f7741e566b64a2"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_590c695186f7741e566b64a2_Barter description",
+        "failMessageText": "Meds_Proficiency_590c695186f7741e566b64a2_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_590c695186f7741e566b64a2_Barter name",
+        "note": "Meds_Proficiency_590c695186f7741e566b64a2_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_590c695186f7741e566b64a2_Barter",
+                    "id": "Meds_Proficiency_590c695186f7741e566b64a2_Barter_Warden_Temporal_Id_590c695186f7741e566b64a2_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_590c695186f7741e566b64a2_Barter",
+                            "_tpl": "590c695186f7741e566b64a2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_590c695186f7741e566b64a2_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_590c695186f7741e566b64a2_Barter successMessageText",
+        "templateId": "Meds_Proficiency_590c695186f7741e566b64a2_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Augmentin antibiotic pills Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_590c695186f7741e566b64a2_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_590c695186f7741e566b64a2_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_590c695186f7741e566b64a2_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter": {
+        "_id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_590c695186f7741e566b64a2_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "544fb45d4bdc2dee738b4568"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter description",
+        "failMessageText": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter name",
+        "note": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Barter",
+                    "id": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter_Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_544fb45d4bdc2dee738b4568_Barter",
+                            "_tpl": "544fb45d4bdc2dee738b4568",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter successMessageText",
+        "templateId": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Salewa first aid kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter": {
+        "_id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_544fb45d4bdc2dee738b4568_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d02778e86f774203e7dedbe"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter description",
+        "failMessageText": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter name",
+        "note": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Barter",
+                    "id": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter_Warden_Temporal_Id_5d02778e86f774203e7dedbe_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5d02778e86f774203e7dedbe_Barter",
+                            "_tpl": "5d02778e86f774203e7dedbe",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: CMS surgical kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_590c678286f77426c9660122_Barter": {
+        "_id": "Meds_Proficiency_590c678286f77426c9660122_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5d02778e86f774203e7dedbe_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "590c678286f77426c9660122"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_590c678286f77426c9660122_Barter description",
+        "failMessageText": "Meds_Proficiency_590c678286f77426c9660122_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_590c678286f77426c9660122_Barter name",
+        "note": "Meds_Proficiency_590c678286f77426c9660122_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_590c678286f77426c9660122_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c678286f77426c9660122_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c678286f77426c9660122_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c678286f77426c9660122_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c678286f77426c9660122_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c678286f77426c9660122_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_590c678286f77426c9660122_Barter",
+                    "id": "Meds_Proficiency_590c678286f77426c9660122_Barter_Warden_Temporal_Id_590c678286f77426c9660122_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_590c678286f77426c9660122_Barter",
+                            "_tpl": "590c678286f77426c9660122",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_590c678286f77426c9660122_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_590c678286f77426c9660122_Barter successMessageText",
+        "templateId": "Meds_Proficiency_590c678286f77426c9660122_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: IFAK individual first aid kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_590c678286f77426c9660122_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_590c678286f77426c9660122_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_590c678286f77426c9660122_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5755383e24597772cb798966_Barter": {
+        "_id": "Meds_Proficiency_5755383e24597772cb798966_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_590c678286f77426c9660122_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5755383e24597772cb798966"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5755383e24597772cb798966_Barter description",
+        "failMessageText": "Meds_Proficiency_5755383e24597772cb798966_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5755383e24597772cb798966_Barter name",
+        "note": "Meds_Proficiency_5755383e24597772cb798966_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5755383e24597772cb798966_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5755383e24597772cb798966_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5755383e24597772cb798966_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5755383e24597772cb798966_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5755383e24597772cb798966_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5755383e24597772cb798966_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5755383e24597772cb798966_Barter",
+                    "id": "Meds_Proficiency_5755383e24597772cb798966_Barter_Warden_Temporal_Id_5755383e24597772cb798966_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5755383e24597772cb798966_Barter",
+                            "_tpl": "5755383e24597772cb798966",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5755383e24597772cb798966_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5755383e24597772cb798966_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5755383e24597772cb798966_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Vaseline balm Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5755383e24597772cb798966_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5755383e24597772cb798966_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5755383e24597772cb798966_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter": {
+        "_id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5755383e24597772cb798966_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "60098ad7c2240c0fe85c570a"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter description",
+        "failMessageText": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter name",
+        "note": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Barter",
+                    "id": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter_Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_60098ad7c2240c0fe85c570a_Barter",
+                            "_tpl": "60098ad7c2240c0fe85c570a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter successMessageText",
+        "templateId": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: AFAK tactical individual first aid kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5af0548586f7743a532b7e99_Barter": {
+        "_id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_60098ad7c2240c0fe85c570a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5af0548586f7743a532b7e99"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter description",
+        "failMessageText": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter name",
+        "note": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5af0548586f7743a532b7e99_Barter",
+                    "id": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter_Warden_Temporal_Id_5af0548586f7743a532b7e99_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5af0548586f7743a532b7e99_Barter",
+                            "_tpl": "5af0548586f7743a532b7e99",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Ibuprofen painkillers Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_590c657e86f77412b013051d_Barter": {
+        "_id": "Meds_Proficiency_590c657e86f77412b013051d_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5af0548586f7743a532b7e99_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "20",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "590c657e86f77412b013051d"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_590c657e86f77412b013051d_Barter description",
+        "failMessageText": "Meds_Proficiency_590c657e86f77412b013051d_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_590c657e86f77412b013051d_Barter name",
+        "note": "Meds_Proficiency_590c657e86f77412b013051d_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_590c657e86f77412b013051d_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c657e86f77412b013051d_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_590c657e86f77412b013051d_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_590c657e86f77412b013051d_Barter",
+                    "id": "Meds_Proficiency_590c657e86f77412b013051d_Barter_Warden_Temporal_Id_590c657e86f77412b013051d_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_590c657e86f77412b013051d_Barter",
+                            "_tpl": "590c657e86f77412b013051d",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_590c657e86f77412b013051d_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_590c657e86f77412b013051d_Barter successMessageText",
+        "templateId": "Meds_Proficiency_590c657e86f77412b013051d_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Grizzly medical kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_590c657e86f77412b013051d_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_590c657e86f77412b013051d_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_590c657e86f77412b013051d_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5d02797c86f774203f38e30a_Barter": {
+        "_id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_590c657e86f77412b013051d_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "50",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5d02797c86f774203f38e30a"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter description",
+        "failMessageText": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter name",
+        "note": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5d02797c86f774203f38e30a_Barter",
+                    "id": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter_Warden_Temporal_Id_5d02797c86f774203f38e30a_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5d02797c86f774203f38e30a_Barter",
+                            "_tpl": "5d02797c86f774203f38e30a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Surv12 field surgical kit Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter": {
+        "_id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Meds_Proficiency_5d02797c86f774203f38e30a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0530ee86f774697952d952",
+                            "5b4335ba86f7744d2837a264",
+                            "5af0534a86f7743b6f354284",
+                            "5c052e6986f7746b207bc3c9",
+                            "619cc01e0a7c3a1a2731940c",
+                            "59e3606886f77417674759a5",
+                            "5d1b3a5d86f774252167ba22",
+                            "5d1b3f2d86f774253763b735",
+                            "59e361e886f774176c10a2a5"
+                        ],
+                        "value": "50",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_Handover_1",
+                        "index": 1,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5751a89d24597722aa0e8db0"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter description",
+        "failMessageText": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter name",
+        "note": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_Experience_4",
+                    "type": "Experience",
+                    "index": 4
+                },
+                {
+                    "target": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5aafbcd986f7745e590fff23_5_id",
+                    "value": "1",
+                    "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5aafbcd986f7745e590fff23_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5aafbcd986f7745e590fff23_5_id",
+                            "_tpl": "5aafbcd986f7745e590fff23",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5449016a4bdc2d6f028b456f_6_id",
+                    "value": "15000",
+                    "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5449016a4bdc2d6f028b456f_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5449016a4bdc2d6f028b456f_6_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5696686a4bdc2da3298b456a_7_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5696686a4bdc2da3298b456a_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_5696686a4bdc2da3298b456a_7_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_569668774bdc2da2298b4568_8_id",
+                    "value": "100",
+                    "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_569668774bdc2da2298b4568_8",
+                    "type": "Item",
+                    "index": 8,
+                    "items": [
+                        {
+                            "_id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_569668774bdc2da2298b4568_8_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Barter",
+                    "id": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter_Warden_Temporal_Id_5751a89d24597722aa0e8db0_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Warden_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Warden_Temporal_Id_5751a89d24597722aa0e8db0_Barter",
+                            "_tpl": "5751a89d24597722aa0e8db0",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter startedMessageText",
+        "successMessageText": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter successMessageText",
+        "templateId": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter",
+        "traderId": "Warden_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[War] Meds Proficiency: Golden Star balm Barter",
+        "acceptPlayerMessage": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter changeQuestMessageText",
+        "completePlayerMessage": "Meds_Proficiency_5751a89d24597722aa0e8db0_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

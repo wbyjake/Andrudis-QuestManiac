@@ -1,0 +1,1454 @@
+{
+    "KillBoard_Assault_Colonel_Temporal_Id": {
+        "_id": "KillBoard_Assault_Colonel_Temporal_Id",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "10000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_1_counter_1",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_1_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_1",
+                        "index": 1,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "5000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_2_counter_2",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Bear",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_2_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_2",
+                        "index": 2,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_3_counter_3",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Usec",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_3_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_3",
+                        "index": 3,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_4_counter_4",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "exUsec"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_4_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_4",
+                        "index": 4,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_5_counter_5",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "pmcBot"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_5_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_5",
+                        "index": 5,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_6_counter_6",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "marksman"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_6_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_6",
+                        "index": 6,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_7_counter_7",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossKilla"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_7_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_7",
+                        "index": 7,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_8_counter_8",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossGluhar"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_8_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_8",
+                        "index": 8,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_9_counter_9",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossTagilla"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_9_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_9",
+                        "index": 9,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_10_counter_10",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossBully"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_10_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_10",
+                        "index": 10,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_11_counter_11",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossSanitar"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_11_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_11",
+                        "index": 11,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_12_counter_12",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossKojaniy"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_12_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_12",
+                        "index": 12,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_13_counter_13",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "sectantPriest"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_13_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_13",
+                        "index": 13,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_14_counter_14",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "sectantWarrior"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_14_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_14",
+                        "index": 14,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_15_counter_15",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerBully"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_15_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_15",
+                        "index": 15,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_16_counter_16",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerSanitar"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_16_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_16",
+                        "index": 16,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_17_counter_17",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerKojaniy"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_17_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_17",
+                        "index": 17,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_18_counter_18",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerGluharScout"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_18_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_18",
+                        "index": 18,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_19_counter_19",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerGluharAssault"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_19_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_19",
+                        "index": 19,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_20_counter_20",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerGluharSecurity"
+                                        ],
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "59e6152586f77473dc057aa1",
+                                            "5c07c60e0db834002330051f",
+                                            "57dc2fa62459775949412633",
+                                            "5ac4cd105acfc40016339859",
+                                            "5ac66d015acfc400180ae6e4",
+                                            "5447a9cd4bdc2dbd208b4567",
+                                            "5fbcc1d9016cce60e8341ab3",
+                                            "59ff346386f77477562ff5e2",
+                                            "5ac66d9b5acfc4001633997a",
+                                            "6184055050224f204c1da540",
+                                            "5beed0f50db834001c062b12",
+                                            "5bb2475ed4351e00853264e3",
+                                            "5d43021ca4b9362eab4b5e25",
+                                            "5ac66d725acfc43b321d4b60",
+                                            "606587252535c57a13424cfd",
+                                            "5c488a752e221602b412af63",
+                                            "5b0bbe4e5acfc40dc528a72d",
+                                            "6165ac306ef05c2ce828ef74",
+                                            "5dcbd56fdbd3d91b3e5468d5",
+                                            "5cadfbf7ae92152ac412eeef",
+                                            "583990e32459771419544dd2",
+                                            "5839a40f24597726f856b511",
+                                            "5bf3e0490db83400196199af",
+                                            "5bf3e03b0db834001d2c4a9c",
+                                            "5644bd2b4bdc2d3b4c8b4572",
+                                            "5ab8e9fcd8ce870019439434",
+                                            "5ac66cb05acfc40198510a10",
+                                            "5abcbc27d8ce8700182eceeb",
+                                            "59d6088586f774275f37482f",
+                                            "5a0ec13bfcdbcb00165aa685",
+                                            "618428466ef05c2ce828f218",
+                                            "5ac66d2e5acfc43b321d4b53",
+                                            "6165ac306ef05c2ce828ef74"
+                                        ],
+                                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_20_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Assault_Colonel_Temporal_Id_Elim_20",
+                        "index": 20,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "KillBoard_Assault_Colonel_Temporal_Id description",
+        "failMessageText": "KillBoard_Assault_Colonel_Temporal_Id failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "KillBoard_Assault_Colonel_Temporal_Id name",
+        "note": "KillBoard_Assault_Colonel_Temporal_Id note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "KillBoard_Assault_Colonel_Temporal_Id startedMessageText",
+        "successMessageText": "KillBoard_Assault_Colonel_Temporal_Id successMessageText",
+        "templateId": "KillBoard_Assault_Colonel_Temporal_Id",
+        "traderId": "Colonel_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "### Killboard - Assault Rifles",
+        "acceptPlayerMessage": "KillBoard_Assault_Colonel_Temporal_Id acceptPlayerMessage",
+        "changeQuestMessageText": "KillBoard_Assault_Colonel_Temporal_Id changeQuestMessageText",
+        "completePlayerMessage": "KillBoard_Assault_Colonel_Temporal_Id completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

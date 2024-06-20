@@ -1,0 +1,1225 @@
+{
+  "Keys_FindAny_3_Shoreline": {
+    "QuestName": "[Bsh] Key Proficiency: Shoreline Burglar",
+    "_id": "Keys_FindAny_3_Shoreline",
+    "acceptPlayerMessage": "Keys_FindAny_3_Shoreline acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_3_Shoreline changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_3_Shoreline completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Shoreline_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a144bdb86f7741d374bbde0",
+            "5a0ee4b586f7743698200d22",
+            "5a0ee76686f7743698200d5c",
+            "5a13f24186f77410e57c5626",
+            "5a13f35286f77413ef1436b0",
+            "5a145d4786f7744cbb6f4a12",
+            "5a145d7b86f7744cbb6f4a13",
+            "5a0eec9686f77402ac5c39f2",
+            "5a0eecf686f7740350630097",
+            "5a0eed4386f77405112912aa",
+            "5a145ebb86f77458f1796f05",
+            "5a0eee1486f77402aa773226",
+            "5eff09cd30a7dc22fd1ddfed",
+            "5a0ea64786f7741707720468",
+            "5a0ea79b86f7741d4a35298e",
+            "5a0eff2986f7741fd654e684",
+            "5a0dc45586f7742f6b0b73e3",
+            "5a0dc95c86f77452440fc675",
+            "5a144dfd86f77445cb5a0982",
+            "5a0ec6d286f7742c0b518fb5",
+            "5a0ee30786f774023b6ee08f",
+            "5a13eebd86f7746fd639aa93",
+            "5a13ef0686f7746e5a411744",
+            "5a0ee34586f774023b6ee092",
+            "5a0ee37f86f774023657a86f",
+            "5a1452ee86f7746f33111763",
+            "5a13ef7e86f7741290491063",
+            "5a13f46386f7741dd7384b04",
+            "5a0f08bc86f77478f33b84c2",
+            "5448ba0b4bdc2d02308b456c",
+            "5a0eb6ac86f7743124037a28",
+            "5a0f068686f7745b0d4ea242",
+            "5a0f0f5886f7741c4e32a472",
+            "5d8e15b686f774445103b190",
+            "5a0eb38b86f774153b320eb0"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Shoreline_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "20000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_3_Shoreline_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_15_Tarkov"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_3_Shoreline declinePlayerMessage",
+    "description": "Keys_FindAny_3_Shoreline description",
+    "failMessageText": "Keys_FindAny_3_Shoreline failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_3_Shoreline name",
+    "note": "Keys_FindAny_3_Shoreline note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_3_Shoreline_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_3_Shoreline_5783c43d2459774bbe137486_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_3_Shoreline_5783c43d2459774bbe137486_5_id",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_3_Shoreline_5783c43d2459774bbe137486_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_3_Shoreline_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_3_Shoreline_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_3_Shoreline_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_3_Shoreline startedMessageText",
+    "successMessageText": "Keys_FindAny_3_Shoreline successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_8_Shoreline": {
+    "QuestName": "[Bsh] Key Proficiency: Shoreline Key Master",
+    "_id": "Keys_FindAny_8_Shoreline",
+    "acceptPlayerMessage": "Keys_FindAny_8_Shoreline acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_8_Shoreline changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_8_Shoreline completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_8_Shoreline_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a144bdb86f7741d374bbde0",
+            "5a0ee4b586f7743698200d22",
+            "5a0ee76686f7743698200d5c",
+            "5a13f24186f77410e57c5626",
+            "5a13f35286f77413ef1436b0",
+            "5a145d4786f7744cbb6f4a12",
+            "5a145d7b86f7744cbb6f4a13",
+            "5a0eec9686f77402ac5c39f2",
+            "5a0eecf686f7740350630097",
+            "5a0eed4386f77405112912aa",
+            "5a145ebb86f77458f1796f05",
+            "5a0eee1486f77402aa773226",
+            "5eff09cd30a7dc22fd1ddfed",
+            "5a0ea64786f7741707720468",
+            "5a0ea79b86f7741d4a35298e",
+            "5a0eff2986f7741fd654e684",
+            "5a0dc45586f7742f6b0b73e3",
+            "5a0dc95c86f77452440fc675",
+            "5a144dfd86f77445cb5a0982",
+            "5a0ec6d286f7742c0b518fb5",
+            "5a0ee30786f774023b6ee08f",
+            "5a13eebd86f7746fd639aa93",
+            "5a13ef0686f7746e5a411744",
+            "5a0ee34586f774023b6ee092",
+            "5a0ee37f86f774023657a86f",
+            "5a1452ee86f7746f33111763",
+            "5a13ef7e86f7741290491063",
+            "5a13f46386f7741dd7384b04",
+            "5a0f08bc86f77478f33b84c2",
+            "5448ba0b4bdc2d02308b456c",
+            "5a0eb6ac86f7743124037a28",
+            "5a0f068686f7745b0d4ea242",
+            "5a0f0f5886f7741c4e32a472",
+            "5d8e15b686f774445103b190",
+            "5a0eb38b86f774153b320eb0"
+          ],
+          "value": "8",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_8_Shoreline_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "500000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_8_Shoreline_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_3_Shoreline"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_8_Shoreline declinePlayerMessage",
+    "description": "Keys_FindAny_8_Shoreline description",
+    "failMessageText": "Keys_FindAny_8_Shoreline failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_8_Shoreline name",
+    "note": "Keys_FindAny_8_Shoreline note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_8_Shoreline_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_8_Shoreline_590c60fc86f77412b13fddcf_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_8_Shoreline_590c60fc86f77412b13fddcf_5_id",
+              "_tpl": "590c60fc86f77412b13fddcf",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_8_Shoreline_590c60fc86f77412b13fddcf_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_8_Shoreline_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_8_Shoreline_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_8_Shoreline_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_8_Shoreline startedMessageText",
+    "successMessageText": "Keys_FindAny_8_Shoreline successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing": {
+    "QuestName": "[Bsh] Key Proficiency: Shoreline East Wing Locksmith",
+    "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing",
+    "acceptPlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a144bdb86f7741d374bbde0"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ee4b586f7743698200d22"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ee76686f7743698200d5c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_3",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a13f24186f77410e57c5626"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_4",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a13f35286f77413ef1436b0"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_5",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a145d4786f7744cbb6f4a12"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_6",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a145d7b86f7744cbb6f4a13"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_7",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eec9686f77402ac5c39f2"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_8",
+          "index": 8,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eecf686f7740350630097"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_9",
+          "index": 9,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eed4386f77405112912aa"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_10",
+          "index": 10,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a145ebb86f77458f1796f05"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_11",
+          "index": 11,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eee1486f77402aa773226"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_12",
+          "index": 12,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5eff09cd30a7dc22fd1ddfed"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_13",
+          "index": 13,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ea64786f7741707720468"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_FindItem_14",
+          "index": 14,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ea79b86f7741d4a35298e"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_Parent_Quest_21",
+          "index": 21,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_8_Shoreline"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing declinePlayerMessage",
+    "description": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing description",
+    "failMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing name",
+    "note": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_Experience_17",
+          "index": 17,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_5d235bb686f77443f4331278_18",
+          "index": 18,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_5d235bb686f77443f4331278_18_id",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_5d235bb686f77443f4331278_18_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_5449016a4bdc2d6f028b456f_19",
+          "index": 19,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_5449016a4bdc2d6f028b456f_19_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing_5449016a4bdc2d6f028b456f_19_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing startedMessageText",
+    "successMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_East_Wing successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing": {
+    "QuestName": "[Bsh] Key Proficiency: Shoreline West Wing Locksmith",
+    "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing",
+    "acceptPlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ea79b86f7741d4a35298e"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eff2986f7741fd654e684"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0dc45586f7742f6b0b73e3"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_3",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0dc95c86f77452440fc675"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_4",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a144dfd86f77445cb5a0982"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_5",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ec6d286f7742c0b518fb5"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_6",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ee30786f774023b6ee08f"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_7",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a13eebd86f7746fd639aa93"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_8",
+          "index": 8,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a13ef0686f7746e5a411744"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_9",
+          "index": 9,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ee34586f774023b6ee092"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_10",
+          "index": 10,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0ee37f86f774023657a86f"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_11",
+          "index": 11,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a1452ee86f7746f33111763"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_12",
+          "index": 12,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a13ef7e86f7741290491063"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_FindItem_13",
+          "index": 13,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a13f46386f7741dd7384b04"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_Parent_Quest_20",
+          "index": 20,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_8_Shoreline"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing declinePlayerMessage",
+    "description": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing description",
+    "failMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing name",
+    "note": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_Experience_16",
+          "index": 16,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_5d235bb686f77443f4331278_17",
+          "index": 17,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_5d235bb686f77443f4331278_17_id",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_5d235bb686f77443f4331278_17_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_5449016a4bdc2d6f028b456f_18",
+          "index": 18,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_5449016a4bdc2d6f028b456f_18_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing_5449016a4bdc2d6f028b456f_18_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing startedMessageText",
+    "successMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_West_Wing successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc": {
+    "QuestName": "[Bsh] Key Proficiency: Shoreline Misc Locksmith",
+    "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc",
+    "acceptPlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0f08bc86f77478f33b84c2"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eb6ac86f7743124037a28"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_3",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0f068686f7745b0d4ea242"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_4",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0f0f5886f7741c4e32a472"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_5",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5d8e15b686f774445103b190"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_FindItem_6",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5a0eb38b86f774153b320eb0"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_Parent_Quest_13",
+          "index": 13,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_8_Shoreline"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc declinePlayerMessage",
+    "description": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc description",
+    "failMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc name",
+    "note": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_Experience_9",
+          "index": 9,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_590c60fc86f77412b13fddcf_10",
+          "index": 10,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_590c60fc86f77412b13fddcf_10_id",
+              "_tpl": "590c60fc86f77412b13fddcf",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_590c60fc86f77412b13fddcf_10_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_5449016a4bdc2d6f028b456f_11",
+          "index": 11,
+          "items": [
+            {
+              "_id": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_5449016a4bdc2d6f028b456f_11_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc_5449016a4bdc2d6f028b456f_11_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc startedMessageText",
+    "successMessageText": "Keys_FindAny_Bashkir_Temporal_Id_Shoreline_Misc successMessageText",
+    "traderId": "Bashkir_Temporal_Id",
+    "type": "PickUp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods name": "[Jgr] キーの習熟度:Woods 鍵屋",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods note": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods description": "キーのコンテナが必要ですか？まだキーがない場合は何が必要ですか？ 'Em All!を検索する必要があります!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods startedMessageText": "[Jgr] クエストが承認されました: '[Jgr] キーの習熟度:Woods 鍵屋'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods failMessageText": "[Jgr] クエストに失敗しました: '[Jgr] キーの習熟度:Woods 鍵屋'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods successMessageText": "[Jgr] クエストが完了しました: '[Jgr] キーの習熟度:Woods 鍵屋'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods acceptPlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods declinePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods completePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_0": "ZB-014の鍵を検索",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_1": "Shturmanの鍵を検索",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_2": "Yotota車の鍵を検索"
+}

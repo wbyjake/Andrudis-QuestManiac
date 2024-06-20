@@ -1,0 +1,12 @@
+{
+    "Ammo_Proficiency_Introduction name": "[War] 弾薬の習熟度:Introduction",
+    "Ammo_Proficiency_Introduction note": "",
+    "Ammo_Proficiency_Introduction description": "Psss!あなたは弾薬を使える人のように見えますよね？でも誰もあなたに売りたくないですよね？私はそれを手伝うことができますが,私の推薦は安くはありません...興味がありますか？",
+    "Ammo_Proficiency_Introduction startedMessageText": "[War] クエストが承認されました: '[War] 弾薬の習熟度:Introduction'!",
+    "Ammo_Proficiency_Introduction failMessageText": "[War] クエストに失敗しました: '[War] 弾薬の習熟度:Introduction'!",
+    "Ammo_Proficiency_Introduction successMessageText": "[War] クエストが完了しました: '[War] 弾薬の習熟度:Introduction'!",
+    "Ammo_Proficiency_Introduction acceptPlayerMessage": "",
+    "Ammo_Proficiency_Introduction declinePlayerMessage": "",
+    "Ammo_Proficiency_Introduction completePlayerMessage": "",
+    "Ammo_Proficiency_Introduction_Handover_0": "任意の弾薬のハンドオーバー1000。"
+}

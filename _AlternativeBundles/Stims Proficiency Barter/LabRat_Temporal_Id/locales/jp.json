@@ -1,0 +1,12 @@
+{
+    "Stims_Proficiency_Stims_Barter name": "[Lab] スティムスの習熟度:スティムス物々交換",
+    "Stims_Proficiency_Stims_Barter note": "",
+    "Stims_Proficiency_Stims_Barter description": "刺激は,オクトーバーフェスト中にビールのように消費するものではありません。自分で見つけられることを証明してください。また,実際に現場で必要であり,使用方法を知っている必要があります。",
+    "Stims_Proficiency_Stims_Barter startedMessageText": "[Lab] クエストが承認されました: '[Lab] スティムスの習熟度:スティムス物々交換'!",
+    "Stims_Proficiency_Stims_Barter failMessageText": "[Lab] クエストに失敗しました: '[Lab] スティムスの習熟度:スティムス物々交換'!",
+    "Stims_Proficiency_Stims_Barter successMessageText": "[Lab] クエストが完了しました: '[Lab] スティムスの習熟度:スティムス物々交換'!",
+    "Stims_Proficiency_Stims_Barter acceptPlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter declinePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter completePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter_Handover_0": "任意のスティムのハンドオーバー75"
+}

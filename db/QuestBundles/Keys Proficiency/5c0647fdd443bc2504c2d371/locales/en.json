@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods name": "[Jgr] Key Proficiency: Woods Locksmith",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods note": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods description": "You want containers for keys? What reason do you need containers if you don't have any keys yet? Gotta Find 'Em All!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods startedMessageText": "[Jgr] Quest Accepted: '[Jgr] Key Proficiency: Woods Locksmith'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods failMessageText": "[Jgr] Quest Failed: '[Jgr] Key Proficiency: Woods Locksmith'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods successMessageText": "[Jgr] Quest Completed: '[Jgr] Key Proficiency: Woods Locksmith'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods acceptPlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods declinePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods completePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_0": "Find a ZB-014 key",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_1": "Find a Shturman's stash key",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_2": "Find a Yotota car key"
+}

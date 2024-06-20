@@ -1,0 +1,1065 @@
+{
+  "Keys_FindAny_1_The_Lab": {
+    "QuestName": "[Lab] Key Proficiency: The Lab Burglar",
+    "_id": "Keys_FindAny_1_The_Lab",
+    "acceptPlayerMessage": "Keys_FindAny_1_The_Lab acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_1_The_Lab changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_1_The_Lab completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_1_The_Lab_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c94bbff86f7747ee735c08f",
+            "5efde6b4f5448336730dbd61",
+            "5c1d0f4986f7744bb01837fa",
+            "5c1d0c5f86f7744bb2683cf0",
+            "5c1d0dc586f7744baf2e7b79",
+            "5c1d0efb86f7744baf2e7b7b",
+            "5c1e495a86f7743109743dfb",
+            "5c1d0d6d86f7744bb2683e1f",
+            "5c1f79a086f7746ed066fb8f",
+            "5c1e2a1e86f77431ea0ea84c",
+            "5c1e2d1f86f77431e9280bee"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_1_The_Lab_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "20000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_1_The_Lab_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_15_Tarkov"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_1_The_Lab declinePlayerMessage",
+    "description": "Keys_FindAny_1_The_Lab description",
+    "failMessageText": "Keys_FindAny_1_The_Lab failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_1_The_Lab name",
+    "note": "Keys_FindAny_1_The_Lab note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_1_The_Lab_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_1_The_Lab_619cbf9e0a7c3a1a2731940a_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_1_The_Lab_619cbf9e0a7c3a1a2731940a_5_id",
+              "_tpl": "619cbf9e0a7c3a1a2731940a",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_1_The_Lab_619cbf9e0a7c3a1a2731940a_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_1_The_Lab_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_1_The_Lab_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_1_The_Lab_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_1_The_Lab startedMessageText",
+    "successMessageText": "Keys_FindAny_1_The_Lab successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_5_The_Lab": {
+    "QuestName": "[Lab] Key Proficiency: The Lab Key Master",
+    "_id": "Keys_FindAny_5_The_Lab",
+    "acceptPlayerMessage": "Keys_FindAny_5_The_Lab acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_5_The_Lab changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_5_The_Lab completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5_The_Lab_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c94bbff86f7747ee735c08f",
+            "5efde6b4f5448336730dbd61",
+            "5c1d0f4986f7744bb01837fa",
+            "5c1d0c5f86f7744bb2683cf0",
+            "5c1d0dc586f7744baf2e7b79",
+            "5c1d0efb86f7744baf2e7b7b",
+            "5c1e495a86f7743109743dfb",
+            "5c1d0d6d86f7744bb2683e1f",
+            "5c1f79a086f7746ed066fb8f",
+            "5c1e2a1e86f77431ea0ea84c",
+            "5c1e2d1f86f77431e9280bee"
+          ],
+          "value": "5",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5_The_Lab_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5449016a4bdc2d6f028b456f"
+          ],
+          "value": "500000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5_The_Lab_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_1_The_Lab"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_5_The_Lab declinePlayerMessage",
+    "description": "Keys_FindAny_5_The_Lab description",
+    "failMessageText": "Keys_FindAny_5_The_Lab failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_5_The_Lab name",
+    "note": "Keys_FindAny_5_The_Lab note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_5_The_Lab_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_5_The_Lab_590c60fc86f77412b13fddcf_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5_The_Lab_590c60fc86f77412b13fddcf_5_id",
+              "_tpl": "590c60fc86f77412b13fddcf",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5_The_Lab_590c60fc86f77412b13fddcf_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_5_The_Lab_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5_The_Lab_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5_The_Lab_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_5_The_Lab startedMessageText",
+    "successMessageText": "Keys_FindAny_5_The_Lab successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Keys_FindAny_LabRat_Temporal_Id_The_Lab": {
+    "QuestName": "[Lab] Key Proficiency: The Lab Locksmith",
+    "_id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab",
+    "acceptPlayerMessage": "Keys_FindAny_LabRat_Temporal_Id_The_Lab acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_LabRat_Temporal_Id_The_Lab changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_LabRat_Temporal_Id_The_Lab completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c94bbff86f7747ee735c08f"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5efde6b4f5448336730dbd61"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1d0f4986f7744bb01837fa"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_3",
+          "index": 3,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1d0c5f86f7744bb2683cf0"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_4",
+          "index": 4,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1d0dc586f7744baf2e7b79"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_5",
+          "index": 5,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1d0efb86f7744baf2e7b7b"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_6",
+          "index": 6,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1e495a86f7743109743dfb"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_7",
+          "index": 7,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1d0d6d86f7744bb2683e1f"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_8",
+          "index": 8,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1f79a086f7746ed066fb8f"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_9",
+          "index": 9,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1e2a1e86f77431ea0ea84c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_FindItem_10",
+          "index": 10,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5c1e2d1f86f77431e9280bee"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_Parent_Quest_17",
+          "index": 17,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_5_The_Lab"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_LabRat_Temporal_Id_The_Lab declinePlayerMessage",
+    "description": "Keys_FindAny_LabRat_Temporal_Id_The_Lab description",
+    "failMessageText": "Keys_FindAny_LabRat_Temporal_Id_The_Lab failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_LabRat_Temporal_Id_The_Lab name",
+    "note": "Keys_FindAny_LabRat_Temporal_Id_The_Lab note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_Experience_13",
+          "index": 13,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_5d235bb686f77443f4331278_14",
+          "index": 14,
+          "items": [
+            {
+              "_id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_5d235bb686f77443f4331278_14_id",
+              "_tpl": "5d235bb686f77443f4331278",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_5d235bb686f77443f4331278_14_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_5449016a4bdc2d6f028b456f_15",
+          "index": 15,
+          "items": [
+            {
+              "_id": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_5449016a4bdc2d6f028b456f_15_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_LabRat_Temporal_Id_The_Lab_5449016a4bdc2d6f028b456f_15_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_LabRat_Temporal_Id_The_Lab startedMessageText",
+    "successMessageText": "Keys_FindAny_LabRat_Temporal_Id_The_Lab successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "TerraGroupLabsAccessKeycardQuest_Contractor": {
+    "QuestName": "[Lab] TerraGroup Contractor Labs Access",
+    "_id": "TerraGroupLabsAccessKeycardQuest_Contractor",
+    "acceptPlayerMessage": "TerraGroupLabsAccessKeycardQuest_Contractor acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "TerraGroupLabsAccessKeycardQuest_Contractor changeQuestMessageText",
+    "completePlayerMessage": "TerraGroupLabsAccessKeycardQuest_Contractor completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_Handover_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5c94bbff86f7747ee735c08f"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5d80cb8786f774405611c7d9",
+            "5913651986f774432f15d132",
+            "59148f8286f7741b951ea113",
+            "5a0f006986f7741ffd2fe484",
+            "5a0ec70e86f7742c0b518fba",
+            "5a0eeb1a86f774688b70aa5c",
+            "5a0eeb8e86f77461257ed71a",
+            "5a13ee1986f774794d4c14cd",
+            "5a0eebed86f77461230ddb3d",
+            "59136f6f86f774447a1ed173",
+            "5a0ee62286f774369454a7ac",
+            "5a0ee72c86f77436955d3435",
+            "5a0eedb386f77403506300be",
+            "5a0f045e86f7745b0f0d0e42",
+            "5a0f075686f7745bcc42ee12",
+            "5a0ea69f86f7741cd5406619"
+          ],
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_1_The_Lab"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "TerraGroupLabsAccessKeycardQuest_Contractor declinePlayerMessage",
+    "description": "TerraGroupLabsAccessKeycardQuest_Contractor description",
+    "failMessageText": "TerraGroupLabsAccessKeycardQuest_Contractor failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "TerraGroupLabsAccessKeycardQuest_Contractor name",
+    "note": "TerraGroupLabsAccessKeycardQuest_Contractor note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "25000"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_5c94bbff86f7747ee735c08f_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Contractor_5c94bbff86f7747ee735c08f_5_id",
+              "_tpl": "5c94bbff86f7747ee735c08f",
+              "upd": {
+                "StackObjectsCount": 3
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Contractor_5c94bbff86f7747ee735c08f_5_id",
+          "type": "Item",
+          "value": "3"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Contractor_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 250000
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Contractor_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "250000"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Contractor_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1250
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Contractor_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "1250"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Contractor_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Contractor_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Contractor_LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Contractor_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Contractor",
+              "_tpl": "5c94bbff86f7747ee735c08f",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Contractor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "TerraGroupLabsAccessKeycardQuest_Contractor startedMessageText",
+    "successMessageText": "TerraGroupLabsAccessKeycardQuest_Contractor successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "TerraGroupLabsAccessKeycardQuest_Supervisor": {
+    "QuestName": "[Lab] TerraGroup Supervisor Labs Access",
+    "_id": "TerraGroupLabsAccessKeycardQuest_Supervisor",
+    "acceptPlayerMessage": "TerraGroupLabsAccessKeycardQuest_Supervisor acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "TerraGroupLabsAccessKeycardQuest_Supervisor changeQuestMessageText",
+    "completePlayerMessage": "TerraGroupLabsAccessKeycardQuest_Supervisor completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Handover_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": true,
+          "parentId": "",
+          "target": [
+            "5c94bbff86f7747ee735c08f"
+          ],
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Handover_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5d80cb8786f774405611c7d9",
+            "5913651986f774432f15d132",
+            "59148f8286f7741b951ea113",
+            "5a0f006986f7741ffd2fe484",
+            "5a0ec70e86f7742c0b518fba",
+            "5a0eeb1a86f774688b70aa5c",
+            "5a0eeb8e86f77461257ed71a",
+            "5a13ee1986f774794d4c14cd",
+            "5a0eebed86f77461230ddb3d",
+            "59136f6f86f774447a1ed173",
+            "5a0ee62286f774369454a7ac",
+            "5a0ee72c86f77436955d3435",
+            "5a0eedb386f77403506300be",
+            "5a0f045e86f7745b0f0d0e42",
+            "5a0f075686f7745bcc42ee12",
+            "5a0ea69f86f7741cd5406619"
+          ],
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Elim_2_subcondition_0",
+                "savageRole": [
+                  "pmcBot"
+                ],
+                "target": "Savage",
+                "value": "1"
+              }
+            ],
+            "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Elim_2_counter_2"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Elim_2",
+          "index": 2,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Parent_Quest_19",
+          "index": 19,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Contractor"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "TerraGroupLabsAccessKeycardQuest_Supervisor declinePlayerMessage",
+    "description": "TerraGroupLabsAccessKeycardQuest_Supervisor description",
+    "failMessageText": "TerraGroupLabsAccessKeycardQuest_Supervisor failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "TerraGroupLabsAccessKeycardQuest_Supervisor name",
+    "note": "TerraGroupLabsAccessKeycardQuest_Supervisor note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_Experience_5",
+          "index": 5,
+          "type": "Experience",
+          "value": "25000"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_5c94bbff86f7747ee735c08f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Supervisor_5c94bbff86f7747ee735c08f_6_id",
+              "_tpl": "5c94bbff86f7747ee735c08f",
+              "upd": {
+                "StackObjectsCount": 10
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Supervisor_5c94bbff86f7747ee735c08f_6_id",
+          "type": "Item",
+          "value": "10"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_5449016a4bdc2d6f028b456f_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Supervisor_5449016a4bdc2d6f028b456f_7_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 250000
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Supervisor_5449016a4bdc2d6f028b456f_7_id",
+          "type": "Item",
+          "value": "250000"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_5696686a4bdc2da3298b456a_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Supervisor_5696686a4bdc2da3298b456a_8_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1250
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Supervisor_5696686a4bdc2da3298b456a_8_id",
+          "type": "Item",
+          "value": "1250"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_569668774bdc2da2298b4568_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "TerraGroupLabsAccessKeycardQuest_Supervisor_569668774bdc2da2298b4568_9_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "TerraGroupLabsAccessKeycardQuest_Supervisor_569668774bdc2da2298b4568_9_id",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Supervisor_10",
+          "index": 10,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Supervisor",
+              "_tpl": "5c94bbff86f7747ee735c08f",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c94bbff86f7747ee735c08f_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5efde6b4f5448336730dbd61_Supervisor_11",
+          "index": 11,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5efde6b4f5448336730dbd61_Supervisor",
+              "_tpl": "5efde6b4f5448336730dbd61",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5efde6b4f5448336730dbd61_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c1d0f4986f7744bb01837fa_Supervisor_12",
+          "index": 12,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c1d0f4986f7744bb01837fa_Supervisor",
+              "_tpl": "5c1d0f4986f7744bb01837fa",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c1d0f4986f7744bb01837fa_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c1d0c5f86f7744bb2683cf0_Supervisor_13",
+          "index": 13,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c1d0c5f86f7744bb2683cf0_Supervisor",
+              "_tpl": "5c1d0c5f86f7744bb2683cf0",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c1d0c5f86f7744bb2683cf0_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c1d0dc586f7744baf2e7b79_Supervisor_14",
+          "index": 14,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c1d0dc586f7744baf2e7b79_Supervisor",
+              "_tpl": "5c1d0dc586f7744baf2e7b79",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c1d0dc586f7744baf2e7b79_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c1d0efb86f7744baf2e7b7b_Supervisor_15",
+          "index": 15,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c1d0efb86f7744baf2e7b7b_Supervisor",
+              "_tpl": "5c1d0efb86f7744baf2e7b7b",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c1d0efb86f7744baf2e7b7b_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c1e495a86f7743109743dfb_Supervisor_16",
+          "index": 16,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c1e495a86f7743109743dfb_Supervisor",
+              "_tpl": "5c1e495a86f7743109743dfb",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c1e495a86f7743109743dfb_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "TerraGroupLabsAccessKeycardQuest_Supervisor_LabRat_Temporal_Id_5c1d0d6d86f7744bb2683e1f_Supervisor_17",
+          "index": 17,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c1d0d6d86f7744bb2683e1f_Supervisor",
+              "_tpl": "5c1d0d6d86f7744bb2683e1f",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c1d0d6d86f7744bb2683e1f_Supervisor",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "TerraGroupLabsAccessKeycardQuest_Supervisor startedMessageText",
+    "successMessageText": "TerraGroupLabsAccessKeycardQuest_Supervisor successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory name": "[Mec] Key Proficiency: Factory Locksmith",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory note": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory description": "You want containers for keys? What reason do you need containers if you don't have any keys yet? Gotta Find 'Em All!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory startedMessageText": "[Mec] Quest Accepted: '[Mec] Key Proficiency: Factory Locksmith'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory failMessageText": "[Mec] Quest Failed: '[Mec] Key Proficiency: Factory Locksmith'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory successMessageText": "[Mec] Quest Completed: '[Mec] Key Proficiency: Factory Locksmith'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory acceptPlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory declinePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory completePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_0": "Find a Pumping station front door key",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_1": "Find a Pumping station back door key",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_2": "Find a Factory emergency exit key"
+}

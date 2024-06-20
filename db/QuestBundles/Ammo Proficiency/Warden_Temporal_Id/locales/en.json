@@ -1,0 +1,12 @@
+{
+    "Ammo_Proficiency_Introduction name": "[War] Ammo Proficiency: Introduction",
+    "Ammo_Proficiency_Introduction note": "",
+    "Ammo_Proficiency_Introduction description": "Psst! You look like a guy who could use some ammo, am I right? But nobody wants to sell you any, eh? I can help you with that, but my recommendation will not come cheap. Are you interested?",
+    "Ammo_Proficiency_Introduction startedMessageText": "[War] Quest Accepted: '[War] Ammo Proficiency: Introduction'!",
+    "Ammo_Proficiency_Introduction failMessageText": "[War] Quest Failed: '[War] Ammo Proficiency: Introduction'!",
+    "Ammo_Proficiency_Introduction successMessageText": "[War] Quest Completed: '[War] Ammo Proficiency: Introduction'!",
+    "Ammo_Proficiency_Introduction acceptPlayerMessage": "",
+    "Ammo_Proficiency_Introduction declinePlayerMessage": "",
+    "Ammo_Proficiency_Introduction completePlayerMessage": "",
+    "Ammo_Proficiency_Introduction_Handover_0": "Handover any ammunition."
+}

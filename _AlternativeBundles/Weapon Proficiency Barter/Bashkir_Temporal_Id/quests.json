@@ -1,0 +1,2031 @@
+{
+    "Weapon_Proficiency_Marksman_Barter_Rookie": {
+        "_id": "Weapon_Proficiency_Marksman_Barter_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc22d7c187fea44d52eda44",
+                            "6176aca650224f204c1da3fb",
+                            "5a367e5dc4a282000e49738f",
+                            "57838ad32459774a17445cd2",
+                            "57c44b372459772d2b39b8ce",
+                            "5df8ce05b11454561e39243b",
+                            "5f2a9575926fd9352339381f",
+                            "5aafa857e5b5b00018480968",
+                            "5c46fbd72e2216398b5a8c9c",
+                            "5bfea6e90db834001b7347f3",
+                            "5df24cf80dee1b22f862e9bc",
+                            "55801eed4bdc2d89578b4588",
+                            "588892092459774ac91d4b11",
+                            "5de652c31b7e3716273428be",
+                            "5ae08f0a5acfc408fb1398a1",
+                            "587e02ff24597743df3deaeb",
+                            "5c501a4d2e221602b412b540",
+                            "5bfd297f0db834001a669119",
+                            "574d967124597745970e7c94"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Marksman_Barter_Rookie description",
+        "failMessageText": "Weapon_Proficiency_Marksman_Barter_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Marksman_Barter_Rookie name",
+        "note": "Weapon_Proficiency_Marksman_Barter_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4_id",
+                            "_tpl": "567143bf4bdc2d1a0f8b4567",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Rookie_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "12500",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Rookie_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 12500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Rookie_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Rookie_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Rookie_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Rookie_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter",
+                            "_tpl": "5de652c31b7e3716273428be",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_mod_magazine",
+                            "_tpl": "5de653abf76fdc1ce94a5a2a",
+                            "parentId": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_mod_stock",
+                            "_tpl": "5de655be4a9f347bc92edb88",
+                            "parentId": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_mod_barrel",
+                            "_tpl": "5de65547883dde217541644b",
+                            "parentId": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5de6556a205ddc616a6bc4f7",
+                            "parentId": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter_mod_mount",
+                            "_tpl": "5de6558e9f98ac2bc65950fc",
+                            "parentId": "Bashkir_Temporal_Id_5de652c31b7e3716273428be_Barter",
+                            "slotId": "mod_mount"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter",
+                            "_tpl": "5ae08f0a5acfc408fb1398a1",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_magazine",
+                            "_tpl": "5ae0973a5acfc4001562206c",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_stock",
+                            "_tpl": "5bfd37c80db834001d23e842",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_barrel",
+                            "_tpl": "5bfd4cbe0db834001b73449f",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_barrel_mod_sight_front",
+                            "_tpl": "5ae099875acfc4001714e593",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_barrel",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_barrel_mod_sight_rear",
+                            "_tpl": "5bfd4c980db834001b73449d",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_barrel",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_mount",
+                            "_tpl": "5b3f7bf05acfc433000ecf6b",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_mount_mod_mount",
+                            "_tpl": "5b3f7c005acfc4704b4a1de8",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_mount",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_mount_mod_mount_mod_scope",
+                            "_tpl": "5b3f7c1c5acfc40dc5296b1d",
+                            "parentId": "Bashkir_Temporal_Id_5ae08f0a5acfc408fb1398a1_Barter_mod_mount_mod_mount",
+                            "slotId": "mod_scope"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter",
+                            "_tpl": "587e02ff24597743df3deaeb",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter_mod_stock",
+                            "_tpl": "587e0531245977466077a0f7",
+                            "parentId": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter_mod_sight_rear",
+                            "_tpl": "574db213245977459a2f3f5d",
+                            "parentId": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter_mod_magazine",
+                            "_tpl": "587df3a12459772c28142567",
+                            "parentId": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter_mod_mount",
+                            "_tpl": "587e08ee245977446b4410cf",
+                            "parentId": "Bashkir_Temporal_Id_587e02ff24597743df3deaeb_Barter",
+                            "slotId": "mod_mount"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                            "_tpl": "5c501a4d2e221602b412b540",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter_mod_gas_block",
+                            "_tpl": "5c5039be2e221602b177c9ff",
+                            "parentId": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter_mod_reciever",
+                            "_tpl": "5c503d0a2e221602b542b7ef",
+                            "parentId": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter_mod_sight_rear",
+                            "_tpl": "5c503b1c2e221602b21d6e9d",
+                            "parentId": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter_mod_stock",
+                            "_tpl": "5c503af12e221602b177ca02",
+                            "parentId": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter_mod_magazine",
+                            "_tpl": "5c503ac82e221602b21d6e9a",
+                            "parentId": "Bashkir_Temporal_Id_5c501a4d2e221602b412b540_Barter",
+                            "slotId": "mod_magazine"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5de653abf76fdc1ce94a5a2a_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Bashkir_Temporal_Id_5de653abf76fdc1ce94a5a2a_Barter_12",
+                    "type": "AssortmentUnlock",
+                    "index": 12,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5de653abf76fdc1ce94a5a2a_Barter",
+                            "_tpl": "5de653abf76fdc1ce94a5a2a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c503ac82e221602b21d6e9a_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Rookie_Bashkir_Temporal_Id_5c503ac82e221602b21d6e9a_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c503ac82e221602b21d6e9a_Barter",
+                            "_tpl": "5c503ac82e221602b21d6e9a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Marksman_Barter_Rookie startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Marksman_Barter_Rookie successMessageText",
+        "templateId": "Weapon_Proficiency_Marksman_Barter_Rookie",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Weapon Proficiency: Marksman Rifles Barter - Rookie",
+        "acceptPlayerMessage": "Weapon_Proficiency_Marksman_Barter_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Marksman_Barter_Rookie changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Marksman_Barter_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Marksman_Barter_Seasoned": {
+        "_id": "Weapon_Proficiency_Marksman_Barter_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Parent_Quest_17",
+                        "index": 17,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc22d7c187fea44d52eda44",
+                            "6176aca650224f204c1da3fb",
+                            "5a367e5dc4a282000e49738f",
+                            "57838ad32459774a17445cd2",
+                            "57c44b372459772d2b39b8ce",
+                            "5df8ce05b11454561e39243b",
+                            "5f2a9575926fd9352339381f",
+                            "5aafa857e5b5b00018480968",
+                            "5c46fbd72e2216398b5a8c9c",
+                            "5bfea6e90db834001b7347f3",
+                            "5df24cf80dee1b22f862e9bc",
+                            "55801eed4bdc2d89578b4588",
+                            "588892092459774ac91d4b11"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Marksman_Barter_Seasoned description",
+        "failMessageText": "Weapon_Proficiency_Marksman_Barter_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Marksman_Barter_Seasoned name",
+        "note": "Weapon_Proficiency_Marksman_Barter_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2500",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Seasoned_5aafbde786f774389d0cbc0f_4_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_5aafbde786f774389d0cbc0f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Seasoned_5aafbde786f774389d0cbc0f_4_id",
+                            "_tpl": "5aafbde786f774389d0cbc0f",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Seasoned_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "31250",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Seasoned_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 31250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Seasoned_5696686a4bdc2da3298b456a_6_id",
+                    "value": "250",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Seasoned_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Seasoned_569668774bdc2da2298b4568_7_id",
+                    "value": "250",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Seasoned_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter",
+                            "_tpl": "5bfea6e90db834001b7347f3",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_magazine",
+                            "_tpl": "5bfea7ad0db834001c38f1ee",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_stock",
+                            "_tpl": "5bfeb32b0db834001a6694d9",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_barrel",
+                            "_tpl": "5bfebc320db8340019668d79",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5a34fd2bc4a282329a73b4c5",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_barrel_mod_muzzle_mod_muzzle",
+                            "_tpl": "5a34fe59c4a282000b1521a2",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_barrel_mod_muzzle",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_mount",
+                            "_tpl": "5bfebc5e0db834001a6694e5",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_mount_mod_scope",
+                            "_tpl": "5a37cb10c4a282329a73b4e7",
+                            "parentId": "Bashkir_Temporal_Id_5bfea6e90db834001b7347f3_Barter_mod_mount",
+                            "slotId": "mod_scope"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter",
+                            "_tpl": "5df24cf80dee1b22f862e9bc",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_magazine",
+                            "_tpl": "5df25b6c0b92095fd441e4cf",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_barrel",
+                            "_tpl": "5df256570dee1b22f862e9c4",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5df35e7f2a78646d96665dd4",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock",
+                            "_tpl": "5df35e59c41b2312ea3334d5",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard",
+                            "_tpl": "5df25d3bfd6b4e6e2276dc9a",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard_mod_mount_000",
+                            "_tpl": "5df35eb2b11454561e3923e2",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard",
+                            "slotId": "mod_mount_000"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard_mod_mount_001",
+                            "_tpl": "5df35eb2b11454561e3923e2",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard_mod_mount_002",
+                            "_tpl": "5df35ea9c41b2312ea3334d8",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard",
+                            "slotId": "mod_mount_002"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard_mod_mount_003",
+                            "_tpl": "5df35eb2b11454561e3923e2",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard",
+                            "slotId": "mod_mount_003"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard_mod_foregrip",
+                            "_tpl": "5df36948bb49d91fb446d5ad",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_handguard",
+                            "slotId": "mod_foregrip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_pistol_grip",
+                            "_tpl": "5df38a5fb74cd90030650cb6",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock_mod_stock_axis",
+                            "_tpl": "5df35ddddfc58d14537c2036",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_stock",
+                            "slotId": "mod_stock_axis"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter_mod_mount",
+                            "_tpl": "5df35e970b92095fd441e4d2",
+                            "parentId": "Bashkir_Temporal_Id_5df24cf80dee1b22f862e9bc_Barter",
+                            "slotId": "mod_mount"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                            "_tpl": "55801eed4bdc2d89578b4588",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter_mod_magazine",
+                            "_tpl": "559ba5b34bdc2d1f1a8b4582",
+                            "parentId": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter_mod_sight_rear",
+                            "_tpl": "56083e1b4bdc2dc8488b4572",
+                            "parentId": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter_mod_tactical",
+                            "_tpl": "56083eab4bdc2d26448b456a",
+                            "parentId": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                            "slotId": "mod_tactical"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter_mod_muzzle",
+                            "_tpl": "560e620e4bdc2d724b8b456b",
+                            "parentId": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter_mod_bipod",
+                            "_tpl": "56ea8222d2720b69698b4567",
+                            "parentId": "Bashkir_Temporal_Id_55801eed4bdc2d89578b4588_Barter",
+                            "slotId": "mod_bipod"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter",
+                            "_tpl": "588892092459774ac91d4b11",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_magazine",
+                            "_tpl": "5888988e24597752fe43a6fa",
+                            "parentId": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_barrel",
+                            "_tpl": "5888945a2459774bf43ba385",
+                            "parentId": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "58889c7324597754281f9439",
+                            "parentId": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_barrel_mod_bipod",
+                            "_tpl": "5888961624597754281f93f3",
+                            "parentId": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_barrel",
+                            "slotId": "mod_bipod"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_pistol_grip",
+                            "_tpl": "57c55f172459772d27602381",
+                            "parentId": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter_mod_stock",
+                            "_tpl": "58889d0c2459775bc215d981",
+                            "parentId": "Bashkir_Temporal_Id_588892092459774ac91d4b11_Barter",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5888988e24597752fe43a6fa_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_5888988e24597752fe43a6fa_Barter_12",
+                    "type": "AssortmentUnlock",
+                    "index": 12,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5888988e24597752fe43a6fa_Barter",
+                            "_tpl": "5888988e24597752fe43a6fa",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ce69cbad7f00c00b61c5098_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_5ce69cbad7f00c00b61c5098_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ce69cbad7f00c00b61c5098_Barter",
+                            "_tpl": "5ce69cbad7f00c00b61c5098",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5df25b6c0b92095fd441e4cf_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_5df25b6c0b92095fd441e4cf_Barter_14",
+                    "type": "AssortmentUnlock",
+                    "index": 14,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df25b6c0b92095fd441e4cf_Barter",
+                            "_tpl": "5df25b6c0b92095fd441e4cf",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_559ba5b34bdc2d1f1a8b4582_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Seasoned_Bashkir_Temporal_Id_559ba5b34bdc2d1f1a8b4582_Barter_15",
+                    "type": "AssortmentUnlock",
+                    "index": 15,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_559ba5b34bdc2d1f1a8b4582_Barter",
+                            "_tpl": "559ba5b34bdc2d1f1a8b4582",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Marksman_Barter_Seasoned startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Marksman_Barter_Seasoned successMessageText",
+        "templateId": "Weapon_Proficiency_Marksman_Barter_Seasoned",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Weapon Proficiency: Marksman Rifles Barter - Seasoned",
+        "acceptPlayerMessage": "Weapon_Proficiency_Marksman_Barter_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Marksman_Barter_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Marksman_Barter_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Marksman_Barter_Veteran": {
+        "_id": "Weapon_Proficiency_Marksman_Barter_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Parent_Quest_22",
+                        "index": 22,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc22d7c187fea44d52eda44",
+                            "6176aca650224f204c1da3fb",
+                            "5a367e5dc4a282000e49738f",
+                            "57838ad32459774a17445cd2",
+                            "57c44b372459772d2b39b8ce",
+                            "5df8ce05b11454561e39243b",
+                            "5f2a9575926fd9352339381f",
+                            "5aafa857e5b5b00018480968",
+                            "5c46fbd72e2216398b5a8c9c"
+                        ],
+                        "value": "12",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Parent_Quest_1",
+                        "index": 1,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Parent_Quest_2",
+                        "index": 2,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Parent_Quest_3",
+                        "index": 3,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Parent_Quest_5",
+                        "index": 5,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Marksman_Barter_Veteran description",
+        "failMessageText": "Weapon_Proficiency_Marksman_Barter_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Marksman_Barter_Veteran name",
+        "note": "Weapon_Proficiency_Marksman_Barter_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5000",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Experience_8",
+                    "type": "Experience",
+                    "index": 8
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Veteran_59fb023c86f7746d0d4b423c_9_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_59fb023c86f7746d0d4b423c_9",
+                    "type": "Item",
+                    "index": 9,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Veteran_59fb023c86f7746d0d4b423c_9_id",
+                            "_tpl": "59fb023c86f7746d0d4b423c",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Veteran_5449016a4bdc2d6f028b456f_10_id",
+                    "value": "62500",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_5449016a4bdc2d6f028b456f_10",
+                    "type": "Item",
+                    "index": 10,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Veteran_5449016a4bdc2d6f028b456f_10_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 62500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Veteran_5696686a4bdc2da3298b456a_11_id",
+                    "value": "500",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_5696686a4bdc2da3298b456a_11",
+                    "type": "Item",
+                    "index": 11,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Veteran_5696686a4bdc2da3298b456a_11_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Veteran_569668774bdc2da2298b4568_12_id",
+                    "value": "500",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_569668774bdc2da2298b4568_12",
+                    "type": "Item",
+                    "index": 12,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Veteran_569668774bdc2da2298b4568_12_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                            "_tpl": "5df8ce05b11454561e39243b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_pistol_grip",
+                            "_tpl": "55d4b9964bdc2d1d4e8b456e",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_magazine",
+                            "_tpl": "5df8f541c41b2312ea3335e3",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_stock",
+                            "_tpl": "5649be884bdc2d79388b4577",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_stock_mod_stock_000",
+                            "_tpl": "5ae30c9a5acfc408fb139a03",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_stock",
+                            "slotId": "mod_stock_000"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever",
+                            "_tpl": "5df8e4080b92095fd441e594",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_barrel",
+                            "_tpl": "5df917564a9f347bc92edca3",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_barrel_mod_muzzle",
+                            "_tpl": "5dfa3cd1b33c0951220c079b",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_barrel_mod_gas_block",
+                            "_tpl": "5dfa3d45dfc58d14537c20b0",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_handguard",
+                            "_tpl": "5df916dfbb49d91fb446d6b9",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_handguard_mod_sight_front",
+                            "_tpl": "5dfa3d950dee1b22f862eae0",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_handguard",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever_mod_sight_rear",
+                            "_tpl": "5dfa3d7ac41b2312ea33362a",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_reciever",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter_mod_charge",
+                            "_tpl": "5df8e053bb49d91fb446d6a6",
+                            "parentId": "Bashkir_Temporal_Id_5df8ce05b11454561e39243b_Barter",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_14",
+                    "type": "AssortmentUnlock",
+                    "index": 14,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter",
+                            "_tpl": "5f2a9575926fd9352339381f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_magazine",
+                            "_tpl": "5b099ac65acfc400186331e1",
+                            "parentId": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_barrel",
+                            "_tpl": "5f2aa46b878ef416f538b567",
+                            "parentId": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5f2aa4464b50c14bcf07acdb",
+                            "parentId": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_handguard",
+                            "_tpl": "5f2aa47a200e2c0ee46efa71",
+                            "parentId": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_handguard_mod_mount_000",
+                            "_tpl": "5f2aa493cd375f14e15eea72",
+                            "parentId": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_handguard",
+                            "slotId": "mod_mount_000"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter_mod_mount",
+                            "_tpl": "5f2aa49f9b44de6b1b4e68d4",
+                            "parentId": "Bashkir_Temporal_Id_5f2a9575926fd9352339381f_Barter",
+                            "slotId": "mod_mount"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_15",
+                    "type": "AssortmentUnlock",
+                    "index": 15,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter",
+                            "_tpl": "5aafa857e5b5b00018480968",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_magazine",
+                            "_tpl": "5aaf8a0be5b5b00015693243",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_stock",
+                            "_tpl": "5aaf8e43e5b5b00015693246",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_stock_mod_mount",
+                            "_tpl": "5ab24ef9e5b5b00fe93c9209",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_stock",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_barrel",
+                            "_tpl": "5aaf9d53e5b5b00015042a52",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5aafa1c2e5b5b00015042a56",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_barrel_mod_muzzle_mod_sight_front",
+                            "_tpl": "5aafa49ae5b5b00015042a58",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_barrel_mod_muzzle",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter_mod_sight_rear",
+                            "_tpl": "5abcbb20d8ce87001773e258",
+                            "parentId": "Bashkir_Temporal_Id_5aafa857e5b5b00018480968_Barter",
+                            "slotId": "mod_sight_rear"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_16",
+                    "type": "AssortmentUnlock",
+                    "index": 16,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "_tpl": "5c46fbd72e2216398b5a8c9c",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_pistol_grip",
+                            "_tpl": "5c471be12e221602b66cd9ac",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_magazine",
+                            "_tpl": "5c471c442e221602b542a6f8",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_stock",
+                            "_tpl": "5c471b5d2e221602b21d4e14",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel",
+                            "_tpl": "5c471cb32e221602b177afaa",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5c471bfc2e221602b21d4e17",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel_mod_muzzle_mod_sight_front",
+                            "_tpl": "5c471ba12e221602b3137d76",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel_mod_muzzle",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel_mod_gas_block",
+                            "_tpl": "5c471c842e221615214259b5",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_barrel",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_mount_001",
+                            "_tpl": "5c471c2d2e22164bef5d077f",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_mount_001_mod_handguard",
+                            "_tpl": "5c471c6c2e221602b66cd9ae",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_mount_001",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_mount_001_mod_sight_rear",
+                            "_tpl": "5c471b7e2e2216152006e46c",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_mount_001",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter_mod_reciever",
+                            "_tpl": "5c471bd12e221602b4129c3a",
+                            "parentId": "Bashkir_Temporal_Id_5c46fbd72e2216398b5a8c9c_Barter",
+                            "slotId": "mod_reciever"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5df8f535bb49d91fb446d6b0_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5df8f535bb49d91fb446d6b0_Barter_17",
+                    "type": "AssortmentUnlock",
+                    "index": 17,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8f535bb49d91fb446d6b0_Barter",
+                            "_tpl": "5df8f535bb49d91fb446d6b0",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5b7bef1e5acfc43d82528402_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5b7bef1e5acfc43d82528402_Barter_18",
+                    "type": "AssortmentUnlock",
+                    "index": 18,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5b7bef1e5acfc43d82528402_Barter",
+                            "_tpl": "5b7bef1e5acfc43d82528402",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5aaf8a0be5b5b00015693243_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5aaf8a0be5b5b00015693243_Barter_19",
+                    "type": "AssortmentUnlock",
+                    "index": 19,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5aaf8a0be5b5b00015693243_Barter",
+                            "_tpl": "5aaf8a0be5b5b00015693243",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c471c442e221602b542a6f8_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Veteran_Bashkir_Temporal_Id_5c471c442e221602b542a6f8_Barter_20",
+                    "type": "AssortmentUnlock",
+                    "index": 20,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c471c442e221602b542a6f8_Barter",
+                            "_tpl": "5c471c442e221602b542a6f8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Marksman_Barter_Veteran startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Marksman_Barter_Veteran successMessageText",
+        "templateId": "Weapon_Proficiency_Marksman_Barter_Veteran",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Weapon Proficiency: Marksman Rifles Barter - Veteran",
+        "acceptPlayerMessage": "Weapon_Proficiency_Marksman_Barter_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Marksman_Barter_Veteran changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Marksman_Barter_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Marksman_Barter_Elite": {
+        "_id": "Weapon_Proficiency_Marksman_Barter_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_27",
+                        "index": 27,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc22d7c187fea44d52eda44",
+                            "6176aca650224f204c1da3fb",
+                            "5a367e5dc4a282000e49738f",
+                            "57838ad32459774a17445cd2",
+                            "57c44b372459772d2b39b8ce"
+                        ],
+                        "value": "12",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_1",
+                        "index": 1,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_2",
+                        "index": 2,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_3",
+                        "index": 3,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_5",
+                        "index": 5,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_7",
+                        "index": 7,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_8",
+                        "index": 8,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Marksman_Barter_Elite_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Marksman_Barter_Elite description",
+        "failMessageText": "Weapon_Proficiency_Marksman_Barter_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Marksman_Barter_Elite name",
+        "note": "Weapon_Proficiency_Marksman_Barter_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "10000",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Experience_13",
+                    "type": "Experience",
+                    "index": 13
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Elite_5b6d9ce188a4501afc1b2b25_14_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_5b6d9ce188a4501afc1b2b25_14",
+                    "type": "Item",
+                    "index": 14,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Elite_5b6d9ce188a4501afc1b2b25_14_id",
+                            "_tpl": "5b6d9ce188a4501afc1b2b25",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Elite_5449016a4bdc2d6f028b456f_15_id",
+                    "value": "125000",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_5449016a4bdc2d6f028b456f_15",
+                    "type": "Item",
+                    "index": 15,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Elite_5449016a4bdc2d6f028b456f_15_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 125000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Elite_5696686a4bdc2da3298b456a_16_id",
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_5696686a4bdc2da3298b456a_16",
+                    "type": "Item",
+                    "index": 16,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Elite_5696686a4bdc2da3298b456a_16_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Marksman_Barter_Elite_569668774bdc2da2298b4568_17_id",
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_569668774bdc2da2298b4568_17",
+                    "type": "Item",
+                    "index": 17,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Marksman_Barter_Elite_569668774bdc2da2298b4568_17_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_18",
+                    "type": "AssortmentUnlock",
+                    "index": 18,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter",
+                            "_tpl": "5fc22d7c187fea44d52eda44",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_pistol_grip",
+                            "_tpl": "57c55efc2459772d2c6271e7",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_magazine",
+                            "_tpl": "5fc23426900b1d5091531e15",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_stock_001",
+                            "_tpl": "5649be884bdc2d79388b4577",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter",
+                            "slotId": "mod_stock_001"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_stock_001_mod_stock_000",
+                            "_tpl": "5fc2369685fd526b824a5713",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_stock_001",
+                            "slotId": "mod_stock_000"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever",
+                            "_tpl": "5fc278107283c4046c581489",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever_mod_barrel",
+                            "_tpl": "5fc23678ab884124df0cd590",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever_mod_barrel_mod_muzzle",
+                            "_tpl": "5fc23636016cce60e8341b05",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever_mod_barrel_mod_gas_block",
+                            "_tpl": "5fc2360f900b1d5091531e19",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever_mod_handguard",
+                            "_tpl": "5fc235db2770a0045c59c683",
+                            "parentId": "Bashkir_Temporal_Id_5fc22d7c187fea44d52eda44_Barter_mod_reciever",
+                            "slotId": "mod_handguard"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_19",
+                    "type": "AssortmentUnlock",
+                    "index": 19,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                            "_tpl": "6176aca650224f204c1da3fb",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_pistol_grip",
+                            "_tpl": "6193dcd0f8ee7e52e4210a28",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_magazine",
+                            "_tpl": "617131a4568c120fdd29482d",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_stock",
+                            "_tpl": "617153016c780c1e710c9a2f",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_stock_mod_stock_000",
+                            "_tpl": "617154aa1cb55961fa0fdb3b",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_stock",
+                            "slotId": "mod_stock_000"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever",
+                            "_tpl": "61713a8fd92c473c770214a4",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_scope",
+                            "_tpl": "6171407e50224f204c1da3c5",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever",
+                            "slotId": "mod_scope"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_scope_mod_scope_000",
+                            "_tpl": "617151c1d92c473c770214ab",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_scope",
+                            "slotId": "mod_scope_000"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_barrel",
+                            "_tpl": "61702be9faa1272e431522c3",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_barrel_mod_muzzle",
+                            "_tpl": "61713308d92c473c770214a0",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_barrel_mod_gas_block",
+                            "_tpl": "61702f1b67085e45ef140b26",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_handguard",
+                            "_tpl": "61712eae6c780c1e710c9a1d",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever_mod_sight_rear",
+                            "_tpl": "5bb20e49d4351e3bac1212de",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_reciever",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter_mod_charge",
+                            "_tpl": "61702d8a67085e45ef140b24",
+                            "parentId": "Bashkir_Temporal_Id_6176aca650224f204c1da3fb_Barter",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_20",
+                    "type": "AssortmentUnlock",
+                    "index": 20,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                            "_tpl": "5a367e5dc4a282000e49738f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_pistol_grip",
+                            "_tpl": "5a339805c4a2826c6e06d73d",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_magazine",
+                            "_tpl": "5a3501acc4a282000d72293a",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_stock",
+                            "_tpl": "5a33ca0fc4a282000d72292f",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_stock_mod_stock",
+                            "_tpl": "5a33cae9c4a28232980eb086",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_handguard",
+                            "_tpl": "5a329052c4a28200741e22d3",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_barrel",
+                            "_tpl": "5a34fae7c4a2826c6e06d760",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5a34fd2bc4a282329a73b4c5",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_barrel_mod_gas_block",
+                            "_tpl": "5a34fbadc4a28200741e230a",
+                            "parentId": "Bashkir_Temporal_Id_5a367e5dc4a282000e49738f_Barter_mod_barrel",
+                            "slotId": "mod_gas_block"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_21",
+                    "type": "AssortmentUnlock",
+                    "index": 21,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter",
+                            "_tpl": "57838ad32459774a17445cd2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_mod_magazine",
+                            "_tpl": "57838f0b2459774a256959b2",
+                            "parentId": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_mod_muzzle",
+                            "_tpl": "57838c962459774a1651ec63",
+                            "parentId": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_mod_muzzle_mod_sight_rear",
+                            "_tpl": "57838e1b2459774a256959b1",
+                            "parentId": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_mod_muzzle",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_mod_reciever",
+                            "_tpl": "578395402459774a256959b5",
+                            "parentId": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter_mod_stock",
+                            "_tpl": "578395e82459774a0e553c7b",
+                            "parentId": "Bashkir_Temporal_Id_57838ad32459774a17445cd2_Barter",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5a3501acc4a282000d72293a_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_5a3501acc4a282000d72293a_Barter_22",
+                    "type": "AssortmentUnlock",
+                    "index": 22,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5a3501acc4a282000d72293a_Barter",
+                            "_tpl": "5a3501acc4a282000d72293a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5fc23426900b1d5091531e15_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_5fc23426900b1d5091531e15_Barter_23",
+                    "type": "AssortmentUnlock",
+                    "index": 23,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc23426900b1d5091531e15_Barter",
+                            "_tpl": "5fc23426900b1d5091531e15",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_57838f0b2459774a256959b2_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_57838f0b2459774a256959b2_Barter_24",
+                    "type": "AssortmentUnlock",
+                    "index": 24,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_57838f0b2459774a256959b2_Barter",
+                            "_tpl": "57838f0b2459774a256959b2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_617130016c780c1e710c9a24_Barter",
+                    "id": "Weapon_Proficiency_Marksman_Barter_Elite_Bashkir_Temporal_Id_617130016c780c1e710c9a24_Barter_25",
+                    "type": "AssortmentUnlock",
+                    "index": 25,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_617130016c780c1e710c9a24_Barter",
+                            "_tpl": "617130016c780c1e710c9a24",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Marksman_Barter_Elite startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Marksman_Barter_Elite successMessageText",
+        "templateId": "Weapon_Proficiency_Marksman_Barter_Elite",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Weapon Proficiency: Marksman Rifles Barter - Elite",
+        "acceptPlayerMessage": "Weapon_Proficiency_Marksman_Barter_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Marksman_Barter_Elite changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Marksman_Barter_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

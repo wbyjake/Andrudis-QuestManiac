@@ -1,0 +1,1851 @@
+{
+    "Weapon_Proficiency_Smg_Barter_Rookie": {
+        "_id": "Weapon_Proficiency_Smg_Barter_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Rookie_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc3f2d5900b1d5091531e57",
+                            "5cc82d76e24e8d00134b4b83",
+                            "5bd70322209c4d00d7167b8f",
+                            "5ba26383d4351e00334c93d9",
+                            "58948c8e86f77409493f7266",
+                            "60339954d62c9b14ed777c06",
+                            "5fc3e272f8b6a877a729eac5",
+                            "5fb64bc92b1b027b1f50bcf2",
+                            "57f3c6bd24597738e730fa2f",
+                            "5de7bd7bfd6b4e6e2276dc25",
+                            "59984ab886f7743e98271174",
+                            "57d14d2524597714373db789",
+                            "57f4c844245977379d5c14d1",
+                            "5e00903ae9dc277128008b87",
+                            "5926bb2186f7744b1c6c6e60",
+                            "59f9cabd86f7743a10721f46",
+                            "5ea03f7400685063ec28bfa8",
+                            "5d2f0d8048f0356c925bc3b0"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Smg_Barter_Rookie description",
+        "failMessageText": "Weapon_Proficiency_Smg_Barter_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Smg_Barter_Rookie name",
+        "note": "Weapon_Proficiency_Smg_Barter_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4_id",
+                            "_tpl": "567143bf4bdc2d1a0f8b4567",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Rookie_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "12500",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Rookie_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 12500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Rookie_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Rookie_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Rookie_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Rookie_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter",
+                            "_tpl": "5926bb2186f7744b1c6c6e60",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_magazine",
+                            "_tpl": "5926c3b286f774640d189b6b",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever",
+                            "_tpl": "5926f2e086f7745aae644231",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever_mod_handguard",
+                            "_tpl": "5926f34786f77469195bfe92",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever_mod_sight_rear",
+                            "_tpl": "5926d2be86f774134d668e4e",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever_mod_stock",
+                            "_tpl": "5926d40686f7740f152b6b7e",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever_mod_muzzle",
+                            "_tpl": "5926d33d86f77410de68ebc0",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_reciever",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter_mod_charge",
+                            "_tpl": "5926c32286f774616e42de99",
+                            "parentId": "Khokhol_Temporal_Id_5926bb2186f7744b1c6c6e60_Barter",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "_tpl": "59f9cabd86f7743a10721f46",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_pistol_grip",
+                            "_tpl": "5998517986f7746017232f7e",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_stock",
+                            "_tpl": "599851db86f77467372f0a18",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_magazine",
+                            "_tpl": "5998529a86f774647f44f421",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_muzzle",
+                            "_tpl": "5998598e86f7740b3f498a86",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_reciever",
+                            "_tpl": "59985a8086f77414ec448d1a",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_sight_rear",
+                            "_tpl": "599860e986f7743bb57573a6",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_gas_block",
+                            "_tpl": "59ccd11386f77428f24a488f",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_gas_block_mod_handguard",
+                            "_tpl": "5648b1504bdc2d9d488b4584",
+                            "parentId": "Khokhol_Temporal_Id_59f9cabd86f7743a10721f46_Barter_mod_gas_block",
+                            "slotId": "mod_handguard"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter",
+                            "_tpl": "5ea03f7400685063ec28bfa8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter_mod_stock",
+                            "_tpl": "5ea03e9400685063ec28bfa4",
+                            "parentId": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter_mod_magazine",
+                            "_tpl": "5ea034eb5aad6446a939737b",
+                            "parentId": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter_mod_reciever",
+                            "_tpl": "5ea03e5009aa976f2e7a514b",
+                            "parentId": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter_mod_barrel",
+                            "_tpl": "5ea02bb600685063ec28bfa1",
+                            "parentId": "Khokhol_Temporal_Id_5ea03f7400685063ec28bfa8_Barter",
+                            "slotId": "mod_barrel"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ea034eb5aad6446a939737b_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Khokhol_Temporal_Id_5ea034eb5aad6446a939737b_Barter_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea034eb5aad6446a939737b_Barter",
+                            "_tpl": "5ea034eb5aad6446a939737b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5d2f213448f0355009199284_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Khokhol_Temporal_Id_5d2f213448f0355009199284_Barter_12",
+                    "type": "AssortmentUnlock",
+                    "index": 12,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5d2f213448f0355009199284_Barter",
+                            "_tpl": "5d2f213448f0355009199284",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5998529a86f774647f44f421_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Rookie_Khokhol_Temporal_Id_5998529a86f774647f44f421_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5998529a86f774647f44f421_Barter",
+                            "_tpl": "5998529a86f774647f44f421",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Smg_Barter_Rookie startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Smg_Barter_Rookie successMessageText",
+        "templateId": "Weapon_Proficiency_Smg_Barter_Rookie",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Rookie",
+        "acceptPlayerMessage": "Weapon_Proficiency_Smg_Barter_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Smg_Barter_Rookie changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Smg_Barter_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Smg_Barter_Seasoned": {
+        "_id": "Weapon_Proficiency_Smg_Barter_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Parent_Quest_15",
+                        "index": 15,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc3f2d5900b1d5091531e57",
+                            "5cc82d76e24e8d00134b4b83",
+                            "5bd70322209c4d00d7167b8f",
+                            "5ba26383d4351e00334c93d9",
+                            "58948c8e86f77409493f7266",
+                            "60339954d62c9b14ed777c06",
+                            "5fc3e272f8b6a877a729eac5",
+                            "5fb64bc92b1b027b1f50bcf2",
+                            "57f3c6bd24597738e730fa2f",
+                            "5de7bd7bfd6b4e6e2276dc25",
+                            "59984ab886f7743e98271174",
+                            "57d14d2524597714373db789",
+                            "57f4c844245977379d5c14d1",
+                            "5e00903ae9dc277128008b87"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Smg_Barter_Seasoned description",
+        "failMessageText": "Weapon_Proficiency_Smg_Barter_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Smg_Barter_Seasoned name",
+        "note": "Weapon_Proficiency_Smg_Barter_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2500",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Seasoned_5aafbde786f774389d0cbc0f_4_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_5aafbde786f774389d0cbc0f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Seasoned_5aafbde786f774389d0cbc0f_4_id",
+                            "_tpl": "5aafbde786f774389d0cbc0f",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Seasoned_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "31250",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Seasoned_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 31250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Seasoned_5696686a4bdc2da3298b456a_6_id",
+                    "value": "250",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Seasoned_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Seasoned_569668774bdc2da2298b4568_7_id",
+                    "value": "250",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Seasoned_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter",
+                            "_tpl": "57f3c6bd24597738e730fa2f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter_mod_pistol_grip",
+                            "_tpl": "57d152ec245977144076ccdf",
+                            "parentId": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter_mod_muzzle",
+                            "_tpl": "57f3c7e024597738ea4ba286",
+                            "parentId": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter_mod_muzzle_mod_muzzle",
+                            "_tpl": "57f3c8cc2459773ec4480328",
+                            "parentId": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter_mod_muzzle",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter_mod_magazine",
+                            "_tpl": "57d1519e24597714373db79d",
+                            "parentId": "Khokhol_Temporal_Id_57f3c6bd24597738e730fa2f_Barter",
+                            "slotId": "mod_magazine"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                            "_tpl": "5de7bd7bfd6b4e6e2276dc25",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_magazine",
+                            "_tpl": "5de8eac42a78646d96665d91",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_stock",
+                            "_tpl": "5de910da8b6c4240ba2651b5",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_foregrip",
+                            "_tpl": "5de8fbad2fbe23140d3ee9c4",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                            "slotId": "mod_foregrip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_reciever",
+                            "_tpl": "5de8e67c4a9f347bc92edbd7",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_reciever_mod_sight_rear",
+                            "_tpl": "5de8fb539f98ac2bc659513a",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_reciever",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_reciever_mod_mount",
+                            "_tpl": "5de8fc0b205ddc616a6bc51b",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_reciever",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter_mod_charge",
+                            "_tpl": "5de922d4b11454561e39239f",
+                            "parentId": "Khokhol_Temporal_Id_5de7bd7bfd6b4e6e2276dc25_Barter",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "_tpl": "59984ab886f7743e98271174",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_pistol_grip",
+                            "_tpl": "5649ae4a4bdc2d1b2b8b4588",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_stock",
+                            "_tpl": "5ac78eaf5acfc4001926317a",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_stock_mod_stock",
+                            "_tpl": "59ecc3dd86f7746dc827481c",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_charge",
+                            "_tpl": "5648ac824bdc2ded0b8b457d",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_charge"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_magazine",
+                            "_tpl": "599860ac86f77436b225ed1a",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_muzzle",
+                            "_tpl": "59bfc5c886f7743bf6794e62",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_reciever",
+                            "_tpl": "59985a6c86f77414ec448d17",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_reciever_mod_scope",
+                            "_tpl": "570fd6c2d2720bc6458b457f",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_reciever",
+                            "slotId": "mod_scope"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_sight_rear",
+                            "_tpl": "599860e986f7743bb57573a6",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block",
+                            "_tpl": "59ccd11386f77428f24a488f",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter",
+                            "slotId": "mod_gas_block"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block_mod_handguard",
+                            "_tpl": "5648b4534bdc2d3d1c8b4580",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block_mod_handguard_mod_foregrip",
+                            "_tpl": "591af28e86f77414a27a9e1d",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block_mod_handguard",
+                            "slotId": "mod_foregrip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block_mod_handguard_mod_tactical_001",
+                            "_tpl": "560d657b4bdc2da74d8b4572",
+                            "parentId": "Khokhol_Temporal_Id_59984ab886f7743e98271174_Barter_mod_gas_block_mod_handguard",
+                            "slotId": "mod_tactical_001"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_57d14e1724597714010c3f4b_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Khokhol_Temporal_Id_57d14e1724597714010c3f4b_Barter_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_57d14e1724597714010c3f4b_Barter",
+                            "_tpl": "57d14e1724597714010c3f4b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5de8e8dafd6b4e6e2276dc32_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Khokhol_Temporal_Id_5de8e8dafd6b4e6e2276dc32_Barter_12",
+                    "type": "AssortmentUnlock",
+                    "index": 12,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de8e8dafd6b4e6e2276dc32_Barter",
+                            "_tpl": "5de8e8dafd6b4e6e2276dc32",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c0673fb0db8340023300271_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Seasoned_Khokhol_Temporal_Id_5c0673fb0db8340023300271_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c0673fb0db8340023300271_Barter",
+                            "_tpl": "5c0673fb0db8340023300271",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Smg_Barter_Seasoned startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Smg_Barter_Seasoned successMessageText",
+        "templateId": "Weapon_Proficiency_Smg_Barter_Seasoned",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Seasoned",
+        "acceptPlayerMessage": "Weapon_Proficiency_Smg_Barter_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Smg_Barter_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Smg_Barter_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Smg_Barter_Veteran": {
+        "_id": "Weapon_Proficiency_Smg_Barter_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Parent_Quest_22",
+                        "index": 22,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc3f2d5900b1d5091531e57",
+                            "5cc82d76e24e8d00134b4b83",
+                            "5bd70322209c4d00d7167b8f",
+                            "5ba26383d4351e00334c93d9",
+                            "58948c8e86f77409493f7266",
+                            "60339954d62c9b14ed777c06",
+                            "5fc3e272f8b6a877a729eac5",
+                            "5fb64bc92b1b027b1f50bcf2"
+                        ],
+                        "value": "15",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Parent_Quest_1",
+                        "index": 1,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Parent_Quest_2",
+                        "index": 2,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Parent_Quest_3",
+                        "index": 3,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Veteran_Parent_Quest_5",
+                        "index": 5,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Smg_Barter_Veteran description",
+        "failMessageText": "Weapon_Proficiency_Smg_Barter_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Smg_Barter_Veteran name",
+        "note": "Weapon_Proficiency_Smg_Barter_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5000",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Experience_8",
+                    "type": "Experience",
+                    "index": 8
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Veteran_59fb023c86f7746d0d4b423c_9_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_59fb023c86f7746d0d4b423c_9",
+                    "type": "Item",
+                    "index": 9,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Veteran_59fb023c86f7746d0d4b423c_9_id",
+                            "_tpl": "59fb023c86f7746d0d4b423c",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Veteran_5449016a4bdc2d6f028b456f_10_id",
+                    "value": "62500",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_5449016a4bdc2d6f028b456f_10",
+                    "type": "Item",
+                    "index": 10,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Veteran_5449016a4bdc2d6f028b456f_10_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 62500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Veteran_5696686a4bdc2da3298b456a_11_id",
+                    "value": "500",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_5696686a4bdc2da3298b456a_11",
+                    "type": "Item",
+                    "index": 11,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Veteran_5696686a4bdc2da3298b456a_11_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Veteran_569668774bdc2da2298b4568_12_id",
+                    "value": "500",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_569668774bdc2da2298b4568_12",
+                    "type": "Item",
+                    "index": 12,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Veteran_569668774bdc2da2298b4568_12_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                            "_tpl": "58948c8e86f77409493f7266",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_pistol_grip",
+                            "_tpl": "5894a51286f77426d13baf02",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_magazine",
+                            "_tpl": "5894a05586f774094708ef75",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever",
+                            "_tpl": "5894a5b586f77426d2590767",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_barrel",
+                            "_tpl": "58aeaaa886f7744fc1560f81",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_barrel_mod_muzzle",
+                            "_tpl": "58aeac1b86f77457c419f475",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard",
+                            "_tpl": "5894a42086f77426d2590762",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard_mod_sight_front",
+                            "_tpl": "5894a73486f77426d259076c",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard_mod_mount_000",
+                            "_tpl": "58a56f8d86f774651579314c",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard",
+                            "slotId": "mod_mount_000"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard_mod_mount_001",
+                            "_tpl": "58a5c12e86f7745d585a2b9e",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard_mod_mount_002",
+                            "_tpl": "58a56f8d86f774651579314c",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_handguard",
+                            "slotId": "mod_mount_002"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever_mod_sight_rear",
+                            "_tpl": "5894a81786f77427140b8347",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_reciever",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_stock",
+                            "_tpl": "58ac1bf086f77420ed183f9f",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_stock_mod_stock",
+                            "_tpl": "57ade1442459771557167e15",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter_mod_charge",
+                            "_tpl": "58949fac86f77409483e16aa",
+                            "parentId": "Khokhol_Temporal_Id_58948c8e86f77409493f7266_Barter",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_14",
+                    "type": "AssortmentUnlock",
+                    "index": 14,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "_tpl": "60339954d62c9b14ed777c06",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_pistol_grip",
+                            "_tpl": "602e71bd53a60014f9705bfa",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_magazine",
+                            "_tpl": "5a7ad2e851dfba0016153692",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever",
+                            "_tpl": "602e63fb6335467b0c5ac94d",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever_mod_barrel",
+                            "_tpl": "603372b4da11d6478d5a07ff",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever_mod_barrel_mod_muzzle",
+                            "_tpl": "60337f5dce399e10262255d1",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever_mod_handguard",
+                            "_tpl": "6034e3cb0ddce744014cb870",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_reciever",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_stock_001",
+                            "_tpl": "602e3f1254072b51b239f713",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "slotId": "mod_stock_001"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_stock_001_mod_stock_000",
+                            "_tpl": "602e620f9b513876d4338d9a",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_stock_001",
+                            "slotId": "mod_stock_000"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_charge",
+                            "_tpl": "6033749e88382f4fab3fd2c5",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "slotId": "mod_charge"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter_mod_tactical_000",
+                            "_tpl": "602f85fd9b513876d4338d9c",
+                            "parentId": "Khokhol_Temporal_Id_60339954d62c9b14ed777c06_Barter",
+                            "slotId": "mod_tactical_000"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_15",
+                    "type": "AssortmentUnlock",
+                    "index": 15,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "_tpl": "5fc3e272f8b6a877a729eac5",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_mod_magazine",
+                            "_tpl": "5fc3e466187fea44d52eda90",
+                            "parentId": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_mod_stock",
+                            "_tpl": "5fc3e4ee7283c4046c5814af",
+                            "parentId": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_mod_barrel",
+                            "_tpl": "5fc3e4a27283c4046c5814ab",
+                            "parentId": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_mod_mount_000",
+                            "_tpl": "5fc53954f8b6a877a729eaeb",
+                            "parentId": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "slotId": "mod_mount_000"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_mod_mount_001",
+                            "_tpl": "5fc5396e900b1d5091531e72",
+                            "parentId": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter_mod_mount_002",
+                            "_tpl": "5fc5396e900b1d5091531e72",
+                            "parentId": "Khokhol_Temporal_Id_5fc3e272f8b6a877a729eac5_Barter",
+                            "slotId": "mod_mount_002"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_16",
+                    "type": "AssortmentUnlock",
+                    "index": 16,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "_tpl": "5fb64bc92b1b027b1f50bcf2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_magazine",
+                            "_tpl": "5fb651b52b1b027b1f50bcff",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_sight_front",
+                            "_tpl": "5fb6567747ce63734e3fa1dc",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_sight_rear",
+                            "_tpl": "5fb6564947ce63734e3fa1da",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_stock",
+                            "_tpl": "5fb6558ad6f0b2136f2d7eb7",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_barrel",
+                            "_tpl": "5fb65363d1409e5ca04b54f5",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5fb6548dd1409e5ca04b54f9",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_mount",
+                            "_tpl": "5fbb976df9986c4cff3fe5f2",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_mount_001",
+                            "_tpl": "5fce0f9b55375d18a253eff2",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter_mod_mount_002",
+                            "_tpl": "5fce0f9b55375d18a253eff2",
+                            "parentId": "Khokhol_Temporal_Id_5fb64bc92b1b027b1f50bcf2_Barter",
+                            "slotId": "mod_mount_002"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fc3e466187fea44d52eda90_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_5fc3e466187fea44d52eda90_Barter_17",
+                    "type": "AssortmentUnlock",
+                    "index": 17,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3e466187fea44d52eda90_Barter",
+                            "_tpl": "5fc3e466187fea44d52eda90",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fb651b52b1b027b1f50bcff_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_5fb651b52b1b027b1f50bcff_Barter_18",
+                    "type": "AssortmentUnlock",
+                    "index": 18,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb651b52b1b027b1f50bcff_Barter",
+                            "_tpl": "5fb651b52b1b027b1f50bcff",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5a718da68dc32e000d46d264_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_5a718da68dc32e000d46d264_Barter_19",
+                    "type": "AssortmentUnlock",
+                    "index": 19,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5a718da68dc32e000d46d264_Barter",
+                            "_tpl": "5a718da68dc32e000d46d264",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c5db6552e2216001026119d_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Veteran_Khokhol_Temporal_Id_5c5db6552e2216001026119d_Barter_20",
+                    "type": "AssortmentUnlock",
+                    "index": 20,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c5db6552e2216001026119d_Barter",
+                            "_tpl": "5c5db6552e2216001026119d",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Smg_Barter_Veteran startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Smg_Barter_Veteran successMessageText",
+        "templateId": "Weapon_Proficiency_Smg_Barter_Veteran",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Veteran",
+        "acceptPlayerMessage": "Weapon_Proficiency_Smg_Barter_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Smg_Barter_Veteran changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Smg_Barter_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Smg_Barter_Elite": {
+        "_id": "Weapon_Proficiency_Smg_Barter_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_25",
+                        "index": 25,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5fc3f2d5900b1d5091531e57",
+                            "5cc82d76e24e8d00134b4b83",
+                            "5bd70322209c4d00d7167b8f",
+                            "5ba26383d4351e00334c93d9"
+                        ],
+                        "value": "15",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_1",
+                        "index": 1,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_2",
+                        "index": 2,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_3",
+                        "index": 3,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_5",
+                        "index": 5,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_7",
+                        "index": 7,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_8",
+                        "index": 8,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Smg_Barter_Elite_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Smg_Barter_Elite description",
+        "failMessageText": "Weapon_Proficiency_Smg_Barter_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Smg_Barter_Elite name",
+        "note": "Weapon_Proficiency_Smg_Barter_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "10000",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Experience_13",
+                    "type": "Experience",
+                    "index": 13
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Elite_5b6d9ce188a4501afc1b2b25_14_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_5b6d9ce188a4501afc1b2b25_14",
+                    "type": "Item",
+                    "index": 14,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Elite_5b6d9ce188a4501afc1b2b25_14_id",
+                            "_tpl": "5b6d9ce188a4501afc1b2b25",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Elite_5449016a4bdc2d6f028b456f_15_id",
+                    "value": "125000",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_5449016a4bdc2d6f028b456f_15",
+                    "type": "Item",
+                    "index": 15,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Elite_5449016a4bdc2d6f028b456f_15_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 125000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Elite_5696686a4bdc2da3298b456a_16_id",
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_5696686a4bdc2da3298b456a_16",
+                    "type": "Item",
+                    "index": 16,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Elite_5696686a4bdc2da3298b456a_16_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Smg_Barter_Elite_569668774bdc2da2298b4568_17_id",
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_569668774bdc2da2298b4568_17",
+                    "type": "Item",
+                    "index": 17,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Smg_Barter_Elite_569668774bdc2da2298b4568_17_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_18",
+                    "type": "AssortmentUnlock",
+                    "index": 18,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "_tpl": "5fc3f2d5900b1d5091531e57",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_magazine",
+                            "_tpl": "5a718b548dc32e000d46d262",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_sight_front",
+                            "_tpl": "5fb6567747ce63734e3fa1dc",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_sight_rear",
+                            "_tpl": "5fb6564947ce63734e3fa1da",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_stock",
+                            "_tpl": "5fb6558ad6f0b2136f2d7eb7",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_barrel",
+                            "_tpl": "5fbbc366ca32ed67276c1557",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "5fbbc34106bde7524f03cbe9",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_mount",
+                            "_tpl": "5fbb976df9986c4cff3fe5f2",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_mount_001",
+                            "_tpl": "5fce0f9b55375d18a253eff2",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter_mod_mount_002",
+                            "_tpl": "5fce0f9b55375d18a253eff2",
+                            "parentId": "Khokhol_Temporal_Id_5fc3f2d5900b1d5091531e57_Barter",
+                            "slotId": "mod_mount_002"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_19",
+                    "type": "AssortmentUnlock",
+                    "index": 19,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                            "_tpl": "5cc82d76e24e8d00134b4b83",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_magazine",
+                            "_tpl": "5cc70093e4a949033c734312",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_stock",
+                            "_tpl": "5cc700b9e4a949000f0f0f25",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_stock_mod_stock_000",
+                            "_tpl": "5cc700cae4a949035e43ba72",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_stock",
+                            "slotId": "mod_stock_000"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever",
+                            "_tpl": "5cc70102e4a949035e43ba74",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever_mod_mount_000",
+                            "_tpl": "5cc7015ae4a949001152b4c6",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever",
+                            "slotId": "mod_mount_000"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever_mod_mount_001",
+                            "_tpl": "5cc70146e4a949000d73bf6b",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever_mod_mount_002",
+                            "_tpl": "5cc70146e4a949000d73bf6b",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_reciever",
+                            "slotId": "mod_mount_002"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_barrel",
+                            "_tpl": "5cc701d7e4a94900100ac4e7",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter_mod_charge",
+                            "_tpl": "5cc6ea78e4a949000e1ea3c1",
+                            "parentId": "Khokhol_Temporal_Id_5cc82d76e24e8d00134b4b83_Barter",
+                            "slotId": "mod_charge"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter_20",
+                    "type": "AssortmentUnlock",
+                    "index": 20,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                            "_tpl": "5bd70322209c4d00d7167b8f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter_mod_magazine",
+                            "_tpl": "5ba264f6d4351e0034777d52",
+                            "parentId": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter_mod_muzzle",
+                            "_tpl": "5ba26acdd4351e003562908e",
+                            "parentId": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter_mod_sight_front",
+                            "_tpl": "5ba26b01d4351e0085325a51",
+                            "parentId": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter_mod_sight_rear",
+                            "_tpl": "5ba26b17d4351e00367f9bdd",
+                            "parentId": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter_mod_stock",
+                            "_tpl": "5bd704e7209c4d00d7167c31",
+                            "parentId": "Khokhol_Temporal_Id_5bd70322209c4d00d7167b8f_Barter",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba264f6d4351e0034777d52_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Khokhol_Temporal_Id_5ba264f6d4351e0034777d52_Barter_21",
+                    "type": "AssortmentUnlock",
+                    "index": 21,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba264f6d4351e0034777d52_Barter",
+                            "_tpl": "5ba264f6d4351e0034777d52",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5cc70093e4a949033c734312_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Khokhol_Temporal_Id_5cc70093e4a949033c734312_Barter_22",
+                    "type": "AssortmentUnlock",
+                    "index": 22,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5cc70093e4a949033c734312_Barter",
+                            "_tpl": "5cc70093e4a949033c734312",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5a7ad2e851dfba0016153692_Barter",
+                    "id": "Weapon_Proficiency_Smg_Barter_Elite_Khokhol_Temporal_Id_5a7ad2e851dfba0016153692_Barter_23",
+                    "type": "AssortmentUnlock",
+                    "index": 23,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5a7ad2e851dfba0016153692_Barter",
+                            "_tpl": "5a7ad2e851dfba0016153692",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Smg_Barter_Elite startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Smg_Barter_Elite successMessageText",
+        "templateId": "Weapon_Proficiency_Smg_Barter_Elite",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Weapon Proficiency: SMGs Barter - Elite",
+        "acceptPlayerMessage": "Weapon_Proficiency_Smg_Barter_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Smg_Barter_Elite changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Smg_Barter_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

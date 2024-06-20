@@ -1,0 +1,3129 @@
+{
+    "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade": {
+        "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade description",
+        "failMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade name",
+        "note": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "500",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "16834",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 16834
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "25",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 25
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "20",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 20
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ab8f04f86f774585f4237d8_Trade",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade_Bashkir_Temporal_Id_5ab8f04f86f774585f4237d8_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ab8f04f86f774585f4237d8_Trade",
+                            "_tpl": "5ab8f04f86f774585f4237d8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Tactical sling bag Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade": {
+        "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade description",
+        "failMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade name",
+        "note": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "32840",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 32840
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "50",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 50
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "40",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 40
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ab8ee7786f7742d8f33f0b9_Trade",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade_Bashkir_Temporal_Id_5ab8ee7786f7742d8f33f0b9_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ab8ee7786f7742d8f33f0b9_Trade",
+                            "_tpl": "5ab8ee7786f7742d8f33f0b9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: VKBO army bag Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_56e33680d2720be2748b4576_Trade": {
+        "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_56e33680d2720be2748b4576_Trade description",
+        "failMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_56e33680d2720be2748b4576_Trade name",
+        "note": "Tarkov_Mule_56e33680d2720be2748b4576_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1500",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "22240",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 22240
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "75",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 75
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "60",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 60
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_56e33680d2720be2748b4576_Trade",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Trade_Bashkir_Temporal_Id_56e33680d2720be2748b4576_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_56e33680d2720be2748b4576_Trade",
+                            "_tpl": "56e33680d2720be2748b4576",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Trade successMessageText",
+        "templateId": "Tarkov_Mule_56e33680d2720be2748b4576_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Transformer Bag Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_56e33680d2720be2748b4576_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_56e33680d2720be2748b4576_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade": {
+        "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_56e33680d2720be2748b4576_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade description",
+        "failMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade name",
+        "note": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "40012",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40012
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "80",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 80
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5f5e45cc5021ce62144be7aa_Trade",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade_Bashkir_Temporal_Id_5f5e45cc5021ce62144be7aa_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f5e45cc5021ce62144be7aa_Trade",
+                            "_tpl": "5f5e45cc5021ce62144be7aa",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: LolKek 3F Transfer tourist backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade": {
+        "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade description",
+        "failMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade name",
+        "note": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2500",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "47946",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 47946
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "125",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 125
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_544a5cde4bdc2d39388b456b_Trade",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade_Bashkir_Temporal_Id_544a5cde4bdc2d39388b456b_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_544a5cde4bdc2d39388b456b_Trade",
+                            "_tpl": "544a5cde4bdc2d39388b456b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade successMessageText",
+        "templateId": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Flyye MBSS backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade": {
+        "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade description",
+        "failMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade name",
+        "note": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "3000",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "76174",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 76174
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "150",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 150
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "120",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 120
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ca20d5986f774331e7c9602_Trade",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade_Bashkir_Temporal_Id_5ca20d5986f774331e7c9602_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ca20d5986f774331e7c9602_Trade",
+                            "_tpl": "5ca20d5986f774331e7c9602",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: WARTECH Berkut BB-102 backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_60a2828e8689911a226117f9_Trade": {
+        "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_60a2828e8689911a226117f9_Trade description",
+        "failMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_60a2828e8689911a226117f9_Trade name",
+        "note": "Tarkov_Mule_60a2828e8689911a226117f9_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "3500",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "76794",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 76794
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "175",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 175
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "140",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 140
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_60a2828e8689911a226117f9_Trade",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Trade_Bashkir_Temporal_Id_60a2828e8689911a226117f9_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_60a2828e8689911a226117f9_Trade",
+                            "_tpl": "60a2828e8689911a226117f9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Trade successMessageText",
+        "templateId": "Tarkov_Mule_60a2828e8689911a226117f9_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Hazard 4 Pillbox backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_60a2828e8689911a226117f9_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_60a2828e8689911a226117f9_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade": {
+        "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_60a2828e8689911a226117f9_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade description",
+        "failMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade name",
+        "note": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "4000",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "122882",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 122882
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "200",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "160",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 160
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_6034d103ca006d2dca39b3f0_Trade",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade_Bashkir_Temporal_Id_6034d103ca006d2dca39b3f0_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_6034d103ca006d2dca39b3f0_Trade",
+                            "_tpl": "6034d103ca006d2dca39b3f0",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade successMessageText",
+        "templateId": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Hazard 4 Takedown sling backpack (Black) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_60a272cc93ef783291411d8e_Trade": {
+        "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade description",
+        "failMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade name",
+        "note": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "4500",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "123196",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 123196
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "225",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 225
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "180",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 180
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_60a272cc93ef783291411d8e_Trade",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade_Bashkir_Temporal_Id_60a272cc93ef783291411d8e_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_60a272cc93ef783291411d8e_Trade",
+                            "_tpl": "60a272cc93ef783291411d8e",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade successMessageText",
+        "templateId": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Hazard 4 Drawbridge backpack (Coyote Tan) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade": {
+        "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade description",
+        "failMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade name",
+        "note": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5000",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "138818",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 138818
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "250",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "200",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_618cfae774bb2d036a049e7c_Trade",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade_Bashkir_Temporal_Id_618cfae774bb2d036a049e7c_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_618cfae774bb2d036a049e7c_Trade",
+                            "_tpl": "618cfae774bb2d036a049e7c",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade successMessageText",
+        "templateId": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: LBT-1476A 3Day Pack (Woodland) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5d5d940f86f7742797262046_Trade": {
+        "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5d5d940f86f7742797262046_Trade description",
+        "failMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5d5d940f86f7742797262046_Trade name",
+        "note": "Tarkov_Mule_5d5d940f86f7742797262046_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5500",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "196926",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 196926
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "275",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 275
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "220",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 220
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5d5d940f86f7742797262046_Trade",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Trade_Bashkir_Temporal_Id_5d5d940f86f7742797262046_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5d5d940f86f7742797262046_Trade",
+                            "_tpl": "5d5d940f86f7742797262046",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5d5d940f86f7742797262046_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Oakley Mechanism heavy duty backpack (Black) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5d5d940f86f7742797262046_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5d5d940f86f7742797262046_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5e4abc6786f77406812bd572_Trade": {
+        "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5d5d940f86f7742797262046_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade description",
+        "failMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade name",
+        "note": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "6000",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "217514",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 217514
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "300",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 300
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "240",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 240
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5e4abc6786f77406812bd572_Trade",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade_Bashkir_Temporal_Id_5e4abc6786f77406812bd572_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5e4abc6786f77406812bd572_Trade",
+                            "_tpl": "5e4abc6786f77406812bd572",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: LBT-2670 Slim Field Med Pack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade": {
+        "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade description",
+        "failMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade name",
+        "note": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "6500",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "205462",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 205462
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "325",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 325
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "260",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 260
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_545cdae64bdc2d39198b4568_Trade",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade_Bashkir_Temporal_Id_545cdae64bdc2d39198b4568_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_545cdae64bdc2d39198b4568_Trade",
+                            "_tpl": "545cdae64bdc2d39198b4568",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade successMessageText",
+        "templateId": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Camelbak Tri-Zip assault backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade": {
+        "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade description",
+        "failMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade name",
+        "note": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "7000",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "206272",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 206272
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "350",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 350
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "280",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 280
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5b44c6ae86f7742d1627baea_Trade",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade_Bashkir_Temporal_Id_5b44c6ae86f7742d1627baea_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5b44c6ae86f7742d1627baea_Trade",
+                            "_tpl": "5b44c6ae86f7742d1627baea",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: ANA Tactical Beta 2 Battle backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade": {
+        "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade description",
+        "failMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade name",
+        "note": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "7500",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "198000",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 198000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "375",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 375
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "300",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 300
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c0e805e86f774683f3dd637_Trade",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade_Bashkir_Temporal_Id_5c0e805e86f774683f3dd637_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c0e805e86f774683f3dd637_Trade",
+                            "_tpl": "5c0e805e86f774683f3dd637",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: 3V Gear Paratus 3-Day Operator's Tactical backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_6034d2d697633951dc245ea6_Trade": {
+        "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade description",
+        "failMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade name",
+        "note": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "8000",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "388284",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 388284
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "400",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "320",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 320
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_6034d2d697633951dc245ea6_Trade",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade_Bashkir_Temporal_Id_6034d2d697633951dc245ea6_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_6034d2d697633951dc245ea6_Trade",
+                            "_tpl": "6034d2d697633951dc245ea6",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade successMessageText",
+        "templateId": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Eberlestock G2 Gunslinger II backpack (Dry Earth) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade": {
+        "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade description",
+        "failMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade name",
+        "note": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "8500",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "244000",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 244000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "425",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 425
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "340",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 340
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5f5e46b96bdad616ad46d613_Trade",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade_Bashkir_Temporal_Id_5f5e46b96bdad616ad46d613_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f5e46b96bdad616ad46d613_Trade",
+                            "_tpl": "5f5e46b96bdad616ad46d613",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Eberlestock F4 Terminator load bearing backpack (Tiger Stripe) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_59e763f286f7742ee57895da_Trade": {
+        "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_59e763f286f7742ee57895da_Trade description",
+        "failMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_59e763f286f7742ee57895da_Trade name",
+        "note": "Tarkov_Mule_59e763f286f7742ee57895da_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "9000",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "213776",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 213776
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "450",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 450
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "360",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 360
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_59e763f286f7742ee57895da_Trade",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Trade_Bashkir_Temporal_Id_59e763f286f7742ee57895da_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_59e763f286f7742ee57895da_Trade",
+                            "_tpl": "59e763f286f7742ee57895da",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Trade successMessageText",
+        "templateId": "Tarkov_Mule_59e763f286f7742ee57895da_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Pilgrim tourist backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_59e763f286f7742ee57895da_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_59e763f286f7742ee57895da_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade": {
+        "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_59e763f286f7742ee57895da_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b"
+                        ],
+                        "value": "9",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade description",
+        "failMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade name",
+        "note": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "9500",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "271000",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 271000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "475",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 475
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "380",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 380
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c0e774286f77468413cc5b2_Trade",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade_Bashkir_Temporal_Id_5c0e774286f77468413cc5b2_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c0e774286f77468413cc5b2_Trade",
+                            "_tpl": "5c0e774286f77468413cc5b2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Mystery Ranch Blackjack 50 backpack (Multicam) Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade": {
+        "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5df8a4d786f77412672a1e3b"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade description",
+        "failMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade name",
+        "note": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "10000",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5c0a840b86f7742ffa4f2482_4_id",
+                    "value": "1",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5c0a840b86f7742ffa4f2482_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5c0a840b86f7742ffa4f2482_4_id",
+                            "_tpl": "5c0a840b86f7742ffa4f2482",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "310000",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 310000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5696686a4bdc2da3298b456a_6_id",
+                    "value": "500",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_569668774bdc2da2298b4568_7_id",
+                    "value": "400",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5df8a4d786f77412672a1e3b_Trade",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade_Bashkir_Temporal_Id_5df8a4d786f77412672a1e3b_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8a4d786f77412672a1e3b_Trade",
+                            "_tpl": "5df8a4d786f77412672a1e3b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade startedMessageText",
+        "successMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade successMessageText",
+        "templateId": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: 6Sh118 raid backpack Trade",
+        "acceptPlayerMessage": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

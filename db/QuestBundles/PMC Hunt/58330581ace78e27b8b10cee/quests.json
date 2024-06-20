@@ -1,0 +1,1595 @@
+{
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_1": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 1 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_5": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 5 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_10": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 10 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_1"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_1"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_20": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 20 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "4000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 60000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "60000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_35": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 35 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_10"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "7000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 105000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "105000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_50": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 50 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_20"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_75": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 75 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_35"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_100": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 100 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_50"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_250": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 250 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "250",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_75"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_250 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  },
+  "PMC_Hunt_56f40101d2720b2a4d8b45d6_500": {
+    "QuestName": "[Ski] PMC Hunt: Clear Customs from 500 PMC(s)",
+    "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500",
+    "acceptPlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 changeQuestMessageText",
+    "completePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Elim_0_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Elim_0_subcondition_1",
+                "target": [
+                  "bigmap"
+                ]
+              }
+            ],
+            "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5714dbc024597771384a510d_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e5fad2720bc05b8b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e554d2720bac5b8b456e_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e3c2d2720bac5b8b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_55f2d3fd4bdc2d5f408b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "PMC_Hunt_5704e4dad2720bb55b8b4567_100"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 declinePlayerMessage",
+    "description": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 description",
+    "failMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 failMessageText",
+    "image": "/files/quest/icon/5a27cafa86f77424e20615d6.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "56f40101d2720b2a4d8b45d6",
+    "name": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 name",
+    "note": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 startedMessageText",
+    "successMessageText": "PMC_Hunt_56f40101d2720b2a4d8b45d6_500 successMessageText",
+    "traderId": "58330581ace78e27b8b10cee",
+    "type": "Elimination"
+  }
+}

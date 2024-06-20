@@ -1,0 +1,12 @@
+{
+    "Stims_Proficiency_Stims_Barter name": "[Lab] Compétence en stimulants :Troc de Stimulants ",
+    "Stims_Proficiency_Stims_Barter note": "",
+    "Stims_Proficiency_Stims_Barter description": "Les stims ne sont pas quelque chose que vous consommez comme de la bière pendant l'Oktoberfest. Prouvez que vous pouvez trouver le vôtre. J'ai également besoin de savoir que vous en avez réellement besoin sur le terrain et que vous sachiez comment les utiliser.",
+    "Stims_Proficiency_Stims_Barter startedMessageText": "[Lab] Quête acceptée: '[Lab] Compétence en stimulants :Troc de Stimulants '!",
+    "Stims_Proficiency_Stims_Barter failMessageText": "[Lab] Échec de la quête: '[Lab] Compétence en stimulants :Troc de Stimulants '!",
+    "Stims_Proficiency_Stims_Barter successMessageText": "[Lab] Quête terminée: '[Lab] Compétence en stimulants :Troc de Stimulants '!",
+    "Stims_Proficiency_Stims_Barter acceptPlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter declinePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter completePlayerMessage": "",
+    "Stims_Proficiency_Stims_Barter_Handover_0": "Remettre 75 Médicaments stimulants."
+}

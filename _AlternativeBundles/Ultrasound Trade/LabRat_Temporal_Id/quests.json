@@ -1,0 +1,1151 @@
+{
+    "Ultrasound_5b432b965acfc47a8774094e_Trade": {
+        "_id": "Ultrasound_5b432b965acfc47a8774094e_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5b432b965acfc47a8774094e_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5b432b965acfc47a8774094e",
+                            "6033fa48ffd42c541047f728",
+                            "5c165d832e2216398b5a7e36",
+                            "5645bcc04bdc2d363b8b4572",
+                            "5aa2ba71e5b5b000137b758f",
+                            "5a16b9fffcdbcb0176308b34",
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5b432b965acfc47a8774094e_Trade description",
+        "failMessageText": "Ultrasound_5b432b965acfc47a8774094e_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5b432b965acfc47a8774094e_Trade name",
+        "note": "Ultrasound_5b432b965acfc47a8774094e_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "3000",
+                    "id": "Ultrasound_5b432b965acfc47a8774094e_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5b432b965acfc47a8774094e_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "47110",
+                    "id": "Ultrasound_5b432b965acfc47a8774094e_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5b432b965acfc47a8774094e_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 47110
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5b432b965acfc47a8774094e_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ultrasound_5b432b965acfc47a8774094e_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5b432b965acfc47a8774094e_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5b432b965acfc47a8774094e_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "80",
+                    "id": "Ultrasound_5b432b965acfc47a8774094e_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5b432b965acfc47a8774094e_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 80
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5b432b965acfc47a8774094e_Trade",
+                    "id": "Ultrasound_5b432b965acfc47a8774094e_Trade_LabRat_Temporal_Id_5b432b965acfc47a8774094e_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5b432b965acfc47a8774094e_Trade",
+                            "_tpl": "5b432b965acfc47a8774094e",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5b432b965acfc47a8774094e_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5b432b965acfc47a8774094e_Trade successMessageText",
+        "templateId": "Ultrasound_5b432b965acfc47a8774094e_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: GSSh-01 active headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5b432b965acfc47a8774094e_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5b432b965acfc47a8774094e_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5b432b965acfc47a8774094e_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_6033fa48ffd42c541047f728_Trade": {
+        "_id": "Ultrasound_6033fa48ffd42c541047f728_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_5b432b965acfc47a8774094e_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "6033fa48ffd42c541047f728",
+                            "5c165d832e2216398b5a7e36",
+                            "5645bcc04bdc2d363b8b4572",
+                            "5aa2ba71e5b5b000137b758f",
+                            "5a16b9fffcdbcb0176308b34",
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_6033fa48ffd42c541047f728_Trade description",
+        "failMessageText": "Ultrasound_6033fa48ffd42c541047f728_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_6033fa48ffd42c541047f728_Trade name",
+        "note": "Ultrasound_6033fa48ffd42c541047f728_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "6000",
+                    "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_6033fa48ffd42c541047f728_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "76344",
+                    "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_6033fa48ffd42c541047f728_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 76344
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_6033fa48ffd42c541047f728_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "200",
+                    "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_6033fa48ffd42c541047f728_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_6033fa48ffd42c541047f728_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "160",
+                    "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_6033fa48ffd42c541047f728_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 160
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_6033fa48ffd42c541047f728_Trade",
+                    "id": "Ultrasound_6033fa48ffd42c541047f728_Trade_LabRat_Temporal_Id_6033fa48ffd42c541047f728_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_6033fa48ffd42c541047f728_Trade",
+                            "_tpl": "6033fa48ffd42c541047f728",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_6033fa48ffd42c541047f728_Trade startedMessageText",
+        "successMessageText": "Ultrasound_6033fa48ffd42c541047f728_Trade successMessageText",
+        "templateId": "Ultrasound_6033fa48ffd42c541047f728_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: OPSMEN Earmor M32 headset Trade",
+        "acceptPlayerMessage": "Ultrasound_6033fa48ffd42c541047f728_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_6033fa48ffd42c541047f728_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_6033fa48ffd42c541047f728_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_5c165d832e2216398b5a7e36_Trade": {
+        "_id": "Ultrasound_5c165d832e2216398b5a7e36_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_6033fa48ffd42c541047f728_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5c165d832e2216398b5a7e36",
+                            "5645bcc04bdc2d363b8b4572",
+                            "5aa2ba71e5b5b000137b758f",
+                            "5a16b9fffcdbcb0176308b34",
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5c165d832e2216398b5a7e36_Trade description",
+        "failMessageText": "Ultrasound_5c165d832e2216398b5a7e36_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5c165d832e2216398b5a7e36_Trade name",
+        "note": "Ultrasound_5c165d832e2216398b5a7e36_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "9000",
+                    "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5c165d832e2216398b5a7e36_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "105744",
+                    "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 105744
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5c165d832e2216398b5a7e36_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "300",
+                    "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 300
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5c165d832e2216398b5a7e36_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "240",
+                    "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 240
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Trade",
+                    "id": "Ultrasound_5c165d832e2216398b5a7e36_Trade_LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5c165d832e2216398b5a7e36_Trade",
+                            "_tpl": "5c165d832e2216398b5a7e36",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5c165d832e2216398b5a7e36_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5c165d832e2216398b5a7e36_Trade successMessageText",
+        "templateId": "Ultrasound_5c165d832e2216398b5a7e36_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: Peltor Tactical Sport headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5c165d832e2216398b5a7e36_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5c165d832e2216398b5a7e36_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5c165d832e2216398b5a7e36_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_5645bcc04bdc2d363b8b4572_Trade": {
+        "_id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_5c165d832e2216398b5a7e36_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5645bcc04bdc2d363b8b4572",
+                            "5aa2ba71e5b5b000137b758f",
+                            "5a16b9fffcdbcb0176308b34",
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade description",
+        "failMessageText": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade name",
+        "note": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "12000",
+                    "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "135050",
+                    "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 135050
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "400",
+                    "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "320",
+                    "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 320
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Trade",
+                    "id": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade_LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5645bcc04bdc2d363b8b4572_Trade",
+                            "_tpl": "5645bcc04bdc2d363b8b4572",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade successMessageText",
+        "templateId": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: Peltor ComTac 2 headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_5aa2ba71e5b5b000137b758f_Trade": {
+        "_id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_5645bcc04bdc2d363b8b4572_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5aa2ba71e5b5b000137b758f",
+                            "5a16b9fffcdbcb0176308b34",
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade description",
+        "failMessageText": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade name",
+        "note": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "15000",
+                    "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "157898",
+                    "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 157898
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "500",
+                    "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "400",
+                    "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Trade",
+                    "id": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade_LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5aa2ba71e5b5b000137b758f_Trade",
+                            "_tpl": "5aa2ba71e5b5b000137b758f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade successMessageText",
+        "templateId": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: MSA Sordin Supreme PRO-X/L active headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_5a16b9fffcdbcb0176308b34_Trade": {
+        "_id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_5aa2ba71e5b5b000137b758f_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5a16b9fffcdbcb0176308b34",
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade description",
+        "failMessageText": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade name",
+        "note": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "18000",
+                    "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "176130",
+                    "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 176130
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "600",
+                    "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 600
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "480",
+                    "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 480
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Trade",
+                    "id": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade_LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5a16b9fffcdbcb0176308b34_Trade",
+                            "_tpl": "5a16b9fffcdbcb0176308b34",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade successMessageText",
+        "templateId": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: Ops-Core FAST RAC Headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_5e4d34ca86f774264f758330_Trade": {
+        "_id": "Ultrasound_5e4d34ca86f774264f758330_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_5a16b9fffcdbcb0176308b34_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5e4d34ca86f774264f758330",
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "9",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5e4d34ca86f774264f758330_Trade description",
+        "failMessageText": "Ultrasound_5e4d34ca86f774264f758330_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5e4d34ca86f774264f758330_Trade name",
+        "note": "Ultrasound_5e4d34ca86f774264f758330_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "21000",
+                    "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5e4d34ca86f774264f758330_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "199012",
+                    "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5e4d34ca86f774264f758330_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 199012
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5e4d34ca86f774264f758330_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "700",
+                    "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5e4d34ca86f774264f758330_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 700
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5e4d34ca86f774264f758330_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "560",
+                    "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5e4d34ca86f774264f758330_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 560
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5e4d34ca86f774264f758330_Trade",
+                    "id": "Ultrasound_5e4d34ca86f774264f758330_Trade_LabRat_Temporal_Id_5e4d34ca86f774264f758330_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5e4d34ca86f774264f758330_Trade",
+                            "_tpl": "5e4d34ca86f774264f758330",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5e4d34ca86f774264f758330_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5e4d34ca86f774264f758330_Trade successMessageText",
+        "templateId": "Ultrasound_5e4d34ca86f774264f758330_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: Walker's Razor Digital headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5e4d34ca86f774264f758330_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5e4d34ca86f774264f758330_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5e4d34ca86f774264f758330_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade": {
+        "_id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ultrasound_5e4d34ca86f774264f758330_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5f60cd6cf2bcbb675b00dac6"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade description",
+        "failMessageText": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade name",
+        "note": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "24000",
+                    "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "238320",
+                    "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 238320
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "800",
+                    "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "640",
+                    "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 640
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Trade",
+                    "id": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade_LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Trade_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "LabRat_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "LabRat_Temporal_Id_5f60cd6cf2bcbb675b00dac6_Trade",
+                            "_tpl": "5f60cd6cf2bcbb675b00dac6",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade startedMessageText",
+        "successMessageText": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade successMessageText",
+        "templateId": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade",
+        "traderId": "LabRat_Temporal_Id",
+        "type": "Completion",
+        "QuestName": "[Lab] Ultrasound: Walker's XCEL 500BT Digital headset Trade",
+        "acceptPlayerMessage": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ultrasound_5f60cd6cf2bcbb675b00dac6_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

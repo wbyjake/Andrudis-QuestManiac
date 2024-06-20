@@ -1,0 +1,2141 @@
+{
+    "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade": {
+        "_id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "5de652c31b7e3716273428be"
+                                        ],
+                                        "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "7",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade description",
+        "failMessageText": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade name",
+        "note": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_59e6542b86f77411dc52a77a_Purchase",
+                    "id": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade_Bashkir_Temporal_Id_59e6542b86f77411dc52a77a_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_59e6542b86f77411dc52a77a_Purchase",
+                            "_tpl": "59e6542b86f77411dc52a77a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .366 TKM FMJ Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade": {
+        "_id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_59e6542b86f77411dc52a77a_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "5de652c31b7e3716273428be"
+                                        ],
+                                        "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "7",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade description",
+        "failMessageText": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade name",
+        "note": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_59e655cb86f77411dc52a77b_Purchase",
+                    "id": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade_Bashkir_Temporal_Id_59e655cb86f77411dc52a77b_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_59e655cb86f77411dc52a77b_Purchase",
+                            "_tpl": "59e655cb86f77411dc52a77b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .366 TKM EKO Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_59e6658b86f77411d949b250_Trade": {
+        "_id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_59e655cb86f77411dc52a77b_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "5de652c31b7e3716273428be"
+                                        ],
+                                        "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "7",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade description",
+        "failMessageText": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade name",
+        "note": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_59e6658b86f77411d949b250_Purchase",
+                    "id": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade_Bashkir_Temporal_Id_59e6658b86f77411d949b250_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_59e6658b86f77411d949b250_Purchase",
+                            "_tpl": "59e6658b86f77411d949b250",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .366 TKM Geksa Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade": {
+        "_id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_59e6658b86f77411d949b250_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "59e6687d86f77411d949b251",
+                                            "5de652c31b7e3716273428be"
+                                        ],
+                                        "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "7",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade description",
+        "failMessageText": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade name",
+        "note": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5f0596629e22f464da6bbdd9_Purchase",
+                    "id": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade_Bashkir_Temporal_Id_5f0596629e22f464da6bbdd9_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f0596629e22f464da6bbdd9_Purchase",
+                            "_tpl": "5f0596629e22f464da6bbdd9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .366 TKM AP-M Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5f0596629e22f464da6bbdd9_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade": {
+        "_id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5c46fbd72e2216398b5a8c9c",
+                                            "55801eed4bdc2d89578b4588",
+                                            "5bfd297f0db834001a669119",
+                                            "5ae08f0a5acfc408fb1398a1",
+                                            "560d75f54bdc2da74d8b4573"
+                                        ],
+                                        "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "4",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade description",
+        "failMessageText": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade name",
+        "note": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5e023cf8186a883be655e54f_Purchase",
+                    "id": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade_Bashkir_Temporal_Id_5e023cf8186a883be655e54f_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5e023cf8186a883be655e54f_Purchase",
+                            "_tpl": "5e023cf8186a883be655e54f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R T-46M gzh Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5887431f2459777e1612938f_Trade": {
+        "_id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5e023cf8186a883be655e54f_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5c46fbd72e2216398b5a8c9c",
+                                            "55801eed4bdc2d89578b4588",
+                                            "5bfd297f0db834001a669119",
+                                            "5ae08f0a5acfc408fb1398a1",
+                                            "560d75f54bdc2da74d8b4573"
+                                        ],
+                                        "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "4",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5887431f2459777e1612938f_Trade description",
+        "failMessageText": "Ammo_Proficiency_5887431f2459777e1612938f_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5887431f2459777e1612938f_Trade name",
+        "note": "Ammo_Proficiency_5887431f2459777e1612938f_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5887431f2459777e1612938f_Purchase",
+                    "id": "Ammo_Proficiency_5887431f2459777e1612938f_Trade_Bashkir_Temporal_Id_5887431f2459777e1612938f_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5887431f2459777e1612938f_Purchase",
+                            "_tpl": "5887431f2459777e1612938f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5887431f2459777e1612938f_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5887431f2459777e1612938f_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5887431f2459777e1612938f_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R LPS gzh Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5887431f2459777e1612938f_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5887431f2459777e1612938f_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5887431f2459777e1612938f_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade": {
+        "_id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5887431f2459777e1612938f_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5c46fbd72e2216398b5a8c9c",
+                                            "55801eed4bdc2d89578b4588",
+                                            "5bfd297f0db834001a669119",
+                                            "5ae08f0a5acfc408fb1398a1",
+                                            "560d75f54bdc2da74d8b4573"
+                                        ],
+                                        "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "4",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade description",
+        "failMessageText": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade name",
+        "note": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_560d61e84bdc2da74d8b4571_Purchase",
+                    "id": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade_Bashkir_Temporal_Id_560d61e84bdc2da74d8b4571_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_560d61e84bdc2da74d8b4571_Purchase",
+                            "_tpl": "560d61e84bdc2da74d8b4571",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R SNB gzh Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade": {
+        "_id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_560d61e84bdc2da74d8b4571_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5c46fbd72e2216398b5a8c9c",
+                                            "55801eed4bdc2d89578b4588",
+                                            "5bfd297f0db834001a669119",
+                                            "5ae08f0a5acfc408fb1398a1",
+                                            "560d75f54bdc2da74d8b4573"
+                                        ],
+                                        "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "4",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade description",
+        "failMessageText": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade name",
+        "note": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_59e77a2386f7742ee578960a_Purchase",
+                    "id": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade_Bashkir_Temporal_Id_59e77a2386f7742ee578960a_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_59e77a2386f7742ee578960a_Purchase",
+                            "_tpl": "59e77a2386f7742ee578960a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R PS gzh Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade": {
+        "_id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_59e77a2386f7742ee578960a_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5c46fbd72e2216398b5a8c9c",
+                                            "55801eed4bdc2d89578b4588",
+                                            "5bfd297f0db834001a669119",
+                                            "5ae08f0a5acfc408fb1398a1",
+                                            "560d75f54bdc2da74d8b4573"
+                                        ],
+                                        "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "4",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade description",
+        "failMessageText": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade name",
+        "note": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5e023d34e8a400319a28ed44_Purchase",
+                    "id": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade_Bashkir_Temporal_Id_5e023d34e8a400319a28ed44_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5e023d34e8a400319a28ed44_Purchase",
+                            "_tpl": "5e023d34e8a400319a28ed44",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R BT gzh Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5e023d48186a883be655e551_Trade": {
+        "_id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5e023d34e8a400319a28ed44_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5c46fbd72e2216398b5a8c9c",
+                                            "55801eed4bdc2d89578b4588",
+                                            "5bfd297f0db834001a669119",
+                                            "5ae08f0a5acfc408fb1398a1",
+                                            "560d75f54bdc2da74d8b4573"
+                                        ],
+                                        "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "4",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5e023d48186a883be655e551_Trade description",
+        "failMessageText": "Ammo_Proficiency_5e023d48186a883be655e551_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5e023d48186a883be655e551_Trade name",
+        "note": "Ammo_Proficiency_5e023d48186a883be655e551_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5e023d48186a883be655e551_Purchase",
+                    "id": "Ammo_Proficiency_5e023d48186a883be655e551_Trade_Bashkir_Temporal_Id_5e023d48186a883be655e551_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5e023d48186a883be655e551_Purchase",
+                            "_tpl": "5e023d48186a883be655e551",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5e023d48186a883be655e551_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5e023d48186a883be655e551_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5e023d48186a883be655e551_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: 7.62x54mm R BS gs Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5e023d48186a883be655e551_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5e023d48186a883be655e551_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5e023d48186a883be655e551_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade": {
+        "_id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5fc22d7c187fea44d52eda44"
+                                        ],
+                                        "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "6",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade description",
+        "failMessageText": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade name",
+        "note": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5fc382c1016cce60e8341b20_Purchase",
+                    "id": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade_Bashkir_Temporal_Id_5fc382c1016cce60e8341b20_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc382c1016cce60e8341b20_Purchase",
+                            "_tpl": "5fc382c1016cce60e8341b20",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum UCW Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade": {
+        "_id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5fc382c1016cce60e8341b20_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5fc22d7c187fea44d52eda44"
+                                        ],
+                                        "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "6",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade description",
+        "failMessageText": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade name",
+        "note": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5fc382b6d6fa9c00c571bbc3_Purchase",
+                    "id": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade_Bashkir_Temporal_Id_5fc382b6d6fa9c00c571bbc3_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc382b6d6fa9c00c571bbc3_Purchase",
+                            "_tpl": "5fc382b6d6fa9c00c571bbc3",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum TAC-X Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade": {
+        "_id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5fc382b6d6fa9c00c571bbc3_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5fc22d7c187fea44d52eda44"
+                                        ],
+                                        "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "6",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade description",
+        "failMessageText": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade name",
+        "note": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5fc275cf85fd526b824a571a_Purchase",
+                    "id": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade_Bashkir_Temporal_Id_5fc275cf85fd526b824a571a_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc275cf85fd526b824a571a_Purchase",
+                            "_tpl": "5fc275cf85fd526b824a571a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum FMJ Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade": {
+        "_id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5fc275cf85fd526b824a571a_Trade"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "weapon": [
+                                            "5fc22d7c187fea44d52eda44"
+                                        ],
+                                        "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "6",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade description",
+        "failMessageText": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade name",
+        "note": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5fc382a9d724d907e2077dab_Purchase",
+                    "id": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade_Bashkir_Temporal_Id_5fc382a9d724d907e2077dab_Purchase_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5fc382a9d724d907e2077dab_Purchase",
+                            "_tpl": "5fc382a9d724d907e2077dab",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade successMessageText",
+        "templateId": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "Elimination",
+        "QuestName": "[Bsh] Ammo Proficiency: .338 Lapua Magnum AP Trade",
+        "acceptPlayerMessage": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5fc382a9d724d907e2077dab_Trade completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

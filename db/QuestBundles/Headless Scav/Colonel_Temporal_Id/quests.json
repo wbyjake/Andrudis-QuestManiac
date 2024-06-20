@@ -1,0 +1,1625 @@
+{
+  "Headless_Scav_5704e5fad2720bc05b8b4567_2": {
+    "QuestName": "[Col] Headless Scav: Headshot 2 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_2",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_2 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_2 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_2 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_2 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_2 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_2_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_2_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_2 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_2 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_5": {
+    "QuestName": "[Col] Headless Scav: Headshot 5 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_5",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_5 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_5 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_5 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "5",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_5 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_5 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_5 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_5 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_5 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "500"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_5_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 7500
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_5_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "7500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_5 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_5 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_10": {
+    "QuestName": "[Col] Headless Scav: Headshot 10 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_10",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_10 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_10 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_10 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_10 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_10 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_10 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_10 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_10 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_10_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_10_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_10 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_10 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_20": {
+    "QuestName": "[Col] Headless Scav: Headshot 20 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_20",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_20 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_20 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_20 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "20",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_5"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_5"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_20 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_20 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_20 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_20 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_20 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "2000"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_20_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 30000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_20_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "30000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_20 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_20 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_35": {
+    "QuestName": "[Col] Headless Scav: Headshot 35 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_35",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_35 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_35 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_35 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "35",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_10"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_35 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_35 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_35 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_35 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_35 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "3500"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_35_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 52500
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_35_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "52500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_35 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_35 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_50": {
+    "QuestName": "[Col] Headless Scav: Headshot 50 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_50",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_50 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_50 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_50 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_20"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_20"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_50 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_50 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_50 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_50 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_50 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_50_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_50_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_50 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_50 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_75": {
+    "QuestName": "[Col] Headless Scav: Headshot 75 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_75",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_75 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_75 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_75 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_35"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_35"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_75 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_75 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_75 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_75 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_75 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_75_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_75_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_75 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_75 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_100": {
+    "QuestName": "[Col] Headless Scav: Headshot 100 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_100",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_100 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_100 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_100 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_50"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_100 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_100 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_100 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_100 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_100 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_100_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_100_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_100 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_100 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_250": {
+    "QuestName": "[Col] Headless Scav: Headshot 250 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_250",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_250 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_250 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_250 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "250",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_75"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_250 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_250 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_250 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_250 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_250 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "25000"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_250_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 375000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_250_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "375000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_250 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_250 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Headless_Scav_5704e5fad2720bc05b8b4567_500": {
+    "QuestName": "[Col] Headless Scav: Headshot 500 Scav(s) at Reserve base",
+    "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_500",
+    "acceptPlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_500 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_500 changeQuestMessageText",
+    "completePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_500 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "bodyPart": [
+                  "Head"
+                ],
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Elim_0_subcondition_1",
+                "target": [
+                  "RezervBase"
+                ]
+              }
+            ],
+            "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_56f40101d2720b2a4d8b45d6_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5714dbc024597771384a510d_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e554d2720bac5b8b456e_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e3c2d2720bac5b8b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_55f2d3fd4bdc2d5f408b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Headless_Scav_5704e4dad2720bb55b8b4567_100"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Headless_Scav_5704e5fad2720bc05b8b4567_500 declinePlayerMessage",
+    "description": "Headless_Scav_5704e5fad2720bc05b8b4567_500 description",
+    "failMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_500 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "5704e5fad2720bc05b8b4567",
+    "name": "Headless_Scav_5704e5fad2720bc05b8b4567_500 name",
+    "note": "Headless_Scav_5704e5fad2720bc05b8b4567_500 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Headless_Scav_5704e5fad2720bc05b8b4567_500_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "Headless_Scav_5704e5fad2720bc05b8b4567_500_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_500 startedMessageText",
+    "successMessageText": "Headless_Scav_5704e5fad2720bc05b8b4567_500 successMessageText",
+    "traderId": "Colonel_Temporal_Id",
+    "type": "Elimination"
+  }
+}

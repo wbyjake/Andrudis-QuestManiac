@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods name": "[Егр] Знание ключей: Лес Слесарь",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods note": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods description": "Нужны контейнеры для ключей? На кой хрен они тебе сдались если у тебя и ключей-то толком нет? Должен найти их все!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods startedMessageText": "[Егр] Задание принято: '[Егр] Знание ключей: Лес Слесарь'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods failMessageText": "[Егр] Задание провалено: '[Егр] Знание ключей: Лес Слесарь'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods successMessageText": "[Егр] Задание завершено: '[Егр] Знание ключей: Лес Слесарь'!",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods acceptPlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods declinePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods completePlayerMessage": "",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_0": "Найди Ключ ЗБ-014",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_1": "Найди Ключ от схрона Штурмана",
+    "Keys_FindAny_5c0647fdd443bc2504c2d371_Woods_FindItem_2": "Найди Ключ от автомобиля Yotota"
+}

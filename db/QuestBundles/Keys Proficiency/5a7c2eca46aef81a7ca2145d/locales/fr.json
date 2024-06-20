@@ -1,0 +1,14 @@
+{
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory name": "[Mec] Compétence clé: Usine Serrurier",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory note": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory description": "Vous voulez des conteneurs pour les clés ? Pourquoi en avez-vous besoin si vous n'avez pas encore de clés ? Je dois les trouver tout !",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory startedMessageText": "[Mec] Quête acceptée: '[Mec] Compétence clé: Usine Serrurier'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory failMessageText": "[Mec] Échec de la quête: '[Mec] Compétence clé: Usine Serrurier'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory successMessageText": "[Mec] Quête terminée: '[Mec] Compétence clé: Usine Serrurier'!",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory acceptPlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory declinePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory completePlayerMessage": "",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_0": "Trouve Clé de porte (alternative)",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_1": "Trouve Clé de porte",
+    "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_2": "Trouve Clé de sortie de l'usine"
+}

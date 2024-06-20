@@ -1,0 +1,3550 @@
+{
+    "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter": {
+        "_id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_Introduction"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5e81f423763d9f754677bf2e",
+                            "5efb0d4f4bc50b58e81710f3",
+                            "5efb0fc6aeb21837e749c801",
+                            "5ea2a8e200685063ec28c05a",
+                            "5efb0cabfb3e451d70735af5"
+                        ],
+                        "value": "100",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter description",
+        "failMessageText": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter name",
+        "note": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5e81f423763d9f754677bf2e_Barter",
+                    "id": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter_Khokhol_Temporal_Id_5e81f423763d9f754677bf2e_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5e81f423763d9f754677bf2e_Barter",
+                            "_tpl": "5e81f423763d9f754677bf2e",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .45 ACP Match FMJ Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter": {
+        "_id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5e81f423763d9f754677bf2e_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5efb0d4f4bc50b58e81710f3",
+                            "5efb0fc6aeb21837e749c801",
+                            "5ea2a8e200685063ec28c05a",
+                            "5efb0cabfb3e451d70735af5"
+                        ],
+                        "value": "200",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter description",
+        "failMessageText": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter name",
+        "note": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5efb0d4f4bc50b58e81710f3_Barter",
+                    "id": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter_Khokhol_Temporal_Id_5efb0d4f4bc50b58e81710f3_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5efb0d4f4bc50b58e81710f3_Barter",
+                            "_tpl": "5efb0d4f4bc50b58e81710f3",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .45 ACP Lasermatch FMJ Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter": {
+        "_id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5efb0d4f4bc50b58e81710f3_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5efb0fc6aeb21837e749c801",
+                            "5ea2a8e200685063ec28c05a",
+                            "5efb0cabfb3e451d70735af5"
+                        ],
+                        "value": "300",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter description",
+        "failMessageText": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter name",
+        "note": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5efb0fc6aeb21837e749c801_Barter",
+                    "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_Khokhol_Temporal_Id_5efb0fc6aeb21837e749c801_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5efb0fc6aeb21837e749c801_Barter",
+                            "_tpl": "5efb0fc6aeb21837e749c801",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ef3448ab37dfd6af863525c_Trade",
+                    "id": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter_Khokhol_Temporal_Id_5ef3448ab37dfd6af863525c_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ef3448ab37dfd6af863525c_Trade",
+                            "_tpl": "5ef3448ab37dfd6af863525c",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .45 ACP Hydra-Shok Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter": {
+        "_id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5efb0fc6aeb21837e749c801_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5ea2a8e200685063ec28c05a",
+                            "5efb0cabfb3e451d70735af5"
+                        ],
+                        "value": "400",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter description",
+        "failMessageText": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter name",
+        "note": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ea2a8e200685063ec28c05a_Barter",
+                    "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_Khokhol_Temporal_Id_5ea2a8e200685063ec28c05a_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ea2a8e200685063ec28c05a_Barter",
+                            "_tpl": "5ea2a8e200685063ec28c05a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fb651dc85f90547f674b6f4_Trade",
+                    "id": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter_Khokhol_Temporal_Id_5fb651dc85f90547f674b6f4_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fb651dc85f90547f674b6f4_Trade",
+                            "_tpl": "5fb651dc85f90547f674b6f4",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .45 ACP RIP Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter": {
+        "_id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5ea2a8e200685063ec28c05a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5efb0cabfb3e451d70735af5"
+                        ],
+                        "value": "500",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter description",
+        "failMessageText": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter name",
+        "note": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5efb0cabfb3e451d70735af5_Barter",
+                    "id": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter_Khokhol_Temporal_Id_5efb0cabfb3e451d70735af5_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5efb0cabfb3e451d70735af5_Barter",
+                            "_tpl": "5efb0cabfb3e451d70735af5",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .45 ACP AP Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5efb0cabfb3e451d70735af5_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter": {
+        "_id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_Introduction"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Elite"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5ba26812d4351e003201fef1",
+                            "5ba26844d4351e00334c9475",
+                            "5ba2678ad4351e44f824b344",
+                            "5ba26835d4351e0035628ff5"
+                        ],
+                        "value": "210",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter description",
+        "failMessageText": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter name",
+        "note": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba26812d4351e003201fef1_Barter",
+                    "id": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter_Khokhol_Temporal_Id_5ba26812d4351e003201fef1_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba26812d4351e003201fef1_Barter",
+                            "_tpl": "5ba26812d4351e003201fef1",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 4.6x30mm Action SX Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter": {
+        "_id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5ba26812d4351e003201fef1_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5ba26844d4351e00334c9475",
+                            "5ba2678ad4351e44f824b344",
+                            "5ba26835d4351e0035628ff5"
+                        ],
+                        "value": "420",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter description",
+        "failMessageText": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter name",
+        "note": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba26844d4351e00334c9475_Barter",
+                    "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_Khokhol_Temporal_Id_5ba26844d4351e00334c9475_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba26844d4351e00334c9475_Barter",
+                            "_tpl": "5ba26844d4351e00334c9475",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba2657ed4351e0035628ff2_Trade",
+                    "id": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter_Khokhol_Temporal_Id_5ba2657ed4351e0035628ff2_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba2657ed4351e0035628ff2_Trade",
+                            "_tpl": "5ba2657ed4351e0035628ff2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 4.6x30mm Subsonic SX Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter": {
+        "_id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5ba26844d4351e00334c9475_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5ba2678ad4351e44f824b344",
+                            "5ba26835d4351e0035628ff5"
+                        ],
+                        "value": "630",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter description",
+        "failMessageText": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter name",
+        "note": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba2678ad4351e44f824b344_Barter",
+                    "id": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter_Khokhol_Temporal_Id_5ba2678ad4351e44f824b344_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba2678ad4351e44f824b344_Barter",
+                            "_tpl": "5ba2678ad4351e44f824b344",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 4.6x30mm FMJ SX Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter": {
+        "_id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5ba2678ad4351e44f824b344_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5ba26835d4351e0035628ff5"
+                        ],
+                        "value": "840",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter description",
+        "failMessageText": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter name",
+        "note": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba26835d4351e0035628ff5_Barter",
+                    "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_Khokhol_Temporal_Id_5ba26835d4351e0035628ff5_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba26835d4351e0035628ff5_Barter",
+                            "_tpl": "5ba26835d4351e0035628ff5",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5ba26586d4351e44f824b340_Trade",
+                    "id": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter_Khokhol_Temporal_Id_5ba26586d4351e44f824b340_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5ba26586d4351e44f824b340_Trade",
+                            "_tpl": "5ba26586d4351e44f824b340",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 4.6x30mm AP SX Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5ba26835d4351e0035628ff5_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter": {
+        "_id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_Introduction"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "6196365d58ef8c428c287da1",
+                            "6196364158ef8c428c287d9f",
+                            "5fbe3ffdf8b6a877a729ea82",
+                            "619636be6db0f2477964e710",
+                            "5fd20ff893a8961fc660a954"
+                        ],
+                        "value": "300",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter description",
+        "failMessageText": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter name",
+        "note": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_6196365d58ef8c428c287da1_Barter",
+                    "id": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter_Khokhol_Temporal_Id_6196365d58ef8c428c287da1_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_6196365d58ef8c428c287da1_Barter",
+                            "_tpl": "6196365d58ef8c428c287da1",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .300 Blackout Whisper Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter": {
+        "_id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_6196365d58ef8c428c287da1_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "6196364158ef8c428c287d9f",
+                            "5fbe3ffdf8b6a877a729ea82",
+                            "619636be6db0f2477964e710",
+                            "5fd20ff893a8961fc660a954"
+                        ],
+                        "value": "600",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter description",
+        "failMessageText": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter name",
+        "note": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_6196364158ef8c428c287d9f_Barter",
+                    "id": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter_Khokhol_Temporal_Id_6196364158ef8c428c287d9f_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_6196364158ef8c428c287d9f_Barter",
+                            "_tpl": "6196364158ef8c428c287d9f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .300 Blackout V-Max Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter": {
+        "_id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_6196364158ef8c428c287d9f_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5fbe3ffdf8b6a877a729ea82",
+                            "619636be6db0f2477964e710",
+                            "5fd20ff893a8961fc660a954"
+                        ],
+                        "value": "900",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter description",
+        "failMessageText": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter name",
+        "note": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fbe3ffdf8b6a877a729ea82_Barter",
+                    "id": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter_Khokhol_Temporal_Id_5fbe3ffdf8b6a877a729ea82_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fbe3ffdf8b6a877a729ea82_Barter",
+                            "_tpl": "5fbe3ffdf8b6a877a729ea82",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .300 Blackout BCP FMJ Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_619636be6db0f2477964e710_Barter": {
+        "_id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5fbe3ffdf8b6a877a729ea82_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "619636be6db0f2477964e710",
+                            "5fd20ff893a8961fc660a954"
+                        ],
+                        "value": "1200",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_619636be6db0f2477964e710_Barter description",
+        "failMessageText": "Ammo_Proficiency_619636be6db0f2477964e710_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_619636be6db0f2477964e710_Barter name",
+        "note": "Ammo_Proficiency_619636be6db0f2477964e710_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_619636be6db0f2477964e710_Barter",
+                    "id": "Ammo_Proficiency_619636be6db0f2477964e710_Barter_Khokhol_Temporal_Id_619636be6db0f2477964e710_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_619636be6db0f2477964e710_Barter",
+                            "_tpl": "619636be6db0f2477964e710",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_619636be6db0f2477964e710_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_619636be6db0f2477964e710_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_619636be6db0f2477964e710_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .300 Blackout M62 Tracer Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_619636be6db0f2477964e710_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_619636be6db0f2477964e710_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_619636be6db0f2477964e710_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter": {
+        "_id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_619636be6db0f2477964e710_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5fd20ff893a8961fc660a954"
+                        ],
+                        "value": "1500",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter description",
+        "failMessageText": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter name",
+        "note": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5fd20ff893a8961fc660a954_Barter",
+                    "id": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter_Khokhol_Temporal_Id_5fd20ff893a8961fc660a954_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5fd20ff893a8961fc660a954_Barter",
+                            "_tpl": "5fd20ff893a8961fc660a954",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: .300 Blackout AP Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5fd20ff893a8961fc660a954_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_58864a4f2459770fcc257101_Barter": {
+        "_id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_Introduction"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "58864a4f2459770fcc257101",
+                            "5c3df7d588a4501f290594e5",
+                            "56d59d3ad2720bdb418b4577",
+                            "5a3c16fe86f77452b62de32a",
+                            "5efb0e16aeb21837e749c7ff",
+                            "5c0d56a986f774449d5de529",
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "100",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter description",
+        "failMessageText": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter name",
+        "note": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_58864a4f2459770fcc257101_Barter",
+                    "id": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter_Khokhol_Temporal_Id_58864a4f2459770fcc257101_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_58864a4f2459770fcc257101_Barter",
+                            "_tpl": "58864a4f2459770fcc257101",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm PSO gzh Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter": {
+        "_id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_58864a4f2459770fcc257101_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c3df7d588a4501f290594e5",
+                            "56d59d3ad2720bdb418b4577",
+                            "5a3c16fe86f77452b62de32a",
+                            "5efb0e16aeb21837e749c7ff",
+                            "5c0d56a986f774449d5de529",
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "200",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter description",
+        "failMessageText": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter name",
+        "note": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c3df7d588a4501f290594e5_Barter",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_Khokhol_Temporal_Id_5c3df7d588a4501f290594e5_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c3df7d588a4501f290594e5_Barter",
+                            "_tpl": "5c3df7d588a4501f290594e5",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5de8ea8ffd6b4e6e2276dc35_Trade",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_Khokhol_Temporal_Id_5de8ea8ffd6b4e6e2276dc35_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de8ea8ffd6b4e6e2276dc35_Trade",
+                            "_tpl": "5de8ea8ffd6b4e6e2276dc35",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5894a05586f774094708ef75_Trade",
+                    "id": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter_Khokhol_Temporal_Id_5894a05586f774094708ef75_Trade_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5894a05586f774094708ef75_Trade",
+                            "_tpl": "5894a05586f774094708ef75",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm T gzh Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter": {
+        "_id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5c3df7d588a4501f290594e5_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "56d59d3ad2720bdb418b4577",
+                            "5a3c16fe86f77452b62de32a",
+                            "5efb0e16aeb21837e749c7ff",
+                            "5c0d56a986f774449d5de529",
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "300",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter description",
+        "failMessageText": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter name",
+        "note": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_56d59d3ad2720bdb418b4577_Barter",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_Khokhol_Temporal_Id_56d59d3ad2720bdb418b4577_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_56d59d3ad2720bdb418b4577_Barter",
+                            "_tpl": "56d59d3ad2720bdb418b4577",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5739d41224597779c3645501_Barter",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_Khokhol_Temporal_Id_5739d41224597779c3645501_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5739d41224597779c3645501_Barter",
+                            "_tpl": "5739d41224597779c3645501",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5739d41224597779c3645501_Barter_cartridges",
+                            "_tpl": "56d59d3ad2720bdb418b4577",
+                            "parentId": "Khokhol_Temporal_Id_5739d41224597779c3645501_Barter",
+                            "slotId": "cartridges"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5926c3b286f774640d189b6b_Trade",
+                    "id": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter_Khokhol_Temporal_Id_5926c3b286f774640d189b6b_Trade_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5926c3b286f774640d189b6b_Trade",
+                            "_tpl": "5926c3b286f774640d189b6b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm Pst gzh Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter": {
+        "_id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_56d59d3ad2720bdb418b4577_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5a3c16fe86f77452b62de32a",
+                            "5efb0e16aeb21837e749c7ff",
+                            "5c0d56a986f774449d5de529",
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "400",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter description",
+        "failMessageText": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter name",
+        "note": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5a3c16fe86f77452b62de32a_Barter",
+                    "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_Khokhol_Temporal_Id_5a3c16fe86f77452b62de32a_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5a3c16fe86f77452b62de32a_Barter",
+                            "_tpl": "5a3c16fe86f77452b62de32a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5de8eaadbbaf010b10528a6d_Trade",
+                    "id": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter_Khokhol_Temporal_Id_5de8eaadbbaf010b10528a6d_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de8eaadbbaf010b10528a6d_Trade",
+                            "_tpl": "5de8eaadbbaf010b10528a6d",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm Luger CCI Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter": {
+        "_id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Parent_Quest_13",
+                        "index": 13,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5a3c16fe86f77452b62de32a_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5efb0e16aeb21837e749c7ff",
+                            "5c0d56a986f774449d5de529",
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "500",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter description",
+        "failMessageText": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter name",
+        "note": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5efb0e16aeb21837e749c7ff_Barter",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Khokhol_Temporal_Id_5efb0e16aeb21837e749c7ff_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5efb0e16aeb21837e749c7ff_Barter",
+                            "_tpl": "5efb0e16aeb21837e749c7ff",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c920e902e221644f31c3c99_Trade",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Khokhol_Temporal_Id_5c920e902e221644f31c3c99_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c920e902e221644f31c3c99_Trade",
+                            "_tpl": "5c920e902e221644f31c3c99",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c0672ed0db834001b7353f3_Trade",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Khokhol_Temporal_Id_5c0672ed0db834001b7353f3_Trade_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c0672ed0db834001b7353f3_Trade",
+                            "_tpl": "5c0672ed0db834001b7353f3",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_599860ac86f77436b225ed1a_Trade",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Khokhol_Temporal_Id_599860ac86f77436b225ed1a_Trade_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_599860ac86f77436b225ed1a_Trade",
+                            "_tpl": "599860ac86f77436b225ed1a",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c5db6652e221600113fba51_Trade",
+                    "id": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter_Khokhol_Temporal_Id_5c5db6652e221600113fba51_Trade_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c5db6652e221600113fba51_Trade",
+                            "_tpl": "5c5db6652e221600113fba51",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm QuakeMaker Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter": {
+        "_id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5efb0e16aeb21837e749c7ff_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c0d56a986f774449d5de529",
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "600",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter description",
+        "failMessageText": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter name",
+        "note": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c0d56a986f774449d5de529_Barter",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_Khokhol_Temporal_Id_5c0d56a986f774449d5de529_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c0d56a986f774449d5de529_Barter",
+                            "_tpl": "5c0d56a986f774449d5de529",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c1127bdd174af44217ab8b9_Barter",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_Khokhol_Temporal_Id_5c1127bdd174af44217ab8b9_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c1127bdd174af44217ab8b9_Barter",
+                            "_tpl": "5c1127bdd174af44217ab8b9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c1127bdd174af44217ab8b9_Barter_cartridges",
+                            "_tpl": "5c0d56a986f774449d5de529",
+                            "parentId": "Khokhol_Temporal_Id_5c1127bdd174af44217ab8b9_Barter",
+                            "slotId": "cartridges"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5a351711c4a282000b1521a4_Trade",
+                    "id": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter_Khokhol_Temporal_Id_5a351711c4a282000b1521a4_Trade_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5a351711c4a282000b1521a4_Trade",
+                            "_tpl": "5a351711c4a282000b1521a4",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm RIP Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter": {
+        "_id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_Parent_Quest_11",
+                        "index": 11,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5c0d56a986f774449d5de529_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5c925fa22e221601da359b7b",
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "700",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter description",
+        "failMessageText": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter name",
+        "note": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c925fa22e221601da359b7b_Barter",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_Khokhol_Temporal_Id_5c925fa22e221601da359b7b_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c925fa22e221601da359b7b_Barter",
+                            "_tpl": "5c925fa22e221601da359b7b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5de8eac42a78646d96665d91_Trade",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_Khokhol_Temporal_Id_5de8eac42a78646d96665d91_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5de8eac42a78646d96665d91_Trade",
+                            "_tpl": "5de8eac42a78646d96665d91",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5c5db6742e2216000f1b2852_Trade",
+                    "id": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter_Khokhol_Temporal_Id_5c5db6742e2216000f1b2852_Trade_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5c5db6742e2216000f1b2852_Trade",
+                            "_tpl": "5c5db6742e2216000f1b2852",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm AP 6.3 Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter": {
+        "_id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Ammo_Proficiency_5c925fa22e221601da359b7b_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": false,
+                        "parentId": "",
+                        "target": [
+                            "5efb0da7a29a85116f6ea05f"
+                        ],
+                        "value": "800",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter description",
+        "failMessageText": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter name",
+        "note": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "15000",
+                    "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 15000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "100",
+                    "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5efb0da7a29a85116f6ea05f_Barter",
+                    "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_Khokhol_Temporal_Id_5efb0da7a29a85116f6ea05f_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5efb0da7a29a85116f6ea05f_Barter",
+                            "_tpl": "5efb0da7a29a85116f6ea05f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Khokhol_Temporal_Id_5a718f958dc32e00094b97e7_Trade",
+                    "id": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter_Khokhol_Temporal_Id_5a718f958dc32e00094b97e7_Trade_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Khokhol_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Khokhol_Temporal_Id_5a718f958dc32e00094b97e7_Trade",
+                            "_tpl": "5a718f958dc32e00094b97e7",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter startedMessageText",
+        "successMessageText": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter successMessageText",
+        "templateId": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter",
+        "traderId": "Khokhol_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Kho] Ammo Proficiency: 9x19mm PBP gzh Barter",
+        "acceptPlayerMessage": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter changeQuestMessageText",
+        "completePlayerMessage": "Ammo_Proficiency_5efb0da7a29a85116f6ea05f_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

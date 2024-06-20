@@ -1,0 +1,3423 @@
+{
+    "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter": {
+        "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "1",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter description",
+        "failMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter name",
+        "note": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "21834",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 21834
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "50",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 50
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "40",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 40
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ab8f04f86f774585f4237d8_Barter",
+                    "id": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter_Bashkir_Temporal_Id_5ab8f04f86f774585f4237d8_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ab8f04f86f774585f4237d8_Barter",
+                            "_tpl": "5ab8f04f86f774585f4237d8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Tactical sling bag Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter": {
+        "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5ab8f04f86f774585f4237d8_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter description",
+        "failMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter name",
+        "note": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2000",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "42840",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 42840
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "100",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "80",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 80
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ab8ee7786f7742d8f33f0b9_Barter",
+                    "id": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter_Bashkir_Temporal_Id_5ab8ee7786f7742d8f33f0b9_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ab8ee7786f7742d8f33f0b9_Barter",
+                            "_tpl": "5ab8ee7786f7742d8f33f0b9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: VKBO army bag Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_56e33680d2720be2748b4576_Barter": {
+        "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5ab8ee7786f7742d8f33f0b9_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "2",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_56e33680d2720be2748b4576_Barter description",
+        "failMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_56e33680d2720be2748b4576_Barter name",
+        "note": "Tarkov_Mule_56e33680d2720be2748b4576_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "3000",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "37240",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 37240
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "150",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 150
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "120",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 120
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_56e33680d2720be2748b4576_Barter",
+                    "id": "Tarkov_Mule_56e33680d2720be2748b4576_Barter_Bashkir_Temporal_Id_56e33680d2720be2748b4576_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_56e33680d2720be2748b4576_Barter",
+                            "_tpl": "56e33680d2720be2748b4576",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Barter successMessageText",
+        "templateId": "Tarkov_Mule_56e33680d2720be2748b4576_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Transformer Bag Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_56e33680d2720be2748b4576_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_56e33680d2720be2748b4576_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_56e33680d2720be2748b4576_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter": {
+        "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_56e33680d2720be2748b4576_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "3",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter description",
+        "failMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter name",
+        "note": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "4000",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "60012",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 60012
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "200",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "160",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 160
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5f5e45cc5021ce62144be7aa_Barter",
+                    "id": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter_Bashkir_Temporal_Id_5f5e45cc5021ce62144be7aa_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f5e45cc5021ce62144be7aa_Barter",
+                            "_tpl": "5f5e45cc5021ce62144be7aa",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: LolKek 3F Transfer tourist backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter": {
+        "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5f5e45cc5021ce62144be7aa_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter description",
+        "failMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter name",
+        "note": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5000",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "72946",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 72946
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "250",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "200",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 200
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_544a5cde4bdc2d39388b456b_Barter",
+                    "id": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter_Bashkir_Temporal_Id_544a5cde4bdc2d39388b456b_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_544a5cde4bdc2d39388b456b_Barter",
+                            "_tpl": "544a5cde4bdc2d39388b456b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter successMessageText",
+        "templateId": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Flyye MBSS backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter": {
+        "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_544a5cde4bdc2d39388b456b_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter description",
+        "failMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter name",
+        "note": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "6000",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "106174",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 106174
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "300",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 300
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "240",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 240
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5ca20d5986f774331e7c9602_Barter",
+                    "id": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter_Bashkir_Temporal_Id_5ca20d5986f774331e7c9602_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5ca20d5986f774331e7c9602_Barter",
+                            "_tpl": "5ca20d5986f774331e7c9602",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: WARTECH Berkut BB-102 backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_60a2828e8689911a226117f9_Barter": {
+        "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5ca20d5986f774331e7c9602_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "5",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_60a2828e8689911a226117f9_Barter description",
+        "failMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_60a2828e8689911a226117f9_Barter name",
+        "note": "Tarkov_Mule_60a2828e8689911a226117f9_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "7000",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "111794",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 111794
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "350",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 350
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "280",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 280
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_60a2828e8689911a226117f9_Barter",
+                    "id": "Tarkov_Mule_60a2828e8689911a226117f9_Barter_Bashkir_Temporal_Id_60a2828e8689911a226117f9_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_60a2828e8689911a226117f9_Barter",
+                            "_tpl": "60a2828e8689911a226117f9",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Barter successMessageText",
+        "templateId": "Tarkov_Mule_60a2828e8689911a226117f9_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Hazard 4 Pillbox backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_60a2828e8689911a226117f9_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_60a2828e8689911a226117f9_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_60a2828e8689911a226117f9_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter": {
+        "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_60a2828e8689911a226117f9_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter description",
+        "failMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter name",
+        "note": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "8000",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "162882",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 162882
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "400",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "320",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 320
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_6034d103ca006d2dca39b3f0_Barter",
+                    "id": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter_Bashkir_Temporal_Id_6034d103ca006d2dca39b3f0_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_6034d103ca006d2dca39b3f0_Barter",
+                            "_tpl": "6034d103ca006d2dca39b3f0",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter successMessageText",
+        "templateId": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Hazard 4 Takedown sling backpack (Black) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_60a272cc93ef783291411d8e_Barter": {
+        "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_6034d103ca006d2dca39b3f0_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "6",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter description",
+        "failMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter name",
+        "note": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "9000",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "168196",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 168196
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "450",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 450
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "360",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 360
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_60a272cc93ef783291411d8e_Barter",
+                    "id": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter_Bashkir_Temporal_Id_60a272cc93ef783291411d8e_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_60a272cc93ef783291411d8e_Barter",
+                            "_tpl": "60a272cc93ef783291411d8e",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter successMessageText",
+        "templateId": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Hazard 4 Drawbridge backpack (Coyote Tan) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter": {
+        "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_60a272cc93ef783291411d8e_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter description",
+        "failMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter name",
+        "note": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "10000",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "188818",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 188818
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "500",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "400",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 400
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_618cfae774bb2d036a049e7c_Barter",
+                    "id": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter_Bashkir_Temporal_Id_618cfae774bb2d036a049e7c_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_618cfae774bb2d036a049e7c_Barter",
+                            "_tpl": "618cfae774bb2d036a049e7c",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter successMessageText",
+        "templateId": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: LBT-1476A 3Day Pack (Woodland) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5d5d940f86f7742797262046_Barter": {
+        "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_618cfae774bb2d036a049e7c_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5d5d940f86f7742797262046_Barter description",
+        "failMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5d5d940f86f7742797262046_Barter name",
+        "note": "Tarkov_Mule_5d5d940f86f7742797262046_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "11000",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "251926",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 251926
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "550",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 550
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "440",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 440
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5d5d940f86f7742797262046_Barter",
+                    "id": "Tarkov_Mule_5d5d940f86f7742797262046_Barter_Bashkir_Temporal_Id_5d5d940f86f7742797262046_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5d5d940f86f7742797262046_Barter",
+                            "_tpl": "5d5d940f86f7742797262046",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5d5d940f86f7742797262046_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Oakley Mechanism heavy duty backpack (Black) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5d5d940f86f7742797262046_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5d5d940f86f7742797262046_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5d5d940f86f7742797262046_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5e4abc6786f77406812bd572_Barter": {
+        "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5d5d940f86f7742797262046_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "7",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter description",
+        "failMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter name",
+        "note": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "12000",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "277514",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 277514
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "600",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 600
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "480",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 480
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5e4abc6786f77406812bd572_Barter",
+                    "id": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter_Bashkir_Temporal_Id_5e4abc6786f77406812bd572_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5e4abc6786f77406812bd572_Barter",
+                            "_tpl": "5e4abc6786f77406812bd572",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: LBT-2670 Slim Field Med Pack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter": {
+        "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5e4abc6786f77406812bd572_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter description",
+        "failMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter name",
+        "note": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "13000",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "270462",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 270462
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "650",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 650
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "520",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 520
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_545cdae64bdc2d39198b4568_Barter",
+                    "id": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter_Bashkir_Temporal_Id_545cdae64bdc2d39198b4568_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_545cdae64bdc2d39198b4568_Barter",
+                            "_tpl": "545cdae64bdc2d39198b4568",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter successMessageText",
+        "templateId": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Camelbak Tri-Zip assault backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter": {
+        "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_545cdae64bdc2d39198b4568_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter description",
+        "failMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter name",
+        "note": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "14000",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "276272",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 276272
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "700",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 700
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "560",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 560
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5b44c6ae86f7742d1627baea_Barter",
+                    "id": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter_Bashkir_Temporal_Id_5b44c6ae86f7742d1627baea_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5b44c6ae86f7742d1627baea_Barter",
+                            "_tpl": "5b44c6ae86f7742d1627baea",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: ANA Tactical Beta 2 Battle backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter": {
+        "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5b44c6ae86f7742d1627baea_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "9",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter description",
+        "failMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter name",
+        "note": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "15000",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "273000",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 273000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "750",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 750
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "600",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 600
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c0e805e86f774683f3dd637_Barter",
+                    "id": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter_Bashkir_Temporal_Id_5c0e805e86f774683f3dd637_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c0e805e86f774683f3dd637_Barter",
+                            "_tpl": "5c0e805e86f774683f3dd637",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: 3V Gear Paratus 3-Day Operator's Tactical backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_6034d2d697633951dc245ea6_Barter": {
+        "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5c0e805e86f774683f3dd637_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "9",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter description",
+        "failMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter name",
+        "note": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "16000",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "468284",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 468284
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "800",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "640",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 640
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_6034d2d697633951dc245ea6_Barter",
+                    "id": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter_Bashkir_Temporal_Id_6034d2d697633951dc245ea6_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_6034d2d697633951dc245ea6_Barter",
+                            "_tpl": "6034d2d697633951dc245ea6",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter successMessageText",
+        "templateId": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Eberlestock G2 Gunslinger II backpack (Dry Earth) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter": {
+        "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_6034d2d697633951dc245ea6_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "10",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter description",
+        "failMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter name",
+        "note": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "17000",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "329000",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 329000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "850",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 850
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "680",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 680
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5f5e46b96bdad616ad46d613_Barter",
+                    "id": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter_Bashkir_Temporal_Id_5f5e46b96bdad616ad46d613_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5f5e46b96bdad616ad46d613_Barter",
+                            "_tpl": "5f5e46b96bdad616ad46d613",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Eberlestock F4 Terminator load bearing backpack (Tiger Stripe) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_59e763f286f7742ee57895da_Barter": {
+        "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5f5e46b96bdad616ad46d613_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "12",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_59e763f286f7742ee57895da_Barter description",
+        "failMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_59e763f286f7742ee57895da_Barter name",
+        "note": "Tarkov_Mule_59e763f286f7742ee57895da_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "18000",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "303776",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 303776
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "900",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 900
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "720",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 720
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_59e763f286f7742ee57895da_Barter",
+                    "id": "Tarkov_Mule_59e763f286f7742ee57895da_Barter_Bashkir_Temporal_Id_59e763f286f7742ee57895da_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_59e763f286f7742ee57895da_Barter",
+                            "_tpl": "59e763f286f7742ee57895da",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Barter successMessageText",
+        "templateId": "Tarkov_Mule_59e763f286f7742ee57895da_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Pilgrim tourist backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_59e763f286f7742ee57895da_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_59e763f286f7742ee57895da_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_59e763f286f7742ee57895da_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter": {
+        "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_59e763f286f7742ee57895da_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "15",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter description",
+        "failMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter name",
+        "note": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "19000",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_5449016a4bdc2d6f028b456f_4_id",
+                    "value": "366000",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_5449016a4bdc2d6f028b456f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_5449016a4bdc2d6f028b456f_4_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 366000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_5696686a4bdc2da3298b456a_5_id",
+                    "value": "950",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_5696686a4bdc2da3298b456a_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_5696686a4bdc2da3298b456a_5_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 950
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_569668774bdc2da2298b4568_6_id",
+                    "value": "760",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_569668774bdc2da2298b4568_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_569668774bdc2da2298b4568_6_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 760
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5c0e774286f77468413cc5b2_Barter",
+                    "id": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter_Bashkir_Temporal_Id_5c0e774286f77468413cc5b2_Barter_7",
+                    "type": "AssortmentUnlock",
+                    "index": 7,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5c0e774286f77468413cc5b2_Barter",
+                            "_tpl": "5c0e774286f77468413cc5b2",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: Mystery Ranch Blackjack 50 backpack (Multicam) Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter": {
+        "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Tarkov_Mule_5c0e774286f77468413cc5b2_Barter"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "5ab8f04f86f774585f4237d8",
+                            "5ab8ee7786f7742d8f33f0b9",
+                            "56e33680d2720be2748b4576",
+                            "5f5e45cc5021ce62144be7aa",
+                            "544a5cde4bdc2d39388b456b",
+                            "5ca20d5986f774331e7c9602",
+                            "60a2828e8689911a226117f9",
+                            "6034d103ca006d2dca39b3f0",
+                            "60a272cc93ef783291411d8e",
+                            "618cfae774bb2d036a049e7c",
+                            "5d5d940f86f7742797262046",
+                            "5e4abc6786f77406812bd572",
+                            "545cdae64bdc2d39198b4568",
+                            "5b44c6ae86f7742d1627baea",
+                            "5c0e805e86f774683f3dd637",
+                            "6034d2d697633951dc245ea6",
+                            "5f5e46b96bdad616ad46d613",
+                            "59e763f286f7742ee57895da",
+                            "5c0e774286f77468413cc5b2",
+                            "5df8a4d786f77412672a1e3b",
+                            "56e33634d2720bd8058b456b",
+                            "5e997f0b86f7741ac73993e2",
+                            "56e335e4d2720b6c058b456d",
+                            "5e9dcf5986f7746c417435b3",
+                            "6038d614d10cbf667352dd44",
+                            "618bb76513f5097c8d5aa2d5",
+                            "619cf0335771dd3c390269ae",
+                            "5f5e467b0bc58666c37e7821",
+                            "61b9e1aaef9a1b5d6a79899a",
+                            "5ab8ebf186f7742d8b372e80"
+                        ],
+                        "value": "20",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter description",
+        "failMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter failMessageText",
+        "image": "/files/quest/icon/5d69483686f77414077d1cca.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter name",
+        "note": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "20000",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_59fb042886f7746c5005a7b2_4_id",
+                    "value": "1",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_59fb042886f7746c5005a7b2_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_59fb042886f7746c5005a7b2_4_id",
+                            "_tpl": "59fb042886f7746c5005a7b2",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "410000",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 410000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_5696686a4bdc2da3298b456a_6_id",
+                    "value": "1000",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_569668774bdc2da2298b4568_7_id",
+                    "value": "800",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 800
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Bashkir_Temporal_Id_5df8a4d786f77412672a1e3b_Barter",
+                    "id": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter_Bashkir_Temporal_Id_5df8a4d786f77412672a1e3b_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Bashkir_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Bashkir_Temporal_Id_5df8a4d786f77412672a1e3b_Barter",
+                            "_tpl": "5df8a4d786f77412672a1e3b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter startedMessageText",
+        "successMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter successMessageText",
+        "templateId": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter",
+        "traderId": "Bashkir_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Bsh] Tarkov Mule: 6Sh118 raid backpack Barter",
+        "acceptPlayerMessage": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter acceptPlayerMessage",
+        "changeQuestMessageText": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter changeQuestMessageText",
+        "completePlayerMessage": "Tarkov_Mule_5df8a4d786f77412672a1e3b_Barter completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

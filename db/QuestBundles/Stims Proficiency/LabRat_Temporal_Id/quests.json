@@ -1,0 +1,3979 @@
+{
+  "Stims_Proficiency_Stims_Barter": {
+    "QuestName": "[Lab] Stims Proficiency: Stims Barter",
+    "_id": "Stims_Proficiency_Stims_Barter",
+    "acceptPlayerMessage": "Stims_Proficiency_Stims_Barter acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_Stims_Barter changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_Stims_Barter completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "HandoverItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_Stims_Barter_Handover_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 0,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5ed515f6915ec335206e4152",
+            "5c10c8fd86f7743d7d706df3",
+            "5ed51652f6c34d2cc26336a1",
+            "5c0e530286f7747fa1419862",
+            "5ed515e03a40a50460332579",
+            "5ed515ece452db0eb56fc028",
+            "5ed5160a87bb8443d10680b5",
+            "5ed515c8d380ab312177c0fa",
+            "5ed5166ad380ab312177c100",
+            "5fca13ca637ee0341a484f46",
+            "5c0e534186f7747fa1419867",
+            "5c0e533786f7747fa23f4d47",
+            "5c0e531d86f7747fa23f4d42",
+            "5fca138c2a7b221b2852a5c6",
+            "5c0e531286f7747fa54205c2"
+          ],
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_Stims_Barter declinePlayerMessage",
+    "description": "Stims_Proficiency_Stims_Barter description",
+    "failMessageText": "Stims_Proficiency_Stims_Barter failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_Stims_Barter name",
+    "note": "Stims_Proficiency_Stims_Barter note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_Stims_Barter_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5c10c8fd86f7743d7d706df3_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5c10c8fd86f7743d7d706df3_4_id",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5c10c8fd86f7743d7d706df3_4_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5c0e533786f7747fa23f4d47_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5c0e533786f7747fa23f4d47_5_id",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5c0e533786f7747fa23f4d47_5_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed515ece452db0eb56fc028_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed515ece452db0eb56fc028_6_id",
+              "_tpl": "5ed515ece452db0eb56fc028",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed515ece452db0eb56fc028_6_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed515c8d380ab312177c0fa_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed515c8d380ab312177c0fa_7_id",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed515c8d380ab312177c0fa_7_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed515f6915ec335206e4152_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed515f6915ec335206e4152_8_id",
+              "_tpl": "5ed515f6915ec335206e4152",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed515f6915ec335206e4152_8_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5c0e530286f7747fa1419862_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5c0e530286f7747fa1419862_9_id",
+              "_tpl": "5c0e530286f7747fa1419862",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5c0e530286f7747fa1419862_9_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed515e03a40a50460332579_10",
+          "index": 10,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed515e03a40a50460332579_10_id",
+              "_tpl": "5ed515e03a40a50460332579",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed515e03a40a50460332579_10_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed5166ad380ab312177c100_11",
+          "index": 11,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed5166ad380ab312177c100_11_id",
+              "_tpl": "5ed5166ad380ab312177c100",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed5166ad380ab312177c100_11_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5fca138c2a7b221b2852a5c6_12",
+          "index": 12,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5fca138c2a7b221b2852a5c6_12_id",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5fca138c2a7b221b2852a5c6_12_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed5160a87bb8443d10680b5_13",
+          "index": 13,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed5160a87bb8443d10680b5_13_id",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed5160a87bb8443d10680b5_13_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5c0e531286f7747fa54205c2_14",
+          "index": 14,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5c0e531286f7747fa54205c2_14_id",
+              "_tpl": "5c0e531286f7747fa54205c2",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5c0e531286f7747fa54205c2_14_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5c0e531d86f7747fa23f4d42_15",
+          "index": 15,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5c0e531d86f7747fa23f4d42_15_id",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5c0e531d86f7747fa23f4d42_15_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5fca13ca637ee0341a484f46_16",
+          "index": 16,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5fca13ca637ee0341a484f46_16_id",
+              "_tpl": "5fca13ca637ee0341a484f46",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5fca13ca637ee0341a484f46_16_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5ed51652f6c34d2cc26336a1_17",
+          "index": 17,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5ed51652f6c34d2cc26336a1_17_id",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5ed51652f6c34d2cc26336a1_17_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5c0e534186f7747fa1419867_18",
+          "index": 18,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5c0e534186f7747fa1419867_18_id",
+              "_tpl": "5c0e534186f7747fa1419867",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5c0e534186f7747fa1419867_18_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5449016a4bdc2d6f028b456f_19",
+          "index": 19,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5449016a4bdc2d6f028b456f_19_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 250000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5449016a4bdc2d6f028b456f_19_id",
+          "type": "Item",
+          "value": "250000"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_5696686a4bdc2da3298b456a_20",
+          "index": 20,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_5696686a4bdc2da3298b456a_20_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_5696686a4bdc2da3298b456a_20_id",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_569668774bdc2da2298b4568_21",
+          "index": 21,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_Stims_Barter_569668774bdc2da2298b4568_21_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 1000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_Stims_Barter_569668774bdc2da2298b4568_21_id",
+          "type": "Item",
+          "value": "1000"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter_22",
+          "index": 22,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter_23",
+          "index": 23,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter_24",
+          "index": 24,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter",
+              "_tpl": "5ed515ece452db0eb56fc028",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter_25",
+          "index": 25,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter_26",
+          "index": 26,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter",
+              "_tpl": "5ed515f6915ec335206e4152",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter_27",
+          "index": 27,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter",
+              "_tpl": "5c0e530286f7747fa1419862",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter_28",
+          "index": 28,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter",
+              "_tpl": "5ed515e03a40a50460332579",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter_29",
+          "index": 29,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter",
+              "_tpl": "5ed5166ad380ab312177c100",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter_30",
+          "index": 30,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter_31",
+          "index": 31,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter_32",
+          "index": 32,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter",
+              "_tpl": "5c0e531286f7747fa54205c2",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter_33",
+          "index": 33,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter_34",
+          "index": 34,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter",
+              "_tpl": "5fca13ca637ee0341a484f46",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter_35",
+          "index": 35,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        },
+        {
+          "id": "Stims_Proficiency_Stims_Barter_LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter_36",
+          "index": 36,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter",
+              "_tpl": "5c0e534186f7747fa1419867",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Barter",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_Stims_Barter startedMessageText",
+    "successMessageText": "Stims_Proficiency_Stims_Barter successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "Elimination"
+  },
+  "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: Adrenaline injector Trade",
+    "_id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_Stims_Barter"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade description",
+    "failMessageText": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade name",
+    "note": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5c10c8fd86f7743d7d706df3_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5c10c8fd86f7743d7d706df3_5_id",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5c10c8fd86f7743d7d706df3_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade_LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Trade",
+              "_tpl": "5c10c8fd86f7743d7d706df3",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c10c8fd86f7743d7d706df3_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: Zagustin hemostatic drug injector Trade",
+    "_id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5c10c8fd86f7743d7d706df3_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade description",
+    "failMessageText": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade name",
+    "note": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5c0e533786f7747fa23f4d47_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5c0e533786f7747fa23f4d47_5_id",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5c0e533786f7747fa23f4d47_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade_LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Trade",
+              "_tpl": "5c0e533786f7747fa23f4d47",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e533786f7747fa23f4d47_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: P22 injector Trade",
+    "_id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5c0e533786f7747fa23f4d47_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade name",
+    "note": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5ed515ece452db0eb56fc028_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5ed515ece452db0eb56fc028_5_id",
+              "_tpl": "5ed515ece452db0eb56fc028",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5ed515ece452db0eb56fc028_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade_LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Trade",
+              "_tpl": "5ed515ece452db0eb56fc028",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515ece452db0eb56fc028_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: 3-(b-TG) stimulant injector Trade",
+    "_id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed515ece452db0eb56fc028_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade name",
+    "note": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5ed515c8d380ab312177c0fa_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5ed515c8d380ab312177c0fa_5_id",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5ed515c8d380ab312177c0fa_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade_LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Trade",
+              "_tpl": "5ed515c8d380ab312177c0fa",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515c8d380ab312177c0fa_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed515f6915ec335206e4152_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: AHF1-M stimulant injector Trade",
+    "_id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed515c8d380ab312177c0fa_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade name",
+    "note": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5ed515f6915ec335206e4152_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5ed515f6915ec335206e4152_5_id",
+              "_tpl": "5ed515f6915ec335206e4152",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5ed515f6915ec335206e4152_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade_LabRat_Temporal_Id_5ed515f6915ec335206e4152_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Trade",
+              "_tpl": "5ed515f6915ec335206e4152",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515f6915ec335206e4152_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5c0e530286f7747fa1419862_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: Propital regenerative stimulant injector Trade",
+    "_id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed515f6915ec335206e4152_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade description",
+    "failMessageText": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade name",
+    "note": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5c0e530286f7747fa1419862_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5c0e530286f7747fa1419862_5_id",
+              "_tpl": "5c0e530286f7747fa1419862",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5c0e530286f7747fa1419862_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade_LabRat_Temporal_Id_5c0e530286f7747fa1419862_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Trade",
+              "_tpl": "5c0e530286f7747fa1419862",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e530286f7747fa1419862_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed515e03a40a50460332579_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: L1 (Norepinephrine) injector Trade",
+    "_id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed515e03a40a50460332579_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed515e03a40a50460332579_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed515e03a40a50460332579_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5c0e530286f7747fa1419862_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed515e03a40a50460332579_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed515e03a40a50460332579_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed515e03a40a50460332579_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed515e03a40a50460332579_Trade name",
+    "note": "Stims_Proficiency_5ed515e03a40a50460332579_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5ed515e03a40a50460332579_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5ed515e03a40a50460332579_5_id",
+              "_tpl": "5ed515e03a40a50460332579",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5ed515e03a40a50460332579_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed515e03a40a50460332579_Trade_LabRat_Temporal_Id_5ed515e03a40a50460332579_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Trade",
+              "_tpl": "5ed515e03a40a50460332579",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed515e03a40a50460332579_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed515e03a40a50460332579_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed515e03a40a50460332579_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed5166ad380ab312177c100_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: 'Obdolbos' cocktail injector Trade",
+    "_id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed515e03a40a50460332579_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade name",
+    "note": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5ed5166ad380ab312177c100_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5ed5166ad380ab312177c100_5_id",
+              "_tpl": "5ed5166ad380ab312177c100",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5ed5166ad380ab312177c100_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade_LabRat_Temporal_Id_5ed5166ad380ab312177c100_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Trade",
+              "_tpl": "5ed5166ad380ab312177c100",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed5166ad380ab312177c100_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: xTG-12 antidote injector Trade",
+    "_id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed5166ad380ab312177c100_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade description",
+    "failMessageText": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade name",
+    "note": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5fca138c2a7b221b2852a5c6_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5fca138c2a7b221b2852a5c6_5_id",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5fca138c2a7b221b2852a5c6_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade_LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Trade",
+              "_tpl": "5fca138c2a7b221b2852a5c6",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5fca138c2a7b221b2852a5c6_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: Meldonin injector Trade",
+    "_id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5fca138c2a7b221b2852a5c6_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade name",
+    "note": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5ed5160a87bb8443d10680b5_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5ed5160a87bb8443d10680b5_5_id",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5ed5160a87bb8443d10680b5_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade_LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Trade",
+              "_tpl": "5ed5160a87bb8443d10680b5",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed5160a87bb8443d10680b5_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: SJ1 TGLabs combat stimulant injector Trade",
+    "_id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed5160a87bb8443d10680b5_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade description",
+    "failMessageText": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade name",
+    "note": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5c0e531286f7747fa54205c2_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5c0e531286f7747fa54205c2_5_id",
+              "_tpl": "5c0e531286f7747fa54205c2",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5c0e531286f7747fa54205c2_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade_LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Trade",
+              "_tpl": "5c0e531286f7747fa54205c2",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e531286f7747fa54205c2_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: SJ6 TGLabs combat stimulant injector Trade",
+    "_id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5c0e531286f7747fa54205c2_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade description",
+    "failMessageText": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade name",
+    "note": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5c0e531d86f7747fa23f4d42_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5c0e531d86f7747fa23f4d42_5_id",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5c0e531d86f7747fa23f4d42_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade_LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Trade",
+              "_tpl": "5c0e531d86f7747fa23f4d42",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e531d86f7747fa23f4d42_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: SJ9 TGLabs combat stimulant injector Trade",
+    "_id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5c0e531d86f7747fa23f4d42_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade description",
+    "failMessageText": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade name",
+    "note": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5fca13ca637ee0341a484f46_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5fca13ca637ee0341a484f46_5_id",
+              "_tpl": "5fca13ca637ee0341a484f46",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5fca13ca637ee0341a484f46_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade_LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Trade",
+              "_tpl": "5fca13ca637ee0341a484f46",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5fca13ca637ee0341a484f46_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: M.U.L.E. stimulant injector Trade",
+    "_id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5fca13ca637ee0341a484f46_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade description",
+    "failMessageText": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade name",
+    "note": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5ed51652f6c34d2cc26336a1_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5ed51652f6c34d2cc26336a1_5_id",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5ed51652f6c34d2cc26336a1_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade_LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Trade",
+              "_tpl": "5ed51652f6c34d2cc26336a1",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5ed51652f6c34d2cc26336a1_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  },
+  "Stims_Proficiency_5c0e534186f7747fa1419867_Trade": {
+    "QuestName": "[Lab] Stims Proficiency: eTG-change regenerative stimulant injector Trade",
+    "_id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade",
+    "acceptPlayerMessage": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade changeQuestMessageText",
+    "completePlayerMessage": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_0_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_1_subcondition_0",
+                "target": "AnyPmc",
+                "value": "1"
+              },
+              {
+                "bodyPartsWithEffects": [
+                  {
+                    "bodyParts": [
+                      "Head",
+                      "Chest",
+                      "Stomach",
+                      "LeftArm",
+                      "RightArm",
+                      "LeftLeg",
+                      "RightLeg"
+                    ],
+                    "effects": [
+                      "Stimulator"
+                    ]
+                  }
+                ],
+                "conditionType": "HealthEffect",
+                "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_1_subcondition_1"
+              }
+            ],
+            "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_1_counter_1"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Elim_1",
+          "index": 1,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "3",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Stims_Proficiency_5ed51652f6c34d2cc26336a1_Trade"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade declinePlayerMessage",
+    "description": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade description",
+    "failMessageText": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade failMessageText",
+    "image": "/files/quest/icon/5969f96786f7741dde183a4f.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade name",
+    "note": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_Experience_4",
+          "index": 4,
+          "type": "Experience",
+          "value": "3000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5c0e534186f7747fa1419867_5",
+          "index": 5,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5c0e534186f7747fa1419867_5_id",
+              "_tpl": "5c0e534186f7747fa1419867",
+              "upd": {
+                "StackObjectsCount": 2
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5c0e534186f7747fa1419867_5_id",
+          "type": "Item",
+          "value": "2"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5449016a4bdc2d6f028b456f_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5449016a4bdc2d6f028b456f_6_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 100000
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5449016a4bdc2d6f028b456f_6_id",
+          "type": "Item",
+          "value": "100000"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5696686a4bdc2da3298b456a_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5696686a4bdc2da3298b456a_7_id",
+              "_tpl": "5696686a4bdc2da3298b456a",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_5696686a4bdc2da3298b456a_7_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_569668774bdc2da2298b4568_8",
+          "index": 8,
+          "items": [
+            {
+              "_id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_569668774bdc2da2298b4568_8_id",
+              "_tpl": "569668774bdc2da2298b4568",
+              "upd": {
+                "StackObjectsCount": 250
+              }
+            }
+          ],
+          "target": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_569668774bdc2da2298b4568_8_id",
+          "type": "Item",
+          "value": "250"
+        },
+        {
+          "id": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade_LabRat_Temporal_Id_5c0e534186f7747fa1419867_Trade_9",
+          "index": 9,
+          "items": [
+            {
+              "_id": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Trade",
+              "_tpl": "5c0e534186f7747fa1419867",
+              "parentId": "hideout",
+              "slotId": "hideout"
+            }
+          ],
+          "loyaltyLevel": 1,
+          "target": "LabRat_Temporal_Id_5c0e534186f7747fa1419867_Trade",
+          "traderId": "LabRat_Temporal_Id",
+          "type": "AssortmentUnlock"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade startedMessageText",
+    "successMessageText": "Stims_Proficiency_5c0e534186f7747fa1419867_Trade successMessageText",
+    "traderId": "LabRat_Temporal_Id",
+    "type": "PickUp"
+  }
+}

@@ -1,0 +1,698 @@
+{
+    "KillBoard_Generic_579dc571d53a0658a154fbec": {
+        "_id": "KillBoard_Generic_579dc571d53a0658a154fbec",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_0_counter_0",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_0_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_0",
+                        "index": 0,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "10000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_1_counter_1",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "AnyPmc",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_1_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_1",
+                        "index": 1,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "5000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_2_counter_2",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Bear",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_2_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_2",
+                        "index": 2,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_3_counter_3",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Usec",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_3_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_3",
+                        "index": 3,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_4_counter_4",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "exUsec"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_4_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_4",
+                        "index": 4,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_5_counter_5",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "pmcBot"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_5_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_5",
+                        "index": 5,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2500",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_6_counter_6",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "marksman"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_6_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_6",
+                        "index": 6,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_7_counter_7",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossKilla"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_7_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_7",
+                        "index": 7,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_8_counter_8",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossGluhar"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_8_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_8",
+                        "index": 8,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_9_counter_9",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossTagilla"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_9_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_9",
+                        "index": 9,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_10_counter_10",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossBully"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_10_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_10",
+                        "index": 10,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_11_counter_11",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossSanitar"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_11_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_11",
+                        "index": 11,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_12_counter_12",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "bossKojaniy"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_12_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_12",
+                        "index": 12,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_13_counter_13",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "sectantPriest"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_13_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_13",
+                        "index": 13,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "1000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_14_counter_14",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "sectantWarrior"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_14_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_14",
+                        "index": 14,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_15_counter_15",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerBully"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_15_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_15",
+                        "index": 15,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_16_counter_16",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerSanitar"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_16_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_16",
+                        "index": 16,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_17_counter_17",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerKojaniy"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_17_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_17",
+                        "index": 17,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_18_counter_18",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerGluharScout"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_18_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_18",
+                        "index": 18,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_19_counter_19",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerGluharAssault"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_19_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_19",
+                        "index": 19,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "CounterCreator",
+                    "_props": {
+                        "counter": {
+                            "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_20_counter_20",
+                            "conditions": [
+                                {
+                                    "_parent": "Kills",
+                                    "_props": {
+                                        "target": "Savage",
+                                        "compareMethod": ">=",
+                                        "value": "1",
+                                        "savageRole": [
+                                            "followerGluharSecurity"
+                                        ],
+                                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_20_subcondition_0"
+                                    }
+                                }
+                            ]
+                        },
+                        "doNotResetIfCounterCompleted": false,
+                        "dynamicLocale": false,
+                        "id": "KillBoard_Generic_579dc571d53a0658a154fbec_Elim_20",
+                        "index": 20,
+                        "oneSessionOnly": false,
+                        "parentId": "",
+                        "type": "Elimination",
+                        "value": "2000",
+                        "visibilityConditions": []
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "KillBoard_Generic_579dc571d53a0658a154fbec description",
+        "failMessageText": "KillBoard_Generic_579dc571d53a0658a154fbec failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "KillBoard_Generic_579dc571d53a0658a154fbec name",
+        "note": "KillBoard_Generic_579dc571d53a0658a154fbec note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "KillBoard_Generic_579dc571d53a0658a154fbec startedMessageText",
+        "successMessageText": "KillBoard_Generic_579dc571d53a0658a154fbec successMessageText",
+        "templateId": "KillBoard_Generic_579dc571d53a0658a154fbec",
+        "traderId": "579dc571d53a0658a154fbec",
+        "type": "Elimination",
+        "QuestName": "### Killboard",
+        "acceptPlayerMessage": "KillBoard_Generic_579dc571d53a0658a154fbec acceptPlayerMessage",
+        "changeQuestMessageText": "KillBoard_Generic_579dc571d53a0658a154fbec changeQuestMessageText",
+        "completePlayerMessage": "KillBoard_Generic_579dc571d53a0658a154fbec completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

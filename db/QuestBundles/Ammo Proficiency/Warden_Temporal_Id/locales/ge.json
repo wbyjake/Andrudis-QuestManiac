@@ -1,0 +1,12 @@
+{
+    "Ammo_Proficiency_Introduction name": "[War] Munitionsbeherrschung: Einführung",
+    "Ammo_Proficiency_Introduction note": "",
+    "Ammo_Proficiency_Introduction description": "Pssst! Du siehst aus wie jemand, der etwas Munition gebrauchen könnte, habe ich recht? Aber keiner will dir welche verkaufen, hä? Ich kann dir dabei helfen, aber meine Empfehlung wird nicht günstig sein... Bist du interessiert?",
+    "Ammo_Proficiency_Introduction startedMessageText": "[War] Quest angenommen: '[War] Munitionsbeherrschung: Einführung'!",
+    "Ammo_Proficiency_Introduction failMessageText": "[War] Quest fehlgeschlagen: '[War] Munitionsbeherrschung: Einführung'!",
+    "Ammo_Proficiency_Introduction successMessageText": "[War] Quest beendet: '[War] Munitionsbeherrschung: Einführung'!",
+    "Ammo_Proficiency_Introduction acceptPlayerMessage": "",
+    "Ammo_Proficiency_Introduction declinePlayerMessage": "",
+    "Ammo_Proficiency_Introduction completePlayerMessage": "",
+    "Ammo_Proficiency_Introduction_Handover_0": "Übergebe 1000 einer beliebigen Munition."
+}

@@ -1,0 +1,1431 @@
+{
+    "Weapon_Proficiency_Shotgun_Barter_Rookie": {
+        "_id": "Weapon_Proficiency_Shotgun_Barter_Rookie",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "576165642459773c7a400233",
+                            "5e848cc2988a8701445df1e8",
+                            "5a7828548dc32e5a9c28b516",
+                            "606dae0ab0e443224b421bb7",
+                            "56dee2bdd2720bc8328b4567",
+                            "54491c4f4bdc2db1078b4568",
+                            "5e870397991fd70db46995c8",
+                            "5580223e4bdc2d1c128b457f",
+                            "60db29ce99594040e04c4a27",
+                            "5a38e6bac4a2826c6e06d79b"
+                        ],
+                        "value": "4",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Shotgun_Barter_Rookie description",
+        "failMessageText": "Weapon_Proficiency_Shotgun_Barter_Rookie failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Shotgun_Barter_Rookie name",
+        "note": "Weapon_Proficiency_Shotgun_Barter_Rookie note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Rookie_567143bf4bdc2d1a0f8b4567_4_id",
+                            "_tpl": "567143bf4bdc2d1a0f8b4567",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Rookie_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "12500",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Rookie_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 12500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Rookie_5696686a4bdc2da3298b456a_6_id",
+                    "value": "100",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Rookie_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Rookie_569668774bdc2da2298b4568_7_id",
+                    "value": "100",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Rookie_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 100
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+                            "_tpl": "5580223e4bdc2d1c128b457f",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter_mod_barrel",
+                            "_tpl": "55d447bb4bdc2d892f8b456f",
+                            "parentId": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter_mod_stock",
+                            "_tpl": "611a31ce5b7ffe001b4649d1",
+                            "parentId": "Elder_Temporal_Id_5580223e4bdc2d1c128b457f_Barter",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+                            "_tpl": "60db29ce99594040e04c4a27",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_magazine",
+                            "_tpl": "60dc519adf4c47305f6d410d",
+                            "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_barrel",
+                            "_tpl": "612368f58b401f4f51239b33",
+                            "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "619d36da53b4d42ee724fae4",
+                            "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_stock",
+                            "_tpl": "612781056f3d944a17348d60",
+                            "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter_mod_handguard",
+                            "_tpl": "6123649463849f3d843da7c4",
+                            "parentId": "Elder_Temporal_Id_60db29ce99594040e04c4a27_Barter",
+                            "slotId": "mod_handguard"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+                            "_tpl": "5a38e6bac4a2826c6e06d79b",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_magazine",
+                            "_tpl": "5a38ee51c4a282000c5a955c",
+                            "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_stock",
+                            "_tpl": "5a38ef1fc4a282000b1521f6",
+                            "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_stock_mod_pistol_grip",
+                            "_tpl": "5a38eecdc4a282329a73b512",
+                            "parentId": "Elder_Temporal_Id_5a38e6bac4a2826c6e06d79b_Barter_mod_stock",
+                            "slotId": "mod_pistol_grip"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5a38ee51c4a282000c5a955c_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Rookie_Elder_Temporal_Id_5a38ee51c4a282000c5a955c_Barter_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5a38ee51c4a282000c5a955c_Barter",
+                            "_tpl": "5a38ee51c4a282000c5a955c",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Shotgun_Barter_Rookie startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Shotgun_Barter_Rookie successMessageText",
+        "templateId": "Weapon_Proficiency_Shotgun_Barter_Rookie",
+        "traderId": "Elder_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Eld] Weapon Proficiency: Shotguns Barter - Rookie",
+        "acceptPlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Rookie acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Shotgun_Barter_Rookie changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Rookie completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Shotgun_Barter_Seasoned": {
+        "_id": "Weapon_Proficiency_Shotgun_Barter_Seasoned",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Parent_Quest_13",
+                        "index": 13,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "576165642459773c7a400233",
+                            "5e848cc2988a8701445df1e8",
+                            "5a7828548dc32e5a9c28b516",
+                            "606dae0ab0e443224b421bb7",
+                            "56dee2bdd2720bc8328b4567",
+                            "54491c4f4bdc2db1078b4568",
+                            "5e870397991fd70db46995c8"
+                        ],
+                        "value": "8",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Shotgun_Barter_Seasoned description",
+        "failMessageText": "Weapon_Proficiency_Shotgun_Barter_Seasoned failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Shotgun_Barter_Seasoned name",
+        "note": "Weapon_Proficiency_Shotgun_Barter_Seasoned note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "2500",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Experience_3",
+                    "type": "Experience",
+                    "index": 3
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5aafbde786f774389d0cbc0f_4_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5aafbde786f774389d0cbc0f_4",
+                    "type": "Item",
+                    "index": 4,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5aafbde786f774389d0cbc0f_4_id",
+                            "_tpl": "5aafbde786f774389d0cbc0f",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5449016a4bdc2d6f028b456f_5_id",
+                    "value": "31250",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5449016a4bdc2d6f028b456f_5",
+                    "type": "Item",
+                    "index": 5,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5449016a4bdc2d6f028b456f_5_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 31250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5696686a4bdc2da3298b456a_6_id",
+                    "value": "250",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5696686a4bdc2da3298b456a_6",
+                    "type": "Item",
+                    "index": 6,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_5696686a4bdc2da3298b456a_6_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned_569668774bdc2da2298b4568_7_id",
+                    "value": "250",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_569668774bdc2da2298b4568_7",
+                    "type": "Item",
+                    "index": 7,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_569668774bdc2da2298b4568_7_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 250
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_8",
+                    "type": "AssortmentUnlock",
+                    "index": 8,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                            "_tpl": "54491c4f4bdc2db1078b4568",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_barrel",
+                            "_tpl": "55d4491a4bdc2d882f8b456e",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_barrel_mod_muzzle",
+                            "_tpl": "560838c94bdc2d77798b4569",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_barrel",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard",
+                            "_tpl": "55d45f484bdc2d972f8b456d",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_foregrip",
+                            "_tpl": "588226d124597767ad33f787",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard",
+                            "slotId": "mod_foregrip"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_tactical_000",
+                            "_tpl": "57d17e212459775a1179a0f5",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard",
+                            "slotId": "mod_tactical_000"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_tactical_000_mod_flashlight",
+                            "_tpl": "59d790f486f77403cb06aec6",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_handguard_mod_tactical_000",
+                            "slotId": "mod_flashlight"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_magazine",
+                            "_tpl": "55d484b44bdc2d1d4e8b456d",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_stock",
+                            "_tpl": "56083be64bdc2d20478b456f",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001",
+                            "_tpl": "55d48a634bdc2d8b2f8b456a",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter",
+                            "slotId": "mod_mount_001"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001_mod_scope",
+                            "_tpl": "5a33b2c9c4a282000c5a9511",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001",
+                            "slotId": "mod_scope"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001_mod_scope_mod_scope",
+                            "_tpl": "5a32aa8bc4a2826c6e06d737",
+                            "parentId": "Elder_Temporal_Id_54491c4f4bdc2db1078b4568_Barter_mod_mount_001_mod_scope",
+                            "slotId": "mod_scope"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_9",
+                    "type": "AssortmentUnlock",
+                    "index": 9,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                            "_tpl": "5e870397991fd70db46995c8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_barrel",
+                            "_tpl": "5e87071478f43e51ca2de5e1",
+                            "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_barrel_mod_sight_front",
+                            "_tpl": "5e8708d4ae379e67d22e0102",
+                            "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_barrel",
+                            "slotId": "mod_sight_front"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_handguard",
+                            "_tpl": "5e87076ce2db31558c75a11d",
+                            "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_magazine",
+                            "_tpl": "5e87080c81c4ed43e83cefda",
+                            "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_stock",
+                            "_tpl": "5e87116b81c4ed43e83cefdd",
+                            "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter_mod_mount",
+                            "_tpl": "5e87114fe2db31558c75a120",
+                            "parentId": "Elder_Temporal_Id_5e870397991fd70db46995c8_Barter",
+                            "slotId": "mod_mount"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5e87080c81c4ed43e83cefda_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Elder_Temporal_Id_5e87080c81c4ed43e83cefda_Barter_10",
+                    "type": "AssortmentUnlock",
+                    "index": 10,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5e87080c81c4ed43e83cefda_Barter",
+                            "_tpl": "5e87080c81c4ed43e83cefda",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_56deee15d2720bee328b4567_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Seasoned_Elder_Temporal_Id_56deee15d2720bee328b4567_Barter_11",
+                    "type": "AssortmentUnlock",
+                    "index": 11,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_56deee15d2720bee328b4567_Barter",
+                            "_tpl": "56deee15d2720bee328b4567",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Shotgun_Barter_Seasoned startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Shotgun_Barter_Seasoned successMessageText",
+        "templateId": "Weapon_Proficiency_Shotgun_Barter_Seasoned",
+        "traderId": "Elder_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Eld] Weapon Proficiency: Shotguns Barter - Seasoned",
+        "acceptPlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Seasoned acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Shotgun_Barter_Seasoned changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Seasoned completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Shotgun_Barter_Veteran": {
+        "_id": "Weapon_Proficiency_Shotgun_Barter_Veteran",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Parent_Quest_18",
+                        "index": 18,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "576165642459773c7a400233",
+                            "5e848cc2988a8701445df1e8",
+                            "5a7828548dc32e5a9c28b516",
+                            "606dae0ab0e443224b421bb7",
+                            "56dee2bdd2720bc8328b4567"
+                        ],
+                        "value": "12",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Parent_Quest_1",
+                        "index": 1,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Parent_Quest_2",
+                        "index": 2,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Parent_Quest_3",
+                        "index": 3,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Parent_Quest_5",
+                        "index": 5,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Shotgun_Barter_Veteran description",
+        "failMessageText": "Weapon_Proficiency_Shotgun_Barter_Veteran failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Shotgun_Barter_Veteran name",
+        "note": "Weapon_Proficiency_Shotgun_Barter_Veteran note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "5000",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Experience_8",
+                    "type": "Experience",
+                    "index": 8
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Veteran_59fb023c86f7746d0d4b423c_9_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_59fb023c86f7746d0d4b423c_9",
+                    "type": "Item",
+                    "index": 9,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Veteran_59fb023c86f7746d0d4b423c_9_id",
+                            "_tpl": "59fb023c86f7746d0d4b423c",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Veteran_5449016a4bdc2d6f028b456f_10_id",
+                    "value": "62500",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_5449016a4bdc2d6f028b456f_10",
+                    "type": "Item",
+                    "index": 10,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Veteran_5449016a4bdc2d6f028b456f_10_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 62500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Veteran_5696686a4bdc2da3298b456a_11_id",
+                    "value": "500",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_5696686a4bdc2da3298b456a_11",
+                    "type": "Item",
+                    "index": 11,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Veteran_5696686a4bdc2da3298b456a_11_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Veteran_569668774bdc2da2298b4568_12_id",
+                    "value": "500",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_569668774bdc2da2298b4568_12",
+                    "type": "Item",
+                    "index": 12,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Veteran_569668774bdc2da2298b4568_12_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 500
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_13",
+                    "type": "AssortmentUnlock",
+                    "index": 13,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                            "_tpl": "5a7828548dc32e5a9c28b516",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_barrel",
+                            "_tpl": "5a787fdfc5856700142fdd9a",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_handguard",
+                            "_tpl": "5a788031c585673f2b5c1c79",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_handguard_mod_foregrip",
+                            "_tpl": "59fc48e086f77463b1118392",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_handguard",
+                            "slotId": "mod_foregrip"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_magazine",
+                            "_tpl": "5a7882dcc5856700177af662",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock",
+                            "_tpl": "5ae35b315acfc4001714e8b0",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_stock",
+                            "_tpl": "56eabf3bd2720b75698b4569",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_stock_mod_stock",
+                            "_tpl": "58d2912286f7744e27117493",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock_mod_pistol_grip",
+                            "_tpl": "55d4b9964bdc2d1d4e8b456e",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_stock",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_mount",
+                            "_tpl": "5a78948ec5856700177b1124",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter",
+                            "slotId": "mod_mount"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_mount_mod_scope",
+                            "_tpl": "584924ec24597768f12ae244",
+                            "parentId": "Elder_Temporal_Id_5a7828548dc32e5a9c28b516_Barter_mod_mount",
+                            "slotId": "mod_scope"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_14",
+                    "type": "AssortmentUnlock",
+                    "index": 14,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                            "_tpl": "606dae0ab0e443224b421bb7",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_barrel",
+                            "_tpl": "6076c1b9f2cb2e02a42acedc",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_handguard",
+                            "_tpl": "606ee5c81246154cad35d65e",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_magazine",
+                            "_tpl": "6076c87f232e5a31c233d50e",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock",
+                            "_tpl": "606eef46232e5a31c233d500",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock",
+                            "_tpl": "606eef756d0bd7580617baf8",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock_mod_stock",
+                            "_tpl": "606ef0812535c57a13424d20",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock_mod_tactical",
+                            "_tpl": "606f2696f2cb2e02a42aceb1",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_stock_mod_stock",
+                            "slotId": "mod_tactical"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter_mod_mount",
+                            "_tpl": "60785ce5132d4d12c81fd918",
+                            "parentId": "Elder_Temporal_Id_606dae0ab0e443224b421bb7_Barter",
+                            "slotId": "mod_mount"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5a7882dcc5856700177af662_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Elder_Temporal_Id_5a7882dcc5856700177af662_Barter_15",
+                    "type": "AssortmentUnlock",
+                    "index": 15,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5a7882dcc5856700177af662_Barter",
+                            "_tpl": "5a7882dcc5856700177af662",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5882163e24597758206fee8c_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Veteran_Elder_Temporal_Id_5882163e24597758206fee8c_Barter_16",
+                    "type": "AssortmentUnlock",
+                    "index": 16,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5882163e24597758206fee8c_Barter",
+                            "_tpl": "5882163e24597758206fee8c",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Shotgun_Barter_Veteran startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Shotgun_Barter_Veteran successMessageText",
+        "templateId": "Weapon_Proficiency_Shotgun_Barter_Veteran",
+        "traderId": "Elder_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Eld] Weapon Proficiency: Shotguns Barter - Veteran",
+        "acceptPlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Veteran acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Shotgun_Barter_Veteran changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Veteran completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    },
+    "Weapon_Proficiency_Shotgun_Barter_Elite": {
+        "_id": "Weapon_Proficiency_Shotgun_Barter_Elite",
+        "canShowNotificationsInGame": true,
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_23",
+                        "index": 23,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Veteran"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "AvailableForFinish": [
+                {
+                    "_parent": "HandoverItem",
+                    "_props": {
+                        "dogtagLevel": 0,
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Handover_0",
+                        "index": 0,
+                        "maxDurability": 0,
+                        "minDurability": 0,
+                        "onlyFoundInRaid": true,
+                        "parentId": "",
+                        "target": [
+                            "576165642459773c7a400233",
+                            "5e848cc2988a8701445df1e8"
+                        ],
+                        "value": "12",
+                        "visibilityConditions": [],
+                        "isEncoded": false
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_1",
+                        "index": 1,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_2",
+                        "index": 2,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_3",
+                        "index": 3,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_4",
+                        "index": 4,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_5",
+                        "index": 5,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Rookie"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_6",
+                        "index": 6,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Shotgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_7",
+                        "index": 7,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Handgun_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_8",
+                        "index": 8,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Assault_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_9",
+                        "index": 9,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Smg_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "dynamicLocale": false,
+                        "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Parent_Quest_10",
+                        "index": 10,
+                        "parentId": "",
+                        "status": [
+                            4
+                        ],
+                        "target": "Weapon_Proficiency_Marksman_Barter_Seasoned"
+                    },
+                    "dynamicLocale": false
+                }
+            ],
+            "Fail": []
+        },
+        "description": "Weapon_Proficiency_Shotgun_Barter_Elite description",
+        "failMessageText": "Weapon_Proficiency_Shotgun_Barter_Elite failMessageText",
+        "image": "/files/quest/icon/596b453b86f77457c827bf44.jpg",
+        "instantComplete": false,
+        "isKey": false,
+        "location": "any",
+        "name": "Weapon_Proficiency_Shotgun_Barter_Elite name",
+        "note": "Weapon_Proficiency_Shotgun_Barter_Elite note",
+        "restartable": false,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "value": "10000",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Experience_13",
+                    "type": "Experience",
+                    "index": 13
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Elite_5b6d9ce188a4501afc1b2b25_14_id",
+                    "value": "1",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_5b6d9ce188a4501afc1b2b25_14",
+                    "type": "Item",
+                    "index": 14,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Elite_5b6d9ce188a4501afc1b2b25_14_id",
+                            "_tpl": "5b6d9ce188a4501afc1b2b25",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Elite_5449016a4bdc2d6f028b456f_15_id",
+                    "value": "125000",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_5449016a4bdc2d6f028b456f_15",
+                    "type": "Item",
+                    "index": 15,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Elite_5449016a4bdc2d6f028b456f_15_id",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 125000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Elite_5696686a4bdc2da3298b456a_16_id",
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_5696686a4bdc2da3298b456a_16",
+                    "type": "Item",
+                    "index": 16,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Elite_5696686a4bdc2da3298b456a_16_id",
+                            "_tpl": "5696686a4bdc2da3298b456a",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Weapon_Proficiency_Shotgun_Barter_Elite_569668774bdc2da2298b4568_17_id",
+                    "value": "1000",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_569668774bdc2da2298b4568_17",
+                    "type": "Item",
+                    "index": 17,
+                    "items": [
+                        {
+                            "_id": "Weapon_Proficiency_Shotgun_Barter_Elite_569668774bdc2da2298b4568_17_id",
+                            "_tpl": "569668774bdc2da2298b4568",
+                            "upd": {
+                                "StackObjectsCount": 1000
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Elder_Temporal_Id_576165642459773c7a400233_Barter_18",
+                    "type": "AssortmentUnlock",
+                    "index": 18,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "_tpl": "576165642459773c7a400233",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_mount_000",
+                            "_tpl": "5c90c3622e221601da359851",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_mount_000"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_mount_000_mod_scope",
+                            "_tpl": "5d1b5e94d7ad1a2b865a96b0",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_mount_000",
+                            "slotId": "mod_scope"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+                            "_tpl": "58272b392459774b4c7b3ccd",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_foregrip",
+                            "_tpl": "5c1cd46f2e22164bef5cfedb",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+                            "slotId": "mod_foregrip"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_tactical_000",
+                            "_tpl": "5c5952732e2216398b5abda2",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+                            "slotId": "mod_tactical_000"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_tactical_001",
+                            "_tpl": "5b3a337e5acfc4704b4a19a0",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+                            "slotId": "mod_tactical_001"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard_mod_tactical_002",
+                            "_tpl": "5b3a337e5acfc4704b4a19a0",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_handguard",
+                            "slotId": "mod_tactical_002"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_muzzle",
+                            "_tpl": "59c0ec5b86f77435b128bfca",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_muzzle"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_pistol_grip",
+                            "_tpl": "5947f92f86f77427344a76b1",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_pistol_grip"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_reciever",
+                            "_tpl": "57616c112459773cce774d66",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_reciever"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_sight_rear",
+                            "_tpl": "57a9b9ce2459770ee926038d",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_sight_rear"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock",
+                            "_tpl": "5cf50fc5d7f00c056c53f83c",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock_mod_stock",
+                            "_tpl": "58d2946c86f7744e271174b5",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock_mod_stock_mod_stock",
+                            "_tpl": "58d2912286f7744e27117493",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_stock_mod_stock",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_576165642459773c7a400233_Barter_mod_magazine",
+                            "_tpl": "5cf8f3b0d7f00c00217872ef",
+                            "parentId": "Elder_Temporal_Id_576165642459773c7a400233_Barter",
+                            "slotId": "mod_magazine"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_19",
+                    "type": "AssortmentUnlock",
+                    "index": 19,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+                            "_tpl": "5e848cc2988a8701445df1e8",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_barrel",
+                            "_tpl": "5e848d1c264f7c180b5e35a9",
+                            "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+                            "slotId": "mod_barrel"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_handguard",
+                            "_tpl": "5e848d51e4dbc5266a4ec63b",
+                            "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+                            "slotId": "mod_handguard"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_magazine",
+                            "_tpl": "5f647d9f8499b57dc40ddb93",
+                            "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+                            "slotId": "mod_magazine"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_stock",
+                            "_tpl": "5e848d99865c0f329958c83b",
+                            "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter",
+                            "slotId": "mod_stock"
+                        },
+                        {
+                            "_id": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_stock_mod_stock",
+                            "_tpl": "5e848dc4e4dbc5266a4ec63d",
+                            "parentId": "Elder_Temporal_Id_5e848cc2988a8701445df1e8_Barter_mod_stock",
+                            "slotId": "mod_stock"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_57616a9e2459773c7a400234_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Elder_Temporal_Id_57616a9e2459773c7a400234_Barter_20",
+                    "type": "AssortmentUnlock",
+                    "index": 20,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_57616a9e2459773c7a400234_Barter",
+                            "_tpl": "57616a9e2459773c7a400234",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                },
+                {
+                    "target": "Elder_Temporal_Id_5f647d9f8499b57dc40ddb93_Barter",
+                    "id": "Weapon_Proficiency_Shotgun_Barter_Elite_Elder_Temporal_Id_5f647d9f8499b57dc40ddb93_Barter_21",
+                    "type": "AssortmentUnlock",
+                    "index": 21,
+                    "loyaltyLevel": 1,
+                    "traderId": "Elder_Temporal_Id",
+                    "items": [
+                        {
+                            "_id": "Elder_Temporal_Id_5f647d9f8499b57dc40ddb93_Barter",
+                            "_tpl": "5f647d9f8499b57dc40ddb93",
+                            "parentId": "hideout",
+                            "slotId": "hideout"
+                        }
+                    ]
+                }
+            ],
+            "Fail": []
+        },
+        "secretQuest": false,
+        "startedMessageText": "Weapon_Proficiency_Shotgun_Barter_Elite startedMessageText",
+        "successMessageText": "Weapon_Proficiency_Shotgun_Barter_Elite successMessageText",
+        "templateId": "Weapon_Proficiency_Shotgun_Barter_Elite",
+        "traderId": "Elder_Temporal_Id",
+        "type": "PickUp",
+        "QuestName": "[Eld] Weapon Proficiency: Shotguns Barter - Elite",
+        "acceptPlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Elite acceptPlayerMessage",
+        "changeQuestMessageText": "Weapon_Proficiency_Shotgun_Barter_Elite changeQuestMessageText",
+        "completePlayerMessage": "Weapon_Proficiency_Shotgun_Barter_Elite completePlayerMessage",
+        "side": "Pmc",
+        "questStatus": {}
+    }
+}

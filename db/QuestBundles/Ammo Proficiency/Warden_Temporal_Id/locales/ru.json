@@ -1,0 +1,12 @@
+{
+    "Ammo_Proficiency_Introduction name": "[Стж] Знание патронов: Знакомство",
+    "Ammo_Proficiency_Introduction note": "",
+    "Ammo_Proficiency_Introduction description": "Тссс! Ты похож на парня, которому не помешают патроны, я прав? Но никто не хочет тебе ничего продавать, ага? Я могу тебе с этим помочь, замолчить словечко, но рекомендация от меня стоит не дешего... Заинтересован?",
+    "Ammo_Proficiency_Introduction startedMessageText": "[Стж] Задание принято: '[Стж] Знание патронов: Знакомство'!",
+    "Ammo_Proficiency_Introduction failMessageText": "[Стж] Задание провалено: '[Стж] Знание патронов: Знакомство'!",
+    "Ammo_Proficiency_Introduction successMessageText": "[Стж] Задание завершено: '[Стж] Знание патронов: Знакомство'!",
+    "Ammo_Proficiency_Introduction acceptPlayerMessage": "",
+    "Ammo_Proficiency_Introduction declinePlayerMessage": "",
+    "Ammo_Proficiency_Introduction completePlayerMessage": "",
+    "Ammo_Proficiency_Introduction_Handover_0": "Сдай любую аммуницию."
+}

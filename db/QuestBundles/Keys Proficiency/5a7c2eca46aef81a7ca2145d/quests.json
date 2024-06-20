@@ -1,0 +1,143 @@
+{
+  "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory": {
+    "QuestName": "[Mec] Key Proficiency: Factory Locksmith",
+    "_id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory",
+    "acceptPlayerMessage": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory changeQuestMessageText",
+    "completePlayerMessage": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_0",
+          "index": 0,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "57a349b2245977762b199ec7"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_1",
+          "index": 1,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "593858c486f774253a24cb52"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        },
+        {
+          "conditionType": "FindItem",
+          "dogtagLevel": 0,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_FindItem_2",
+          "index": 2,
+          "isEncoded": false,
+          "maxDurability": 100,
+          "minDurability": 0,
+          "onlyFoundInRaid": false,
+          "parentId": "",
+          "target": [
+            "5448ba0b4bdc2d02308b456c"
+          ],
+          "value": "1",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Keys_FindAny_15_Tarkov"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory declinePlayerMessage",
+    "description": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory description",
+    "failMessageText": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory failMessageText",
+    "image": "/files/quest/icon/5a29222486f77456f50d09e7.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "any",
+    "name": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory name",
+    "note": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_Experience_5",
+          "index": 5,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_5783c43d2459774bbe137486_6",
+          "index": 6,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_5783c43d2459774bbe137486_6_id",
+              "_tpl": "5783c43d2459774bbe137486",
+              "upd": {
+                "StackObjectsCount": 1
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_5783c43d2459774bbe137486_6_id",
+          "type": "Item",
+          "value": "1"
+        },
+        {
+          "id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_5449016a4bdc2d6f028b456f_7",
+          "index": 7,
+          "items": [
+            {
+              "_id": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_5449016a4bdc2d6f028b456f_7_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 10000
+              }
+            }
+          ],
+          "target": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory_5449016a4bdc2d6f028b456f_7_id",
+          "type": "Item",
+          "value": "10000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory startedMessageText",
+    "successMessageText": "Keys_FindAny_5a7c2eca46aef81a7ca2145d_Factory successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "PickUp"
+  }
+}

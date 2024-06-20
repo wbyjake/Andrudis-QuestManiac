@@ -1,0 +1,1605 @@
+{
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 2 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "2",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "200"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 3000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "3000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 10 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "10",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "1000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 15000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "15000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 25 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "25",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_2"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_2"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "2500"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 37500
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "37500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 50 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "50",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_10"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_10"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "5000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 75000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "75000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 75 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "75",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_25"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_25"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_25"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_25"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_25"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_25"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_25"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "7500"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 112500
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "112500"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 100 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "100",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_50"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_50"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "10000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 150000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "150000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 150 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "150",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_75"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_75"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "15000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 225000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "225000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 200 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "200",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_100"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_100"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "20000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 300000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "300000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 500 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "500",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_150"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_150"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_150"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_150"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_150"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_150"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_150"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "50000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 750000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "750000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_500 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  },
+  "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000": {
+    "QuestName": "[Mec] Scav Hunt: Clear Factory from 1000 Scav(s)",
+    "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000",
+    "acceptPlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 acceptPlayerMessage",
+    "canShowNotificationsInGame": true,
+    "changeQuestMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 changeQuestMessageText",
+    "completePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 completePlayerMessage",
+    "conditions": {
+      "AvailableForFinish": [
+        {
+          "conditionType": "CounterCreator",
+          "counter": {
+            "conditions": [
+              {
+                "compareMethod": ">=",
+                "conditionType": "Kills",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Elim_0_subcondition_0",
+                "target": "Savage",
+                "value": "1"
+              },
+              {
+                "conditionType": "Location",
+                "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Elim_0_subcondition_1",
+                "target": [
+                  "factory4_day",
+                  "factory4_night"
+                ]
+              }
+            ],
+            "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Elim_0_counter_0"
+          },
+          "doNotResetIfCounterCompleted": false,
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Elim_0",
+          "index": 0,
+          "oneSessionOnly": false,
+          "parentId": "",
+          "type": "Elimination",
+          "value": "1000",
+          "visibilityConditions": []
+        }
+      ],
+      "AvailableForStart": [
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_6",
+          "index": 6,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_56f40101d2720b2a4d8b45d6_200"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_7",
+          "index": 7,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5714dbc024597771384a510d_200"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_8",
+          "index": 8,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e5fad2720bc05b8b4567_200"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_9",
+          "index": 9,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e554d2720bac5b8b456e_200"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_10",
+          "index": 10,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e3c2d2720bac5b8b4567_200"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_11",
+          "index": 11,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_200"
+        },
+        {
+          "conditionType": "Quest",
+          "dynamicLocale": false,
+          "globalQuestCounterId": "",
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Parent_Quest_12",
+          "index": 12,
+          "parentId": "",
+          "status": [
+            4
+          ],
+          "target": "Scav_Hunt_5704e4dad2720bb55b8b4567_200"
+        }
+      ],
+      "Fail": []
+    },
+    "declinePlayerMessage": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 declinePlayerMessage",
+    "description": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 description",
+    "failMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 failMessageText",
+    "image": "/files/quest/icon/596b465486f77457ca186188.jpg",
+    "instantComplete": false,
+    "isKey": false,
+    "location": "55f2d3fd4bdc2d5f408b4567",
+    "name": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 name",
+    "note": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 note",
+    "restartable": false,
+    "rewards": {
+      "Fail": [],
+      "Started": [],
+      "Success": [
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_Experience_3",
+          "index": 3,
+          "type": "Experience",
+          "value": "100000"
+        },
+        {
+          "id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_5449016a4bdc2d6f028b456f_4",
+          "index": 4,
+          "items": [
+            {
+              "_id": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_5449016a4bdc2d6f028b456f_4_id",
+              "_tpl": "5449016a4bdc2d6f028b456f",
+              "upd": {
+                "StackObjectsCount": 1500000
+              }
+            }
+          ],
+          "target": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000_5449016a4bdc2d6f028b456f_4_id",
+          "type": "Item",
+          "value": "1500000"
+        }
+      ]
+    },
+    "secretQuest": false,
+    "side": "Pmc",
+    "startedMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 startedMessageText",
+    "successMessageText": "Scav_Hunt_55f2d3fd4bdc2d5f408b4567_1000 successMessageText",
+    "traderId": "5a7c2eca46aef81a7ca2145d",
+    "type": "Elimination"
+  }
+}
