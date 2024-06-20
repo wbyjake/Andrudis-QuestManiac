@@ -4,9 +4,13 @@ This is a simple update the make Andrudis-QuestManiac playable with the latest v
 Credit:
 
 Andrudis : Original mod
+
 rgb192x3 : 3.0.0 version
+
 LaurentMekka : 3.2.2 version
+
 Mighty_Condor : 3.5.0 & 3.7.X version
+
 DrakiaXYZ: Quest converter tool
 
 * Please note only the Core Quest Bundle is functional at this time - DO NOT add any bundles from _AlternativeBundles, _LegacyBundles, or BarterOnly
