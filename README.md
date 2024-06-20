@@ -1,6 +1,14 @@
 
 This is a simple update the make Andrudis-QuestManiac playable with the latest version of SPT (3.8.3) - wbyjake
 
+Credit:
+
+Andrudis : Original mod
+rgb192x3 : 3.0.0 version
+LaurentMekka : 3.2.2 version
+Mighty_Condor : 3.5.0 & 3.7.X version
+DrakiaXYZ: Quest converter tool
+
 * Please note only the Core Quest Bundle is functional at this time - DO NOT add any bundles from _AlternativeBundles, _LegacyBundles, or BarterOnly
 
 ### Known Issues:
@@ -9,7 +17,7 @@ This is a simple update the make Andrudis-QuestManiac playable with the latest v
 		
 * Weapon mastery quests for OP-SKS, SKS, SV-98, and PM pistol variants will reward incomplete weapon builds
 
-* * Hideout assistant quest handovers are outdated for current hideout requirements
+* Hideout assistant quest handovers are outdated for current hideout requirements
 
 
 
