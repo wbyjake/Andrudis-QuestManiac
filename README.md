@@ -1,3 +1,21 @@
+
+This is a simple update the make Andrudis-QuestManiac playable with the latest version of SPT (3.8.3)
+
+	* Please note only the Core Quest Bundle is functional at this time - DO NOT add any bundles from _AlternativeBundles, _LegacyBundles, or BarterOnly
+
+	Known Issues:
+
+		* Newer EFT items are not yet implemented as new quests or as requirements for current quests (If "Handover" or "Get Kills in X Gear" aren't tracking properly, try different gear)
+		
+		* Weapon mastery quests for OP-SKS, SKS, SV-98, and PM pistol variants will reward incomplete weapon builds
+
+		* Hideout assistant quest handovers are outdated for current hideout requirements
+
+- wbyjake
+
+
+
+
 Install:
 
 1. Unzip and copy Andrudis-QuestManiac folder in user/mods/
