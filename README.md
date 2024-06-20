@@ -53,13 +53,13 @@ Install:
 
 * Errand Boy (920) - bundle with 4 chains of quests to handover specific items on request. All chains are started by Fence on behalf of his customers. Each chain additionally rewards 1 container (ranged from Grenade Case to THICC Item Case) when each 25% of quests in chain are completed.
 
-* Headless PMC (70) - Chains of quests to headshot 1, 2, 5, 10, 15, 20, 33, 50, 100, 200 PMCs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs)?
+* Headless PMC (70) - Chains of quests to headshot 1, 2, 5, 10, 15, 20, 33, 50, 100, 200 PMCs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs).
 
 * Headless Raider (10) - Chains of quests to headshot 1, 2, 3, 4, 5, 7, 9, 12, 20, 50 Raiders. Chain is started by Lab Rat. 
 
 * Headless Rogue (10) - chain of quests to headshot 1, 2, 3, 4, 5, 7, 9, 12, 20, 50 Rogues (ex-USECs). Chain started by Fence. Quests are NOT limited to Lighthouse in cause you have mods to spawn Rogues on other maps.
 
-* Headless Scav (60) - Chains of quests to headshot 1, 5, 10, 20, 35, 50, 75, 100, 250, 500 Scavs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs)?
+* Headless Scav (60) - Chains of quests to headshot 1, 5, 10, 20, 35, 50, 75, 100, 250, 500 Scavs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs).
 
 * Iron Head (62) - Chains of complex quests to unlock barter/purchase trades for Helmets. All Quests are started by Khokhol.
 
@@ -67,25 +67,25 @@ Install:
 
 * Juggernaut (50) - Chains of complex quests to unlock barter/purchase trades for Armor. All Quests are started by Warden.
 
-* Juggernaut Legend (200) - Chains of quests to kill specific target while wearing specific gear. Each quest in chain target only 1 type of enemies and have multiple conditions for several different gear pieces.?
+* Juggernaut Legend (200) - Chains of quests to kill specific target while wearing specific gear. Each quest in chain target only 1 type of enemies and have multiple conditions for several different gear pieces.
 
-* Keys Proficiency (27) - Chain of quests started by Fence and continued by local Map Traders to find keys and unlock rewards
+* Keys Proficiency (27) - Chain of quests started by Fence and continued by local Map Traders to find keys and unlock rewards.
 
-* Meds Proficiency (40) - Chains of complex quests to unlock barter/purchase trades for meds. All Quests are started by Warden
+* Meds Proficiency (40) - Chains of complex quests to unlock barter/purchase trades for meds. All Quests are started by Warden.
 
-* PMC Hunt (70) - Chains of quests to kill 1, 5, 10, 20, 35, 50, 75, 100, 250, 500 PMCs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs)?
+* PMC Hunt (70) - Chains of quests to kill 1, 5, 10, 20, 35, 50, 75, 100, 250, 500 PMCs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs).
 
-* Raider Hunt (10) - Chain of quests to kill 1, 3, 5, 7, 9, 12, 15, 20, 50, 100 Raiders in The Labs. Chain is started by Lab Rat
+* Raider Hunt (10) - Chain of quests to kill 1, 3, 5, 7, 9, 12, 15, 20, 50, 100 Raiders in The Labs. Chain is started by Lab Rat.
 
 * Rogue Hunt (10) - chain of quests to kill 1, 3, 5, 7, 9, 12, 15, 20, 50, 100 Rogues (ex-USECs). Chain started by Fence. Quests are NOT limited to Lighthouse in cause you have mods to spawn Rogues on other maps.
 
-* Scav Hunt (60) - Chains of quests to kill 1, 10, 25, 50, 75, 100, 150, 200, 500, 1000 Scavs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs)?
+* Scav Hunt (60) - Chains of quests to kill 1, 10, 25, 50, 75, 100, 150, 200, 500, 1000 Scavs in each location. Each chain is started by Trader of that location. Round N quests will become available only after all round N-2 quests are completed (except for Labs).
 
 * Sniper Life (90) - 4 quest chains to kill(headshot) a Scav(PMC) from the distance with min distance requirement increasing by 10m with each next quest in chain. All chains are started by Fence.
 
-* Stims Proficiency (16) - Chains of complex quests to unlock barter/purchase trades for Stims. All Quests are started by LabRat
+* Stims Proficiency (16) - Chains of complex quests to unlock barter/purchase trades for Stims. All Quests are started by LabRat.
 
-* Survivalist (40) - Chains of 5 quests for each location started by location Trader (+free of location chain started by Fence). You now has to be at least lvl 5 to start these quests. First 3 quests require to just survive 2,5 10 times, no fail conditions. Next 2 quests in chain require to survive 5,10 raids and exit with 'Survived' status, otherwise you'll have to restart (NOTE: 'Run Through' status neither fail nor advance those quests)
+* Survivalist (40) - Chains of 5 quests for each location started by location Trader (+free of location chain started by Fence). You now has to be at least lvl 5 to start these quests. First 3 quests require to just survive 2,5 10 times, no fail conditions. Next 2 quests in chain require to survive 5,10 raids and exit with 'Survived' status, otherwise you'll have to restart (NOTE: 'Run Through' status neither fail nor advance those quests).
 
 * Tarkov Mule (40) - Chains of complex quests to unlock barter/purchase trades for Backpacks. All Quests are started by Bashkir.
 
@@ -95,7 +95,7 @@ Install:
 
 * Weapon Proficiency (92) - Chain of complex quests for weapons mastery. Elder = Shotguns, LabRat = Handguns, Colonel = Assault Rifles, Khokhol = SMGs, Bashkir = Marksman Rifles. Each category is split in 4 Tiers: Rookie, Seasoned, Veteran, Elite. Complete Barter quest for each weapon type and category to unlock Proficiency quests for weapons in that category.
 
-* Weapon Mastery (1702) - Series of quests started by Fence and location traders for eliminations with specific weapons. Each chain is started by Fence.?
+* Weapon Mastery (1702) - Series of quests started by Fence and location traders for eliminations with specific weapons. Each chain is started by Fence.
 
 
 
@@ -149,9 +149,9 @@ Install:
 
 
 
-NOTE: "### Trade" and "### Barter" bundles can be used together, but will lack internal dependencies between Barter and Trade quests present in original full bundles
+~~NOTE: "### Trade" and "### Barter" bundles can be used together, but will lack internal dependencies between Barter and Trade quests present in original full bundles~~
 
-WARNING: do not use "### Trade" or "### Barter" bundles at once with original full bundle.?
+WARNING: do not use "### Trade" or "### Barter" bundles at once with original full bundle.
 
 
 
@@ -240,7 +240,7 @@ WARNING: do not use "### Trade" or "### Barter" bundles at once with original fu
 
 For all other locales English version will be used instead.
 
-Note: Folder '\Locales\' is now added to root of mod and that folder contains templates for each possible localization. If anyone wants to add another localization - translate values in corresponding locale .json (skip technical placeholders in angle brackets <LIKE_THIS>) and send this .json to me by attaching to comment or via private message - I'll merge and release updated version of the mod.
+~~Note: Folder '\Locales\' is now added to root of mod and that folder contains templates for each possible localization. If anyone wants to add another localization - translate values in corresponding locale .json (skip technical placeholders in angle brackets <LIKE_THIS>) and send this .json to me by attaching to comment or via private message - I'll merge and release updated version of the mod.~~
 
 
 
