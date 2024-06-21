@@ -1,5 +1,5 @@
 
-This is a simple update the make Andrudis-QuestManiac playable with the latest version of SPT (3.8.3) - wbyjake
+This is a simple update to make Andrudis-QuestManiac playable with the latest version of SPT (3.8.3) - wbyjake
 
 ### Credit:
 
@@ -23,7 +23,7 @@ DrakiaXYZ: Quest converter tool
 
 * Some hideout assistant quest handovers are outdated for current hideout requirements (I would recommend deleting the bundle and adding something like MoreCheckmarks by VIPkiller17)
 
-
+* Most of the new traders do not fit on the trader screen. (I recommend a mod like Kaeno-TraderScrolling by CWX)
 
 
 
