@@ -21,7 +21,7 @@ DrakiaXYZ: Quest converter tool
 		
 * Weapon mastery quests for OP-SKS, SKS, SV-98, and PM pistol variants will reward incomplete weapon builds
 
-* Some hideout assistant quest handovers are outdated for current hideout requirements
+* Some hideout assistant quest handovers are outdated for current hideout requirements (I would recommend deleting the bundle and adding something like MoreCheckmarks by VIPkiller17)
 
 
 

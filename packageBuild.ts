@@ -38,7 +38,7 @@ const ignoreList = [
     ".gitignore",
     ".DS_Store",
     "packageBuild.ts",
-    "mod.code-workspace",
+    "Andrudis-QuestManiac.code-workspace",
     "package-lock.json",
     "tsconfig.json",
     ".vscode/",
