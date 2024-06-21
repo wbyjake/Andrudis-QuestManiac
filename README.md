@@ -21,7 +21,7 @@ DrakiaXYZ: Quest converter tool
 		
 * Weapon mastery quests for OP-SKS, SKS, SV-98, and PM pistol variants will reward incomplete weapon builds
 
-* Hideout assistant quest handovers are outdated for current hideout requirements
+* Some hideout assistant quest handovers are outdated for current hideout requirements
 
 
 
@@ -173,7 +173,7 @@ WARNING: do not use "### Trade" or "### Barter" bundles at once with original fu
 
 * Elder - Private Sector, specializes in Shotguns, Chest Rigs
 
-* Ñolonel - Reserve Base, specializes in Assault Rifles, Reserve Base quests
+* ï¿½olonel - Reserve Base, specializes in Assault Rifles, Reserve Base quests
 
 * Bashkir - Shoreline, specializes in Marksman Rifles, Backpacks, Shoreline quests
 
