@@ -6285,6 +6285,7 @@
     "traderId": "579dc571d53a0658a154fbec",
     "type": "Elimination"
   },
+
   "Sniper_Life_50_0_1_False_Any": {
     "QuestName": "[Fen] Sniper Life: PMC - 50m",
     "_id": "Sniper_Life_50_0_1_False_Any",
@@ -6405,7 +6406,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_50_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_50_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -6544,7 +6545,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_60_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_60_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -6683,7 +6684,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_70_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_70_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -6822,7 +6823,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_80_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_80_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -6961,7 +6962,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_90_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_90_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7100,7 +7101,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_100_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_100_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7239,7 +7240,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_110_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_110_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7378,7 +7379,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_120_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_120_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7517,7 +7518,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_130_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_130_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7656,7 +7657,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_140_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_140_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7795,7 +7796,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_150_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_150_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -7934,7 +7935,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_160_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_160_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8073,7 +8074,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_170_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_170_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8212,7 +8213,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_180_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_180_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8351,7 +8352,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_190_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_190_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8490,7 +8491,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_200_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_200_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8629,7 +8630,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_210_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_210_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8768,7 +8769,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_220_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_220_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -8907,7 +8908,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_230_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_230_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9046,7 +9047,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_240_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_240_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9185,7 +9186,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_250_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_250_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9324,7 +9325,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_260_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_260_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9463,7 +9464,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_270_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_270_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9602,7 +9603,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_280_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_280_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9741,7 +9742,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_290_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_290_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -9880,7 +9881,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_300_0_1_False_Any startedMessageText",
     "successMessageText": "Sniper_Life_300_0_1_False_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10009,7 +10010,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_20_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_20_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10151,7 +10152,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_30_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_30_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10293,7 +10294,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_40_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_40_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10435,7 +10436,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_50_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_50_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10577,7 +10578,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_60_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_60_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10719,7 +10720,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_70_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_70_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -10861,7 +10862,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_80_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_80_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11003,7 +11004,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_90_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_90_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11145,7 +11146,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_100_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_100_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11287,7 +11288,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_110_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_110_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11429,7 +11430,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_120_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_120_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11571,7 +11572,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_130_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_130_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11713,7 +11714,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_140_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_140_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11855,7 +11856,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_150_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_150_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -11997,7 +11998,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_160_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_160_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -12139,7 +12140,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_170_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_170_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -12281,7 +12282,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_180_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_180_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -12423,7 +12424,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_190_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_190_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -12565,7 +12566,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Sniper_Life_200_0_1_True_Any startedMessageText",
     "successMessageText": "Sniper_Life_200_0_1_True_Any successMessageText",
     "traderId": "579dc571d53a0658a154fbec",

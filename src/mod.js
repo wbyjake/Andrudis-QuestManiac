@@ -120,7 +120,7 @@ class QuestManiac {
                             for (const subCondition of nextConditionData.counter.conditions) {
                                 const subConditionData = subCondition;
                                 //Replaces raider kill with PMC kills if configured
-                                if (config.ReplaceKillCounterForRaidersWithPMCs && subConditionData._parent == "Kills") {
+                                if (config.ReplaceKillCounterForRaidersWithPMCs && subConditionData.conditionType == "Kills") {
                                     if (subConditionData.target == "Savage") {
                                         if (subConditionData.savageRole != null && subConditionData.savageRole[0] == "pmcBot") {
                                             subConditionData.target = "AnyPmc";
@@ -129,13 +129,13 @@ class QuestManiac {
                                     }
                                 }
                                 //Remove all map restrictions if configured
-                                if (config.RemoveAllMapsRestrictions && subConditionData._parent == "Location") {
+                                if (config.RemoveAllMapsRestrictions && subConditionData.conditionType == "Location") {
                                     subConditionData.target = ["factory4_day", "factory4_night", "bigmap", "Interchange",
                                         "lighthouse", "privatearea", "RezervBase", "Shoreline", "tarkovstreets",
-                                        "suburbs", "terminal", "laboratory", "town", "Woods"];
+                                        "suburbs", "terminal", "laboratory", "town", "Woods", "Sandbox"];
                                 }
                                 //Remove all gear restrictions if configured
-                                if (config.RemoveAllGearRestrictions && subConditionData._parent == "Equipment") {
+                                if (config.RemoveAllGearRestrictions && subConditionData.conditionType == "Equipment") {
                                     subConditionData.equipmentExclusive = [];
                                 }
                             }
@@ -144,14 +144,12 @@ class QuestManiac {
                     //Override starting requirements if configured
                     if (config.AllQuestsAvailableFromStart) {
                         questContent.conditions.AvailableForStart = [{
-                                "_parent": "Level",
-                                "_props": {
-                                    "compareMethod": ">=",
-                                    "value": "1",
-                                    "index": 0,
-                                    "parentId": "",
-                                    "id": "AllQuestsAvailable-LevelCondition"
-                                }
+                                "conditionType": "Level",
+                                "compareMethod": ">=",
+                                "value": "1",
+                                "index": 0,
+                                "parentId": "",
+                                "id": "AllQuestsAvailable-LevelCondition"
                             }];
                     }
                     //Special thanks to @November75  for this fix

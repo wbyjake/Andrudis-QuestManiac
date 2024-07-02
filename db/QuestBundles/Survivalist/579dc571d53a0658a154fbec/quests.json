@@ -88,7 +88,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Survivalist_2_any_true startedMessageText",
     "successMessageText": "Survivalist_2_any_true successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -267,7 +267,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Survivalist_4_any_true startedMessageText",
     "successMessageText": "Survivalist_4_any_true successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -446,7 +446,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Survivalist_6_any_true startedMessageText",
     "successMessageText": "Survivalist_6_any_true successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -625,7 +625,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Survivalist_8_any_true startedMessageText",
     "successMessageText": "Survivalist_8_any_true successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
@@ -804,7 +804,7 @@
       ]
     },
     "secretQuest": false,
-    "side": "Pmc",
+    "side": "Scav",
     "startedMessageText": "Survivalist_10_any_true startedMessageText",
     "successMessageText": "Survivalist_10_any_true successMessageText",
     "traderId": "579dc571d53a0658a154fbec",
